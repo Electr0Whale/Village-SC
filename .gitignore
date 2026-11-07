@@ -15,10 +15,12 @@ nsp/
 unpacked/
 build/
 
-# Generated Large Archives exceeding GitHub 100MB limit
+# Generated Large Archives exceeding GitHub 100MB limit & release zips
 output/**/fairy_1_00.dat
 output/**/misc_1_00.dat
 output/test_*/
+output/*.zip
+*.zip
 
 # Local Scratch and Development Test Artifacts
 scratch/
