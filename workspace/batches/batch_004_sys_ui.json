@@ -1,0 +1,2620 @@
+{
+  "batch_id": "batch_004_sys_ui",
+  "group": "sys_ui",
+  "files": [
+    "framework_vkey.dat",
+    "framework_vkeyCategory.dat",
+    "gameEffect.dat",
+    "gameSetting.dat",
+    "string.dat",
+    "vkey.dat"
+  ],
+  "record_count": 172,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 21,
+      "rec_id": "REC_0021",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 151,
+          "ja": "次ページ",
+          "tc": "下一頁",
+          "sc": "下一页"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 22,
+      "rec_id": "REC_0022",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 158,
+          "ja": "ウィンドウ切り替え",
+          "tc": "更換視窗",
+          "sc": "切换窗口"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 23,
+      "rec_id": "REC_0023",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "決定等",
+          "tc": "決定等",
+          "sc": "确定等"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 24,
+      "rec_id": "REC_0024",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 172,
+          "ja": "スキップ",
+          "tc": "跳過",
+          "sc": "跳过"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 25,
+      "rec_id": "REC_0025",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 179,
+          "ja": "並び替え",
+          "tc": "排序",
+          "sc": "排序"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 26,
+      "rec_id": "REC_0026",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 186,
+          "ja": "並び替え順",
+          "tc": "排序方式",
+          "sc": "排序方式"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 28,
+      "rec_id": "REC_0028",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 410,
+          "ja": "決定／インタラクション",
+          "tc": "確定／互動",
+          "sc": "确定／互动"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 29,
+      "rec_id": "REC_0029",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 417,
+          "ja": "キャンセル／ジャンプ",
+          "tc": "取消／跳躍",
+          "sc": "取消／跳跃"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 30,
+      "rec_id": "REC_0030",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 200,
+          "ja": "↑",
+          "tc": "↑",
+          "sc": "↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 31,
+      "rec_id": "REC_0031",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 207,
+          "ja": "↓",
+          "tc": "↓",
+          "sc": "↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 32,
+      "rec_id": "REC_0032",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 214,
+          "ja": "←",
+          "tc": "←",
+          "sc": "←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 33,
+      "rec_id": "REC_0033",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 221,
+          "ja": "→",
+          "tc": "→",
+          "sc": "→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 34,
+      "rec_id": "REC_0034",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 228,
+          "ja": "↑",
+          "tc": "↑",
+          "sc": "↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 35,
+      "rec_id": "REC_0035",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 235,
+          "ja": "↓",
+          "tc": "↓",
+          "sc": "↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 36,
+      "rec_id": "REC_0036",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 242,
+          "ja": "←",
+          "tc": "←",
+          "sc": "←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 37,
+      "rec_id": "REC_0037",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 249,
+          "ja": "→",
+          "tc": "→",
+          "sc": "→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 38,
+      "rec_id": "REC_0038",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 256,
+          "ja": "決定／インタラクション",
+          "tc": "按鈕1",
+          "sc": "按键1"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 39,
+      "rec_id": "REC_0039",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 263,
+          "ja": "キャンセル／ジャンプ",
+          "tc": "按鈕2",
+          "sc": "按键2"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 40,
+      "rec_id": "REC_0040",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 270,
+          "ja": "アクション",
+          "tc": "動作",
+          "sc": "动作"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 41,
+      "rec_id": "REC_0041",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "アイテム使用",
+          "tc": "使用道具",
+          "sc": "使用道具"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 42,
+      "rec_id": "REC_0042",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 284,
+          "ja": "注視・平行移動",
+          "tc": "注視‧平行移動",
+          "sc": "注视·平移"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 43,
+      "rec_id": "REC_0043",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 291,
+          "ja": "注視・向き変更",
+          "tc": "注視‧轉向",
+          "sc": "注视·转向"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 44,
+      "rec_id": "REC_0044",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 298,
+          "ja": "メモ",
+          "tc": "筆記",
+          "sc": "笔记"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 45,
+      "rec_id": "REC_0045",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 305,
+          "ja": "道具選択",
+          "tc": "選擇道具",
+          "sc": "选择道具"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 46,
+      "rec_id": "REC_0046",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 312,
+          "ja": "カメラズーム",
+          "tc": "縮放視角",
+          "sc": "缩放视角"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 47,
+      "rec_id": "REC_0047",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 319,
+          "ja": "詳細表示",
+          "tc": "顯示詳情",
+          "sc": "显示详情"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 48,
+      "rec_id": "REC_0048",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 326,
+          "ja": "メニュー（地図）",
+          "tc": "選單（地圖）",
+          "sc": "菜单（地图）"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 49,
+      "rec_id": "REC_0049",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 333,
+          "ja": "メニュー（手持ち道具）",
+          "tc": "選單（隨身工具）",
+          "sc": "菜单（随身工具）"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 50,
+      "rec_id": "REC_0050",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 340,
+          "ja": "左スティック",
+          "tc": "左操控搖桿",
+          "sc": "左摇杆"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 51,
+      "rec_id": "REC_0051",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 347,
+          "ja": "右スティック",
+          "tc": "右操控搖桿",
+          "sc": "右摇杆"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 52,
+      "rec_id": "REC_0052",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 354,
+          "ja": "左スティック↑",
+          "tc": "左操控搖桿↑",
+          "sc": "左摇杆↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 53,
+      "rec_id": "REC_0053",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 361,
+          "ja": "左スティック↓",
+          "tc": "左操控搖桿↓",
+          "sc": "左摇杆↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 54,
+      "rec_id": "REC_0054",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 368,
+          "ja": "左スティック←",
+          "tc": "左操控搖桿←",
+          "sc": "左摇杆←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 55,
+      "rec_id": "REC_0055",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 375,
+          "ja": "左スティック→",
+          "tc": "左操控搖桿→",
+          "sc": "左摇杆→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 56,
+      "rec_id": "REC_0056",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 382,
+          "ja": "右スティック↑",
+          "tc": "右操控搖桿↑",
+          "sc": "右摇杆↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 57,
+      "rec_id": "REC_0057",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 389,
+          "ja": "右スティック↓",
+          "tc": "右操控搖桿↓",
+          "sc": "右摇杆↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 58,
+      "rec_id": "REC_0058",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 396,
+          "ja": "右スティック←",
+          "tc": "右操控搖桿←",
+          "sc": "右摇杆←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 59,
+      "rec_id": "REC_0059",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 403,
+          "ja": "右スティック→",
+          "tc": "右操控搖桿→",
+          "sc": "右摇杆→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 60,
+      "rec_id": "REC_0060",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 424,
+          "ja": "↑",
+          "tc": "↑",
+          "sc": "↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 61,
+      "rec_id": "REC_0061",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 431,
+          "ja": "↓",
+          "tc": "↓",
+          "sc": "↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 62,
+      "rec_id": "REC_0062",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 438,
+          "ja": "←",
+          "tc": "←",
+          "sc": "←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 63,
+      "rec_id": "REC_0063",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "→",
+          "tc": "→",
+          "sc": "→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 64,
+      "rec_id": "REC_0064",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 452,
+          "ja": "↑",
+          "tc": "↑",
+          "sc": "↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 65,
+      "rec_id": "REC_0065",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 459,
+          "ja": "↓",
+          "tc": "↓",
+          "sc": "↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 66,
+      "rec_id": "REC_0066",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 466,
+          "ja": "←",
+          "tc": "←",
+          "sc": "←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 67,
+      "rec_id": "REC_0067",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 473,
+          "ja": "→",
+          "tc": "→",
+          "sc": "→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 68,
+      "rec_id": "REC_0068",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 480,
+          "ja": "ボタン１",
+          "tc": "按鈕1",
+          "sc": "按键1"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 69,
+      "rec_id": "REC_0069",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 487,
+          "ja": "ボタン２",
+          "tc": "按鈕2",
+          "sc": "按键2"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 70,
+      "rec_id": "REC_0070",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 494,
+          "ja": "ボタン３",
+          "tc": "按鈕3",
+          "sc": "按键3"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 71,
+      "rec_id": "REC_0071",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 501,
+          "ja": "ボタン４",
+          "tc": "按鈕4",
+          "sc": "按键4"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 72,
+      "rec_id": "REC_0072",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 508,
+          "ja": "ボタン５",
+          "tc": "按鈕5",
+          "sc": "按键5"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 73,
+      "rec_id": "REC_0073",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 515,
+          "ja": "ボタン６",
+          "tc": "按鈕6",
+          "sc": "按键6"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 74,
+      "rec_id": "REC_0074",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 522,
+          "ja": "ボタン７",
+          "tc": "按鈕7",
+          "sc": "按键7"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 75,
+      "rec_id": "REC_0075",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 529,
+          "ja": "ボタン８",
+          "tc": "按鈕8",
+          "sc": "按键8"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 76,
+      "rec_id": "REC_0076",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 536,
+          "ja": "ボタン９",
+          "tc": "按鈕9",
+          "sc": "按键9"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 77,
+      "rec_id": "REC_0077",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 543,
+          "ja": "ボタン１０",
+          "tc": "按鈕10",
+          "sc": "按键10"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 78,
+      "rec_id": "REC_0078",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 550,
+          "ja": "ボタン１１",
+          "tc": "按鈕11",
+          "sc": "按键11"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 79,
+      "rec_id": "REC_0079",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 557,
+          "ja": "ボタン１２",
+          "tc": "按鈕12",
+          "sc": "按键12"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 80,
+      "rec_id": "REC_0080",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 564,
+          "ja": "左スティック",
+          "tc": "左操控搖桿",
+          "sc": "左摇杆"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 81,
+      "rec_id": "REC_0081",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 571,
+          "ja": "右スティック",
+          "tc": "右操控搖桿",
+          "sc": "右摇杆"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 82,
+      "rec_id": "REC_0082",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 578,
+          "ja": "左スティック↑",
+          "tc": "左操控搖桿↑",
+          "sc": "左摇杆↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 83,
+      "rec_id": "REC_0083",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 585,
+          "ja": "左スティック↓",
+          "tc": "左操控搖桿↓",
+          "sc": "左摇杆↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 84,
+      "rec_id": "REC_0084",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 592,
+          "ja": "左スティック←",
+          "tc": "左操控搖桿←",
+          "sc": "左摇杆←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 85,
+      "rec_id": "REC_0085",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 599,
+          "ja": "左スティック→",
+          "tc": "左操控搖桿→",
+          "sc": "左摇杆→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 86,
+      "rec_id": "REC_0086",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 606,
+          "ja": "右スティック↑",
+          "tc": "右操控搖桿↑",
+          "sc": "右摇杆↑"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 87,
+      "rec_id": "REC_0087",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 613,
+          "ja": "右スティック↓",
+          "tc": "右操控搖桿↓",
+          "sc": "右摇杆↓"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 88,
+      "rec_id": "REC_0088",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 620,
+          "ja": "右スティック←",
+          "tc": "右操控搖桿←",
+          "sc": "右摇杆←"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 89,
+      "rec_id": "REC_0089",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 627,
+          "ja": "右スティック→",
+          "tc": "右操控搖桿→",
+          "sc": "右摇杆→"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 90,
+      "rec_id": "REC_0090",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 634,
+          "ja": "決定",
+          "tc": "確定",
+          "sc": "确定"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 91,
+      "rec_id": "REC_0091",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 641,
+          "ja": "キャンセル",
+          "tc": "取消",
+          "sc": "取消"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 95,
+      "rec_id": "REC_0095",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 669,
+          "ja": "左クリック",
+          "tc": "左鍵",
+          "sc": "左键"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 96,
+      "rec_id": "REC_0096",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 676,
+          "ja": "右クリック",
+          "tc": "右鍵",
+          "sc": "右键"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 97,
+      "rec_id": "REC_0097",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 683,
+          "ja": "中クリック",
+          "tc": "中鍵",
+          "sc": "中键"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 98,
+      "rec_id": "REC_0098",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 690,
+          "ja": "戻る",
+          "tc": "返回",
+          "sc": "返回"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 99,
+      "rec_id": "REC_0099",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 697,
+          "ja": "進む",
+          "tc": "前進",
+          "sc": "前进"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkeyCategory.dat",
+      "rec_idx": 0,
+      "rec_id": "VKEY_CATEGORY_GENERAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6,
+          "ja": "全般",
+          "tc": "全體",
+          "sc": "全局"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkeyCategory.dat",
+      "rec_idx": 1,
+      "rec_id": "VKEY_CATEGORY_PAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 15,
+          "ja": "パッド操作",
+          "tc": "手把操作",
+          "sc": "手柄操作"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkeyCategory.dat",
+      "rec_idx": 2,
+      "rec_id": "VKEY_CATEGORY_MOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 24,
+          "ja": "マウス操作",
+          "tc": "滑鼠操作",
+          "sc": "鼠标操作"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkeyCategory.dat",
+      "rec_idx": 3,
+      "rec_id": "VKEY_CATEGORY_NOT_CONFIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 33,
+          "ja": "設定不許可",
+          "tc": "不可設定",
+          "sc": "不可设置"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 15,
+      "rec_id": "REC_0015",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "初期化",
+          "tc": "重設",
+          "sc": "重置"
+        }
+      ]
+    },
+    {
+      "file": "gameEffect.dat",
+      "rec_idx": 0,
+      "rec_id": "GAME_EFFECT_ID_NONE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6,
+          "ja": "なし",
+          "tc": "否",
+          "sc": "无"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 13,
+          "ja": "なし",
+          "tc": "否",
+          "sc": "无"
+        }
+      ]
+    },
+    {
+      "file": "gameEffect.dat",
+      "rec_idx": 3,
+      "rec_id": "GAME_EFFECT_ID_ITEM_CONSUME_0001_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 54,
+          "ja": "消耗品回復",
+          "tc": "否",
+          "sc": "消耗品恢复"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 61,
+          "ja": "なし",
+          "tc": "否",
+          "sc": "无"
+        }
+      ]
+    },
+    {
+      "file": "gameEffect.dat",
+      "rec_idx": 4,
+      "rec_id": "GAME_EFFECT_ID_STAMINA_REDUCTION_SICKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 70,
+          "ja": "スタミナ減少「カマ」",
+          "tc": "否",
+          "sc": "体力减少“镰刀”"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 77,
+          "ja": "カマを振った時のスタミナ消費量が減少する",
+          "tc": "否",
+          "sc": "挥动镰刀时的体力消耗量减少"
+        }
+      ]
+    },
+    {
+      "file": "gameEffect.dat",
+      "rec_idx": 35,
+      "rec_id": "GAME_EFFECT_ID_ST_DOWN_FIELD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 566,
+          "ja": "スタミナ低下フィールド",
+          "tc": "否",
+          "sc": "体力下降区域"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 573,
+          "ja": "スタミナ消費量が上昇し、一定時間ごとにスタミナが減少する",
+          "tc": "否",
+          "sc": "体力消耗量增加，且每隔一段时间体力就会减少"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 0,
+      "rec_id": "SETTING_CAMERA_FOCUS_ANGLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 7,
+          "ja": "主人公の向きにカメラを寄せる",
+          "tc": "將鏡頭靠近主角所面對的方向",
+          "sc": "将镜头靠近主角所面对的方向"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 14,
+          "ja": "なし",
+          "tc": "無",
+          "sc": "无"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 21,
+          "ja": "キャラの向いている方向にカメラが寄ります",
+          "tc": "視角會朝角色面對的方向拉近",
+          "sc": "视角会朝角色面对的方向拉近"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 28,
+          "ja": "あり",
+          "tc": "有",
+          "sc": "有"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 1,
+      "rec_id": "SETTING_PAD_VIB",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "振動",
+          "tc": "震動",
+          "sc": "振动"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 52,
+          "ja": "なし",
+          "tc": "無",
+          "sc": "无"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 59,
+          "ja": "コントローラーの振動を設定します",
+          "tc": "設定控制器的震動",
+          "sc": "设置手柄的振动"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 66,
+          "ja": "あり",
+          "tc": "有",
+          "sc": "有"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 2,
+      "rec_id": "SETTING_MESSAGE_TEXT_SPEED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 83,
+          "ja": "メッセージ設定",
+          "tc": "訊息設定",
+          "sc": "消息设置"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 90,
+          "ja": "遅い",
+          "tc": "慢",
+          "sc": "慢"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 97,
+          "ja": "メッセージの表示速度を設定します",
+          "tc": "設定訊息顯示的速度",
+          "sc": "设置消息显示的速度"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 104,
+          "ja": "通常",
+          "tc": "一般",
+          "sc": "一般"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 118,
+          "ja": "速い",
+          "tc": "快速",
+          "sc": "快速"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 132,
+          "ja": "最速",
+          "tc": "最快",
+          "sc": "最快"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 3,
+      "rec_id": "SETTING_BGM_VOLUME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "音楽の音量",
+          "tc": "音樂音量",
+          "sc": "音乐音量"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 4,
+      "rec_id": "SETTING_SE_VOLUME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 159,
+          "ja": "効果音の音量",
+          "tc": "音效音量",
+          "sc": "音效音量"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 5,
+      "rec_id": "SETTING_AMBIENT_VOLUME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 169,
+          "ja": "環境音の音量",
+          "tc": "動畫語音音量",
+          "sc": "环境音音量"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 6,
+      "rec_id": "SETTING_DISPLAY_LANGUAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 179,
+          "ja": "表示言語",
+          "tc": "顯示語言",
+          "sc": "显示语言"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 186,
+          "ja": "日本語",
+          "tc": "日文",
+          "sc": "日文"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 193,
+          "ja": "表示言語を切り替えます",
+          "tc": "切換顯示語言",
+          "sc": "切换显示语言"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 200,
+          "ja": "英語",
+          "tc": "英文",
+          "sc": "英文"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 207,
+          "ja": "Switch the language used for displayed text.",
+          "tc": "Switch the language used for displayed text.",
+          "sc": "Switch the language used for displayed text."
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 214,
+          "ja": "フランス語",
+          "tc": "法文",
+          "sc": "法文"
+        },
+        {
+          "f_idx": 6,
+          "pidx_tc": 221,
+          "ja": "Changer la langue affichée",
+          "tc": "Changer la langue affichée",
+          "sc": "Changer la langue affichée"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 228,
+          "ja": "スペイン語",
+          "tc": "西班牙文",
+          "sc": "西班牙文"
+        },
+        {
+          "f_idx": 8,
+          "pidx_tc": 235,
+          "ja": "切换显示语言",
+          "tc": "切换显示语言",
+          "sc": "切换显示语言"
+        },
+        {
+          "f_idx": 9,
+          "pidx_tc": 242,
+          "ja": "繁体字",
+          "tc": "繁體中文",
+          "sc": "简体中文"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 249,
+          "ja": "切換顯示語言",
+          "tc": "切換顯示語言",
+          "sc": "切换显示语言"
+        },
+        {
+          "f_idx": 11,
+          "pidx_tc": 256,
+          "ja": "韓国語",
+          "tc": "韓文",
+          "sc": "韩文"
+        },
+        {
+          "f_idx": 12,
+          "pidx_tc": 263,
+          "ja": "표시 언어를 변경합니다",
+          "tc": "표시 언어를 변경합니다",
+          "sc": "표시 언어를 변경합니다"
+        },
+        {
+          "f_idx": 13,
+          "pidx_tc": 270,
+          "ja": "簡体字",
+          "tc": "簡體中文",
+          "sc": "简体中文"
+        }
+      ]
+    },
+    {
+      "file": "gameSetting.dat",
+      "rec_idx": 7,
+      "rec_id": "SETTING_ETC_ONLINE_MANUAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 287,
+          "ja": "オンラインマニュアル",
+          "tc": "線上說明書",
+          "sc": "在线说明书"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 0,
+      "rec_id": "STR_ID_COMMON_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "はい",
+          "tc": "是",
+          "sc": "是"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 1,
+      "rec_id": "STR_ID_COMMON_002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 13,
+          "ja": "いいえ",
+          "tc": "否",
+          "sc": "否"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 2,
+      "rec_id": "STR_ID_COMMON_003",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 21,
+          "ja": "なし",
+          "tc": "無",
+          "sc": "无"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 4,
+      "rec_id": "STR_ID_SAVE_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "ほの暮しの庭　セーブデータ",
+          "tc": "靜謐田園　保存資料",
+          "sc": "静谧田园　存档"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 5,
+      "rec_id": "STR_ID_SAVE_SYSTEM_SAVE_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "ほの暮しの庭　システムセーブデータ",
+          "tc": "靜謐田園　系統保存資料",
+          "sc": "静谧田园　系统存档"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 6,
+      "rec_id": "STR_ID_SAVE_NEW_SLOT_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "なし",
+          "tc": "無",
+          "sc": "无"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 7,
+      "rec_id": "STR_ID_SAVE_MSG_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 61,
+          "ja": "データの保存をしますか？",
+          "tc": "是否要保存資料？",
+          "sc": "是否保存存档？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 8,
+      "rec_id": "STR_ID_SAVE_MSG_002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "このデータを読み込みますか？",
+          "tc": "是否讀取此保存資料？",
+          "sc": "是否读取此存档？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 9,
+      "rec_id": "STR_ID_SAVE_MSG_003",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "このデータを削除します<br>よろしいですか？",
+          "tc": "即將刪除此保存資料。<br>確定要刪除嗎？",
+          "sc": "即将删除此存档。<br>确定要删除吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 10,
+      "rec_id": "STR_ID_SAVE_MSG_004",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "このスロットにデータを保存します。",
+          "tc": "即將把資料保存至此欄位。",
+          "sc": "即将把数据保存至此槽位。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 11,
+      "rec_id": "STR_ID_SAVE_MSG_005",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "よろしいですか？",
+          "tc": "確定要保存嗎？",
+          "sc": "确定要保存吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 12,
+      "rec_id": "STR_ID_SAVE_MSG_006",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 101,
+          "ja": "既にあるセーブデータは上書きされます。",
+          "tc": "確定後將覆蓋現有保存資料。",
+          "sc": "确定后将覆盖现有存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 13,
+      "rec_id": "STR_ID_SAVE_MSG_007",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "本当によろしいですか？",
+          "tc": "真的確定要保存嗎？",
+          "sc": "真的确定要保存吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 14,
+      "rec_id": "STR_ID_SAVE_MSG_008",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "どのセーブデータで遊ぶ？",
+          "tc": "請選擇要遊玩的保存資料。",
+          "sc": "请选择要游玩的存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 15,
+      "rec_id": "STR_ID_SAVE_MSG_009",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "<value 1>のセーブデータを削除します。",
+          "tc": "即將刪除<value 1>的保存資料。",
+          "sc": "即将删除<value 1>的存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 16,
+      "rec_id": "STR_ID_SAVE_MSG_010",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "よろしいですか？",
+          "tc": "確定要繼續嗎？",
+          "sc": "确定要继续吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 17,
+      "rec_id": "STR_ID_SAVE_MSG_011",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 141,
+          "ja": "本当に削除してもよろしいですか？",
+          "tc": "真的確定要刪除嗎？",
+          "sc": "真的确定要删除吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 18,
+      "rec_id": "STR_ID_SAVE_MSG_012",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "セーブデータを削除しました。",
+          "tc": "已刪除保存資料。",
+          "sc": "已删除存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 19,
+      "rec_id": "STR_ID_SAVE_MSG_013",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 157,
+          "ja": "ゲーム開始後に言語変更はできません。",
+          "tc": "遊戲開始後將無法變更語言。",
+          "sc": "游戏开始后将无法更改语言。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 20,
+      "rec_id": "STR_ID_SAVE_MSG_014",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "ご注意ください。",
+          "tc": "敬請注意。",
+          "sc": "敬请注意。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 22,
+      "rec_id": "STR_ID_GAMECLEAR_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 181,
+          "ja": "クリアデータをセーブしますか？",
+          "tc": "確定要保存通關資料嗎？",
+          "sc": "确定要保存通关存档吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 23,
+      "rec_id": "STR_ID_GAMECLEAR_002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 189,
+          "ja": "しない場合は起床した時の状態に戻ります。",
+          "tc": "若不保存，遊戲進度將回到起床時的狀態。",
+          "sc": "若不保存，游戏进度将回到起床时的状态。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 25,
+      "rec_id": "STR_ID_GAMECLEAR_003",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 205,
+          "ja": "クリアデータをセーブしました。",
+          "tc": "已保存通關資料。",
+          "sc": "已保存通关存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 26,
+      "rec_id": "STR_ID_GAMECLEAR_004",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 213,
+          "ja": "セーブを行わずに、タイトル画面に戻ります。",
+          "tc": "不進行保存，返回標題畫面。",
+          "sc": "不进行保存，返回标题画面。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 27,
+      "rec_id": "STR_ID_GAMECLEAR_005",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 221,
+          "ja": "よろしいですか？",
+          "tc": "確定要繼續嗎？",
+          "sc": "确定要继续吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 29,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 237,
+          "ja": "ゲームモードを選択してください",
+          "tc": "請選擇遊戲模式：",
+          "sc": "请选择游戏模式："
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 30,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "ほの暮しモード",
+          "tc": "靜謐田園模式",
+          "sc": "静谧田园模式"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 31,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_003",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 253,
+          "ja": "あんしん暮しモード",
+          "tc": "安心生活模式",
+          "sc": "安心生活模式"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 32,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_004",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 261,
+          "ja": "【ほの暮しモード】",
+          "tc": "【靜謐田園模式】",
+          "sc": "【静谧田园模式】"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 33,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_005",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 269,
+          "ja": "このゲーム本来の遊び方ができるモードです。",
+          "tc": "可體驗本作標準玩法的模式。",
+          "sc": "可体验本作标准玩法的模式。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 34,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_006",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "昼と夜の両方で活動でき、本編すべてのストーリーを楽しめます。",
+          "tc": "能在白天與夜晚兩個時段活動，並享受完整主線劇情。",
+          "sc": "能在白天与夜晚两个时段活动，并享受完整主线剧情。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 35,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_007",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 285,
+          "ja": "(途中でモードの変更はできません)",
+          "tc": "（遊戲途中無法變更模式。）",
+          "sc": "（游戏途中无法更改模式。）"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 36,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_008",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 293,
+          "ja": "【あんしん暮しモード】",
+          "tc": "【安心生活模式】",
+          "sc": "【安心生活模式】"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 37,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_009",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 301,
+          "ja": "怖いイベントが発生しないモードです。",
+          "tc": "不會發生恐怖事件的模式。",
+          "sc": "不会发生恐怖事件的模式。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 38,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_010",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 309,
+          "ja": "一部機能は制限されますが、生活シミュレーションを楽しめます。",
+          "tc": "雖然部分功能會受到限制，但可以享受生活模擬的樂趣。",
+          "sc": "虽然部分功能会受到限制，但可以享受生活模拟的乐趣。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 39,
+      "rec_id": "STR_ID_GAMEMODE_SELECT_011",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 317,
+          "ja": "(途中でモードの変更はできません)",
+          "tc": "（遊戲途中無法變更模式。）",
+          "sc": "（游戏途中无法更改模式。）"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 40,
+      "rec_id": "STR_ID_POPUP_SELECT_YES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 325,
+          "ja": "うん",
+          "tc": "嗯",
+          "sc": "嗯"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 41,
+      "rec_id": "STR_ID_POPUP_SELECT_NO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 333,
+          "ja": "やだ",
+          "tc": "不要",
+          "sc": "不要"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 42,
+      "rec_id": "STR_ID_SYSTEM_SAVEDATA_NOT_FOUND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 341,
+          "ja": "システムセーブが見つかりません。新規に作成します。",
+          "tc": "找不到系統保存資料，將建立新的保存資料。",
+          "sc": "找不到系统存档，将创建新的存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 43,
+      "rec_id": "STR_ID_SYSTEM_SAVEDATA_BROKEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 349,
+          "ja": "システムセーブが破損しています。新規に作成します。",
+          "tc": "系統保存資料已損壞，將建立新的保存資料。",
+          "sc": "系统存档已损坏，将创建新的存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 44,
+      "rec_id": "STR_ID_SAVE_ERROR_NOT_FOUND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "セーブデータが見つかりません。",
+          "tc": "找不到保存資料。",
+          "sc": "找不到存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 45,
+      "rec_id": "STR_ID_SAVE_SAVE_FAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "セーブデータの保存に失敗しました。",
+          "tc": "保存資料失敗。",
+          "sc": "保存存档失败。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 46,
+      "rec_id": "STR_ID_SAVE_LOAD_FAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 373,
+          "ja": "セーブデータの読込に失敗しました。",
+          "tc": "讀取保存資料失敗。",
+          "sc": "读取存档失败。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 47,
+      "rec_id": "STR_ID_SAVE_DELETE_FAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 381,
+          "ja": "セーブデータの削除に失敗しました。",
+          "tc": "刪除保存資料失敗。",
+          "sc": "删除存档失败。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 48,
+      "rec_id": "STR_ID_SAVE_SYSTEMSAVE_FAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 389,
+          "ja": "システムセーブデータの保存に失敗しました。",
+          "tc": "保存系統資料失敗。",
+          "sc": "保存系统数据失败。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 49,
+      "rec_id": "STR_ID_SAVE_SYSTEMLOAD_FAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 397,
+          "ja": "システムセーブデータの読込に失敗しました。",
+          "tc": "讀取系統保存資料失敗。",
+          "sc": "读取系统存档失败。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 50,
+      "rec_id": "STR_ID_SAVE_RETRY_SAVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 405,
+          "ja": "再度セーブを行いますか？",
+          "tc": "是否要重新保存？",
+          "sc": "是否要重新保存？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 51,
+      "rec_id": "STR_ID_SAVE_RETRY_LOAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 413,
+          "ja": "<cmd CMD_OK>で次へ進みます",
+          "tc": "按下<cmd CMD_OK>繼續",
+          "sc": "按下<cmd CMD_OK>继续"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 52,
+      "rec_id": "STR_ID_SAVE_RETRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 421,
+          "ja": "<cmd CMD_OK>で再度読込を行います",
+          "tc": "按下再次<cmd CMD_OK>讀取",
+          "sc": "按下<cmd CMD_OK>再次读取"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 53,
+      "rec_id": "STR_ID_SAVE_ERROR_UNKNOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 429,
+          "ja": "不明なエラーです",
+          "tc": "發生未知錯誤。",
+          "sc": "发生未知错误。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 54,
+      "rec_id": "STR_ID_SAVE_ERROR_BROKEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 437,
+          "ja": "セーブデータが破損しています。",
+          "tc": "保存資料已損壞。",
+          "sc": "存档已损坏。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 55,
+      "rec_id": "STR_ID_SAVE_ERROR_NO_SPACE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "空き容量が不足しています。",
+          "tc": "儲存空間不足。",
+          "sc": "存储空间不足。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 56,
+      "rec_id": "STR_ID_SAVE_ERROR_SLOT_NOT_FOUND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 453,
+          "ja": "セーブデータのスロットが見つかりません。",
+          "tc": "找不到保存資料欄位。",
+          "sc": "找不到存档槽位。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 57,
+      "rec_id": "STR_ID_SAVE_ERROR_INVALID_USER_ID",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 461,
+          "ja": "ユーザーＩＤが不正です。",
+          "tc": "使用者ID異常。",
+          "sc": "用户ID异常。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 58,
+      "rec_id": "STR_ID_SAVE_ERROR_MOUNT_FAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 469,
+          "ja": "セーブデータのマウントに失敗しました。",
+          "tc": "掛載保存資料失敗。",
+          "sc": "挂载存档失败。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 59,
+      "rec_id": "STR_ID_AUTOSAVE_NOTICE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 477,
+          "ja": "このゲームは1日の終了時にオートセーブされ、",
+          "tc": "本遊戲將會在一天結束時自動保存，",
+          "sc": "本游戏将会在一天结束时自动保存，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 60,
+      "rec_id": "STR_ID_AUTOSAVE_NOTICE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "最新のデータが上書きされます。",
+          "tc": "並且覆蓋最新的保存資料。",
+          "sc": "并且覆盖最新的存档。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 61,
+      "rec_id": "STR_ID_AUTOSAVE_NOTICE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 493,
+          "ja": "上のアイコンが表示されている間は、",
+          "tc": "當畫面顯示上述圖示時，",
+          "sc": "当画面显示上述图标时，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 62,
+      "rec_id": "STR_ID_AUTOSAVE_NOTICE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 501,
+          "ja": "ゲームを終了したり、電源を切らないでください。",
+          "tc": "請勿關閉遊戲或關閉電源。",
+          "sc": "请勿关闭游戏或关闭电源。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 63,
+      "rec_id": "STR_ID_SAVE_CONVERT_MSG_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 509,
+          "ja": "Nintendo Switch™の",
+          "tc": "確定要轉換Nintendo Switch™的",
+          "sc": "确定要转换Nintendo Switch™的"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 64,
+      "rec_id": "STR_ID_SAVE_CONVERT_MSG_002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 517,
+          "ja": "セーブデータをコンバートしますか？",
+          "tc": "儲存資料嗎？",
+          "sc": "存档数据吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 65,
+      "rec_id": "STR_ID_PLAYER_DEFAULT_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 525,
+          "ja": "アメ",
+          "tc": "天",
+          "sc": "天"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 66,
+      "rec_id": "STR_ID_PLAYER_NO_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 533,
+          "ja": "名前はまだ無い",
+          "tc": "還沒有名字",
+          "sc": "还没有名字"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 67,
+      "rec_id": "STR_ID_ITEM_UNKNOWN_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 541,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 68,
+      "rec_id": "STR_ID_ITEM_UNKNOWN_HELP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 549,
+          "ja": "？？？？？？",
+          "tc": "？？？？？？",
+          "sc": "？？？？？？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 69,
+      "rec_id": "STR_ID_DATE_FORMAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 557,
+          "ja": "<value 1>年目 <value 2> <value 3>日",
+          "tc": "第<value 1>年 <value 2> <value 3>日",
+          "sc": "第<value 1>年 <value 2> <value 3>日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 70,
+      "rec_id": "STR_ID_DATE_LATENIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 565,
+          "ja": "　深夜",
+          "tc": "　深夜",
+          "sc": "　深夜"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 71,
+      "rec_id": "STR_ID_SEASON_SPRING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 573,
+          "ja": "春",
+          "tc": "春",
+          "sc": "春"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 72,
+      "rec_id": "STR_ID_SEASON_SUMMER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 581,
+          "ja": "夏",
+          "tc": "夏",
+          "sc": "夏"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 73,
+      "rec_id": "STR_ID_SEASON_AUTUMN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 589,
+          "ja": "秋",
+          "tc": "秋",
+          "sc": "秋"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 74,
+      "rec_id": "STR_ID_SEASON_WINTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 597,
+          "ja": "冬",
+          "tc": "冬",
+          "sc": "冬"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 75,
+      "rec_id": "STR_ID_WEEK_MONDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "月",
+          "tc": "一",
+          "sc": "一"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 76,
+      "rec_id": "STR_ID_WEEK_TUESDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 613,
+          "ja": "火",
+          "tc": "二",
+          "sc": "二"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 77,
+      "rec_id": "STR_ID_WEEK_WEDNESDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 621,
+          "ja": "水",
+          "tc": "三",
+          "sc": "三"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 78,
+      "rec_id": "STR_ID_WEEK_THURSDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 629,
+          "ja": "木",
+          "tc": "四",
+          "sc": "四"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 79,
+      "rec_id": "STR_ID_WEEK_FRIDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 637,
+          "ja": "金",
+          "tc": "五",
+          "sc": "五"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 80,
+      "rec_id": "STR_ID_WEEK_SATURDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 645,
+          "ja": "<c blue>土</c>",
+          "tc": "<c blue>六</c>",
+          "sc": "<c blue>六</c>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 81,
+      "rec_id": "STR_ID_WEEK_SUNDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 653,
+          "ja": "<c red>日</c>",
+          "tc": "<c red>日</c>",
+          "sc": "<c red>日</c>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 82,
+      "rec_id": "STR_ID_ITEM_NUMBER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 661,
+          "ja": "×<value 1>",
+          "tc": "×<value 1>",
+          "sc": "×<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 83,
+      "rec_id": "STR_ID_ITEM_NUMBER_ADD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 669,
+          "ja": "i<value 1>",
+          "tc": "i<value 1>",
+          "sc": "i<value 1>"
+        }
+      ]
+    }
+  ]
+}

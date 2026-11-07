@@ -1,0 +1,137 @@
+{
+  "batch_id": "batch_020_quest_tips",
+  "group": "quest_tips",
+  "files": [
+    "tips.dat"
+  ],
+  "record_count": 4,
+  "line_count": 14,
+  "records": [
+    {
+      "file": "tips.dat",
+      "rec_idx": 71,
+      "rec_id": "TIPS_HOLIDAY_AUT_GAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1868,
+          "ja": "焼き芋",
+          "tc": "烤地瓜",
+          "sc": "烤红薯"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1875,
+          "ja": "ちょうどいい焼き加減になったら",
+          "tc": "烤得恰到好處時，",
+          "sc": "烤得恰到好处时，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1882,
+          "ja": "<cmd CMD_OK -offsetY -5>でサツマイモを取り出そう",
+          "tc": "按下<cmd CMD_OK -offsetY -5>拿出地瓜吧",
+          "sc": "按下<cmd CMD_OK -offsetY -5>拿出红薯吧"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 72,
+      "rec_id": "TIPS_HOLIDAY_WIN_GAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1890,
+          "ja": "餅つき",
+          "tc": "搗麻糬",
+          "sc": "捣年糕"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1897,
+          "ja": "時間内に<cmd CMD_OK -offsetY -5>でモチをつこう",
+          "tc": "在時間內按下<cmd CMD_OK -offsetY -5>來搗麻糬吧",
+          "sc": "在时间内按下<cmd CMD_OK -offsetY -5>来捣年糕吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1904,
+          "ja": "キスケを叩かないよう注意する",
+          "tc": "小心別打到木助",
+          "sc": "小心别打到木助"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 73,
+      "rec_id": "TIPS_63_TOOL_UPDATE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1912,
+          "ja": "使用範囲の切り替え",
+          "tc": "切換使用範圍",
+          "sc": "切换使用范围"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1919,
+          "ja": "ジョウロやクワなどの農具は、",
+          "tc": "澆水壺或鋤頭等農具",
+          "sc": "浇水壶或锄头等农具"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1926,
+          "ja": "<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>で構えながら",
+          "tc": "可透過<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>舉起使用",
+          "sc": "可透过<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>举起使用"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1933,
+          "ja": "<cmd CMD_UNIT_ACTION_LEFT CMD_UNIT_ACTION_RIGHT>で使用範囲を変更できる",
+          "tc": "以<cmd CMD_UNIT_ACTION_LEFT CMD_UNIT_ACTION_RIGHT>變更使用範圍",
+          "sc": "以<cmd CMD_UNIT_ACTION_LEFT CMD_UNIT_ACTION_RIGHT>变更使用范围"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 74,
+      "rec_id": "TIPS_64_TOOL_RESET_PICKAXE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1941,
+          "ja": "水田や畑の消去",
+          "tc": "移除水田或田地",
+          "sc": "移除水田或田地"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1948,
+          "ja": "ツルハシを使えば、",
+          "tc": "使用十字鎬",
+          "sc": "使用十字镐"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1955,
+          "ja": "水田や畑を地面に戻し、",
+          "tc": "可將水田或田地恢復為地面",
+          "sc": "可将水田或田地恢复为地面"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1962,
+          "ja": "種を回収することができる",
+          "tc": "並回收種子",
+          "sc": "并回收种子"
+        }
+      ]
+    }
+  ]
+}

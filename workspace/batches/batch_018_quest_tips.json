@@ -1,0 +1,1832 @@
+{
+  "batch_id": "batch_018_quest_tips",
+  "group": "quest_tips",
+  "files": [
+    "quest.dat",
+    "tips.dat"
+  ],
+  "record_count": 61,
+  "line_count": 199,
+  "records": [
+    {
+      "file": "quest.dat",
+      "rec_idx": 36,
+      "rec_id": "QUEST_ID_CHAPTER_01_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1975,
+          "ja": "<cmd CMD_INTERACTION_TRIANGLE>種を撒け",
+          "tc": "<cmd CMD_INTERACTION_TRIANGLE -offsetY -5>播種",
+          "sc": "<cmd CMD_INTERACTION_TRIANGLE -offsetY -5>播种"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1989,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1996,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 37,
+      "rec_id": "QUEST_ID_CHAPTER_01_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2011,
+          "ja": "<cmd CMD_UNIT_MOVE_STICK>水辺まで移動する",
+          "tc": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>移動至水邊",
+          "sc": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>移动至水边"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2025,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2032,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 38,
+      "rec_id": "QUEST_ID_CHAPTER_01_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2047,
+          "ja": "<cmd CMD_UNIT_ACTION>ジョウロに水をくむ",
+          "tc": "<cmd CMD_UNIT_ACTION -offsetY -5>用澆水壺汲水",
+          "sc": "<cmd CMD_UNIT_ACTION -offsetY -5>用浇水壶装水"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2061,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2068,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 39,
+      "rec_id": "QUEST_ID_CHAPTER_01_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2083,
+          "ja": "<cmd CMD_UNIT_MOVE_STICK>畑まで戻る",
+          "tc": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>回到田地",
+          "sc": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>回到田地"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2097,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2104,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 40,
+      "rec_id": "QUEST_ID_CHAPTER_01_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2119,
+          "ja": "<cmd CMD_UNIT_ACTION>ジョウロで種に水を撒け",
+          "tc": "<cmd CMD_UNIT_ACTION -offsetY -5>用澆水壺對種子澆水",
+          "sc": "<cmd CMD_UNIT_ACTION -offsetY -5>用浇水壶给种子浇水"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2133,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2140,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 41,
+      "rec_id": "QUEST_ID_CHAPTER_01_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2155,
+          "ja": "植えた野菜を大切にしろ",
+          "tc": "用心照料種下的蔬菜",
+          "sc": "用心照料种下的蔬菜"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2169,
+          "ja": "キスケからお願いされた。",
+          "tc": "被木助拜託幫忙了。",
+          "sc": "被木助拜托帮忙了。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2176,
+          "ja": "守らなきゃいけない約束ごと。",
+          "tc": "必須遵守的約定。",
+          "sc": "必须遵守的约定。"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 42,
+      "rec_id": "QUEST_ID_CHAPTER_01_13",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2191,
+          "ja": "畑に水を撒け",
+          "tc": "對田地澆水",
+          "sc": "对田地浇水"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2205,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2212,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 43,
+      "rec_id": "QUEST_ID_CHAPTER_01_14",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2227,
+          "ja": "作物を収穫しろ",
+          "tc": "收穫作物",
+          "sc": "收获作物"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2241,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2248,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 44,
+      "rec_id": "QUEST_ID_CHAPTER_01_15",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2263,
+          "ja": "祭壇に野菜を捧げろ",
+          "tc": "將蔬菜供奉於祭壇吧",
+          "sc": "将蔬菜供奉于祭坛吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2277,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2284,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 45,
+      "rec_id": "QUEST_ID_TUTORIAL_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2299,
+          "ja": "指笛を吹いてみよう",
+          "tc": "試著吹手哨吧",
+          "sc": "试着吹手哨吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2313,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2320,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 46,
+      "rec_id": "QUEST_ID_TUTORIAL_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2335,
+          "ja": "楽譜に合わせて指笛を吹いてみよう",
+          "tc": "試著照樂譜吹手哨",
+          "sc": "试着照乐谱吹手哨"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2349,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2356,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 47,
+      "rec_id": "QUEST_ID_FIRST_MEETING_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2371,
+          "ja": "村の人に挨拶して回ろう　０/８",
+          "tc": "向村民打招呼吧　0/8",
+          "sc": "向村民打招呼吧　0/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2385,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2392,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 48,
+      "rec_id": "QUEST_ID_FIRST_MEETING_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2407,
+          "ja": "村の人に挨拶して回ろう　１/８",
+          "tc": "向村民打招呼吧　1/8",
+          "sc": "向村民打招呼吧　1/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2421,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2428,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 49,
+      "rec_id": "QUEST_ID_FIRST_MEETING_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2443,
+          "ja": "村の人に挨拶して回ろう　２/８",
+          "tc": "向村民打招呼吧　2/8",
+          "sc": "向村民打招呼吧　2/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2457,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2464,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 50,
+      "rec_id": "QUEST_ID_FIRST_MEETING_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2479,
+          "ja": "村の人に挨拶して回ろう　３/８",
+          "tc": "向村民打招呼吧　3/8",
+          "sc": "向村民打招呼吧　3/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2493,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2500,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 51,
+      "rec_id": "QUEST_ID_FIRST_MEETING_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2515,
+          "ja": "村の人に挨拶して回ろう　４/８",
+          "tc": "向村民打招呼吧　4/8",
+          "sc": "向村民打招呼吧　4/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2529,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2536,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 52,
+      "rec_id": "QUEST_ID_FIRST_MEETING_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2551,
+          "ja": "村の人に挨拶して回ろう　５/８",
+          "tc": "向村民打招呼吧　5/8",
+          "sc": "向村民打招呼吧　5/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2565,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2572,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 53,
+      "rec_id": "QUEST_ID_FIRST_MEETING_06",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2587,
+          "ja": "村の人に挨拶して回ろう　６/８",
+          "tc": "向村民打招呼吧　6/8",
+          "sc": "向村民打招呼吧　6/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2601,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2608,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 54,
+      "rec_id": "QUEST_ID_FIRST_MEETING_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2623,
+          "ja": "村の人に挨拶して回ろう　７/８",
+          "tc": "向村民打招呼吧　7/8",
+          "sc": "向村民打招呼吧　7/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2637,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2644,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 55,
+      "rec_id": "QUEST_ID_FIRST_MEETING_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2659,
+          "ja": "村の人に挨拶して回ろう　８/８",
+          "tc": "向村民打招呼吧　8/8",
+          "sc": "向村民打招呼吧　8/8"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2673,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2680,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 56,
+      "rec_id": "QUEST_ID_CHAPTER_01_18",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2695,
+          "ja": "つくしを食べろ",
+          "tc": "吃掉筆頭菜",
+          "sc": "吃掉笔头菜"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2709,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2716,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 57,
+      "rec_id": "QUEST_ID_CHAPTER_01_19",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2731,
+          "ja": "商品を見ろ",
+          "tc": "查看商品",
+          "sc": "查看商品"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2745,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2752,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 58,
+      "rec_id": "QUEST_ID_CHAPTER_01_20",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2767,
+          "ja": "欲しい商品をメモしてみよう",
+          "tc": "將想要的商品記下來吧",
+          "sc": "将想要的商品记下来吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2781,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2788,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 59,
+      "rec_id": "QUEST_ID_CHAPTER_01_21",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2803,
+          "ja": "メモしたものを確認してみよう",
+          "tc": "檢視筆記吧",
+          "sc": "检视笔记吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2817,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2824,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 60,
+      "rec_id": "QUEST_ID_CHAPTER_02_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2839,
+          "ja": "墓地をキレイにしよう",
+          "tc": "把墓地打掃乾淨吧",
+          "sc": "把墓地打扫干净吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2853,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2860,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 2874,
+          "ja": "雑草をすべて刈り取ろう",
+          "tc": "割掉所有雜草吧",
+          "sc": "割掉所有杂草吧"
+        },
+        {
+          "f_idx": 6,
+          "pidx_tc": 2881,
+          "ja": "リンに報告しよう",
+          "tc": "向林報告吧",
+          "sc": "向林报告吧"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 61,
+      "rec_id": "QUEST_ID_CHAPTER_04_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2889,
+          "ja": "トバリに危機が迫ったら守れ",
+          "tc": "若帷遇上危險，保護好她",
+          "sc": "若帷遇上危险，保护好她"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2903,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2910,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 62,
+      "rec_id": "QUEST_ID_CHAPTER_04_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2925,
+          "ja": "もっともっと祠を直そう",
+          "tc": "再繼續修繕祠堂吧",
+          "sc": "再继续修缮祠堂吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2939,
+          "ja": "辻にある祠をもっと立派にしてあげよう。",
+          "tc": "把位於岔路的祠堂修得更氣派吧。",
+          "sc": "把位于岔路的祠堂修得更气派吧。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2946,
+          "ja": "良い行いには良い報いがあるはず！",
+          "tc": "善舉定有善報！",
+          "sc": "善举定有善报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 63,
+      "rec_id": "QUEST_ID_CHAPTER_05_00_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2961,
+          "ja": "鵺の皮を試せ",
+          "tc": "試著使用鵺皮",
+          "sc": "试着使用鵺皮"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2975,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 2982,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 64,
+      "rec_id": "QUEST_ID_TUTORIAL_16",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2997,
+          "ja": "<cmd CMD_INTERACTION_LONG_CANCEL>＋<cmd CMD_UNIT_MOVE_STICK> 鵺の皮で早駆け",
+          "tc": "<cmd CMD_INTERACTION_LONG_CANCEL>＋<cmd CMD_UNIT_MOVE_STICK> 用鵺皮快速移動",
+          "sc": "<cmd CMD_INTERACTION_LONG_CANCEL>＋<cmd CMD_UNIT_MOVE_STICK> 用鵺皮快速移动"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3011,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3018,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 65,
+      "rec_id": "QUEST_ID_CHAPTER_05_00_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3033,
+          "ja": "<cmd CMD_INTERACTION_SQUARE>岩切りナタを試してみよう",
+          "tc": "<cmd CMD_INTERACTION_SQUARE>嘗試使用劈岩柴刀",
+          "sc": "<cmd CMD_INTERACTION_SQUARE>尝试使用劈岩柴刀"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3047,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3054,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 66,
+      "rec_id": "QUEST_ID_CHAPTER_05_00_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3069,
+          "ja": "奇跡の呼笛を試せ",
+          "tc": "嘗試使用奇蹟的呼笛",
+          "sc": "尝试使用奇迹的呼笛"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3083,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3090,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 67,
+      "rec_id": "QUEST_ID_CHAPTER_05_00_04_DREAM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3105,
+          "ja": "神器を持って大穴に戻れ",
+          "tc": "帶著神器回到大洞",
+          "sc": "带着神器回到大洞"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3119,
+          "ja": "思い出した、いつかの約束。",
+          "tc": "想起了某一天許下的約定。",
+          "sc": "想起了某一天许下的约定。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3126,
+          "ja": "だいぶ遅れたけど、きっとまだ待ってるはず。",
+          "tc": "雖然已經遲到太久，但對方一定還在等候。",
+          "sc": "虽然已经迟到太久，但对方一定还在等候。"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 68,
+      "rec_id": "QUEST_ID_CHAPTER_05_00_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3141,
+          "ja": "<cmd CMD_INTERACTION_SQUARE>トバリを岩切りナタで斬れ",
+          "tc": "<cmd CMD_INTERACTION_SQUARE>用劈岩柴刀劈斬帷",
+          "sc": "<cmd CMD_INTERACTION_SQUARE>用劈岩柴刀劈斩帷"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3155,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3162,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 69,
+      "rec_id": "QUEST_ID_CHAPTER_06_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3177,
+          "ja": "ナタの前まで移動しろ",
+          "tc": "移動至柴刀處",
+          "sc": "移动至柴刀处"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3191,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3198,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 70,
+      "rec_id": "QUEST_ID_CHAPTER_06_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3213,
+          "ja": "ナタを拾え",
+          "tc": "撿起柴刀",
+          "sc": "捡起柴刀"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3227,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3234,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 71,
+      "rec_id": "QUEST_ID_CHAPTER_06_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3249,
+          "ja": "岩を退かせ",
+          "tc": "移開岩石",
+          "sc": "移开岩石"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3263,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3270,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 72,
+      "rec_id": "QUEST_ID_CHAPTER_06_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3285,
+          "ja": "岩を退かそう",
+          "tc": "移開岩石吧",
+          "sc": "移开岩石吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3299,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3306,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 73,
+      "rec_id": "QUEST_ID_SUB_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3321,
+          "ja": "収納箱を作ってみよう",
+          "tc": "試著製作收納箱吧",
+          "sc": "试着制作收纳箱吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3335,
+          "ja": "便利だからと、リンに作ることを勧められた。",
+          "tc": "林說這個很方便，建議製作。",
+          "sc": "林说这个很方便，建议制作。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3342,
+          "ja": "ぎゅうぎゅうのカバンも、少しは軽くなるかも。",
+          "tc": "塞得滿滿的包包，也許能稍微變輕一些。",
+          "sc": "塞得满满的背包，也许能稍微变轻一些。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 3356,
+          "ja": "作業台で収納箱を作ろう",
+          "tc": "用工作台製作收納箱吧",
+          "sc": "用工作台制作收纳箱吧"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 74,
+      "rec_id": "QUEST_ID_SUB_002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3364,
+          "ja": "兵糧丸を作ってみよう",
+          "tc": "試著製作兵糧丸吧",
+          "sc": "试着制作兵粮丸吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3378,
+          "ja": "ハスミ曰く、昔の非常食なのだという。",
+          "tc": "據蓮實所說，這是以前的應急糧食。",
+          "sc": "据莲实所说，这是以前的应急粮食。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3385,
+          "ja": "一粒でもあれば、疲れた時に役に立つかも。",
+          "tc": "只要有一顆，很累的時候也許可以派上用場。",
+          "sc": "只要有一颗，很累的时候也许可以派上用场。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 3399,
+          "ja": "作業台で兵糧丸を作ろう",
+          "tc": "用工作台製作兵糧丸吧",
+          "sc": "用工作台制作兵粮丸吧"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 75,
+      "rec_id": "QUEST_ID_HOLIDAY_NOTICE_FAIR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3407,
+          "ja": "AM １０：００　品評会",
+          "tc": "AM 10:00　評鑑會",
+          "sc": "AM 10:00　评鉴会"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3421,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3428,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 76,
+      "rec_id": "QUEST_ID_HOLIDAY_NOTICE_SPRING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3443,
+          "ja": "AM １０：００　お花見",
+          "tc": "AM 10:00　賞花",
+          "sc": "AM 10:00　赏花"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3457,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3464,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 77,
+      "rec_id": "QUEST_ID_HOLIDAY_NOTICE_SUMMER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3479,
+          "ja": "PM ４：００　縁日",
+          "tc": "PM 4:00　廟會日",
+          "sc": "PM 4:00　庙会日"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3493,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3500,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 78,
+      "rec_id": "QUEST_ID_HOLIDAY_NOTICE_AUTUMN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3515,
+          "ja": "AM １０：００　収穫祭",
+          "tc": "AM 10:00　收穫祭典",
+          "sc": "AM 10:00　收获祭典"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3529,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3536,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 79,
+      "rec_id": "QUEST_ID_HOLIDAY_NOTICE_WINTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3551,
+          "ja": "PM ８：００　年末祭",
+          "tc": "PM 8:00　年終祭典",
+          "sc": "PM 8:00　年终祭典"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3565,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3572,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 80,
+      "rec_id": "QUEST_ID_CHAIN_SHRINE_REPAIR_REQUEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 658,
+          "ja": "辻の祠の修復依頼",
+          "tc": "修復岔路祠堂的委託",
+          "sc": "修复岔路祠堂的委托"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 665,
+          "ja": "辻の祠が完成した",
+          "tc": "完成了岔路的祠堂",
+          "sc": "完成了岔路的祠堂"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 672,
+          "ja": "辻にあるボロボロの祠を直そう。",
+          "tc": "修好位於岔路的破舊祠堂吧。",
+          "sc": "修好位于岔路的破旧祠堂吧。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 679,
+          "ja": "良い行いには良い報いがあるはず！",
+          "tc": "善舉定有善報！",
+          "sc": "善举定有善报！"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 693,
+          "ja": "祠を修復しよう",
+          "tc": "修復祠堂吧",
+          "sc": "修复祠堂吧"
+        },
+        {
+          "f_idx": 6,
+          "pidx_tc": 700,
+          "ja": "祠をもっと修復しよう",
+          "tc": "進一步修復祠堂吧",
+          "sc": "进一步修复祠堂吧"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 707,
+          "ja": "祠をもっともっと修復しよう",
+          "tc": "更進一步地修復祠堂吧",
+          "sc": "更进一步地修复祠堂吧"
+        }
+      ]
+    },
+    {
+      "file": "quest.dat",
+      "rec_idx": 81,
+      "rec_id": "QUEST_ID_CHAIN_FIND_SACRED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 715,
+          "ja": "三つの神器を探そう",
+          "tc": "尋找三件神器",
+          "sc": "寻找三件神器"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 729,
+          "ja": "土地神を退けるには、三つの神器が必要だ。",
+          "tc": "若想擊退土地神，必須湊齊三件神器。",
+          "sc": "若想击退土地神，必须凑齐三件神器。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 736,
+          "ja": "神器は村の誰かが隠しているという。",
+          "tc": "據說神器被村中的某個人藏了起來。",
+          "sc": "据说神器被村中的某个人藏了起来。"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 0,
+      "rec_id": "TIPS_01_HARVEST_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "作物の収穫",
+          "tc": "收穫作物",
+          "sc": "收获作物"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 12,
+          "ja": "<cmd CMD_INTERACTION_HARVEST -offsetY -5>で、目の前にある",
+          "tc": "按下<cmd CMD_INTERACTION_HARVEST -offsetY -5>，",
+          "sc": "按下<cmd CMD_INTERACTION_HARVEST -offsetY -5>，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 19,
+          "ja": "実った作物を収穫する",
+          "tc": "可收成眼前的成熟作物",
+          "sc": "可收成眼前的成熟作物"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 1,
+      "rec_id": "TIPS_02_HARVEST_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 27,
+          "ja": "作物の連続収穫",
+          "tc": "連續收穫作物",
+          "sc": "连续收获作物"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 34,
+          "ja": "<cmd CMD_INTERACTION_LONG -offsetY -5>を押している間、",
+          "tc": "按住<cmd CMD_INTERACTION_LONG -offsetY -5>期間，",
+          "sc": "按住<cmd CMD_INTERACTION_LONG -offsetY -5>期间，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 41,
+          "ja": "目の前の作物と同じ種類の作物を",
+          "tc": "將連續收穫",
+          "sc": "将连续收获"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 48,
+          "ja": "連続で収穫する",
+          "tc": "與眼前作物相同種類的作物",
+          "sc": "与眼前作物相同种类的作物"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 2,
+      "rec_id": "TIPS_03_JUMP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 56,
+          "ja": "ジャンプ",
+          "tc": "跳躍",
+          "sc": "跳跃"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 63,
+          "ja": "<cmd CMD_UNIT_JUMP -offsetY -5>ジャンプする",
+          "tc": "按下<cmd CMD_UNIT_JUMP -offsetY -5>跳躍",
+          "sc": "按下<cmd CMD_UNIT_JUMP -offsetY -5>跳跃"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 70,
+          "ja": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>＋<cmd CMD_UNIT_JUMP -offsetY -5>柵に向かって行うと",
+          "tc": "若朝著柵欄<cmd CMD_UNIT_MOVE_STICK -offsetY -5>＋<cmd CMD_UNIT_JUMP -offsetY -5>，",
+          "sc": "若朝着栅栏<cmd CMD_UNIT_MOVE_STICK -offsetY -5>＋<cmd CMD_UNIT_JUMP -offsetY -5>，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 77,
+          "ja": "柵を飛び越えることができる",
+          "tc": "就能跳過柵欄",
+          "sc": "就能跳过栅栏"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 3,
+      "rec_id": "TIPS_05_MOVE_PARALLEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "平行移動",
+          "tc": "平行移動",
+          "sc": "平行移动"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 92,
+          "ja": "<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>＋<cmd CMD_UNIT_MOVE_STICK_PARALLEL -offsetY -5>で平行移動する",
+          "tc": "以<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>＋<cmd CMD_UNIT_MOVE_STICK_PARALLEL -offsetY -5>平行移動",
+          "sc": "以<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>＋<cmd CMD_UNIT_MOVE_STICK_PARALLEL -offsetY -5>平行移动"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 99,
+          "ja": "一方向を向きながら",
+          "tc": "能夠面向同一方向",
+          "sc": "能够面向同一方向"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 106,
+          "ja": "ゆっくりと移動することができる",
+          "tc": "緩慢移動",
+          "sc": "缓慢移动"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 4,
+      "rec_id": "TIPS_06_MOVE_ANGLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 114,
+          "ja": "回転",
+          "tc": "旋轉",
+          "sc": "旋转"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 121,
+          "ja": "<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>＋<cmd CMD_UNIT_MOVE_STICK_ANGLE -offsetY -5>回転",
+          "tc": "以<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>＋<cmd CMD_UNIT_MOVE_STICK_ANGLE -offsetY -5>可旋轉",
+          "sc": "以<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>＋<cmd CMD_UNIT_MOVE_STICK_ANGLE -offsetY -5>可旋转"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 128,
+          "ja": "その場にとどまり",
+          "tc": "能停留在原地，",
+          "sc": "能停留在原地，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 135,
+          "ja": "向きを変える",
+          "tc": "並改變方向",
+          "sc": "并改变方向"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 5,
+      "rec_id": "TIPS_07_ITEM_SELECT_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 143,
+          "ja": "道具を選択",
+          "tc": "選擇道具",
+          "sc": "选择道具"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 150,
+          "ja": "<cmd CMD_CURSOR_R_STICK_LEFT CMD_CURSOR_R_STICK_RIGHT>で道具欄のカーソルを",
+          "tc": "左右推動<cmd CMD_CURSOR_R_STICK_LEFT CMD_CURSOR_R_STICK_RIGHT>",
+          "sc": "左右推动<cmd CMD_CURSOR_R_STICK_LEFT CMD_CURSOR_R_STICK_RIGHT>"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 157,
+          "ja": "左右へ移動させて、道具を選択",
+          "tc": "可讓道具欄的游標左右移動，以選擇道具",
+          "sc": "可让道具栏的游标左右移动，以选择道具"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 6,
+      "rec_id": "TIPS_08_ITEM_SELECT_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "道具欄の切替",
+          "tc": "切換道具欄",
+          "sc": "切换道具栏"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 172,
+          "ja": "<cmd CMD_CURSOR_R_STICK_UP CMD_CURSOR_R_STICK_DOWN>で道具欄を",
+          "tc": "上下推動<cmd CMD_CURSOR_R_STICK_UP CMD_CURSOR_R_STICK_DOWN>",
+          "sc": "上下推动<cmd CMD_CURSOR_R_STICK_UP CMD_CURSOR_R_STICK_DOWN>"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 179,
+          "ja": "別の列に表示を切り替える",
+          "tc": "可切換道具欄，顯示另一列",
+          "sc": "可切换道具栏，显示另一列"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 7,
+      "rec_id": "TIPS_09_TOOL_USE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 187,
+          "ja": "農具の使用",
+          "tc": "使用農具",
+          "sc": "使用农具"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 194,
+          "ja": "<cmd CMD_UNIT_ACTION -offsetY -5>農具を使う",
+          "tc": "按下<cmd CMD_UNIT_ACTION -offsetY -5>使用農具",
+          "sc": "按下<cmd CMD_UNIT_ACTION -offsetY -5>使用农具"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 201,
+          "ja": "選択された農具を使用できる",
+          "tc": "可使用選擇的農具，",
+          "sc": "可使用选择的农具，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 208,
+          "ja": "効果は農具毎に変わる",
+          "tc": "效果會依農具而變化",
+          "sc": "效果会依农具而变化"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 8,
+      "rec_id": "TIPS_10_TOOL_USE_HOLD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 216,
+          "ja": "農具の使用位置",
+          "tc": "使用農具的位置",
+          "sc": "使用农具的位置"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 223,
+          "ja": "<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>農具を構える",
+          "tc": "按下<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>拿起農具",
+          "sc": "按下<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>拿起农具"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 230,
+          "ja": "長押し中<cmd CMD_UNIT_MOVE_STICK -offsetY -5>で移動する",
+          "tc": "長按時推動<cmd CMD_UNIT_MOVE_STICK -offsetY -5>可進行移動",
+          "sc": "长按时推动<cmd CMD_UNIT_MOVE_STICK -offsetY -5>可进行移动"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 237,
+          "ja": "<cmd CMD_REF_CANCEL -offsetY -5>で構えを解除する",
+          "tc": "按下<cmd CMD_REF_CANCEL -offsetY -5>放下農具",
+          "sc": "按下<cmd CMD_REF_CANCEL -offsetY -5>放下农具"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 9,
+      "rec_id": "TIPS_11_PRESENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "贈り物を渡す",
+          "tc": "交付禮物",
+          "sc": "交付礼物"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 252,
+          "ja": "住人に向かって<cmd CMD_INTERACTION_PRESENT -offsetY -5>道具を渡す",
+          "tc": "朝著村民按下<cmd CMD_INTERACTION_PRESENT>交付道具",
+          "sc": "朝着村民按下<cmd CMD_INTERACTION_PRESENT>交付道具"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 259,
+          "ja": "選択された道具を",
+          "tc": "可將選擇的道具",
+          "sc": "可将选择的道具"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 266,
+          "ja": "目の前の住人に贈ることができる",
+          "tc": "送給面前的村民",
+          "sc": "送给面前的村民"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 10,
+      "rec_id": "TIPS_12_FURNITURE_PLACED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 274,
+          "ja": "家具の設置",
+          "tc": "設置家具",
+          "sc": "设置家具"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 281,
+          "ja": "道具欄から家具を選び、<cmd CMD_UNIT_ITEM -offsetY -5>で設置",
+          "tc": "從道具欄中選擇家具，按下<cmd CMD_UNIT_ITEM -offsetY -5>設置",
+          "sc": "从道具栏中选择家具，按下<cmd CMD_UNIT_ITEM -offsetY -5>设置"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 288,
+          "ja": "<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>で設置位置を調整できる",
+          "tc": "以<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>可調整設置位置",
+          "sc": "以<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>可调整设置位置"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 11,
+      "rec_id": "TIPS_13_FURNITURE_REMOVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 303,
+          "ja": "家具の回収",
+          "tc": "收回家具",
+          "sc": "收回家具"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 310,
+          "ja": "家具に向かって<cmd CMD_INTERACTION_RETRIEVE -offsetY -5>で回収",
+          "tc": "朝著家具按下<cmd CMD_INTERACTION_RETRIEVE -offsetY -5>回收",
+          "sc": "朝着家具按下<cmd CMD_INTERACTION_RETRIEVE -offsetY -5>回收"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 317,
+          "ja": "設置された家具を撤去できる",
+          "tc": "可以移除已設置的家具",
+          "sc": "可以移除已设置的家具"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 12,
+      "rec_id": "TIPS_14_TOOL_SHORTCUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 325,
+          "ja": "農具サークル展開",
+          "tc": "展開農具環",
+          "sc": "展开农具环"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 332,
+          "ja": "<cmd CMD_UNIT_SHORTCUT_TOOL -offsetY -5>で選択する農具を変更できる",
+          "tc": "按下<cmd CMD_UNIT_SHORTCUT_TOOL -offsetY -5>可變更選擇的農具",
+          "sc": "按下<cmd CMD_UNIT_SHORTCUT_TOOL -offsetY -5>可变更选择的农具"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 339,
+          "ja": "サークル展開後は<cmd CMD_REF_OK -offsetY -5>で決定",
+          "tc": "環狀展開後，按下<cmd CMD_REF_OK -offsetY -5>確認",
+          "sc": "轮盘展开后，按下<cmd CMD_REF_OK -offsetY -5>确认"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 13,
+      "rec_id": "TIPS_15_MEMO_ADD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 354,
+          "ja": "メモを追加",
+          "tc": "新增筆記",
+          "sc": "新增笔记"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 361,
+          "ja": "メモが可能な画面にて<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>で、",
+          "tc": "在可做筆記的畫面按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>，",
+          "sc": "在可做笔记的画面按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 368,
+          "ja": "選択された項目をメモリストに追加",
+          "tc": "將選擇的項目加入筆記清單",
+          "sc": "将选择的项目加入笔记清单"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 375,
+          "ja": "メモはメモリストで見れる",
+          "tc": "可至筆記清單查看筆記內容",
+          "sc": "可至笔记清单查看笔记内容"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 14,
+      "rec_id": "TIPS_16_MEMO_OPEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 383,
+          "ja": "メモを展開",
+          "tc": "打開筆記",
+          "sc": "打开笔记"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 390,
+          "ja": "<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>でメモリストを表示する",
+          "tc": "按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>顯示筆記清單",
+          "sc": "按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>显示笔记清单"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 397,
+          "ja": "メモしたものを、一覧で確認できる",
+          "tc": "可於列表上檢視所有筆記",
+          "sc": "可于列表上检视所有笔记"
+        }
+      ]
+    }
+  ]
+}

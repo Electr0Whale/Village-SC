@@ -1,0 +1,2811 @@
+{
+  "batch_id": "batch_005_sys_ui",
+  "group": "sys_ui",
+  "files": [
+    "string.dat"
+  ],
+  "record_count": 200,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "string.dat",
+      "rec_idx": 84,
+      "rec_id": "STR_ID_MEMO_CRAFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 677,
+          "ja": "作業台",
+          "tc": "工作台",
+          "sc": "工作台"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 85,
+      "rec_id": "STR_ID_MEMO_DYEING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 685,
+          "ja": "染色台",
+          "tc": "染色台",
+          "sc": "染色台"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 86,
+      "rec_id": "STR_ID_MEMO_COOK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 693,
+          "ja": "料理",
+          "tc": "料理",
+          "sc": "料理"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 87,
+      "rec_id": "STR_ID_MEMO_BLACKSMITH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 701,
+          "ja": "金床",
+          "tc": "鐵砧",
+          "sc": "铁砧"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 88,
+      "rec_id": "STR_ID_MEMO_SHRINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 709,
+          "ja": "祠",
+          "tc": "祠堂",
+          "sc": "祠堂"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 89,
+      "rec_id": "STR_ID_MEMO_GENERAL_STORE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 717,
+          "ja": "田上雑貨店",
+          "tc": "田上雜貨店",
+          "sc": "田上杂货店"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 90,
+      "rec_id": "STR_ID_MEMO_PEDDLER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 725,
+          "ja": "露天商",
+          "tc": "流動攤販",
+          "sc": "流动摊贩"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 91,
+      "rec_id": "STR_ID_MEMO_CONSTRUCTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 733,
+          "ja": "樹木建設",
+          "tc": "樹木建設",
+          "sc": "树木建设"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 92,
+      "rec_id": "STR_ID_MEMO_HUNTING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 741,
+          "ja": "狩人詰所",
+          "tc": "獵人哨站",
+          "sc": "猎人哨站"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 93,
+      "rec_id": "STR_ID_MEMO_CLINIC",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 749,
+          "ja": "くすのき診療所",
+          "tc": "樟樹診所",
+          "sc": "樟树诊所"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 94,
+      "rec_id": "STR_ID_MEMO_RESTAURANT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 757,
+          "ja": "茶碗亭",
+          "tc": "茶碗亭",
+          "sc": "茶碗亭"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 95,
+      "rec_id": "STR_ID_MEMO_LIBRARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 765,
+          "ja": "図書館",
+          "tc": "圖書館",
+          "sc": "图书馆"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 96,
+      "rec_id": "STR_ID_MEMO_MAYOR_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 773,
+          "ja": "村長邸",
+          "tc": "村長宅邸",
+          "sc": "村长宅邸"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 97,
+      "rec_id": "STR_ID_MEMO_VILLAGER_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 781,
+          "ja": "住人宅",
+          "tc": "住家",
+          "sc": "居民宅"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 98,
+      "rec_id": "STR_ID_MEMO_MOUNTAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 789,
+          "ja": "山",
+          "tc": "山",
+          "sc": "山"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 99,
+      "rec_id": "STR_ID_MEMO_BUNDLE1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 797,
+          "ja": "祠の修復",
+          "tc": "修復祠堂",
+          "sc": "修复祠堂"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 100,
+      "rec_id": "STR_ID_MEMO_BUNDLE2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 805,
+          "ja": "狐の社",
+          "tc": "狐狸神社",
+          "sc": "狐狸神社"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 101,
+      "rec_id": "STR_ID_MEMO_BUNDLE3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 813,
+          "ja": "納品依頼目録",
+          "tc": "交付委託目錄",
+          "sc": "交付委托目录"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 102,
+      "rec_id": "STR_ID_MEMO_BUNDLE4",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 821,
+          "ja": "バンドル４",
+          "tc": "組合４",
+          "sc": "组合4"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 103,
+      "rec_id": "STR_ID_MEMO_BOARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 829,
+          "ja": "掲示板",
+          "tc": "公告欄",
+          "sc": "公告栏"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 104,
+      "rec_id": "STR_ID_MEMO_SKILL_RELEASED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 837,
+          "ja": "前提能力　解放済",
+          "tc": "前置技能　已解鎖",
+          "sc": "前置技能　已解锁"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 105,
+      "rec_id": "STR_ID_MEMO_SKILL_NO_RELEASED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 845,
+          "ja": "前提能力　未解放",
+          "tc": "前置技能　未解鎖",
+          "sc": "前置技能　未解锁"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 106,
+      "rec_id": "STR_SEASON_DAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 853,
+          "ja": "<value 1> <value 2>日",
+          "tc": "<value 1> <value 2>日",
+          "sc": "<value 1> <value 2>日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 107,
+      "rec_id": "STR_ID_LIVESTOCK_LIST_EMPTY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 861,
+          "ja": "―追加可能―",
+          "tc": "―可追加―",
+          "sc": "―可追加―"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 108,
+      "rec_id": "STR_ID_LIVESTOCK_SOLD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 869,
+          "ja": "売却",
+          "tc": "售出",
+          "sc": "售出"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 109,
+      "rec_id": "STR_ID_LIVESTOCK_MOVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 877,
+          "ja": "小屋移動",
+          "tc": "移動小屋",
+          "sc": "移动小屋"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 110,
+      "rec_id": "STR_ID_LIVESTOCK_REPLACE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 885,
+          "ja": "入れ替え",
+          "tc": "替換",
+          "sc": "替换"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 111,
+      "rec_id": "STR_ID_LIVESTOCK_SALE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 893,
+          "ja": "売却",
+          "tc": "售出",
+          "sc": "售出"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 112,
+      "rec_id": "STR_ID_LIVESTOCK_SALE_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 901,
+          "ja": "売却取消",
+          "tc": "取消售出",
+          "sc": "取消售出"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 113,
+      "rec_id": "STR_ID_LIVESTOCK_BARN_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 909,
+          "ja": "家畜小屋<value 1>",
+          "tc": "畜舍<value 1>",
+          "sc": "畜舍<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 114,
+      "rec_id": "STR_ID_LIVESTOCK_AVIARY_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 917,
+          "ja": "鶏小屋<value 1>",
+          "tc": "雞舍<value 1>",
+          "sc": "鸡舍<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 115,
+      "rec_id": "STR_ID_LIVESTOCK_STABLE_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 925,
+          "ja": "馬小屋",
+          "tc": "馬廄",
+          "sc": "马厩"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 116,
+      "rec_id": "STR_ID_LIVESTOCK_NAME_SETTING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 933,
+          "ja": "動物の名づけ",
+          "tc": "幫動物取名",
+          "sc": "给动物起名"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 117,
+      "rec_id": "STR_ID_LIVESTOCK_PIRO_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 941,
+          "ja": "ピロ",
+          "tc": "嗶羅",
+          "sc": "哔罗"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 118,
+      "rec_id": "STR_ID_LIVESTOCK_LIST_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 949,
+          "ja": "家畜一覧",
+          "tc": "家畜一覽",
+          "sc": "家畜一览"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 119,
+      "rec_id": "STR_ID_CHEST_DEFAULT_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 957,
+          "ja": "収納箱",
+          "tc": "收納箱",
+          "sc": "收纳箱"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 120,
+      "rec_id": "STR_ID_CHEST_NAME_SETTING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 965,
+          "ja": "収納箱の名前設定",
+          "tc": "設定收納箱的名稱",
+          "sc": "设置收纳箱名称"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 121,
+      "rec_id": "STR_ID_CHEST_SHARED_BOX_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 973,
+          "ja": "共有ボックス",
+          "tc": "共享箱",
+          "sc": "共享箱"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 122,
+      "rec_id": "STR_ID_MINIMAP_CURRENT_LOCATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 981,
+          "ja": "現在地",
+          "tc": "現在位置",
+          "sc": "当前位置"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 123,
+      "rec_id": "STR_ID_MINIMAP_EMPTY_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 989,
+          "ja": "空き家",
+          "tc": "空房子",
+          "sc": "空房子"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 124,
+      "rec_id": "STR_ID_MINIMAP_STAMP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 997,
+          "ja": "スタンプ",
+          "tc": "圖示",
+          "sc": "图钉"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 125,
+      "rec_id": "STR_ID_MINIMAP_VILLAGER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1005,
+          "ja": "住民",
+          "tc": "村民",
+          "sc": "村民"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 126,
+      "rec_id": "STR_ID_MINIMAP_FACILITY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1013,
+          "ja": "施設",
+          "tc": "設施",
+          "sc": "设施"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 127,
+      "rec_id": "STR_ID_MINIMAP_OUT_AREA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1021,
+          "ja": "地図にないとこまで来たみたい",
+          "tc": "好像來到了地圖上沒標示的地方。",
+          "sc": "好像来到了地图上没标示的地方。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 128,
+      "rec_id": "STR_ID_CROPS_HARVEST_SEASON_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1029,
+          "ja": "収穫季節：<value 1>",
+          "tc": "收穫季節：<value 1>",
+          "sc": "收获季节：<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 129,
+      "rec_id": "STR_ID_CROPS_HARVEST_SEASON_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1037,
+          "ja": "収穫季節：<value 1>・<value 2>",
+          "tc": "收穫季節：<value 1>、<value 2>",
+          "sc": "收获季节：<value 1>、<value 2>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 130,
+      "rec_id": "STR_ID_CROPS_HARVEST_SEASON_3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1045,
+          "ja": "収穫季節：<value 1>・<value 2>・<value 3>",
+          "tc": "收穫季節：<value 1>、<value 2>、<value 3>",
+          "sc": "收获季节：<value 1>、<value 2>、<value 3>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 131,
+      "rec_id": "STR_ID_VILLAGER_BIRTHDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1053,
+          "ja": "誕生日 <value 1> <value 2>日",
+          "tc": "生日 <value 1> <value 2>日",
+          "sc": "生日 <value 1> <value 2>日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 132,
+      "rec_id": "STR_ID_VILLAGER_LIKE_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1061,
+          "ja": "好きなもの",
+          "tc": "喜歡的東西",
+          "sc": "喜欢的东西"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 133,
+      "rec_id": "STR_ID_VILLAGER_DISLIKE_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1069,
+          "ja": "嫌いなもの",
+          "tc": "討厭的東西",
+          "sc": "讨厌的东西"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 134,
+      "rec_id": "STR_ID_SKILLTREE_RELEASE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1077,
+          "ja": "解放",
+          "tc": "解鎖",
+          "sc": "解锁"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 135,
+      "rec_id": "STR_ID_STRING_INPUT_HIRA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1085,
+          "ja": "ひら",
+          "tc": "平假",
+          "sc": "平假"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 136,
+      "rec_id": "STR_ID_STRING_INPUT_KATA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1093,
+          "ja": "カタ",
+          "tc": "片假",
+          "sc": "片假"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 137,
+      "rec_id": "STR_ID_STRING_INPUT_ALPHA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1101,
+          "ja": "Aa",
+          "tc": "Aa",
+          "sc": "Aa"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 138,
+      "rec_id": "STR_ID_STRING_INPUT_ACCENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1109,
+          "ja": "Àà",
+          "tc": "Àà",
+          "sc": "Àà"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 139,
+      "rec_id": "STR_ID_STRING_INPUT_KOREAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1117,
+          "ja": "한국어",
+          "tc": "한국어",
+          "sc": "한국어"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 140,
+      "rec_id": "STR_ID_STRING_INPUT_DECIDE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1125,
+          "ja": "決定",
+          "tc": "確定",
+          "sc": "确定"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 141,
+      "rec_id": "STR_ID_STRING_INPUT_BACK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1133,
+          "ja": "1文字消す",
+          "tc": "刪除1個字",
+          "sc": "删除1个字"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 142,
+      "rec_id": "STR_ID_STRING_INPUT_INVALID_CHAR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1141,
+          "ja": "使用できない文字が使われています。<br><value 1>",
+          "tc": "使用了不可用的字元。<br><value 1>",
+          "sc": "使用了不可用的字符。<br><value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 143,
+      "rec_id": "STR_ID_STRING_INPUT_EMPTY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1149,
+          "ja": "名前を1文字以上入力してください。",
+          "tc": "請至少輸入一個字元作為姓名。",
+          "sc": "请至少输入一个字符作为姓名。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 144,
+      "rec_id": "STR_ID_STRING_INPUT_TITLE_PLAYER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1157,
+          "ja": "あなたの名前",
+          "tc": "你的名字",
+          "sc": "你的名字"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 145,
+      "rec_id": "STR_ID_STRING_INPUT_TITLE_DOG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1165,
+          "ja": "犬の名前",
+          "tc": "狗的名字",
+          "sc": "狗的名字"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 146,
+      "rec_id": "STR_ID_STRING_INPUT_TITLE_CHEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1173,
+          "ja": "収納箱の名前",
+          "tc": "收納箱的名稱",
+          "sc": "收纳箱的名称"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 147,
+      "rec_id": "STR_ID_STRING_INPUT_TITLE_BRAND_CROPS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1181,
+          "ja": "作物のブランド名",
+          "tc": "作物的品牌名稱",
+          "sc": "作物的品牌名称"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 148,
+      "rec_id": "STR_ID_STRING_INPUT_TITLE_BRAND_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1189,
+          "ja": "畜産物のブランド名",
+          "tc": "畜產品的品牌名稱",
+          "sc": "畜产品的品牌名称"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 149,
+      "rec_id": "STR_ID_CHARACTER_MAKE_CATEGORY_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1197,
+          "ja": "まえがみ",
+          "tc": "瀏海",
+          "sc": "刘海"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 150,
+      "rec_id": "STR_ID_CHARACTER_MAKE_CATEGORY_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1205,
+          "ja": "うしろがみ",
+          "tc": "後腦杓",
+          "sc": "后脑勺"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 151,
+      "rec_id": "STR_ID_CHARACTER_MAKE_CATEGORY_3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1213,
+          "ja": "かみいろ",
+          "tc": "髮色",
+          "sc": "发色"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 152,
+      "rec_id": "STR_ID_CHARACTER_MAKE_CATEGORY_4",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1221,
+          "ja": "ふく",
+          "tc": "衣服",
+          "sc": "衣服"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 153,
+      "rec_id": "STR_ID_CHARACTER_MAKE_CATEGORY_5",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1229,
+          "ja": "くび",
+          "tc": "頸部",
+          "sc": "颈部"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 154,
+      "rec_id": "STR_ID_CHARACTER_MAKE_CATEGORY_6",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1237,
+          "ja": "アクセサリ",
+          "tc": "飾品",
+          "sc": "饰品"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 155,
+      "rec_id": "STR_ID_CHARACTER_MAKE_CATEGORY_7",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1245,
+          "ja": "せなか",
+          "tc": "背部",
+          "sc": "背部"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 156,
+      "rec_id": "STR_ID_CHARACTER_MAKE_COLOR_HUE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1253,
+          "ja": "いろあい",
+          "tc": "色調",
+          "sc": "色调"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 157,
+      "rec_id": "STR_ID_CHARACTER_MAKE_COLOR_SAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1261,
+          "ja": "あざやかさ",
+          "tc": "彩度",
+          "sc": "纯度"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 158,
+      "rec_id": "STR_ID_CHARACTER_MAKE_COLOR_VAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1269,
+          "ja": "あかるさ",
+          "tc": "明度",
+          "sc": "明度"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 159,
+      "rec_id": "STR_ID_CHARACTER_MAKE_COLOR_PRESET",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1277,
+          "ja": "プリセット",
+          "tc": "預設配置",
+          "sc": "默认配置"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 160,
+      "rec_id": "STR_ID_CHARACTER_MAKE_SELECT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1285,
+          "ja": "この見た目にする？",
+          "tc": "要選擇這個外觀嗎？",
+          "sc": "要选择这个外观吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 161,
+      "rec_id": "STR_ID_CRAFT_UI_NAME_CRAFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1293,
+          "ja": "工作",
+          "tc": "加工",
+          "sc": "加工"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 162,
+      "rec_id": "STR_ID_CRAFT_UI_NAME_COOK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1301,
+          "ja": "料理",
+          "tc": "料理",
+          "sc": "料理"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 163,
+      "rec_id": "STR_ID_CRAFT_UI_MATERIAL_INFO_PARTITION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1309,
+          "ja": "<half>/</half>",
+          "tc": "<half>/</half>",
+          "sc": "<half>/</half>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 164,
+      "rec_id": "STR_ID_SELECT_QUANTITY_UI_MONEY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1317,
+          "ja": "合計金額",
+          "tc": "合計金額",
+          "sc": "合计金额"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 165,
+      "rec_id": "STR_ID_SELECT_QUANTITY_UI_MATERIAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1325,
+          "ja": "必要素材",
+          "tc": "所需材料",
+          "sc": "所需材料"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 166,
+      "rec_id": "STR_ID_SELECT_QUANTITY_UI_MATERIAL_INFO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1333,
+          "ja": "<size 0.2 0.2><icon <value 1> 20 -15></size><half><value 2></half>",
+          "tc": "<size 0.2 0.2><icon <value 1> 20 -15></size><half><value 2></half>",
+          "sc": "<size 0.2 0.2><icon <value 1> 20 -15></size><half><value 2></half>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 167,
+      "rec_id": "STR_ID_SELECT_QUANTITY_UI_DECIDE_BUY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1341,
+          "ja": "買う",
+          "tc": "購買",
+          "sc": "购买"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 168,
+      "rec_id": "STR_ID_SELECT_QUANTITY_UI_DECIDE_CRAFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1349,
+          "ja": "作る",
+          "tc": "製作",
+          "sc": "制作"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 169,
+      "rec_id": "STR_ID_SELECT_QUANTITY_UI_DECIDE_PRESENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1357,
+          "ja": "渡す",
+          "tc": "交付",
+          "sc": "交付"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 170,
+      "rec_id": "STR_ID_TOOL_NAME_AXE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1365,
+          "ja": "オノ",
+          "tc": "斧頭",
+          "sc": "斧头"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 171,
+      "rec_id": "STR_ID_TOOL_NAME_PICKAXE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1373,
+          "ja": "ツルハシ",
+          "tc": "十字鎬",
+          "sc": "十字镐"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 172,
+      "rec_id": "STR_ID_TOOL_NAME_WATERING_CAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1381,
+          "ja": "ジョウロ",
+          "tc": "澆水壺",
+          "sc": "浇水壶"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 173,
+      "rec_id": "STR_ID_TOOL_NAME_MULBERRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1389,
+          "ja": "クワ",
+          "tc": "鋤頭",
+          "sc": "锄头"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 174,
+      "rec_id": "STR_ID_TOOL_NAME_SICKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1397,
+          "ja": "カマ",
+          "tc": "鐮刀",
+          "sc": "镰刀"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 175,
+      "rec_id": "STR_ID_TOOL_NAME_FLASHLIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1405,
+          "ja": "懐中電灯",
+          "tc": "手電筒",
+          "sc": "手电筒"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 176,
+      "rec_id": "STR_ID_TOOL_NAME_BOW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1413,
+          "ja": "弓",
+          "tc": "弓",
+          "sc": "弓"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 177,
+      "rec_id": "STR_ID_TOOL_NAME_PLOW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1421,
+          "ja": "スキ",
+          "tc": "犁",
+          "sc": "犁"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 178,
+      "rec_id": "STR_ID_TOOL_NAME_WHISTLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1429,
+          "ja": "指笛",
+          "tc": "手哨",
+          "sc": "口哨"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 179,
+      "rec_id": "STR_ID_TOOL_NAME_HATCHET",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1437,
+          "ja": "ナタ",
+          "tc": "柴刀",
+          "sc": "柴刀"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 180,
+      "rec_id": "STR_ID_CONSTRUCTION_TAB_BUILD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1445,
+          "ja": "新築",
+          "tc": "新建",
+          "sc": "新建"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 181,
+      "rec_id": "STR_ID_CONSTRUCTION_TAB_RENOVATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1453,
+          "ja": "改築",
+          "tc": "改建",
+          "sc": "改建"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 182,
+      "rec_id": "STR_ID_CONSTRUCTION_TAB_RELOCATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1461,
+          "ja": "移築撤去",
+          "tc": "移居或拆除",
+          "sc": "迁建或拆除"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 183,
+      "rec_id": "STR_ID_CONSTRUCTION_MATERIAL_INFO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1469,
+          "ja": "<size 0.3 0.3><icon <value 1> 20 -30></size><half><value 2></half>",
+          "tc": "<size 0.3 0.3><icon <value 1> 20 -30></size><half><value 2></half>",
+          "sc": "<size 0.3 0.3><icon <value 1> 20 -30></size><half><value 2></half>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 184,
+      "rec_id": "STR_ID_CONSTRUCTION_MATERIAL_INFO_R",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1477,
+          "ja": "<size 0.3 0.3><icon <value 1> 20 -30></size><half><c red><value 2></half></c>",
+          "tc": "<size 0.3 0.3><icon <value 1> 20 -30></size><half><c red><value 2></half></c>",
+          "sc": "<size 0.3 0.3><icon <value 1> 20 -30></size><half><c red><value 2></half></c>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 185,
+      "rec_id": "STR_ID_CONSTRUCTION_MESSAGE_BUILD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1485,
+          "ja": "ここに建てますか？",
+          "tc": "要建造在這裡嗎？",
+          "sc": "要建造在这里吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 186,
+      "rec_id": "STR_ID_CONSTRUCTION_MESSAGE_RENOVATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1493,
+          "ja": "これで確定しますか？",
+          "tc": "確定了嗎？",
+          "sc": "确定了吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 187,
+      "rec_id": "STR_ID_CONSTRUCTION_MESSAGE_REMOVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1501,
+          "ja": "この建物を撤去しますか？",
+          "tc": "要拆除這棟建築嗎？",
+          "sc": "要拆除这栋建筑吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 188,
+      "rec_id": "STR_ID_CONSTRUCTION_MESSAGE_RELOCATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1509,
+          "ja": "ここに移築しますか？",
+          "tc": "要移居到這裡嗎？",
+          "sc": "要迁建到这里吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 189,
+      "rec_id": "STR_ID_CONSTRUCTION_SELECT_RELOCATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1517,
+          "ja": "移築",
+          "tc": "移居",
+          "sc": "迁建"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 190,
+      "rec_id": "STR_ID_CONSTRUCTION_SELECT_REMOVAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1525,
+          "ja": "撤去",
+          "tc": "拆除",
+          "sc": "拆除"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 191,
+      "rec_id": "STR_ID_CONSTRUCTION_MESSAGE_REMOVE_RUBBLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1533,
+          "ja": "撤去してもらいますか？",
+          "tc": "確定要拆除嗎？",
+          "sc": "确定要拆除吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 192,
+      "rec_id": "STR_ID_LIVING_TANK_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1541,
+          "ja": "生け簀",
+          "tc": "養魚池",
+          "sc": "养鱼池"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 193,
+      "rec_id": "STR_ID_LIVING_TANK_BAIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1549,
+          "ja": "エサ",
+          "tc": "餌食",
+          "sc": "饵料"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 194,
+      "rec_id": "STR_ID_OPTION_KEYCONFIG_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1557,
+          "ja": "キーコンフィグ",
+          "tc": "操作設定",
+          "sc": "按键设置"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 195,
+      "rec_id": "STR_ID_OPTION_KEYCONFIG_WAIT_MESSAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1565,
+          "ja": "設定するボタンを入力してください",
+          "tc": "請按下要設定的按鈕。",
+          "sc": "请按下要设置的按键。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 196,
+      "rec_id": "STR_ID_OPTION_KEYCONFIG_CATEGORY_PAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1573,
+          "ja": "ゲームパッド",
+          "tc": "控制器",
+          "sc": "手柄"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 197,
+      "rec_id": "STR_ID_OPTION_KEYCONFIG_CATEGORY_KEYBOARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1581,
+          "ja": "キーボード",
+          "tc": "鍵盤",
+          "sc": "键盘"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 198,
+      "rec_id": "STR_ID_OPTION_KEYCONFIG_CATEGORY_MOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1589,
+          "ja": "マウス",
+          "tc": "滑鼠",
+          "sc": "鼠标"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 199,
+      "rec_id": "STR_ID_OPTION_RESET_MESSAGE_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1597,
+          "ja": "設定を初期状態に戻します",
+          "tc": "即將恢復為預設設定。",
+          "sc": "即将恢复为默认设置。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 200,
+      "rec_id": "STR_ID_OPTION_RESET_MESSAGE_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1605,
+          "ja": "よろしいですか？",
+          "tc": "確定要繼續嗎？",
+          "sc": "确定要继续吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 201,
+      "rec_id": "STR_ID_OPTION_KEYCONFIG_CAPTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1613,
+          "ja": "<cmd CMD_OK>設定画面へ",
+          "tc": "<cmd CMD_OK>前往設定畫面。",
+          "sc": "<cmd CMD_OK>前往设置画面。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 202,
+      "rec_id": "STR_ID_OPTION_PADBUTTONSETTING_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1621,
+          "ja": "パッドボタン設定",
+          "tc": "控制器按鈕設定",
+          "sc": "手柄按键设置"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 203,
+      "rec_id": "STR_ID_OPTION_PRIORITYMONITOR_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1629,
+          "ja": "優先モニター",
+          "tc": "優先螢幕",
+          "sc": "优先显示器"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 204,
+      "rec_id": "STR_ID_OPTION_FULLSCREANRESOLUTION_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1637,
+          "ja": "フルスクリーン解像度",
+          "tc": "全螢幕解析度",
+          "sc": "全屏分辨率"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 205,
+      "rec_id": "STR_ID_OPTION_WINDOWMODESIZE_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1645,
+          "ja": "ウィンドウモードサイズ",
+          "tc": "視窗模式大小",
+          "sc": "窗口模式大小"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 206,
+      "rec_id": "STR_ID_FAIR_EXHIBIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1653,
+          "ja": "出品する",
+          "tc": "參加評鑑",
+          "sc": "参加评鉴"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 207,
+      "rec_id": "STR_ID_FAIR_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1661,
+          "ja": "やめる",
+          "tc": "算了",
+          "sc": "算了"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 208,
+      "rec_id": "STR_ID_HOLIDAY_MINIGAME_HELP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1669,
+          "ja": "<cmd CMD_OK>でスタート",
+          "tc": "點擊<cmd CMD_OK -offsetY -5>開始",
+          "sc": "点击<cmd CMD_OK -offsetY -5>开始"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 209,
+      "rec_id": "STR_ID_SHIPPINGBOX_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1677,
+          "ja": "出荷台",
+          "tc": "出貨台",
+          "sc": "出货台"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 210,
+      "rec_id": "STR_ID_SUBQUEST_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1685,
+          "ja": "<value 1> <value 2>個の納品",
+          "tc": "交付<value 1> <value 2>個",
+          "sc": "交付<value 1> <value 2>个"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 211,
+      "rec_id": "STR_ID_SUBQUEST_DETAIL_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1693,
+          "ja": "依頼人：<value 1>",
+          "tc": "委託人：<value 1>",
+          "sc": "委托人：<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 212,
+      "rec_id": "STR_ID_SUBQUEST_DETAIL_LIMIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1701,
+          "ja": "期限：<value 1> <value 2>日",
+          "tc": "期限：<value 1> <value 2>日",
+          "sc": "期限：<value 1> <value 2>日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 213,
+      "rec_id": "STR_ID_SUBQUEST_DETAIL_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1709,
+          "ja": "物品：<value 1>",
+          "tc": "物品：<value 1>",
+          "sc": "物品：<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 214,
+      "rec_id": "STR_ID_SUBQUEST_DETAIL_COUNT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1717,
+          "ja": "個数：<value 1>個",
+          "tc": "個數：<value 1>個",
+          "sc": "个数：<value 1>个"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 215,
+      "rec_id": "STR_ID_SUBQUEST_DETAIL_COMMENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1725,
+          "ja": "一言：<value 1>",
+          "tc": "留言：<value 1>",
+          "sc": "留言：<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 216,
+      "rec_id": "STR_ID_SUBQUEST_DETAIL_TEXT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1733,
+          "ja": "<value 1>の<value 2>日までに<br><value 3>を<value 4>個<value 5>へ届けよう",
+          "tc": "在<value 1>的<value 2>日以前，<br>將<value 4>個<value 3>交給<value 5>吧。",
+          "sc": "在<value 1>的<value 2>日之前，<br>将<value 4>个<value 3>交给<value 5>吧。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 217,
+      "rec_id": "STR_ID_SUBQUEST_CHECKLIST_TEXT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1741,
+          "ja": "<value 1>を<value 2>個<value 3>へ届けよう",
+          "tc": "將<value 2>個<value 1>交給<value 3>吧。",
+          "sc": "将<value 2>个<value 1>交给<value 3>吧。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 218,
+      "rec_id": "STR_ID_CHECKLIST_ITEM_HIDE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1749,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 219,
+      "rec_id": "STR_ID_CHECKLIST_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1757,
+          "ja": "チェックリスト",
+          "tc": "確認清單",
+          "sc": "确认清单"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 220,
+      "rec_id": "STR_ID_ITEM_AND_NUMBER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1765,
+          "ja": "<value 1>",
+          "tc": "<value 1>",
+          "sc": "<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 221,
+      "rec_id": "STR_ID_BOARD_LIMIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1773,
+          "ja": "<value 1>日後まで",
+          "tc": "<value 1>日後截止",
+          "sc": "<value 1>日后截止"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 222,
+      "rec_id": "STR_ID_BOARD_NUMBER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1781,
+          "ja": "<value 1>個",
+          "tc": "<value 1>個",
+          "sc": "<value 1>个"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 223,
+      "rec_id": "STR_ID_BOARD_REWARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1789,
+          "ja": "<value 1>円",
+          "tc": "<value 1>元",
+          "sc": "<value 1>元"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 224,
+      "rec_id": "STR_ID_BOARD_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1797,
+          "ja": "掲示板",
+          "tc": "公告欄",
+          "sc": "公告栏"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 225,
+      "rec_id": "STR_ID_BOARD_QUESTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1805,
+          "ja": "この依頼を引き受けますか？",
+          "tc": "要接受這項委託嗎？",
+          "sc": "要接受这项委托吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 226,
+      "rec_id": "STR_ID_HARVEST_RANKUP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1813,
+          "ja": "<value 1>の品質が上がった！",
+          "tc": "<value 1>的品質提昇了！",
+          "sc": "<value 1>的品质提升了！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 227,
+      "rec_id": "STR_ID_LIVESTOCK_RANKUP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1821,
+          "ja": "<value 1>のなつき度が上がった！",
+          "tc": "<value 1>的親密度提昇了！",
+          "sc": "<value 1>的亲密度提升了！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 228,
+      "rec_id": "STR_ID_CALENDAR_BIRTHDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1829,
+          "ja": "<value 1>の誕生日",
+          "tc": "<value 1>的生日",
+          "sc": "<value 1>的生日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 229,
+      "rec_id": "STR_ID_CALENDAR_FAIR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1837,
+          "ja": "品評会",
+          "tc": "評鑑會",
+          "sc": "评鉴会"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 230,
+      "rec_id": "STR_ID_CALENDAR_SAKURA_VIEWING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1845,
+          "ja": "お花見",
+          "tc": "賞花",
+          "sc": "赏花"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 231,
+      "rec_id": "STR_ID_CALENDAR_FESTIVAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1853,
+          "ja": "縁日",
+          "tc": "廟會日",
+          "sc": "庙会日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 232,
+      "rec_id": "STR_ID_CALENDAR_HARVEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1861,
+          "ja": "収穫祭",
+          "tc": "收穫祭典",
+          "sc": "收获祭典"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 233,
+      "rec_id": "STR_ID_CALENDAR_NEW_YEARS_EVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1869,
+          "ja": "年末祭",
+          "tc": "年終祭典",
+          "sc": "年终祭典"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 234,
+      "rec_id": "STR_ID_CALENDAR_FAIR_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1877,
+          "ja": "作物・馬・家畜<br>１週間前に<br>案内通知が届く<br>午前10時開始<br>午後4時終了",
+          "tc": "作物、馬、家畜<br>將於1週前<br>收到通知<br>上午10點開始<br>下午4點結束",
+          "sc": "作物、马、家畜<br>将于1周前<br>收到通知<br>上午10点开始<br>下午4点结束"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 235,
+      "rec_id": "STR_ID_CALENDAR_SAKURA_VIEWING_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1885,
+          "ja": "広場に集まって<br>お花見をする<br>午前10時開始<br>午後7時終了",
+          "tc": "於廣場集合<br>進行賞花活動<br>上午10點開始<br>晚上7點結束",
+          "sc": "于广场集合<br>进行赏花活动<br>上午10点开始<br>晚上7点结束"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 236,
+      "rec_id": "STR_ID_CALENDAR_FESTIVAL_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1893,
+          "ja": "夜の広場で<br>屋台が出る<br>何が買えるかな<br>午後4時開始<br>午後8時終了",
+          "tc": "晚上廣場<br>會有路邊攤<br>要買些什麼好呢<br>下午4點開始<br>晚上8點結束",
+          "sc": "晚上广场<br>会有路边摊<br>要买些什么好呢<br>下午4点开始<br>晚上8点结束"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 237,
+      "rec_id": "STR_ID_CALENDAR_HARVEST_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1901,
+          "ja": "広場で料理する<br>サツマイモを<br>用意していこう<br>午前10時開始<br>午後7時終了",
+          "tc": "準備好地瓜<br>去廣場<br>料理吧<br>上午10點開始<br>晚上7點結束",
+          "sc": "准备好红薯<br>去广场<br>烹饪吧<br>上午10点开始<br>晚上7点结束"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 238,
+      "rec_id": "STR_ID_CALENDAR_NEW_YEARS_EVE_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1909,
+          "ja": "広場で年末祭<br>手伝えば<br>モチがもらえる<br>午後8時開始<br>午後11時終了",
+          "tc": "去廣場年終祭典<br>幫忙<br>可以獲得麻糬<br>晚上8點開始<br>晚上11點結束",
+          "sc": "去广场参加年终祭典<br>帮忙的话<br>可以获得年糕<br>晚上8点开始<br>晚上11点结束"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 239,
+      "rec_id": "STR_ID_TALK_LOG_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1917,
+          "ja": "会話ログ",
+          "tc": "對話紀錄",
+          "sc": "对话记录"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 240,
+      "rec_id": "STR_ID_DUNGEON_FLOOR_ITEM_START",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1925,
+          "ja": "石切場入り口",
+          "tc": "採石場入口",
+          "sc": "采石场入口"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 241,
+      "rec_id": "STR_ID_DUNGEON_FLOOR_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1933,
+          "ja": "地下<value 1>階",
+          "tc": "地下<value 1>層",
+          "sc": "地下<value 1>层"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 242,
+      "rec_id": "STR_ID_DUNGEON_SELECT_MESSAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1941,
+          "ja": "この階層に移動しますか？",
+          "tc": "確定要移動到這一層嗎？",
+          "sc": "确定要移动到这一层吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 243,
+      "rec_id": "STR_ID_TABLEPUT_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1949,
+          "ja": "家具配置",
+          "tc": "設置家具",
+          "sc": "布置家具"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 244,
+      "rec_id": "STR_ID_TABLEPUT_TITLE_ALTAR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1957,
+          "ja": "お供え",
+          "tc": "供品",
+          "sc": "供品"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 245,
+      "rec_id": "STR_ID_DAILY_RESULT_TODAY_SHIPPING_PRICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1965,
+          "ja": "本日の出荷額",
+          "tc": "今日的出貨金額",
+          "sc": "今日的出货金额"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 246,
+      "rec_id": "STR_ID_DAILY_RESULT_YESTERDAY_SHIPPING_PRICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1973,
+          "ja": "昨日の出荷額",
+          "tc": "昨日的出貨金額",
+          "sc": "昨日的出货金额"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 247,
+      "rec_id": "STR_ID_DAILY_RESULT_BEFORE_YESTERDAY_SHIPPING_PRICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1981,
+          "ja": "おとといの出荷額",
+          "tc": "前天的出貨金額",
+          "sc": "前天的出货金额"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 248,
+      "rec_id": "STR_ID_DAILY_RESULT_CURRENT_MONEY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1989,
+          "ja": "現在の所持金",
+          "tc": "目前持有金額",
+          "sc": "目前持有金额"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 249,
+      "rec_id": "STR_ID_DAILY_RESULT_YESTERDAY_MONEY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1997,
+          "ja": "昨日までの所持金",
+          "tc": "昨日持有金額",
+          "sc": "昨日持有金额"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 250,
+      "rec_id": "STR_ID_DAILY_RESULT_SHIPPING_PRICE_TRANSITION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2005,
+          "ja": "出荷額の推移",
+          "tc": "出貨金額的走勢",
+          "sc": "出货金额的走势"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 251,
+      "rec_id": "STR_ID_DAILY_RESULT_TODAY_SHIPPING_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2013,
+          "ja": "本日の出荷品",
+          "tc": "本日的出貨物品",
+          "sc": "今日的出货物品"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 252,
+      "rec_id": "STR_ID_DYEING_MESSAGE_NO_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2021,
+          "ja": "染色できるアイテムがありません",
+          "tc": "未持有可染色的物品。",
+          "sc": "未持有可染色的物品。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 253,
+      "rec_id": "STR_ID_DYEING_MESSAGE_EXIST_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2029,
+          "ja": "染色するアイテムを選んでください",
+          "tc": "請選擇要染色的物品。",
+          "sc": "请选择要染色的物品。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 254,
+      "rec_id": "STR_ID_POPUP_MESSAGE_BED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2037,
+          "ja": "もう寝る？",
+          "tc": "要睡覺了嗎？",
+          "sc": "要睡觉了吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 255,
+      "rec_id": "STR_ID_POPUP_MESSAGE_BED_SHORT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2045,
+          "ja": "少し眠る？",
+          "tc": "要小睡一下嗎？",
+          "sc": "要小睡一下吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 256,
+      "rec_id": "STR_ID_POPUP_HORROR_HAT_COVER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2053,
+          "ja": "笠をかぶせる？",
+          "tc": "要戴上斗笠嗎？",
+          "sc": "要戴上斗笠吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 257,
+      "rec_id": "STR_ID_POPUP_GO_HOME_WITH_DOG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2061,
+          "ja": "家に帰る？",
+          "tc": "要回家了嗎？",
+          "sc": "要回家了吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 258,
+      "rec_id": "STR_ID_POPUP_NO_IN_VILLAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2069,
+          "ja": "この人は今、どこにいるかわからない……",
+          "tc": "這個人目前不知身在何處……",
+          "sc": "这个人目前不知身在何处……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 259,
+      "rec_id": "STR_ID_MESSAGE_DEAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2077,
+          "ja": "通りかかった村人に助けられ、診療所に担ぎ込まれた…",
+          "tc": "被經過的村民發現，扛進了診所裡……",
+          "sc": "被路过的村民发现，抬进了诊所里……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 260,
+      "rec_id": "STR_ID_RESTAURANT_ORDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2085,
+          "ja": "注文する",
+          "tc": "點餐",
+          "sc": "点餐"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 261,
+      "rec_id": "STR_ID_RESTAURANT_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2093,
+          "ja": "やめる",
+          "tc": "算了",
+          "sc": "算了"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 262,
+      "rec_id": "STR_ID_GENERALSTORE_BUY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2101,
+          "ja": "購入する",
+          "tc": "購買",
+          "sc": "购买"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 263,
+      "rec_id": "STR_ID_INVENTORY_DISPOSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2109,
+          "ja": "捨てる",
+          "tc": "丟棄",
+          "sc": "丢弃"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 264,
+      "rec_id": "STR_ID_INVENTORY_DROP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2117,
+          "ja": "落とす",
+          "tc": "丟掉",
+          "sc": "扔掉"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 265,
+      "rec_id": "STR_ID_INVENTORY_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2125,
+          "ja": "やめる",
+          "tc": "算了",
+          "sc": "算了"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 266,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_PRICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2133,
+          "ja": "購入価格",
+          "tc": "購買價格",
+          "sc": "购买价格"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 267,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_MATERIAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2141,
+          "ja": "使用素材",
+          "tc": "使用材料",
+          "sc": "使用材料"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 268,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_HARVEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2149,
+          "ja": "総収穫数",
+          "tc": "總收穫數",
+          "sc": "总收获数"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 269,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2157,
+          "ja": "対応加工機",
+          "tc": "對應加工機",
+          "sc": "对应加工机"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 270,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_INPUT_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2165,
+          "ja": "投入加工機",
+          "tc": "投入加工機",
+          "sc": "投入加工机"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 271,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_FEATURE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2173,
+          "ja": "分類",
+          "tc": "分類",
+          "sc": "分类"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 272,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_RANKUP_REMAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2181,
+          "ja": "ランクアップまであと",
+          "tc": "距離升級還有",
+          "sc": "距离升级还有"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 273,
+      "rec_id": "STR_ID_HUD_INVENTORY_DRAW_WATER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2189,
+          "ja": "汲む",
+          "tc": "汲水",
+          "sc": "汲水"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 274,
+      "rec_id": "STR_ID_HUD_INVENTORY_HAND_OVER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2197,
+          "ja": "渡す",
+          "tc": "交付",
+          "sc": "交付"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 275,
+      "rec_id": "STR_ID_HUD_INVENTORY_TRHOW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2205,
+          "ja": "投げる",
+          "tc": "投出",
+          "sc": "投出"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 276,
+      "rec_id": "STR_ID_HUD_INVENTORY_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2213,
+          "ja": "詳細",
+          "tc": "詳情",
+          "sc": "详情"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 277,
+      "rec_id": "STR_ID_HUD_INVENTORY_RETURN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2221,
+          "ja": "返す",
+          "tc": "返回",
+          "sc": "返回"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 278,
+      "rec_id": "STR_ID_HUD_INVENTORY_HUNG_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2229,
+          "ja": "出る",
+          "tc": "離開",
+          "sc": "离开"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 279,
+      "rec_id": "STR_ID_HUD_INVENTORY_USE_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2237,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 280,
+      "rec_id": "STR_ID_HUD_INVENTORY_SPRINKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2245,
+          "ja": "撒く",
+          "tc": "播撒",
+          "sc": "播撒"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 281,
+      "rec_id": "STR_ID_HUD_INVENTORY_DELIVER_SUBQUEST_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2253,
+          "ja": "納品",
+          "tc": "交付",
+          "sc": "交付"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 282,
+      "rec_id": "STR_ID_HUD_INVENTORY_PUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2261,
+          "ja": "置く",
+          "tc": "放置",
+          "sc": "放置"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 283,
+      "rec_id": "STR_ID_HUD_INTANGEBLE_POPUP_CURSOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2269,
+          "ja": "受け取る",
+          "tc": "收下",
+          "sc": "收下"
+        }
+      ]
+    }
+  ]
+}

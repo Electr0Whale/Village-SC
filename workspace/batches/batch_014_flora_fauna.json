@@ -1,0 +1,2813 @@
+{
+  "batch_id": "batch_014_flora_fauna",
+  "group": "flora_fauna",
+  "files": [
+    "creature.dat",
+    "intangeble.dat",
+    "itemType.dat"
+  ],
+  "record_count": 200,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "creature.dat",
+      "rec_idx": 181,
+      "rec_id": "CREATURE_ID_STORY_NPC_FAMALE_DOCTOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3143,
+          "ja": "デモ用NPC_女医(ハスミ)",
+          "tc": "展示用NPC_女醫（蓮實）",
+          "sc": "演示用NPC_女医生（莲实）"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 182,
+      "rec_id": "CREATURE_ID_STORY_NPC_STREET_VENDOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3159,
+          "ja": "デモ用NPC_露天商（チナナ）",
+          "tc": "展示用NPC_流動攤販（琪娜娜）",
+          "sc": "演示用NPC_流动摊贩（琪娜娜）"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 183,
+      "rec_id": "CREATURE_ID_STORY_NPC_GHORST_GIRL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3175,
+          "ja": "デモ用NPC_幽霊少女(コダマ)",
+          "tc": "展示用NPC_幽靈少女（木珠）",
+          "sc": "演示用NPC_幽灵少女（木珠）"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 184,
+      "rec_id": "CREATURE_ID_STORY_NPC_GHORST_GIRL_FIELDWORK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3193,
+          "ja": "デモ用NPC_幽霊少女(コダマ)・畑仕事",
+          "tc": "展示用NPC_幽靈少女（木珠）‧農地工作",
+          "sc": "演示用NPC_幽灵少女（木珠）·农田劳作"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 185,
+      "rec_id": "CREATURE_ID_FAIR_STAFF_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3209,
+          "ja": "品評会スタッフ（会話可）",
+          "tc": "評鑑會工作人員（可對話）",
+          "sc": "评鉴会工作人员（可对话）"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 186,
+      "rec_id": "CREATURE_ID_FAIR_STAFF_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3225,
+          "ja": "品評会スタッフ（会話不可）",
+          "tc": "評鑑會工作人員（不可對話）",
+          "sc": "评鉴会工作人员（不可对话）"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 187,
+      "rec_id": "CREATURE_ID_STORY_NPC_GIRL_MOTHER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3241,
+          "ja": "デモ用NPC_ヨウの母",
+          "tc": "展示用NPC_洋的母親",
+          "sc": "演示用NPC_洋的母亲"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 188,
+      "rec_id": "CREATURE_ID_STORY_NPC_GIRL_FATHER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3257,
+          "ja": "デモ用NPC_ヨウの父",
+          "tc": "展示用NPC_洋的父親",
+          "sc": "演示用NPC_洋的父亲"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 189,
+      "rec_id": "CREATURE_ID_STORY_NPC_YOUNG_OLD_MAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3273,
+          "ja": "デモ用NPC_若いおっさん(若いロッカク)",
+          "tc": "展示用NPC_年輕大叔（年輕六角）",
+          "sc": "演示用NPC_年轻大叔（年轻六角）"
+        }
+      ]
+    },
+    {
+      "file": "creature.dat",
+      "rec_idx": 190,
+      "rec_id": "CREATURE_ID_STORY_NPC_YOUNG_CARPENTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3289,
+          "ja": "デモ用NPC_キスケ少年",
+          "tc": "展示用NPC_少年木助",
+          "sc": "演示用NPC_少年木助"
+        }
+      ]
+    },
+    {
+      "file": "itemType.dat",
+      "rec_idx": 0,
+      "rec_id": "ITEM_TYPE_CONSUME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6,
+          "ja": "消耗品",
+          "tc": "消耗品",
+          "sc": "消耗品"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 0,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "木の収納箱の設計図を入手した！",
+          "tc": "獲得了木製收納箱的設計圖！",
+          "sc": "获得了木制收纳箱的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 1,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 13,
+          "ja": "小さい松明の設計図を入手した！",
+          "tc": "獲得了小型火把的設計圖！",
+          "sc": "获得了小型火把的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 2,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 21,
+          "ja": "木の庭床の設計図を入手した！",
+          "tc": "獲得了戶外木頭地板的設計圖！",
+          "sc": "获得了户外木头地板的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 3,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 29,
+          "ja": "石の庭床の設計図を入手した！",
+          "tc": "獲得了戶外石頭地板的設計圖！",
+          "sc": "获得了户外石头地板的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 4,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "木の柵の設計図を入手した！",
+          "tc": "獲得了木製柵欄的設計圖！",
+          "sc": "获得了木制栅栏的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 5,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "木のゲートの設計図を入手した！",
+          "tc": "獲得了木製柵欄門的設計圖！",
+          "sc": "获得了木制栅栏门的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 6,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_06",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "樹液採取器の設計図を入手した！",
+          "tc": "獲得了樹液採集器的設計圖！",
+          "sc": "获得了树液采集器的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 7,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 61,
+          "ja": "薪の束の設計図を入手した！",
+          "tc": "獲得了木柴捆的設計圖！",
+          "sc": "获得了木柴捆的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 8,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "隠れる木の苗を入手した！",
+          "tc": "獲得了藏身樹樹苗！",
+          "sc": "获得了藏身树树苗！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 9,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "漬物樽の設計図を入手した！",
+          "tc": "獲得了醃菜桶的設計圖！",
+          "sc": "获得了腌菜桶的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 10,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "養蜂箱の設計図を入手した！",
+          "tc": "獲得了蜂箱的設計圖！",
+          "sc": "获得了蜂箱的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 11,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "狐面の設計図を入手した！",
+          "tc": "獲得了狐狸面具的設計圖！",
+          "sc": "获得了狐狸面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 12,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 101,
+          "ja": "日本人形の設計図を入手した！",
+          "tc": "獲得了日本人偶的設計圖！",
+          "sc": "获得了日本人偶的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 13,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_13",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "はんごうの設計図を入手した！",
+          "tc": "獲得了煮飯盒的設計圖！",
+          "sc": "获得了煮饭盒的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 14,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_14",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "撒き餌の設計図を入手した！",
+          "tc": "獲得了魚餌的設計圖！",
+          "sc": "获得了鱼饵的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 15,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_15",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "溶鉱炉の設計図を入手した！",
+          "tc": "獲得了熔爐的設計圖！",
+          "sc": "获得了熔炉的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 16,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_16",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "兵糧丸の設計図を入手した！",
+          "tc": "獲得了兵糧丸的設計圖！",
+          "sc": "获得了兵粮丸的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 17,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_17",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 141,
+          "ja": "マヨネーズ加工機の設計図を入手した！",
+          "tc": "獲得了美乃滋加工機的設計圖！",
+          "sc": "获得了蛋黄酱加工机的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 18,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_18",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "木の家具シリーズの設計図を入手した！",
+          "tc": "獲得了木製系列家具的設計圖！",
+          "sc": "获得了木制系列家具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 19,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_19",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 157,
+          "ja": "小さいテディベアの設計図を入手した！",
+          "tc": "獲得了小泰迪熊的設計圖！",
+          "sc": "获得了小泰迪熊的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 20,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_20",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "フラワーワゴンの設計図を入手した！",
+          "tc": "獲得了園藝推車的設計圖！",
+          "sc": "获得了园艺推车的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 21,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_21",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 173,
+          "ja": "ドライフラワーの設計図を入手した！",
+          "tc": "獲得了乾燥花的設計圖！",
+          "sc": "获得了干燥花的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 22,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_22",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 181,
+          "ja": "小さい絵画の設計図を入手した！",
+          "tc": "獲得了小型圖畫的設計圖！",
+          "sc": "获得了小型图画的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 23,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_23",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 189,
+          "ja": "手持ち提灯の設計図を入手した！",
+          "tc": "獲得了手提燈籠的設計圖！",
+          "sc": "获得了手提灯笼的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 24,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_24",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 197,
+          "ja": "花瓶の設計図を入手した！",
+          "tc": "獲得了花瓶的設計圖！",
+          "sc": "获得了花瓶的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 25,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_25",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 205,
+          "ja": "木彫りの熊の設計図を入手した！",
+          "tc": "獲得了木雕熊的設計圖！",
+          "sc": "获得了木雕熊的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 26,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_26",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 213,
+          "ja": "手編みマフラーの設計図を入手した！",
+          "tc": "獲得了手織圍巾的設計圖！",
+          "sc": "获得了手织围巾的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 27,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_27",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 221,
+          "ja": "苔玉の設計図を入手した！",
+          "tc": "獲得了苔球的設計圖！",
+          "sc": "获得了苔球的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 28,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_28",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 229,
+          "ja": "木魚の設計図を入手した！",
+          "tc": "獲得了木魚的設計圖！",
+          "sc": "获得了木鱼的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 29,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_29",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 237,
+          "ja": "そろばんの設計図を入手した！",
+          "tc": "獲得了算盤的設計圖！",
+          "sc": "获得了算盘的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 30,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_30",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "竹細工のトンボの設計図を入手した！",
+          "tc": "獲得了竹編蜻蜓的設計圖！",
+          "sc": "获得了竹编蜻蜓的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 31,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_31",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 253,
+          "ja": "壺の設計図を入手した！",
+          "tc": "獲得了甕的設計圖！",
+          "sc": "获得了瓮的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 32,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_32",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 261,
+          "ja": "畳まれた布団の設計図を入手した！",
+          "tc": "獲得了折疊好的棉被的設計圖！",
+          "sc": "获得了折叠好的棉被的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 33,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_33",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 269,
+          "ja": "囲炉裏の設計図を入手した！",
+          "tc": "獲得了地爐的設計圖！",
+          "sc": "获得了地炉的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 34,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_34",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "イースターエッグの設計図を入手した！",
+          "tc": "獲得了復活節彩蛋的設計圖！",
+          "sc": "获得了复活节彩蛋的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 35,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_35",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 285,
+          "ja": "ししおどしの設計図を入手した！",
+          "tc": "獲得了添水的設計圖！",
+          "sc": "获得了添水的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 36,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_36",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 293,
+          "ja": "枝の山の設計図を入手した！",
+          "tc": "獲得了樹枝堆的設計圖！",
+          "sc": "获得了树枝堆的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 37,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_37",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 301,
+          "ja": "植木鉢の設計図を入手した！",
+          "tc": "獲得了花盆的設計圖！",
+          "sc": "获得了花盆的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 38,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_38",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 309,
+          "ja": "収穫カゴの設計図を入手した！",
+          "tc": "獲得了採集籃的設計圖！",
+          "sc": "获得了采集篮的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 39,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_39",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 317,
+          "ja": "積石の設計図を入手した！",
+          "tc": "獲得了石堆的設計圖！",
+          "sc": "获得了石堆的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 40,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_40",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 325,
+          "ja": "庭石の設計図を入手した！",
+          "tc": "獲得了景觀石的設計圖！",
+          "sc": "获得了景观石的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 41,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_41",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 333,
+          "ja": "睡蓮鉢の設計図を入手した！",
+          "tc": "獲得了蓮花盆的設計圖！",
+          "sc": "获得了莲花盆的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 42,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_42",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 341,
+          "ja": "立て札の設計図を入手した！",
+          "tc": "獲得了立牌的設計圖！",
+          "sc": "获得了立牌的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 43,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_43",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 349,
+          "ja": "石積の灯籠の設計図を入手した！",
+          "tc": "獲得了石燈籠的設計圖！",
+          "sc": "获得了石灯笼的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 44,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_44",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "苔むした石の設計図を入手した！",
+          "tc": "獲得了青苔石的設計圖！",
+          "sc": "获得了青苔石的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 45,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_45",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "箱の山の設計図を入手した！",
+          "tc": "獲得了箱子堆的設計圖！",
+          "sc": "获得了箱子堆的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 46,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_46",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 373,
+          "ja": "大きな飛び石の設計図を入手した！",
+          "tc": "獲得了大型墊腳石的設計圖！",
+          "sc": "获得了大型垫脚石的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 47,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_47",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 381,
+          "ja": "小さな飛び石の設計図を入手した！",
+          "tc": "獲得了小型墊腳石的設計圖！",
+          "sc": "获得了小型垫脚石的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 48,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_48",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 389,
+          "ja": "低木と岩の設計図を入手した！",
+          "tc": "獲得了灌木與岩石的設計圖！",
+          "sc": "获得了灌木与岩石的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 49,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_49",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 397,
+          "ja": "縁台の設計図を入手した！",
+          "tc": "獲得了廊台的設計圖！",
+          "sc": "获得了廊台的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 50,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_50",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 405,
+          "ja": "牧草ロールの山の設計図を入手した！",
+          "tc": "獲得了牧草捲堆的設計圖！",
+          "sc": "获得了牧草卷堆的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 51,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_51",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 413,
+          "ja": "ブランコの設計図を入手した！",
+          "tc": "獲得了鞦韆的設計圖！",
+          "sc": "获得了秋千的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 52,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_52",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 421,
+          "ja": "足湯の設計図を入手した！",
+          "tc": "獲得了足湯的設計圖！",
+          "sc": "获得了足汤的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 53,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_53",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 429,
+          "ja": "枯山水の設計図を入手した！",
+          "tc": "獲得了枯山水的設計圖！",
+          "sc": "获得了枯山水的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 54,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_54",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 437,
+          "ja": "ビオトープの設計図を入手した！",
+          "tc": "獲得了生態缸的設計圖！",
+          "sc": "获得了生态缸的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 55,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_55",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "布タペストリー/茶の設計図を入手した！",
+          "tc": "獲得了布製壁毯／咖啡的設計圖！",
+          "sc": "获得了布制壁毯／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 56,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_56",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 453,
+          "ja": "リース/茶の設計図を入手した！",
+          "tc": "獲得了花圈／咖啡的設計圖！",
+          "sc": "获得了花圈／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 57,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_57",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 461,
+          "ja": "横長の絵画/茶の設計図を入手した！",
+          "tc": "獲得了橫幅圖畫／咖啡的設計圖！",
+          "sc": "获得了横幅图画／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 58,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_58",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 469,
+          "ja": "ガーランド/茶の設計図を入手した！",
+          "tc": "獲得了牆壁掛飾／咖啡的設計圖！",
+          "sc": "获得了墙壁挂饰／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 59,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_59",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 477,
+          "ja": "クールな絨毯/茶の設計図を入手した！",
+          "tc": "獲得了酷帥地毯／咖啡的設計圖！",
+          "sc": "获得了酷帅地毯／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 60,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_60",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "モダンな絨毯/茶の設計図を入手した！",
+          "tc": "獲得了時髦地毯／咖啡的設計圖！",
+          "sc": "获得了时髦地毯／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 61,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_61",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 493,
+          "ja": "あみあみ絨毯/茶の設計図を入手した！",
+          "tc": "獲得了編織地毯／咖啡的設計圖！",
+          "sc": "获得了编织地毯／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 62,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_62",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 501,
+          "ja": "大人な絨毯/茶の設計図を入手した！",
+          "tc": "獲得了成熟風地毯／咖啡的設計圖！",
+          "sc": "获得了成熟风地毯／棕的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 63,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_63",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 509,
+          "ja": "トロフィー/銅の設計図を入手した！",
+          "tc": "獲得了獎盃／銅的設計圖！",
+          "sc": "获得了奖杯／铜的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 64,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_64",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 517,
+          "ja": "トロフィー/銀の設計図を入手した！",
+          "tc": "獲得了獎盃／銀的設計圖！",
+          "sc": "获得了奖杯／银的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 65,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_65",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 525,
+          "ja": "トロフィー/金の設計図を入手した！",
+          "tc": "獲得了獎盃／金的設計圖！",
+          "sc": "获得了奖杯／金的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 66,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_66",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 533,
+          "ja": "大きな松明の設計図を入手した！",
+          "tc": "獲得了大型火把的設計圖！",
+          "sc": "获得了大型火把的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 67,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_67",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 541,
+          "ja": "クールな家具の設計図を入手した！",
+          "tc": "獲得了酷帥家具的設計圖！",
+          "sc": "获得了酷帅家具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 68,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_68",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 549,
+          "ja": "モダンな家具の設計図を入手した！",
+          "tc": "獲得了摩登風家具的設計圖！",
+          "sc": "获得了摩登风家具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 69,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_69",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 557,
+          "ja": "あみあみ家具の設計図を入手した！",
+          "tc": "獲得了編織家具的設計圖！",
+          "sc": "获得了编织家具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 70,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_70",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 565,
+          "ja": "大人な家具の設計図を入手した！",
+          "tc": "獲得了成熟風家具的設計圖！",
+          "sc": "获得了成熟风家具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 71,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_71",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 573,
+          "ja": "かまどの設計図を入手した！",
+          "tc": "獲得了爐灶的設計圖！",
+          "sc": "获得了炉灶的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 72,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_72",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 581,
+          "ja": "七輪の設計図を入手した！",
+          "tc": "獲得了炭烤爐的設計圖！",
+          "sc": "获得了炭烤炉的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 73,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_73",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 589,
+          "ja": "焚き火の設計図を入手した！",
+          "tc": "獲得了篝火的設計圖！",
+          "sc": "获得了篝火的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 74,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_74",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 597,
+          "ja": "壁掛け狐面の設計図を入手した！",
+          "tc": "獲得了壁掛狐狸面具的設計圖！",
+          "sc": "获得了壁挂狐狸面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 75,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_75",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "壁掛け天狗面の設計図を入手した！",
+          "tc": "獲得了壁掛天狗面具的設計圖！",
+          "sc": "获得了壁挂天狗面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 76,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_76",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 613,
+          "ja": "壁掛け般若面の設計図を入手した！",
+          "tc": "獲得了壁掛般若面具的設計圖！",
+          "sc": "获得了壁挂般若面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 77,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_77",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 621,
+          "ja": "壁掛けおかめ面の設計図を入手した！",
+          "tc": "獲得了壁掛阿龜面具的設計圖！",
+          "sc": "获得了壁挂阿龟面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 78,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_78",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 629,
+          "ja": "狐面の設計図を入手した！",
+          "tc": "獲得了狐狸面具的設計圖！",
+          "sc": "获得了狐狸面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 79,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_79",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 637,
+          "ja": "般若面の設計図を入手した！",
+          "tc": "獲得了般若面具的設計圖！",
+          "sc": "获得了般若面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 80,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_80",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 645,
+          "ja": "おかめ面の設計図を入手した！",
+          "tc": "獲得了阿龜面具的設計圖！",
+          "sc": "获得了阿龟面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 81,
+      "rec_id": "INTANGEBLE_ID_CRAFT_RECIPE_81",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 653,
+          "ja": "天狗面の設計図を入手した！",
+          "tc": "獲得了天狗面具的設計圖！",
+          "sc": "获得了天狗面具的设计图！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 82,
+      "rec_id": "INTANGEBLE_ID_RECIPE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 661,
+          "ja": "素朴な朝食のレシピを入手した！",
+          "tc": "獲得了簡單的早餐的食譜！",
+          "sc": "获得了简单的早餐的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 83,
+      "rec_id": "INTANGEBLE_ID_RECIPE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 669,
+          "ja": "だし巻き卵のレシピを入手した！",
+          "tc": "獲得了高湯蛋捲的食譜！",
+          "sc": "获得了高汤蛋卷的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 84,
+      "rec_id": "INTANGEBLE_ID_RECIPE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 677,
+          "ja": "ゆでたまごのレシピを入手した！",
+          "tc": "獲得了水煮蛋的食譜！",
+          "sc": "获得了水煮蛋的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 85,
+      "rec_id": "INTANGEBLE_ID_RECIPE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 685,
+          "ja": "スクランブルエッグのレシピを入手した！",
+          "tc": "獲得了炒蛋的食譜！",
+          "sc": "获得了炒蛋的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 86,
+      "rec_id": "INTANGEBLE_ID_RECIPE_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 693,
+          "ja": "ソーセージグリルのレシピを入手した！",
+          "tc": "獲得了烤香腸的食譜！",
+          "sc": "获得了烤香肠的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 87,
+      "rec_id": "INTANGEBLE_ID_RECIPE_06",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 701,
+          "ja": "バタージャムトーストのレシピを入手した！",
+          "tc": "獲得了果醬吐司的食譜！",
+          "sc": "获得了果酱吐司的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 88,
+      "rec_id": "INTANGEBLE_ID_RECIPE_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 709,
+          "ja": "クロワッサンのレシピを入手した！",
+          "tc": "獲得了可頌的食譜！",
+          "sc": "获得了可颂的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 89,
+      "rec_id": "INTANGEBLE_ID_RECIPE_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 717,
+          "ja": "マルゲリータピザのレシピを入手した！",
+          "tc": "獲得了瑪格麗特披薩的食譜！",
+          "sc": "获得了玛格丽特披萨的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 90,
+      "rec_id": "INTANGEBLE_ID_RECIPE_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 725,
+          "ja": "梅茶漬けのレシピを入手した！",
+          "tc": "獲得了梅子茶泡飯的食譜！",
+          "sc": "获得了梅子茶泡饭的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 91,
+      "rec_id": "INTANGEBLE_ID_RECIPE_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 733,
+          "ja": "おにぎりと漬物定食のレシピを入手した！",
+          "tc": "獲得了飯糰與醃漬物定食的食譜！",
+          "sc": "获得了饭团与腌渍物定食的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 92,
+      "rec_id": "INTANGEBLE_ID_RECIPE_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 741,
+          "ja": "焼き魚のレシピを入手した！",
+          "tc": "獲得了烤魚的食譜！",
+          "sc": "获得了烤鱼的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 93,
+      "rec_id": "INTANGEBLE_ID_RECIPE_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 749,
+          "ja": "アスパラベーコン巻きのレシピを入手した！",
+          "tc": "獲得了培根蘆筍捲的食譜！",
+          "sc": "获得了培根芦笋卷的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 94,
+      "rec_id": "INTANGEBLE_ID_RECIPE_13",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 757,
+          "ja": "オニオンスープのレシピを入手した！",
+          "tc": "獲得了洋蔥湯的食譜！",
+          "sc": "获得了洋葱汤的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 95,
+      "rec_id": "INTANGEBLE_ID_RECIPE_14",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 765,
+          "ja": "タマネギのポトフのレシピを入手した！",
+          "tc": "獲得了洋蔥火上鍋的食譜！",
+          "sc": "获得了洋葱火上锅的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 96,
+      "rec_id": "INTANGEBLE_ID_RECIPE_15",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 773,
+          "ja": "エンドウ豆のお浸しのレシピを入手した！",
+          "tc": "獲得了涼拌豌豆的食譜！",
+          "sc": "获得了凉拌豌豆的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 97,
+      "rec_id": "INTANGEBLE_ID_RECIPE_16",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 781,
+          "ja": "カブの肉あんかけのレシピを入手した！",
+          "tc": "獲得了肉燥大頭菜的食譜",
+          "sc": "获得了肉末大头菜的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 98,
+      "rec_id": "INTANGEBLE_ID_RECIPE_17",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 789,
+          "ja": "ポテトグラタンのレシピを入手した！",
+          "tc": "獲得焗烤馬鈴薯的食譜！",
+          "sc": "获得了焗烤土豆的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 99,
+      "rec_id": "INTANGEBLE_ID_RECIPE_18",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 797,
+          "ja": "フライドポテトのレシピを入手した！",
+          "tc": "獲得了薯條的食譜！",
+          "sc": "获得了薯条的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 100,
+      "rec_id": "INTANGEBLE_ID_RECIPE_19",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 805,
+          "ja": "大人なカレーのレシピを入手した！",
+          "tc": "獲得了大人咖哩的食譜！",
+          "sc": "获得了大人咖喱的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 101,
+      "rec_id": "INTANGEBLE_ID_RECIPE_20",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 813,
+          "ja": "おこさまカレーのレシピを入手した！",
+          "tc": "獲得了兒童咖哩的食譜！",
+          "sc": "获得了儿童咖喱的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 102,
+      "rec_id": "INTANGEBLE_ID_RECIPE_21",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 821,
+          "ja": "ラディッシュサラダのレシピを入手した！",
+          "tc": "獲得了櫻桃蘿蔔沙拉的食譜！",
+          "sc": "获得了樱桃萝卜沙拉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 103,
+      "rec_id": "INTANGEBLE_ID_RECIPE_22",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 829,
+          "ja": "ロールキャベツのレシピを入手した！",
+          "tc": "獲得了高麗菜捲的食譜！",
+          "sc": "获得了卷心菜卷的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 104,
+      "rec_id": "INTANGEBLE_ID_RECIPE_23",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 837,
+          "ja": "とんかつのレシピを入手した！",
+          "tc": "獲得了炸豬排的食譜！",
+          "sc": "获得了炸猪排的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 105,
+      "rec_id": "INTANGEBLE_ID_RECIPE_24",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 845,
+          "ja": "野菜炒めのレシピを入手した！",
+          "tc": "獲得了炒青菜的食譜！",
+          "sc": "获得了炒青菜的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 106,
+      "rec_id": "INTANGEBLE_ID_RECIPE_25",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 853,
+          "ja": "シーザーサラダのレシピを入手した！",
+          "tc": "獲得了凱撒沙拉的食譜！",
+          "sc": "获得了凯撒沙拉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 107,
+      "rec_id": "INTANGEBLE_ID_RECIPE_26",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 861,
+          "ja": "ミネストローネのレシピを入手した！",
+          "tc": "獲得了義式蔬菜湯的食譜！",
+          "sc": "获得了义式蔬菜汤的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 108,
+      "rec_id": "INTANGEBLE_ID_RECIPE_27",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 869,
+          "ja": "豆腐ハンバーグのレシピを入手した！",
+          "tc": "獲得了豆腐漢堡排的食譜！",
+          "sc": "获得了豆腐汉堡排的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 109,
+      "rec_id": "INTANGEBLE_ID_RECIPE_28",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 877,
+          "ja": "カプレーゼのレシピを入手した！",
+          "tc": "獲得了番茄起司沙拉的食譜！",
+          "sc": "获得了西红柿干酪沙拉的菜谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 110,
+      "rec_id": "INTANGEBLE_ID_RECIPE_29",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 885,
+          "ja": "山盛りトマトのレシピを入手した！",
+          "tc": "獲得了番茄山的食譜！",
+          "sc": "获得了西红柿山的菜谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 111,
+      "rec_id": "INTANGEBLE_ID_RECIPE_30",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 893,
+          "ja": "ナスづくしのレシピを入手した！",
+          "tc": "獲得了茄子全餐的食譜！",
+          "sc": "获得了茄子全餐的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 112,
+      "rec_id": "INTANGEBLE_ID_RECIPE_31",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 901,
+          "ja": "ピーマンの肉詰めのレシピを入手した！",
+          "tc": "獲得了青椒鑲肉的食譜！",
+          "sc": "获得了青椒镶肉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 113,
+      "rec_id": "INTANGEBLE_ID_RECIPE_32",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 909,
+          "ja": "カボチャのスープのレシピを入手した！",
+          "tc": "獲得了南瓜湯的食譜！",
+          "sc": "获得了南瓜汤的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 114,
+      "rec_id": "INTANGEBLE_ID_RECIPE_33",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 917,
+          "ja": "カボチャの煮物のレシピを入手した！",
+          "tc": "獲得了燉南瓜的食譜！",
+          "sc": "获得了炖南瓜的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 115,
+      "rec_id": "INTANGEBLE_ID_RECIPE_34",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 925,
+          "ja": "山菜の天ぷらのレシピを入手した！",
+          "tc": "獲得了山菜天婦羅的食譜！",
+          "sc": "获得了山菜天妇罗的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 116,
+      "rec_id": "INTANGEBLE_ID_RECIPE_35",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 933,
+          "ja": "まるごとキュウリのレシピを入手した！",
+          "tc": "獲得了一根小黃瓜的食譜！",
+          "sc": "获得了一整根黄瓜的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 117,
+      "rec_id": "INTANGEBLE_ID_RECIPE_36",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 941,
+          "ja": "コーンスープのレシピを入手した！",
+          "tc": "獲得了玉米濃湯的食譜！",
+          "sc": "获得了玉米浓汤的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 118,
+      "rec_id": "INTANGEBLE_ID_RECIPE_37",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 949,
+          "ja": "焼きとうもろこしのレシピを入手した！",
+          "tc": "獲得了烤玉米的食譜！",
+          "sc": "获得了烤玉米的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 119,
+      "rec_id": "INTANGEBLE_ID_RECIPE_38",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 957,
+          "ja": "肉と野菜の串焼きのレシピを入手した！",
+          "tc": "獲得了綜合串燒的食譜！",
+          "sc": "获得了综合串烧的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 120,
+      "rec_id": "INTANGEBLE_ID_RECIPE_39",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 965,
+          "ja": "春巻きのレシピを入手した！",
+          "tc": "獲得了春捲的食譜！",
+          "sc": "获得了春卷的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 121,
+      "rec_id": "INTANGEBLE_ID_RECIPE_40",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 973,
+          "ja": "生姜焼きのレシピを入手した！",
+          "tc": "獲得了薑汁燒肉的食譜！",
+          "sc": "获得了姜汁烧肉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 122,
+      "rec_id": "INTANGEBLE_ID_RECIPE_41",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 981,
+          "ja": "ニンニクホイル焼きのレシピを入手した！",
+          "tc": "獲得了鋁箔紙烤大蒜的食譜！",
+          "sc": "获得了铝箔纸烤大蒜的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 123,
+      "rec_id": "INTANGEBLE_ID_RECIPE_42",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 989,
+          "ja": "ステーキのレシピを入手した！",
+          "tc": "獲得了牛排的食譜！",
+          "sc": "获得了牛排的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 124,
+      "rec_id": "INTANGEBLE_ID_RECIPE_43",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 997,
+          "ja": "七面鳥の丸焼きのレシピを入手した！",
+          "tc": "獲得了烤火雞的食譜！",
+          "sc": "获得了烤火鸡的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 125,
+      "rec_id": "INTANGEBLE_ID_RECIPE_44",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1005,
+          "ja": "ラムチョップのレシピを入手した！",
+          "tc": "獲得了烤羊小排的食譜！",
+          "sc": "获得了烤羊小排的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 126,
+      "rec_id": "INTANGEBLE_ID_RECIPE_45",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1013,
+          "ja": "デミグラスドリアのレシピを入手した！",
+          "tc": "獲得了多蜜醬焗飯的食譜！",
+          "sc": "获得了多蜜酱焗饭的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 127,
+      "rec_id": "INTANGEBLE_ID_RECIPE_46",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1021,
+          "ja": "レンコンのピリ辛炒めのレシピを入手した！",
+          "tc": "獲得了辣炒蓮藕的食譜！",
+          "sc": "获得了辣炒莲藕的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 128,
+      "rec_id": "INTANGEBLE_ID_RECIPE_47",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1029,
+          "ja": "おつまみ枝豆のレシピを入手した！",
+          "tc": "獲得了涼拌毛豆的食譜！",
+          "sc": "获得了凉拌毛豆的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 129,
+      "rec_id": "INTANGEBLE_ID_RECIPE_48",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1037,
+          "ja": "ざるそばのレシピを入手した！",
+          "tc": "獲得了竹籠蕎麥麵的食譜！",
+          "sc": "获得了竹笼荞麦面的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 130,
+      "rec_id": "INTANGEBLE_ID_RECIPE_49",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1045,
+          "ja": "たぬきそばのレシピを入手した！",
+          "tc": "獲得了天婦羅花蕎麥麵的食譜！",
+          "sc": "获得了天妇罗花荞麦面的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 131,
+      "rec_id": "INTANGEBLE_ID_RECIPE_50",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1053,
+          "ja": "ざるうどんのレシピを入手した！",
+          "tc": "獲得了竹籠烏龍麵的食譜！",
+          "sc": "获得了竹筐乌冬面的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 132,
+      "rec_id": "INTANGEBLE_ID_RECIPE_51",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1061,
+          "ja": "きつねうどんのレシピを入手した！",
+          "tc": "獲得了豆皮烏龍麵的食譜！",
+          "sc": "获得了豆皮乌冬面的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 133,
+      "rec_id": "INTANGEBLE_ID_RECIPE_52",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1069,
+          "ja": "実家の味定食のレシピを入手した！",
+          "tc": "獲得了家鄉味定食的食譜！",
+          "sc": "获得了家乡味定食的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 134,
+      "rec_id": "INTANGEBLE_ID_RECIPE_53",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1077,
+          "ja": "山の幸茶碗蒸しのレシピを入手した！",
+          "tc": "獲得了山珍茶碗蒸的食譜！",
+          "sc": "获得了山珍茶碗蒸的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 135,
+      "rec_id": "INTANGEBLE_ID_RECIPE_54",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1085,
+          "ja": "焼き松茸のレシピを入手した！",
+          "tc": "獲得了烤松茸的食譜！",
+          "sc": "获得了烤松茸的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 136,
+      "rec_id": "INTANGEBLE_ID_RECIPE_55",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1093,
+          "ja": "ぽかぽか鍋のレシピを入手した！",
+          "tc": "獲得了暖呼呼火鍋的食譜！",
+          "sc": "获得了暖呼呼火锅的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 137,
+      "rec_id": "INTANGEBLE_ID_RECIPE_56",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1101,
+          "ja": "キクラゲと卵炒めのレシピを入手した！",
+          "tc": "獲得了木耳炒蛋的食譜！",
+          "sc": "获得了木耳炒蛋的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 138,
+      "rec_id": "INTANGEBLE_ID_RECIPE_57",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1109,
+          "ja": "ピンチョスのレシピを入手した！",
+          "tc": "獲得了西班牙木籤小吃的食譜！",
+          "sc": "获得了西班牙木签小吃的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 139,
+      "rec_id": "INTANGEBLE_ID_RECIPE_58",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1117,
+          "ja": "焼き鳥串のレシピを入手した！",
+          "tc": "獲得了烤雞肉串的食譜！",
+          "sc": "获得了烤鸡肉串的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 140,
+      "rec_id": "INTANGEBLE_ID_RECIPE_59",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1125,
+          "ja": "餃子のレシピを入手した！",
+          "tc": "獲得了煎餃的食譜！",
+          "sc": "获得了煎饺的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 141,
+      "rec_id": "INTANGEBLE_ID_RECIPE_60",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1133,
+          "ja": "オムライスのレシピを入手した！",
+          "tc": "獲得了蛋包飯的食譜！",
+          "sc": "获得了蛋包饭的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 142,
+      "rec_id": "INTANGEBLE_ID_RECIPE_61",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1141,
+          "ja": "ビーフシチューのレシピを入手した！",
+          "tc": "獲得了燉牛肉的食譜！",
+          "sc": "获得了炖牛肉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 143,
+      "rec_id": "INTANGEBLE_ID_RECIPE_62",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1149,
+          "ja": "ホワイトシチューのレシピを入手した！",
+          "tc": "獲得了奶油燉菜的食譜！",
+          "sc": "获得了黄油炖菜的菜谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 144,
+      "rec_id": "INTANGEBLE_ID_RECIPE_63",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1157,
+          "ja": "すき焼きのレシピを入手した！",
+          "tc": "獲得了壽喜燒的食譜！",
+          "sc": "获得了寿喜烧的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 145,
+      "rec_id": "INTANGEBLE_ID_RECIPE_64",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1165,
+          "ja": "バーニャカウダのレシピを入手した！",
+          "tc": "獲得了熱沾醬沙拉的食譜！",
+          "sc": "获得了热沾酱沙拉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 146,
+      "rec_id": "INTANGEBLE_ID_RECIPE_65",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1173,
+          "ja": "鮎の塩焼きのレシピを入手した！",
+          "tc": "獲得了鹽烤香魚的食譜！",
+          "sc": "获得了盐烤香鱼的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 147,
+      "rec_id": "INTANGEBLE_ID_RECIPE_66",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1181,
+          "ja": "オリジナルラーメンのレシピを入手した！",
+          "tc": "獲得了自創拉麵的食譜！",
+          "sc": "获得了自创拉面的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 148,
+      "rec_id": "INTANGEBLE_ID_RECIPE_67",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1189,
+          "ja": "ミートパイのレシピを入手した！",
+          "tc": "獲得了肉餅的食譜！",
+          "sc": "获得了肉饼的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 149,
+      "rec_id": "INTANGEBLE_ID_RECIPE_68",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1197,
+          "ja": "スパゲッティのレシピを入手した！",
+          "tc": "獲得了義大利麵的食譜！",
+          "sc": "获得了意大利面的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 150,
+      "rec_id": "INTANGEBLE_ID_RECIPE_69",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1205,
+          "ja": "肉まんのレシピを入手した！",
+          "tc": "獲得了肉包的食譜！",
+          "sc": "获得了肉包的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 151,
+      "rec_id": "INTANGEBLE_ID_RECIPE_70",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1213,
+          "ja": "チャーハンのレシピを入手した！",
+          "tc": "獲得了炒飯的食譜！",
+          "sc": "获得了炒饭的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 152,
+      "rec_id": "INTANGEBLE_ID_RECIPE_71",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1221,
+          "ja": "お雑煮のレシピを入手した！",
+          "tc": "獲得了年糕湯的食譜！",
+          "sc": "获得了年糕汤的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 153,
+      "rec_id": "INTANGEBLE_ID_RECIPE_72",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1229,
+          "ja": "七草粥のレシピを入手した！",
+          "tc": "獲得了七草粥的食譜！",
+          "sc": "获得了七草粥的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 154,
+      "rec_id": "INTANGEBLE_ID_RECIPE_73",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1237,
+          "ja": "うな重のレシピを入手した！",
+          "tc": "獲得了鰻魚飯的食譜！",
+          "sc": "获得了鳗鱼饭的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 155,
+      "rec_id": "INTANGEBLE_ID_RECIPE_74",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1245,
+          "ja": "アスパラサラダのレシピを入手した！",
+          "tc": "獲得了蘆筍沙拉的食譜！",
+          "sc": "获得了芦笋沙拉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 156,
+      "rec_id": "INTANGEBLE_ID_RECIPE_75",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1253,
+          "ja": "柏餅のレシピを入手した！",
+          "tc": "獲得了柏餅的食譜！",
+          "sc": "获得了柏饼的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 157,
+      "rec_id": "INTANGEBLE_ID_RECIPE_76",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1261,
+          "ja": "山果実盛りのレシピを入手した！",
+          "tc": "獲得了山中果實拼盤的食譜！",
+          "sc": "获得了山中果实拼盘的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 158,
+      "rec_id": "INTANGEBLE_ID_RECIPE_77",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1269,
+          "ja": "プリンのレシピを入手した！",
+          "tc": "獲得了布丁的食譜！",
+          "sc": "获得了布丁的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 159,
+      "rec_id": "INTANGEBLE_ID_RECIPE_78",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1277,
+          "ja": "夏のお供スイカのレシピを入手した！",
+          "tc": "獲得了夏日聖品西瓜的食譜！",
+          "sc": "获得了夏日圣品西瓜的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 160,
+      "rec_id": "INTANGEBLE_ID_RECIPE_79",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1285,
+          "ja": "夢いっぱいメロンのレシピを入手した！",
+          "tc": "獲得了夢幻甜瓜的食譜！",
+          "sc": "获得了梦幻甜瓜的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 161,
+      "rec_id": "INTANGEBLE_ID_RECIPE_80",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1293,
+          "ja": "モモゼリーのレシピを入手した！",
+          "tc": "獲得了桃子果凍的食譜！",
+          "sc": "获得了桃子果冻的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 162,
+      "rec_id": "INTANGEBLE_ID_RECIPE_81",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1301,
+          "ja": "ベリーパンナコッタのレシピを入手した！",
+          "tc": "獲得了莓果奶酪的食譜！",
+          "sc": "获得了莓果意式奶冻的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 163,
+      "rec_id": "INTANGEBLE_ID_RECIPE_82",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1309,
+          "ja": "ベリー・ベリーパフェのレシピを入手した！",
+          "tc": "獲得了莓果百匯的食譜！",
+          "sc": "获得了莓果芭菲的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 164,
+      "rec_id": "INTANGEBLE_ID_RECIPE_83",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1317,
+          "ja": "マンゴーパフェのレシピを入手した！",
+          "tc": "獲得了芒果百匯的食譜！",
+          "sc": "获得了芒果芭菲的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 165,
+      "rec_id": "INTANGEBLE_ID_RECIPE_84",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1325,
+          "ja": "イチゴのケーキのレシピを入手した！",
+          "tc": "獲得了草莓蛋糕的食譜！",
+          "sc": "获得了草莓蛋糕的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 166,
+      "rec_id": "INTANGEBLE_ID_RECIPE_85",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1333,
+          "ja": "フルーツケーキのレシピを入手した！",
+          "tc": "獲得了水果蛋糕的食譜！",
+          "sc": "获得了水果蛋糕的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 167,
+      "rec_id": "INTANGEBLE_ID_RECIPE_86",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1341,
+          "ja": "モンブランのレシピを入手した！",
+          "tc": "獲得了蒙布朗的食譜！",
+          "sc": "获得了蒙布朗的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 168,
+      "rec_id": "INTANGEBLE_ID_RECIPE_87",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1349,
+          "ja": "ブドウのタルトのレシピを入手した！",
+          "tc": "獲得了葡萄塔的食譜！",
+          "sc": "获得了葡萄挞的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 169,
+      "rec_id": "INTANGEBLE_ID_RECIPE_88",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1357,
+          "ja": "アップルパイのレシピを入手した！",
+          "tc": "獲得了蘋果派的食譜！",
+          "sc": "获得了苹果派的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 170,
+      "rec_id": "INTANGEBLE_ID_RECIPE_89",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1365,
+          "ja": "牛乳寒天のレシピを入手した！",
+          "tc": "獲得了牛奶寒天凍的食譜！",
+          "sc": "获得了牛奶寒天冻的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 171,
+      "rec_id": "INTANGEBLE_ID_RECIPE_90",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1373,
+          "ja": "杏仁豆腐のレシピを入手した！",
+          "tc": "獲得了杏仁豆腐的食譜了！",
+          "sc": "获得了杏仁豆腐的食谱了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 172,
+      "rec_id": "INTANGEBLE_ID_RECIPE_91",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1381,
+          "ja": "チョコレートアソートのレシピを入手した！",
+          "tc": "獲得了綜合巧克力的食譜！",
+          "sc": "获得了综合巧克力的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 173,
+      "rec_id": "INTANGEBLE_ID_RECIPE_92",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1389,
+          "ja": "カキのコンポートのレシピを入手した！",
+          "tc": "獲得了柿子蜜餞的食譜！",
+          "sc": "获得了柿子蜜饯的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 174,
+      "rec_id": "INTANGEBLE_ID_RECIPE_93",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1397,
+          "ja": "レモンのはちみつ漬けのレシピを入手した！",
+          "tc": "獲得了蜂蜜漬檸檬的食譜！",
+          "sc": "获得了蜂蜜渍柠檬的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 175,
+      "rec_id": "INTANGEBLE_ID_RECIPE_94",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1405,
+          "ja": "レモンケーキのレシピを入手した！",
+          "tc": "獲得了檸檬蛋糕的食譜！",
+          "sc": "获得了柠檬蛋糕的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 176,
+      "rec_id": "INTANGEBLE_ID_RECIPE_95",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1413,
+          "ja": "ガトーショコラのレシピを入手した！",
+          "tc": "獲得了古典巧克力蛋糕的食譜！",
+          "sc": "获得了古典巧克力蛋糕的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 177,
+      "rec_id": "INTANGEBLE_ID_RECIPE_96",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1421,
+          "ja": "スイートポテトのレシピを入手した！",
+          "tc": "獲得了地瓜甜點的食譜！",
+          "sc": "获得了红薯甜点的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 178,
+      "rec_id": "INTANGEBLE_ID_RECIPE_97",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1429,
+          "ja": "お茶アイスのレシピを入手した！",
+          "tc": "獲得了茶香冰淇淋的食譜！",
+          "sc": "获得了茶香冰淇淋的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 179,
+      "rec_id": "INTANGEBLE_ID_RECIPE_98",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1437,
+          "ja": "バナナヨーグルトのレシピを入手した！",
+          "tc": "獲得了香蕉優格的食譜！",
+          "sc": "获得了香蕉酸奶的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 180,
+      "rec_id": "INTANGEBLE_ID_RECIPE_99",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1445,
+          "ja": "チョコバナナのレシピを入手した！",
+          "tc": "獲得了巧克力香蕉的食譜！",
+          "sc": "获得了巧克力香蕉的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 181,
+      "rec_id": "INTANGEBLE_ID_RECIPE_100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1453,
+          "ja": "ティーセットのレシピを入手した！",
+          "tc": "獲得了下午茶套組的食譜！",
+          "sc": "获得了下午茶套组的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 182,
+      "rec_id": "INTANGEBLE_ID_RECIPE_101",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1461,
+          "ja": "緑茶セットのレシピを入手した！",
+          "tc": "獲得了綠茶套組的食譜！",
+          "sc": "获得了绿茶套组的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 183,
+      "rec_id": "INTANGEBLE_ID_RECIPE_102",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1469,
+          "ja": "烏龍茶セットのレシピを入手した！",
+          "tc": "獲得了烏龍茶套組的食譜！",
+          "sc": "获得了乌龙茶套组的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 184,
+      "rec_id": "INTANGEBLE_ID_RECIPE_103",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1477,
+          "ja": "ほうじ茶セットのレシピを入手した！",
+          "tc": "獲得了焙茶套組的食譜！",
+          "sc": "获得了焙茶套组的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 185,
+      "rec_id": "INTANGEBLE_ID_RECIPE_104",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1485,
+          "ja": "抹茶セットのレシピを入手した！",
+          "tc": "獲得了抹茶套組的食譜！",
+          "sc": "获得了抹茶套组的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 186,
+      "rec_id": "INTANGEBLE_ID_RECIPE_105",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1493,
+          "ja": "ミックスジュースのレシピを入手した！",
+          "tc": "獲得了綜合果汁的食譜！",
+          "sc": "获得了综合果汁的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 187,
+      "rec_id": "INTANGEBLE_ID_RECIPE_106",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1501,
+          "ja": "誕生日ケーキのレシピを入手した！",
+          "tc": "獲得了生日蛋糕的食譜！",
+          "sc": "获得了生日蛋糕的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 188,
+      "rec_id": "INTANGEBLE_ID_RECIPE_107",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1509,
+          "ja": "塩むすびのレシピを入手した！",
+          "tc": "獲得了鹽味飯糰的食譜！",
+          "sc": "获得了盐味饭团的食谱！"
+        }
+      ]
+    }
+  ]
+}

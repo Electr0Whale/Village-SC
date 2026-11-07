@@ -1,0 +1,1285 @@
+{
+  "batch_id": "batch_034_credits",
+  "group": "credits",
+  "files": [
+    "framework_credit.dat"
+  ],
+  "record_count": 1,
+  "line_count": 181,
+  "records": [
+    {
+      "file": "framework_credit.dat",
+      "rec_idx": 0,
+      "rec_id": "-----------------------------------------------------------------------------",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4,
+          "ja": "-----------------------------------------------------------------------------",
+          "tc": "-----------------------------------------------------------------------------",
+          "sc": "-----------------------------------------------------------------------------"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 11,
+          "ja": "Lua 5.4.6",
+          "tc": "Lua 5.4.6",
+          "sc": "Lua 5.4.6"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 18,
+          "ja": "Copyright © 1994–2025 Lua.org, PUC-Rio.",
+          "tc": "Copyright © 1994–2025 Lua.org, PUC-Rio.",
+          "sc": "Copyright © 1994–2025 Lua.org, PUC-Rio."
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 25,
+          "ja": "Permission is hereby granted, free of charge, to any person obtaining a copy of ",
+          "tc": "Permission is hereby granted, free of charge, to any person obtaining a copy of ",
+          "sc": "Permission is hereby granted, free of charge, to any person obtaining a copy of "
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 32,
+          "ja": "this software and associated documentation files (the \"Software\"), to deal in ",
+          "tc": "this software and associated documentation files (the \"Software\"), to deal in ",
+          "sc": "this software and associated documentation files (the \"Software\"), to deal in "
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 39,
+          "ja": "the Software without restriction, including without limitation the rights to use, ",
+          "tc": "the Software without restriction, including without limitation the rights to use, ",
+          "sc": "the Software without restriction, including without limitation the rights to use, "
+        },
+        {
+          "f_idx": 6,
+          "pidx_tc": 46,
+          "ja": "copy, modify, merge, publish, distribute, sublicense, and/or sell copies of ",
+          "tc": "copy, modify, merge, publish, distribute, sublicense, and/or sell copies of ",
+          "sc": "copy, modify, merge, publish, distribute, sublicense, and/or sell copies of "
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 53,
+          "ja": "the Software, and to permit persons to whom the Software is furnished to do so, ",
+          "tc": "the Software, and to permit persons to whom the Software is furnished to do so, ",
+          "sc": "the Software, and to permit persons to whom the Software is furnished to do so, "
+        },
+        {
+          "f_idx": 8,
+          "pidx_tc": 60,
+          "ja": "subject to the following conditions:",
+          "tc": "subject to the following conditions:",
+          "sc": "subject to the following conditions:"
+        },
+        {
+          "f_idx": 9,
+          "pidx_tc": 67,
+          "ja": "The above copyright notice and this permission notice shall be included in all ",
+          "tc": "The above copyright notice and this permission notice shall be included in all ",
+          "sc": "The above copyright notice and this permission notice shall be included in all "
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 74,
+          "ja": "copies or substantial portions of the Software.",
+          "tc": "copies or substantial portions of the Software.",
+          "sc": "copies or substantial portions of the Software."
+        },
+        {
+          "f_idx": 11,
+          "pidx_tc": 81,
+          "ja": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, ",
+          "tc": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, ",
+          "sc": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, "
+        },
+        {
+          "f_idx": 12,
+          "pidx_tc": 88,
+          "ja": "INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR ",
+          "tc": "INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR ",
+          "sc": "INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR "
+        },
+        {
+          "f_idx": 13,
+          "pidx_tc": 95,
+          "ja": "A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT ",
+          "tc": "A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT ",
+          "sc": "A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT "
+        },
+        {
+          "f_idx": 14,
+          "pidx_tc": 102,
+          "ja": "HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF ",
+          "tc": "HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF ",
+          "sc": "HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF "
+        },
+        {
+          "f_idx": 15,
+          "pidx_tc": 109,
+          "ja": "CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE ",
+          "tc": "CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE ",
+          "sc": "CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE "
+        },
+        {
+          "f_idx": 16,
+          "pidx_tc": 116,
+          "ja": "SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+          "tc": "SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+          "sc": "SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+        },
+        {
+          "f_idx": 17,
+          "pidx_tc": 123,
+          "ja": "-----------------------------------------------------------------------------",
+          "tc": "-----------------------------------------------------------------------------",
+          "sc": "-----------------------------------------------------------------------------"
+        },
+        {
+          "f_idx": 18,
+          "pidx_tc": 130,
+          "ja": "LZ4 Library",
+          "tc": "LZ4 Library",
+          "sc": "LZ4 Library"
+        },
+        {
+          "f_idx": 19,
+          "pidx_tc": 137,
+          "ja": "Copyright (c) 2011-2016, Yann Collet",
+          "tc": "Copyright (c) 2011-2016, Yann Collet",
+          "sc": "Copyright (c) 2011-2016, Yann Collet"
+        },
+        {
+          "f_idx": 20,
+          "pidx_tc": 144,
+          "ja": "All rights reserved.",
+          "tc": "All rights reserved.",
+          "sc": "All rights reserved."
+        },
+        {
+          "f_idx": 21,
+          "pidx_tc": 151,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 22,
+          "pidx_tc": 158,
+          "ja": "Redistribution and use in source and binary forms, with or without modification,",
+          "tc": "Redistribution and use in source and binary forms, with or without modification,",
+          "sc": "Redistribution and use in source and binary forms, with or without modification,"
+        },
+        {
+          "f_idx": 23,
+          "pidx_tc": 165,
+          "ja": "are permitted provided that the following conditions are met:",
+          "tc": "are permitted provided that the following conditions are met:",
+          "sc": "are permitted provided that the following conditions are met:"
+        },
+        {
+          "f_idx": 24,
+          "pidx_tc": 172,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 25,
+          "pidx_tc": 179,
+          "ja": "* Redistributions of source code must retain the above copyright notice, this",
+          "tc": "* Redistributions of source code must retain the above copyright notice, this",
+          "sc": "* Redistributions of source code must retain the above copyright notice, this"
+        },
+        {
+          "f_idx": 26,
+          "pidx_tc": 186,
+          "ja": "  list of conditions and the following disclaimer.",
+          "tc": "  list of conditions and the following disclaimer.",
+          "sc": "  list of conditions and the following disclaimer."
+        },
+        {
+          "f_idx": 27,
+          "pidx_tc": 193,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 28,
+          "pidx_tc": 200,
+          "ja": "* Redistributions in binary form must reproduce the above copyright notice, this",
+          "tc": "* Redistributions in binary form must reproduce the above copyright notice, this",
+          "sc": "* Redistributions in binary form must reproduce the above copyright notice, this"
+        },
+        {
+          "f_idx": 29,
+          "pidx_tc": 207,
+          "ja": "  list of conditions and the following disclaimer in the documentation and/or",
+          "tc": "  list of conditions and the following disclaimer in the documentation and/or",
+          "sc": "  list of conditions and the following disclaimer in the documentation and/or"
+        },
+        {
+          "f_idx": 30,
+          "pidx_tc": 214,
+          "ja": "  other materials provided with the distribution.",
+          "tc": "  other materials provided with the distribution.",
+          "sc": "  other materials provided with the distribution."
+        },
+        {
+          "f_idx": 31,
+          "pidx_tc": 221,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 32,
+          "pidx_tc": 228,
+          "ja": "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ”AS IS” AND",
+          "tc": "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ”AS IS” AND",
+          "sc": "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ”AS IS” AND"
+        },
+        {
+          "f_idx": 33,
+          "pidx_tc": 235,
+          "ja": "ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED",
+          "tc": "ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED",
+          "sc": "ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED"
+        },
+        {
+          "f_idx": 34,
+          "pidx_tc": 242,
+          "ja": "WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE",
+          "tc": "WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE",
+          "sc": "WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE"
+        },
+        {
+          "f_idx": 35,
+          "pidx_tc": 249,
+          "ja": "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR",
+          "tc": "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR",
+          "sc": "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR"
+        },
+        {
+          "f_idx": 36,
+          "pidx_tc": 256,
+          "ja": "ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES",
+          "tc": "ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES",
+          "sc": "ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES"
+        },
+        {
+          "f_idx": 37,
+          "pidx_tc": 263,
+          "ja": "(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;",
+          "tc": "(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;",
+          "sc": "(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;"
+        },
+        {
+          "f_idx": 38,
+          "pidx_tc": 270,
+          "ja": "LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON",
+          "tc": "LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON",
+          "sc": "LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON"
+        },
+        {
+          "f_idx": 39,
+          "pidx_tc": 277,
+          "ja": "ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT",
+          "tc": "ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT",
+          "sc": "ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT"
+        },
+        {
+          "f_idx": 40,
+          "pidx_tc": 284,
+          "ja": "(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS",
+          "tc": "(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS",
+          "sc": "(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS"
+        },
+        {
+          "f_idx": 41,
+          "pidx_tc": 291,
+          "ja": "SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+          "tc": "SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+          "sc": "SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+        },
+        {
+          "f_idx": 42,
+          "pidx_tc": 298,
+          "ja": "-----------------------------------------------------------------------------",
+          "tc": "-----------------------------------------------------------------------------",
+          "sc": "-----------------------------------------------------------------------------"
+        },
+        {
+          "f_idx": 43,
+          "pidx_tc": 305,
+          "ja": "                    NVIDIA FXAA 3.11 by TIMOTHY LOTTES",
+          "tc": "                    NVIDIA FXAA 3.11 by TIMOTHY LOTTES",
+          "sc": "                    NVIDIA FXAA 3.11 by TIMOTHY LOTTES"
+        },
+        {
+          "f_idx": 44,
+          "pidx_tc": 312,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 45,
+          "pidx_tc": 319,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 46,
+          "pidx_tc": 326,
+          "ja": "------------------------------------------------------------------------------",
+          "tc": "------------------------------------------------------------------------------",
+          "sc": "------------------------------------------------------------------------------"
+        },
+        {
+          "f_idx": 47,
+          "pidx_tc": 333,
+          "ja": "COPYRIGHT (C) 2010, 2011 NVIDIA CORPORATION. ALL RIGHTS RESERVED.",
+          "tc": "COPYRIGHT (C) 2010, 2011 NVIDIA CORPORATION. ALL RIGHTS RESERVED.",
+          "sc": "COPYRIGHT (C) 2010, 2011 NVIDIA CORPORATION. ALL RIGHTS RESERVED."
+        },
+        {
+          "f_idx": 48,
+          "pidx_tc": 340,
+          "ja": "------------------------------------------------------------------------------",
+          "tc": "------------------------------------------------------------------------------",
+          "sc": "------------------------------------------------------------------------------"
+        },
+        {
+          "f_idx": 49,
+          "pidx_tc": 347,
+          "ja": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED",
+          "tc": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED",
+          "sc": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED"
+        },
+        {
+          "f_idx": 50,
+          "pidx_tc": 354,
+          "ja": "*AS IS* AND NVIDIA AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, EITHER EXPRESS",
+          "tc": "*AS IS* AND NVIDIA AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, EITHER EXPRESS",
+          "sc": "*AS IS* AND NVIDIA AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, EITHER EXPRESS"
+        },
+        {
+          "f_idx": 51,
+          "pidx_tc": 361,
+          "ja": "OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF",
+          "tc": "OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF",
+          "sc": "OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF"
+        },
+        {
+          "f_idx": 52,
+          "pidx_tc": 368,
+          "ja": "MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL NVIDIA",
+          "tc": "MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL NVIDIA",
+          "sc": "MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL NVIDIA"
+        },
+        {
+          "f_idx": 53,
+          "pidx_tc": 375,
+          "ja": "OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR",
+          "tc": "OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR",
+          "sc": "OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR"
+        },
+        {
+          "f_idx": 54,
+          "pidx_tc": 382,
+          "ja": "CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR",
+          "tc": "CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR",
+          "sc": "CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR"
+        },
+        {
+          "f_idx": 55,
+          "pidx_tc": 389,
+          "ja": "LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION,",
+          "tc": "LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION,",
+          "sc": "LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION,"
+        },
+        {
+          "f_idx": 56,
+          "pidx_tc": 396,
+          "ja": "OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE",
+          "tc": "OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE",
+          "sc": "OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE"
+        },
+        {
+          "f_idx": 57,
+          "pidx_tc": 403,
+          "ja": "THIS SOFTWARE, EVEN IF NVIDIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH",
+          "tc": "THIS SOFTWARE, EVEN IF NVIDIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH",
+          "sc": "THIS SOFTWARE, EVEN IF NVIDIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH"
+        },
+        {
+          "f_idx": 58,
+          "pidx_tc": 410,
+          "ja": "DAMAGES.",
+          "tc": "DAMAGES.",
+          "sc": "DAMAGES."
+        },
+        {
+          "f_idx": 59,
+          "pidx_tc": 417,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 60,
+          "pidx_tc": 424,
+          "ja": "-----------------------------------------------------------------------------",
+          "tc": "-----------------------------------------------------------------------------",
+          "sc": "-----------------------------------------------------------------------------"
+        },
+        {
+          "f_idx": 61,
+          "pidx_tc": 431,
+          "ja": "                    The FreeType Project LICENSE",
+          "tc": "                    The FreeType Project LICENSE",
+          "sc": "                    The FreeType Project LICENSE"
+        },
+        {
+          "f_idx": 62,
+          "pidx_tc": 438,
+          "ja": "                    ----------------------------",
+          "tc": "                    ----------------------------",
+          "sc": "                    ----------------------------"
+        },
+        {
+          "f_idx": 63,
+          "pidx_tc": 445,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 64,
+          "pidx_tc": 452,
+          "ja": "                            2006-Jan-27",
+          "tc": "                            2006-Jan-27",
+          "sc": "                            2006-Jan-27"
+        },
+        {
+          "f_idx": 65,
+          "pidx_tc": 459,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 66,
+          "pidx_tc": 466,
+          "ja": "                    Copyright 1996-2002, 2006 by",
+          "tc": "                    Copyright 1996-2002, 2006 by",
+          "sc": "                    Copyright 1996-2002, 2006 by"
+        },
+        {
+          "f_idx": 67,
+          "pidx_tc": 473,
+          "ja": "          David Turner, Robert Wilhelm, and Werner Lemberg",
+          "tc": "          David Turner, Robert Wilhelm, and Werner Lemberg",
+          "sc": "          David Turner, Robert Wilhelm, and Werner Lemberg"
+        },
+        {
+          "f_idx": 68,
+          "pidx_tc": 480,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 69,
+          "pidx_tc": 487,
+          "ja": "    Portions of this software are copyright © 2019 The FreeType",
+          "tc": "    Portions of this software are copyright © 2019 The FreeType",
+          "sc": "    Portions of this software are copyright © 2019 The FreeType"
+        },
+        {
+          "f_idx": 70,
+          "pidx_tc": 494,
+          "ja": "    Project (www.freetype.org).  All rights reserved.",
+          "tc": "    Project (www.freetype.org).  All rights reserved.",
+          "sc": "    Project (www.freetype.org).  All rights reserved."
+        },
+        {
+          "f_idx": 71,
+          "pidx_tc": 501,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 72,
+          "pidx_tc": 508,
+          "ja": "Legal Terms",
+          "tc": "Legal Terms",
+          "sc": "Legal Terms"
+        },
+        {
+          "f_idx": 73,
+          "pidx_tc": 515,
+          "ja": "===========",
+          "tc": "===========",
+          "sc": "==========="
+        },
+        {
+          "f_idx": 74,
+          "pidx_tc": 522,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 75,
+          "pidx_tc": 529,
+          "ja": "0. Definitions",
+          "tc": "0. Definitions",
+          "sc": "0. Definitions"
+        },
+        {
+          "f_idx": 76,
+          "pidx_tc": 536,
+          "ja": "--------------",
+          "tc": "--------------",
+          "sc": "--------------"
+        },
+        {
+          "f_idx": 77,
+          "pidx_tc": 543,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 78,
+          "pidx_tc": 550,
+          "ja": "  Throughout this license,  the terms `package', `FreeType Project',",
+          "tc": "  Throughout this license,  the terms `package', `FreeType Project',",
+          "sc": "  Throughout this license,  the terms `package', `FreeType Project',"
+        },
+        {
+          "f_idx": 79,
+          "pidx_tc": 557,
+          "ja": "  and  `FreeType  archive' refer  to  the  set  of files  originally",
+          "tc": "  and  `FreeType  archive' refer  to  the  set  of files  originally",
+          "sc": "  and  `FreeType  archive' refer  to  the  set  of files  originally"
+        },
+        {
+          "f_idx": 80,
+          "pidx_tc": 564,
+          "ja": "  distributed  by the  authors  (David Turner,  Robert Wilhelm,  and",
+          "tc": "  distributed  by the  authors  (David Turner,  Robert Wilhelm,  and",
+          "sc": "  distributed  by the  authors  (David Turner,  Robert Wilhelm,  and"
+        },
+        {
+          "f_idx": 81,
+          "pidx_tc": 571,
+          "ja": "  Werner Lemberg) as the `FreeType Project', be they named as alpha,",
+          "tc": "  Werner Lemberg) as the `FreeType Project', be they named as alpha,",
+          "sc": "  Werner Lemberg) as the `FreeType Project', be they named as alpha,"
+        },
+        {
+          "f_idx": 82,
+          "pidx_tc": 578,
+          "ja": "  beta or final release.",
+          "tc": "  beta or final release.",
+          "sc": "  beta or final release."
+        },
+        {
+          "f_idx": 83,
+          "pidx_tc": 585,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 84,
+          "pidx_tc": 592,
+          "ja": "  `You' refers to  the licensee, or person using  the project, where",
+          "tc": "  `You' refers to  the licensee, or person using  the project, where",
+          "sc": "  `You' refers to  the licensee, or person using  the project, where"
+        },
+        {
+          "f_idx": 85,
+          "pidx_tc": 599,
+          "ja": "  `using' is a generic term including compiling the project's source",
+          "tc": "  `using' is a generic term including compiling the project's source",
+          "sc": "  `using' is a generic term including compiling the project's source"
+        },
+        {
+          "f_idx": 86,
+          "pidx_tc": 606,
+          "ja": "  code as  well as linking it  to form a  `program' or `executable'.",
+          "tc": "  code as  well as linking it  to form a  `program' or `executable'.",
+          "sc": "  code as  well as linking it  to form a  `program' or `executable'."
+        },
+        {
+          "f_idx": 87,
+          "pidx_tc": 613,
+          "ja": "  This  program is  referred to  as  `a program  using the  FreeType",
+          "tc": "  This  program is  referred to  as  `a program  using the  FreeType",
+          "sc": "  This  program is  referred to  as  `a program  using the  FreeType"
+        },
+        {
+          "f_idx": 88,
+          "pidx_tc": 620,
+          "ja": "  engine'.",
+          "tc": "  engine'.",
+          "sc": "  engine'."
+        },
+        {
+          "f_idx": 89,
+          "pidx_tc": 627,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 90,
+          "pidx_tc": 634,
+          "ja": "  This  license applies  to all  files distributed  in  the original",
+          "tc": "  This  license applies  to all  files distributed  in  the original",
+          "sc": "  This  license applies  to all  files distributed  in  the original"
+        },
+        {
+          "f_idx": 91,
+          "pidx_tc": 641,
+          "ja": "  FreeType  Project,   including  all  source   code,  binaries  and",
+          "tc": "  FreeType  Project,   including  all  source   code,  binaries  and",
+          "sc": "  FreeType  Project,   including  all  source   code,  binaries  and"
+        },
+        {
+          "f_idx": 92,
+          "pidx_tc": 648,
+          "ja": "  documentation,  unless  otherwise  stated   in  the  file  in  its",
+          "tc": "  documentation,  unless  otherwise  stated   in  the  file  in  its",
+          "sc": "  documentation,  unless  otherwise  stated   in  the  file  in  its"
+        },
+        {
+          "f_idx": 93,
+          "pidx_tc": 655,
+          "ja": "  original, unmodified form as  distributed in the original archive.",
+          "tc": "  original, unmodified form as  distributed in the original archive.",
+          "sc": "  original, unmodified form as  distributed in the original archive."
+        },
+        {
+          "f_idx": 94,
+          "pidx_tc": 662,
+          "ja": "  If you are  unsure whether or not a particular  file is covered by",
+          "tc": "  If you are  unsure whether or not a particular  file is covered by",
+          "sc": "  If you are  unsure whether or not a particular  file is covered by"
+        },
+        {
+          "f_idx": 95,
+          "pidx_tc": 669,
+          "ja": "  this license, you must contact us to verify this.",
+          "tc": "  this license, you must contact us to verify this.",
+          "sc": "  this license, you must contact us to verify this."
+        },
+        {
+          "f_idx": 96,
+          "pidx_tc": 676,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 97,
+          "pidx_tc": 683,
+          "ja": "  The FreeType  Project is copyright (C) 1996-2000  by David Turner,",
+          "tc": "  The FreeType  Project is copyright (C) 1996-2000  by David Turner,",
+          "sc": "  The FreeType  Project is copyright (C) 1996-2000  by David Turner,"
+        },
+        {
+          "f_idx": 98,
+          "pidx_tc": 690,
+          "ja": "  Robert Wilhelm, and Werner Lemberg.  All rights reserved except as",
+          "tc": "  Robert Wilhelm, and Werner Lemberg.  All rights reserved except as",
+          "sc": "  Robert Wilhelm, and Werner Lemberg.  All rights reserved except as"
+        },
+        {
+          "f_idx": 99,
+          "pidx_tc": 697,
+          "ja": "  specified below.",
+          "tc": "  specified below.",
+          "sc": "  specified below."
+        },
+        {
+          "f_idx": 100,
+          "pidx_tc": 704,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 101,
+          "pidx_tc": 711,
+          "ja": "1. No Warranty",
+          "tc": "1. No Warranty",
+          "sc": "1. No Warranty"
+        },
+        {
+          "f_idx": 102,
+          "pidx_tc": 718,
+          "ja": "--------------",
+          "tc": "--------------",
+          "sc": "--------------"
+        },
+        {
+          "f_idx": 103,
+          "pidx_tc": 725,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 104,
+          "pidx_tc": 732,
+          "ja": "  THE FREETYPE PROJECT  IS PROVIDED `AS IS' WITHOUT  WARRANTY OF ANY",
+          "tc": "  THE FREETYPE PROJECT  IS PROVIDED `AS IS' WITHOUT  WARRANTY OF ANY",
+          "sc": "  THE FREETYPE PROJECT  IS PROVIDED `AS IS' WITHOUT  WARRANTY OF ANY"
+        },
+        {
+          "f_idx": 105,
+          "pidx_tc": 739,
+          "ja": "  KIND, EITHER  EXPRESS OR IMPLIED,  INCLUDING, BUT NOT  LIMITED TO,",
+          "tc": "  KIND, EITHER  EXPRESS OR IMPLIED,  INCLUDING, BUT NOT  LIMITED TO,",
+          "sc": "  KIND, EITHER  EXPRESS OR IMPLIED,  INCLUDING, BUT NOT  LIMITED TO,"
+        },
+        {
+          "f_idx": 106,
+          "pidx_tc": 746,
+          "ja": "  WARRANTIES  OF  MERCHANTABILITY   AND  FITNESS  FOR  A  PARTICULAR",
+          "tc": "  WARRANTIES  OF  MERCHANTABILITY   AND  FITNESS  FOR  A  PARTICULAR",
+          "sc": "  WARRANTIES  OF  MERCHANTABILITY   AND  FITNESS  FOR  A  PARTICULAR"
+        },
+        {
+          "f_idx": 107,
+          "pidx_tc": 753,
+          "ja": "  PURPOSE.  IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS",
+          "tc": "  PURPOSE.  IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS",
+          "sc": "  PURPOSE.  IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS"
+        },
+        {
+          "f_idx": 108,
+          "pidx_tc": 760,
+          "ja": "  BE LIABLE  FOR ANY DAMAGES CAUSED  BY THE USE OR  THE INABILITY TO",
+          "tc": "  BE LIABLE  FOR ANY DAMAGES CAUSED  BY THE USE OR  THE INABILITY TO",
+          "sc": "  BE LIABLE  FOR ANY DAMAGES CAUSED  BY THE USE OR  THE INABILITY TO"
+        },
+        {
+          "f_idx": 109,
+          "pidx_tc": 767,
+          "ja": "  USE, OF THE FREETYPE PROJECT.",
+          "tc": "  USE, OF THE FREETYPE PROJECT.",
+          "sc": "  USE, OF THE FREETYPE PROJECT."
+        },
+        {
+          "f_idx": 110,
+          "pidx_tc": 774,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 111,
+          "pidx_tc": 781,
+          "ja": "2. Redistribution",
+          "tc": "2. Redistribution",
+          "sc": "2. Redistribution"
+        },
+        {
+          "f_idx": 112,
+          "pidx_tc": 788,
+          "ja": "-----------------",
+          "tc": "-----------------",
+          "sc": "-----------------"
+        },
+        {
+          "f_idx": 113,
+          "pidx_tc": 795,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 114,
+          "pidx_tc": 802,
+          "ja": "  This  license  grants  a  worldwide, royalty-free,  perpetual  and",
+          "tc": "  This  license  grants  a  worldwide, royalty-free,  perpetual  and",
+          "sc": "  This  license  grants  a  worldwide, royalty-free,  perpetual  and"
+        },
+        {
+          "f_idx": 115,
+          "pidx_tc": 809,
+          "ja": "  irrevocable right  and license to use,  execute, perform, compile,",
+          "tc": "  irrevocable right  and license to use,  execute, perform, compile,",
+          "sc": "  irrevocable right  and license to use,  execute, perform, compile,"
+        },
+        {
+          "f_idx": 116,
+          "pidx_tc": 816,
+          "ja": "  display,  copy,   create  derivative  works   of,  distribute  and",
+          "tc": "  display,  copy,   create  derivative  works   of,  distribute  and",
+          "sc": "  display,  copy,   create  derivative  works   of,  distribute  and"
+        },
+        {
+          "f_idx": 117,
+          "pidx_tc": 823,
+          "ja": "  sublicense the  FreeType Project (in  both source and  object code",
+          "tc": "  sublicense the  FreeType Project (in  both source and  object code",
+          "sc": "  sublicense the  FreeType Project (in  both source and  object code"
+        },
+        {
+          "f_idx": 118,
+          "pidx_tc": 830,
+          "ja": "  forms)  and  derivative works  thereof  for  any  purpose; and  to",
+          "tc": "  forms)  and  derivative works  thereof  for  any  purpose; and  to",
+          "sc": "  forms)  and  derivative works  thereof  for  any  purpose; and  to"
+        },
+        {
+          "f_idx": 119,
+          "pidx_tc": 837,
+          "ja": "  authorize others  to exercise  some or all  of the  rights granted",
+          "tc": "  authorize others  to exercise  some or all  of the  rights granted",
+          "sc": "  authorize others  to exercise  some or all  of the  rights granted"
+        },
+        {
+          "f_idx": 120,
+          "pidx_tc": 844,
+          "ja": "  herein, subject to the following conditions:",
+          "tc": "  herein, subject to the following conditions:",
+          "sc": "  herein, subject to the following conditions:"
+        },
+        {
+          "f_idx": 121,
+          "pidx_tc": 851,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 122,
+          "pidx_tc": 858,
+          "ja": "    o Redistribution of  source code  must retain this  license file",
+          "tc": "    o Redistribution of  source code  must retain this  license file",
+          "sc": "    o Redistribution of  source code  must retain this  license file"
+        },
+        {
+          "f_idx": 123,
+          "pidx_tc": 865,
+          "ja": "      (`FTL.TXT') unaltered; any  additions, deletions or changes to",
+          "tc": "      (`FTL.TXT') unaltered; any  additions, deletions or changes to",
+          "sc": "      (`FTL.TXT') unaltered; any  additions, deletions or changes to"
+        },
+        {
+          "f_idx": 124,
+          "pidx_tc": 872,
+          "ja": "      the original  files must be clearly  indicated in accompanying",
+          "tc": "      the original  files must be clearly  indicated in accompanying",
+          "sc": "      the original  files must be clearly  indicated in accompanying"
+        },
+        {
+          "f_idx": 125,
+          "pidx_tc": 879,
+          "ja": "      documentation.   The  copyright   notices  of  the  unaltered,",
+          "tc": "      documentation.   The  copyright   notices  of  the  unaltered,",
+          "sc": "      documentation.   The  copyright   notices  of  the  unaltered,"
+        },
+        {
+          "f_idx": 126,
+          "pidx_tc": 886,
+          "ja": "      original  files must  be  preserved in  all  copies of  source",
+          "tc": "      original  files must  be  preserved in  all  copies of  source",
+          "sc": "      original  files must  be  preserved in  all  copies of  source"
+        },
+        {
+          "f_idx": 127,
+          "pidx_tc": 893,
+          "ja": "      files.",
+          "tc": "      files.",
+          "sc": "      files."
+        },
+        {
+          "f_idx": 128,
+          "pidx_tc": 900,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 129,
+          "pidx_tc": 907,
+          "ja": "    o Redistribution in binary form must provide a  disclaimer  that",
+          "tc": "    o Redistribution in binary form must provide a  disclaimer  that",
+          "sc": "    o Redistribution in binary form must provide a  disclaimer  that"
+        },
+        {
+          "f_idx": 130,
+          "pidx_tc": 914,
+          "ja": "      states  that  the software is based in part of the work of the",
+          "tc": "      states  that  the software is based in part of the work of the",
+          "sc": "      states  that  the software is based in part of the work of the"
+        },
+        {
+          "f_idx": 131,
+          "pidx_tc": 921,
+          "ja": "      FreeType Team,  in  the  distribution  documentation.  We also",
+          "tc": "      FreeType Team,  in  the  distribution  documentation.  We also",
+          "sc": "      FreeType Team,  in  the  distribution  documentation.  We also"
+        },
+        {
+          "f_idx": 132,
+          "pidx_tc": 928,
+          "ja": "      encourage you to put an URL to the FreeType web page  in  your",
+          "tc": "      encourage you to put an URL to the FreeType web page  in  your",
+          "sc": "      encourage you to put an URL to the FreeType web page  in  your"
+        },
+        {
+          "f_idx": 133,
+          "pidx_tc": 935,
+          "ja": "      documentation, though this isn't mandatory.",
+          "tc": "      documentation, though this isn't mandatory.",
+          "sc": "      documentation, though this isn't mandatory."
+        },
+        {
+          "f_idx": 134,
+          "pidx_tc": 942,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 135,
+          "pidx_tc": 949,
+          "ja": "  These conditions  apply to any  software derived from or  based on",
+          "tc": "  These conditions  apply to any  software derived from or  based on",
+          "sc": "  These conditions  apply to any  software derived from or  based on"
+        },
+        {
+          "f_idx": 136,
+          "pidx_tc": 956,
+          "ja": "  the FreeType Project,  not just the unmodified files.   If you use",
+          "tc": "  the FreeType Project,  not just the unmodified files.   If you use",
+          "sc": "  the FreeType Project,  not just the unmodified files.   If you use"
+        },
+        {
+          "f_idx": 137,
+          "pidx_tc": 963,
+          "ja": "  our work, you  must acknowledge us.  However, no  fee need be paid",
+          "tc": "  our work, you  must acknowledge us.  However, no  fee need be paid",
+          "sc": "  our work, you  must acknowledge us.  However, no  fee need be paid"
+        },
+        {
+          "f_idx": 138,
+          "pidx_tc": 970,
+          "ja": "  to us.",
+          "tc": "  to us.",
+          "sc": "  to us."
+        },
+        {
+          "f_idx": 139,
+          "pidx_tc": 977,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 140,
+          "pidx_tc": 984,
+          "ja": "3. Advertising",
+          "tc": "3. Advertising",
+          "sc": "3. Advertising"
+        },
+        {
+          "f_idx": 141,
+          "pidx_tc": 991,
+          "ja": "--------------",
+          "tc": "--------------",
+          "sc": "--------------"
+        },
+        {
+          "f_idx": 142,
+          "pidx_tc": 998,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 143,
+          "pidx_tc": 1005,
+          "ja": "  Neither the  FreeType authors and  contributors nor you  shall use",
+          "tc": "  Neither the  FreeType authors and  contributors nor you  shall use",
+          "sc": "  Neither the  FreeType authors and  contributors nor you  shall use"
+        },
+        {
+          "f_idx": 144,
+          "pidx_tc": 1012,
+          "ja": "  the name of the  other for commercial, advertising, or promotional",
+          "tc": "  the name of the  other for commercial, advertising, or promotional",
+          "sc": "  the name of the  other for commercial, advertising, or promotional"
+        },
+        {
+          "f_idx": 145,
+          "pidx_tc": 1019,
+          "ja": "  purposes without specific prior written permission.",
+          "tc": "  purposes without specific prior written permission.",
+          "sc": "  purposes without specific prior written permission."
+        },
+        {
+          "f_idx": 146,
+          "pidx_tc": 1026,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 147,
+          "pidx_tc": 1033,
+          "ja": "  We suggest,  but do not require, that  you use one or  more of the",
+          "tc": "  We suggest,  but do not require, that  you use one or  more of the",
+          "sc": "  We suggest,  but do not require, that  you use one or  more of the"
+        },
+        {
+          "f_idx": 148,
+          "pidx_tc": 1040,
+          "ja": "  following phrases to refer  to this software in your documentation",
+          "tc": "  following phrases to refer  to this software in your documentation",
+          "sc": "  following phrases to refer  to this software in your documentation"
+        },
+        {
+          "f_idx": 149,
+          "pidx_tc": 1047,
+          "ja": "  or advertising  materials: `FreeType Project',  `FreeType Engine',",
+          "tc": "  or advertising  materials: `FreeType Project',  `FreeType Engine',",
+          "sc": "  or advertising  materials: `FreeType Project',  `FreeType Engine',"
+        },
+        {
+          "f_idx": 150,
+          "pidx_tc": 1054,
+          "ja": "  `FreeType library', or `FreeType Distribution'.",
+          "tc": "  `FreeType library', or `FreeType Distribution'.",
+          "sc": "  `FreeType library', or `FreeType Distribution'."
+        },
+        {
+          "f_idx": 151,
+          "pidx_tc": 1061,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 152,
+          "pidx_tc": 1068,
+          "ja": "  As  you have  not signed  this license,  you are  not  required to",
+          "tc": "  As  you have  not signed  this license,  you are  not  required to",
+          "sc": "  As  you have  not signed  this license,  you are  not  required to"
+        },
+        {
+          "f_idx": 153,
+          "pidx_tc": 1075,
+          "ja": "  accept  it.   However,  as  the FreeType  Project  is  copyrighted",
+          "tc": "  accept  it.   However,  as  the FreeType  Project  is  copyrighted",
+          "sc": "  accept  it.   However,  as  the FreeType  Project  is  copyrighted"
+        },
+        {
+          "f_idx": 154,
+          "pidx_tc": 1082,
+          "ja": "  material, only  this license, or  another one contracted  with the",
+          "tc": "  material, only  this license, or  another one contracted  with the",
+          "sc": "  material, only  this license, or  another one contracted  with the"
+        },
+        {
+          "f_idx": 155,
+          "pidx_tc": 1089,
+          "ja": "  authors, grants you  the right to use, distribute,  and modify it.",
+          "tc": "  authors, grants you  the right to use, distribute,  and modify it.",
+          "sc": "  authors, grants you  the right to use, distribute,  and modify it."
+        },
+        {
+          "f_idx": 156,
+          "pidx_tc": 1096,
+          "ja": "  Therefore,  by  using,  distributing,  or modifying  the  FreeType",
+          "tc": "  Therefore,  by  using,  distributing,  or modifying  the  FreeType",
+          "sc": "  Therefore,  by  using,  distributing,  or modifying  the  FreeType"
+        },
+        {
+          "f_idx": 157,
+          "pidx_tc": 1103,
+          "ja": "  Project, you indicate that you understand and accept all the terms",
+          "tc": "  Project, you indicate that you understand and accept all the terms",
+          "sc": "  Project, you indicate that you understand and accept all the terms"
+        },
+        {
+          "f_idx": 158,
+          "pidx_tc": 1110,
+          "ja": "  of this license.",
+          "tc": "  of this license.",
+          "sc": "  of this license."
+        },
+        {
+          "f_idx": 159,
+          "pidx_tc": 1117,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 160,
+          "pidx_tc": 1124,
+          "ja": "4. Contacts",
+          "tc": "4. Contacts",
+          "sc": "4. Contacts"
+        },
+        {
+          "f_idx": 161,
+          "pidx_tc": 1131,
+          "ja": "-----------",
+          "tc": "-----------",
+          "sc": "-----------"
+        },
+        {
+          "f_idx": 162,
+          "pidx_tc": 1138,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 163,
+          "pidx_tc": 1145,
+          "ja": "  There are two mailing lists related to FreeType:",
+          "tc": "  There are two mailing lists related to FreeType:",
+          "sc": "  There are two mailing lists related to FreeType:"
+        },
+        {
+          "f_idx": 164,
+          "pidx_tc": 1152,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 165,
+          "pidx_tc": 1159,
+          "ja": "    o freetype@nongnu.org",
+          "tc": "    o freetype@nongnu.org",
+          "sc": "    o freetype@nongnu.org"
+        },
+        {
+          "f_idx": 166,
+          "pidx_tc": 1166,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 167,
+          "pidx_tc": 1173,
+          "ja": "      Discusses general use and applications of FreeType, as well as",
+          "tc": "      Discusses general use and applications of FreeType, as well as",
+          "sc": "      Discusses general use and applications of FreeType, as well as"
+        },
+        {
+          "f_idx": 168,
+          "pidx_tc": 1180,
+          "ja": "      future and  wanted additions to the  library and distribution.",
+          "tc": "      future and  wanted additions to the  library and distribution.",
+          "sc": "      future and  wanted additions to the  library and distribution."
+        },
+        {
+          "f_idx": 169,
+          "pidx_tc": 1187,
+          "ja": "      If  you are looking  for support,  start in  this list  if you",
+          "tc": "      If  you are looking  for support,  start in  this list  if you",
+          "sc": "      If  you are looking  for support,  start in  this list  if you"
+        },
+        {
+          "f_idx": 170,
+          "pidx_tc": 1194,
+          "ja": "      haven't found anything to help you in the documentation.",
+          "tc": "      haven't found anything to help you in the documentation.",
+          "sc": "      haven't found anything to help you in the documentation."
+        },
+        {
+          "f_idx": 171,
+          "pidx_tc": 1201,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 172,
+          "pidx_tc": 1208,
+          "ja": "    o freetype-devel@nongnu.org",
+          "tc": "    o freetype-devel@nongnu.org",
+          "sc": "    o freetype-devel@nongnu.org"
+        },
+        {
+          "f_idx": 173,
+          "pidx_tc": 1215,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 174,
+          "pidx_tc": 1222,
+          "ja": "      Discusses bugs,  as well  as engine internals,  design issues,",
+          "tc": "      Discusses bugs,  as well  as engine internals,  design issues,",
+          "sc": "      Discusses bugs,  as well  as engine internals,  design issues,"
+        },
+        {
+          "f_idx": 175,
+          "pidx_tc": 1229,
+          "ja": "      specific licenses, porting, etc.",
+          "tc": "      specific licenses, porting, etc.",
+          "sc": "      specific licenses, porting, etc."
+        },
+        {
+          "f_idx": 176,
+          "pidx_tc": 1236,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 177,
+          "pidx_tc": 1243,
+          "ja": "  Our home page can be found at",
+          "tc": "  Our home page can be found at",
+          "sc": "  Our home page can be found at"
+        },
+        {
+          "f_idx": 178,
+          "pidx_tc": 1250,
+          "ja": " ",
+          "tc": " ",
+          "sc": " "
+        },
+        {
+          "f_idx": 179,
+          "pidx_tc": 1257,
+          "ja": "    https://www.freetype.org",
+          "tc": "    https://www.freetype.org",
+          "sc": "    https://www.freetype.org"
+        },
+        {
+          "f_idx": 180,
+          "pidx_tc": 1264,
+          "ja": "-----------------------------------------------------------------------------",
+          "tc": "-----------------------------------------------------------------------------",
+          "sc": "-----------------------------------------------------------------------------"
+        }
+      ]
+    }
+  ]
+}

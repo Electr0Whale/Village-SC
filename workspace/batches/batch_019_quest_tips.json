@@ -1,0 +1,1796 @@
+{
+  "batch_id": "batch_019_quest_tips",
+  "group": "quest_tips",
+  "files": [
+    "tips.dat"
+  ],
+  "record_count": 56,
+  "line_count": 199,
+  "records": [
+    {
+      "file": "tips.dat",
+      "rec_idx": 15,
+      "rec_id": "TIPS_17_MENU_OPEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 405,
+          "ja": "メニューを開く",
+          "tc": "打開選單",
+          "sc": "打开菜单"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 412,
+          "ja": "<cmd CMD_UNIT_MAIN_MENU -offsetY -5>メニューを開く",
+          "tc": "按下<cmd CMD_UNIT_MAIN_MENU -offsetY -5>開啟選單",
+          "sc": "按下<cmd CMD_UNIT_MAIN_MENU -offsetY -5>开启菜单"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 419,
+          "ja": "地図や手持ち道具などを",
+          "tc": "開啟用來確認",
+          "sc": "开启用来确认"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 426,
+          "ja": "確認する画面を開く",
+          "tc": "地圖和隨身道具的畫面",
+          "sc": "地图和随身道具的画面"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 16,
+      "rec_id": "TIPS_18_HOW_TO_VEGGIE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 434,
+          "ja": "作物の育て方",
+          "tc": "作物的栽培方法",
+          "sc": "作物的栽培方法"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 441,
+          "ja": "農具「クワ」を使って、",
+          "tc": "使用農具「鋤頭」，",
+          "sc": "使用农具“锄头”，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 448,
+          "ja": "土の地面を畑にすることで",
+          "tc": "將土地開墾成農田後，",
+          "sc": "将土地开垦成农田后，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 455,
+          "ja": "作物の種を植えられる",
+          "tc": "便可種植作物種子",
+          "sc": "便可种植作物种子"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 17,
+      "rec_id": "TIPS_19_HOW_TO_VEGGIE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 463,
+          "ja": "作物の育て方２",
+          "tc": "作物的栽培方法2",
+          "sc": "作物的栽培方法2"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 470,
+          "ja": "作物の種が植わった乾いた畑に",
+          "tc": "在種了作物種子的乾燥田地裡，",
+          "sc": "在种了作物种子的干燥田地里，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 477,
+          "ja": "農具「ジョウロ」で水を与えよう",
+          "tc": "使用農具「澆水壺」來澆水吧",
+          "sc": "使用农具“浇水壶”来浇水吧"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 484,
+          "ja": "毎日繰り返すと、作物が育つ",
+          "tc": "每天重複此步驟，作物就會茁壯生長",
+          "sc": "每天重复此步骤，作物就会茁壮生长"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 18,
+      "rec_id": "TIPS_20_HOW_TO_VEGGIE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 492,
+          "ja": "作物の育て方３",
+          "tc": "作物的栽培方法3",
+          "sc": "作物的栽培方法3"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 499,
+          "ja": "畑に植えた種が成長して",
+          "tc": "當種在田裡的種子長大，",
+          "sc": "当种在田里的种子长大，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 506,
+          "ja": "作物が実ったら",
+          "tc": "結出作物後，",
+          "sc": "结出作物后，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 513,
+          "ja": "待ちに待った収穫ができる",
+          "tc": "就能迎來期待已久的收穫",
+          "sc": "就能迎来期待已久的收获"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 19,
+      "rec_id": "TIPS_21_SOWING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 521,
+          "ja": "種を撒く",
+          "tc": "播種",
+          "sc": "播种"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 528,
+          "ja": "道具から「種」を選ぼう",
+          "tc": "從道具中挑選「種子」吧",
+          "sc": "从道具中挑选“种子”吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 535,
+          "ja": "「種」は<cmd CMD_INTERACTION_TRIANGLE -offsetY -5>で畑に向かって使う",
+          "tc": "朝著農田按下<cmd CMD_INTERACTION_TRIANGLE -offsetY -5>來使用「種子」",
+          "sc": "朝着农田按下<cmd CMD_INTERACTION_TRIANGLE -offsetY -5>来使用“种子”"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 542,
+          "ja": "<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>で連続して種を撒く",
+          "tc": "按下<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>可連續播種",
+          "sc": "按下<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>可连续播种"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 20,
+      "rec_id": "TIPS_22_MILK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 550,
+          "ja": "畜産品の生産",
+          "tc": "生產畜產品",
+          "sc": "生产畜产品"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 557,
+          "ja": "家畜に向かって<cmd CMD_INTERACTION_OBTAIN -offsetY -5>で畜産品を採る",
+          "tc": "朝著家畜按下<cmd CMD_INTERACTION_OBTAIN -offsetY -5>採集畜產品",
+          "sc": "朝着家畜按下<cmd CMD_INTERACTION_OBTAIN -offsetY -5>采集畜产品"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 564,
+          "ja": "畜産品を入手できる上に、",
+          "tc": "採集不只能獲得畜產品",
+          "sc": "采集不只能获得畜产品"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 571,
+          "ja": "動物と仲良くなることができる",
+          "tc": "也能和牠們更加親近",
+          "sc": "也能和它们更加亲近"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 21,
+      "rec_id": "TIPS_23_HOW_TO_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 579,
+          "ja": "動物の育て方",
+          "tc": "飼育動物的方式",
+          "sc": "饲育动物的方式"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 586,
+          "ja": "家畜は毎日、撫でてあげよう",
+          "tc": "記得要每天摸摸家畜喔",
+          "sc": "记得要每天摸摸家畜哦"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 593,
+          "ja": "より仲良くなることができ、",
+          "tc": "這樣能和牠們變得更加親近，",
+          "sc": "这样能和它们变得更加亲近，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 600,
+          "ja": "より良い畜産物が手に入る",
+          "tc": "就能獲得更優質的畜產品",
+          "sc": "就能获得更优质的畜产品"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 22,
+      "rec_id": "TIPS_24_CHICKEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 608,
+          "ja": "ニワトリの畜産物",
+          "tc": "雞的畜產品",
+          "sc": "鸡的畜产品"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 615,
+          "ja": "ニワトリは毎日、卵を生み出す",
+          "tc": "雞每天都會下蛋",
+          "sc": "鸡每天都会下蛋"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 622,
+          "ja": "仲の良いニワトリは、",
+          "tc": "關係親近的雞，",
+          "sc": "关系亲近的鸡，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 629,
+          "ja": "より良い卵を生んでくれる",
+          "tc": "會生出更優質的蛋",
+          "sc": "会生出更优质的蛋"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 23,
+      "rec_id": "TIPS_25_FISHING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 637,
+          "ja": "釣りをする",
+          "tc": "釣魚",
+          "sc": "钓鱼"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 644,
+          "ja": "釣りができる水辺に来たら、",
+          "tc": "來到可釣魚的水邊時，",
+          "sc": "来到可钓鱼的水边时，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 651,
+          "ja": "<cmd CMD_INTERACTION_FISHING -offsetY -5>で釣りができる",
+          "tc": "按下<cmd CMD_INTERACTION_FISHING -offsetY -5>即可釣魚",
+          "sc": "按下<cmd CMD_INTERACTION_FISHING -offsetY -5>即可钓鱼"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 24,
+      "rec_id": "TIPS_26_ITEM_USE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 659,
+          "ja": "道具の使用",
+          "tc": "使用道具",
+          "sc": "使用道具"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 666,
+          "ja": "選択している道具は",
+          "tc": "選擇的道具",
+          "sc": "选择的道具"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 673,
+          "ja": "<cmd CMD_UNIT_ITEM -offsetY -5>で使うことができる",
+          "tc": "可按下<cmd CMD_UNIT_ITEM -offsetY -5>來使用",
+          "sc": "可按下<cmd CMD_UNIT_ITEM -offsetY -5>来使用"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 25,
+      "rec_id": "TIPS_27_WORKBENCH_PLACED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 681,
+          "ja": "作業台の設置",
+          "tc": "設置工作台",
+          "sc": "设置工作台"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 688,
+          "ja": "作業台を<cmd CMD_UNIT_ITEM_PRESS -offsetY -5>で置こう",
+          "tc": "按下<cmd CMD_UNIT_ITEM_PRESS -offsetY -5>放置工作台吧",
+          "sc": "按下<cmd CMD_UNIT_ITEM_PRESS -offsetY -5>放置工作台吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 695,
+          "ja": "道具欄から作業台を選び、",
+          "tc": "從道具欄中選擇工作台，",
+          "sc": "从道具栏中选择工作台，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 702,
+          "ja": "<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>で設置位置を調整",
+          "tc": "以<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>可調整設置位置",
+          "sc": "以<cmd CMD_INTERACTION_LONG_TRIANGLE -offsetY -5>可调整设置位置"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 26,
+      "rec_id": "TIPS_28_WORKBENCH_OPEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 710,
+          "ja": "作業台",
+          "tc": "工作台",
+          "sc": "工作台"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 717,
+          "ja": "資材を揃えて道具を作ろう",
+          "tc": "收集物資，來製作道具吧",
+          "sc": "收集物资，来制作道具吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 724,
+          "ja": "道具ごとに必要資材は異なる",
+          "tc": "每種道具所需要的物資都不同",
+          "sc": "每种道具所需要的物资都不同"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 27,
+      "rec_id": "TIPS_29_DOG_WHISTLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 739,
+          "ja": "犬の呼笛",
+          "tc": "喚犬呼笛",
+          "sc": "唤犬呼笛"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 746,
+          "ja": "犬の呼笛を吹くと",
+          "tc": "只要吹出喚犬呼笛",
+          "sc": "只要吹出唤犬呼笛"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 753,
+          "ja": "村のどこにいても犬が来てくれる",
+          "tc": "無論身在村裡何處，狗都會來到身邊",
+          "sc": "无论身在村里何处，狗都会来到身边"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 760,
+          "ja": "指笛は<cmd CMD_UNIT_SHORTCUT_TOOL -offsetY -5>から選択できる",
+          "tc": "可按下<cmd CMD_UNIT_SHORTCUT_TOOL -offsetY -5>選擇手哨",
+          "sc": "可按下<cmd CMD_UNIT_SHORTCUT_TOOL -offsetY -5>选择手哨"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 28,
+      "rec_id": "TIPS_30_FURROW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 768,
+          "ja": "畝",
+          "tc": "田壟",
+          "sc": "田垄"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 775,
+          "ja": "クワで畑を耕すと畝になる",
+          "tc": "用鋤頭翻整田地後，就會形成田壟",
+          "sc": "用锄头翻整田地后，就会形成田垄"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 782,
+          "ja": "畝に適した作物を植えると、",
+          "tc": "如果在田壟上種植適合的種子，",
+          "sc": "如果在田垄上种植适合的种子，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 789,
+          "ja": "実るまでの日にちが短くなる",
+          "tc": "結出作物所需的天數就會變短",
+          "sc": "结出作物所需的天数就会变短"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 29,
+      "rec_id": "TIPS_31_MOVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 797,
+          "ja": "移動",
+          "tc": "移動",
+          "sc": "移动"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 804,
+          "ja": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>走って移動する",
+          "tc": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>快跑移動",
+          "sc": "<cmd CMD_UNIT_MOVE_STICK -offsetY -5>快跑移动"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 811,
+          "ja": "少しだけ<cmd CMD_UNIT_MOVE_STICK -offsetY -5>を倒すと",
+          "tc": "可稍微輕推<cmd CMD_UNIT_MOVE_STICK -offsetY -5>，",
+          "sc": "可稍微轻推<cmd CMD_UNIT_MOVE_STICK -offsetY -5>，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 818,
+          "ja": "歩いて移動できる",
+          "tc": "或按下<cmd CMD_UNIT_WALK_KEY -offsetY -5>就能步行移動",
+          "sc": "或按下<cmd CMD_UNIT_WALK_KEY -offsetY -5>就能步行移动"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 30,
+      "rec_id": "TIPS_32_FLASHLIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 826,
+          "ja": "懐中電灯",
+          "tc": "手電筒",
+          "sc": "手电筒"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 833,
+          "ja": "<cmd CMD_UNIT_ACTION -offsetY -5>懐中電灯を点灯",
+          "tc": "<cmd CMD_UNIT_ACTION -offsetY -5>打開手電筒",
+          "sc": "<cmd CMD_UNIT_ACTION -offsetY -5>打开手电筒"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 840,
+          "ja": "もう一度押すと消灯する",
+          "tc": "再按一次即可關閉",
+          "sc": "再按一次即可关闭"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 31,
+      "rec_id": "TIPS_32_FLASHLIGHT_HORROR_OFF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 848,
+          "ja": "懐中電灯",
+          "tc": "手電筒",
+          "sc": "手电筒"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 855,
+          "ja": "<cmd CMD_UNIT_ACTION -offsetY -5>懐中電灯を点灯",
+          "tc": "<cmd CMD_UNIT_ACTION -offsetY -5>打開手電筒",
+          "sc": "<cmd CMD_UNIT_ACTION -offsetY -5>打开手电筒"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 862,
+          "ja": "もう一度押すと消灯する",
+          "tc": "再按一次即可關閉",
+          "sc": "再按一次即可关闭"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 32,
+      "rec_id": "TIPS_33_WHISTLE_READY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 870,
+          "ja": "指笛を構える",
+          "tc": "比出手哨",
+          "sc": "比出手哨"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 877,
+          "ja": "<cmd CMD_UNIT_SHORTCUT_TOOL -offsetY -5>農具サークルを展開して、",
+          "tc": "<cmd CMD_UNIT_SHORTCUT_TOOL>展開農具環，",
+          "sc": "<cmd CMD_UNIT_SHORTCUT_TOOL>展开农具环，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 884,
+          "ja": "<cmd CMD_TOOL_CIRCLE_WHISTLE -offsetY -5>で指笛を構える",
+          "tc": "按下<cmd CMD_TOOL_CIRCLE_WHISTLE -offsetY -5>比出手哨",
+          "sc": "按下<cmd CMD_TOOL_CIRCLE_WHISTLE -offsetY -5>比出手哨"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 33,
+      "rec_id": "TIPS_34_WHISTLE_SELECT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 892,
+          "ja": "楽譜を選ぶ",
+          "tc": "選擇樂譜",
+          "sc": "选择乐谱"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 899,
+          "ja": "指笛を構えた状態で、",
+          "tc": "在比出手哨的狀態下，",
+          "sc": "在比出手哨的状态下，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 906,
+          "ja": "<cmd CMD_WHISTLE_CHANGE_SONG -offsetY -5>歌のガイドを表示する",
+          "tc": "按下<cmd CMD_WHISTLE_CHANGE_SONG -offsetY -5>顯示歌曲指南",
+          "sc": "按下<cmd CMD_WHISTLE_CHANGE_SONG -offsetY -5>显示歌曲指南"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 913,
+          "ja": "ガイドに合わせて<cmd CMD_WHISTLE_NOTE_INPUT_1 -offsetY -5>で吹く",
+          "tc": "依照指南按下<cmd CMD_WHISTLE_NOTE_INPUT_1 -offsetY -5>吹奏",
+          "sc": "依照指南按下<cmd CMD_WHISTLE_NOTE_INPUT_1 -offsetY -5>吹奏"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 34,
+      "rec_id": "TIPS_35_WHISTLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 921,
+          "ja": "指笛を吹く",
+          "tc": "吹出手哨",
+          "sc": "吹出手哨"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 928,
+          "ja": "指笛を構えた後に、",
+          "tc": "比出手哨後，",
+          "sc": "比出手哨后，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 935,
+          "ja": "<cmd CMD_WHISTLE_NOTE_INPUT_1 -offsetY -5>で指笛を吹く",
+          "tc": "按下<cmd CMD_WHISTLE_NOTE_INPUT_1 -offsetY -5>吹出手哨",
+          "sc": "按下<cmd CMD_WHISTLE_NOTE_INPUT_1 -offsetY -5>吹出手哨"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 35,
+      "rec_id": "TIPS_36_HUNTING_CERTIFICATE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 943,
+          "ja": "狩猟証明",
+          "tc": "狩獵證明",
+          "sc": "狩猎证明"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 950,
+          "ja": "入手した狩猟証明は、",
+          "tc": "將獲得的狩獵證明",
+          "sc": "将获得的狩猎证明"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 957,
+          "ja": "狩人小屋の小箱に納品しよう",
+          "tc": "交到獵人小屋的小箱子裡",
+          "sc": "交到猎人小屋的小箱子里"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 964,
+          "ja": "報酬と交換することができる",
+          "tc": "就能交換到報酬",
+          "sc": "就能交换到报酬"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 36,
+      "rec_id": "TIPS_37_SAVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 972,
+          "ja": "セーブ",
+          "tc": "保存",
+          "sc": "保存"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 979,
+          "ja": "眠ると進行状況がセーブされる",
+          "tc": "入睡後會自動保存進度",
+          "sc": "入睡后会自动保存进度"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 986,
+          "ja": "中断した場合は、",
+          "tc": "若中斷遊戲，",
+          "sc": "若中断游戏，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 993,
+          "ja": "最後に目覚めた日から再開する",
+          "tc": "將從最後一次醒來的那天繼續遊玩",
+          "sc": "将从最后一次醒来的那天继续游玩"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 37,
+      "rec_id": "TIPS_38_RECIPE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1001,
+          "ja": "レシピを覚える",
+          "tc": "記住食譜",
+          "sc": "记住菜谱"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1008,
+          "ja": "何度も同じ料理を注文したり、",
+          "tc": "多次享用同一道料理，",
+          "sc": "多次享用同一道料理，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1015,
+          "ja": "住人から教えてもらうことで、",
+          "tc": "或是透過村民的傳授，",
+          "sc": "或是透过村民的传授，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1022,
+          "ja": "料理のレシピを覚える",
+          "tc": "就能學會料理的食譜",
+          "sc": "就能学会料理的食谱"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 38,
+      "rec_id": "TIPS_39_PLOW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1030,
+          "ja": "スキ",
+          "tc": "犁",
+          "sc": "犁"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1037,
+          "ja": "スキを使うと田んぼを作れる",
+          "tc": "使用犁就能翻整水田",
+          "sc": "使用犁就能翻整水田"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1044,
+          "ja": "農具サークルでスキを選び、",
+          "tc": "在農具環中選擇犁，",
+          "sc": "在农具轮盘中选择犁，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1051,
+          "ja": "<cmd CMD_UNIT_ACTION -offsetY -5>で使うことができる",
+          "tc": "按下<cmd CMD_UNIT_ACTION -offsetY -5>即可使用",
+          "sc": "按下<cmd CMD_UNIT_ACTION -offsetY -5>即可使用"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 39,
+      "rec_id": "TIPS_40_BREWING_BARREL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1059,
+          "ja": "醸造樽",
+          "tc": "釀造桶",
+          "sc": "酿造桶"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1066,
+          "ja": "庭に置ける加工機のひとつ",
+          "tc": "可放置於庭院的加工機之一",
+          "sc": "可放置于庭院的加工机之一"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1073,
+          "ja": "野菜や果物を入れて待つと、",
+          "tc": "放入蔬菜跟水果並等待一段時間，",
+          "sc": "放入蔬菜跟水果并等待一段时间，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1080,
+          "ja": "出汁やリキュールに加工できる",
+          "tc": "就能加工成高湯或是利口酒",
+          "sc": "就能加工成高汤或是利口酒"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 40,
+      "rec_id": "TIPS_41_CALENDAR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1088,
+          "ja": "カレンダー",
+          "tc": "日曆",
+          "sc": "日历"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1095,
+          "ja": "イベントの日程を確認できる家具",
+          "tc": "可用以確認活動日程的家具",
+          "sc": "可用以确认活动日程的家具"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1102,
+          "ja": "配置して<cmd CMD_INTERACTION_CALENDAR -offsetY -5>で調べると、",
+          "tc": "設置後按下<cmd CMD_INTERACTION_CALENDAR -offsetY -5>確認，",
+          "sc": "设置后按下<cmd CMD_INTERACTION_CALENDAR -offsetY -5>确认，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1109,
+          "ja": "カレンダーを見ることができる",
+          "tc": "即可查看日曆",
+          "sc": "即可查看日历"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 41,
+      "rec_id": "TIPS_42_BOW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1117,
+          "ja": "弓",
+          "tc": "弓",
+          "sc": "弓"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1124,
+          "ja": "獣に対して撃つと攻撃できる",
+          "tc": "朝著野獸射擊即可發動攻擊",
+          "sc": "朝着野兽射击即可发动攻击"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1131,
+          "ja": "<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>で飛距離を決め、",
+          "tc": "按下<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>決定飛行距離，",
+          "sc": "按下<cmd CMD_INTERACTION_LONG_SQUARE -offsetY -5>决定飞行距离，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1138,
+          "ja": "離すと矢を発射する",
+          "tc": "鬆開後即可發射箭矢",
+          "sc": "松开后即可发射箭矢"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 42,
+      "rec_id": "TIPS_43_SHRINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1146,
+          "ja": "辻の祠",
+          "tc": "岔路的祠堂",
+          "sc": "岔路的祠堂"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1153,
+          "ja": "勾玉を消費し能力を得られる",
+          "tc": "消耗勾玉以獲得力量",
+          "sc": "消耗勾玉以获得力量"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1160,
+          "ja": "下方の能力を解放することで、",
+          "tc": "透過解鎖下方能力，",
+          "sc": "透过解锁下方能力，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1167,
+          "ja": "繋がった地点も解放できる",
+          "tc": "可解鎖與之相連的地點",
+          "sc": "可解锁与之相连的地点"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 43,
+      "rec_id": "TIPS_44_CONSTRUCTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1175,
+          "ja": "建築",
+          "tc": "建築",
+          "sc": "建筑"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1182,
+          "ja": "大工の作業場で、新しい建築物を",
+          "tc": "可在木匠的作業場，",
+          "sc": "可在木匠的作业场，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1189,
+          "ja": "自分の庭に建てられる",
+          "tc": "為自己的庭院建造新的建築物",
+          "sc": "为自己的庭院建造新的建筑物"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1196,
+          "ja": "建築にはお金と素材が必要",
+          "tc": "建築需要花費錢與材料",
+          "sc": "建筑需要花费钱与材料"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 44,
+      "rec_id": "TIPS_45_TALISMANIC_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1204,
+          "ja": "魔除けナンテン",
+          "tc": "除魔南天竹",
+          "sc": "除魔南天竹"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1211,
+          "ja": "魔除けナンテンには隠れられ、",
+          "tc": "可以躲進除魔南天竹裡，",
+          "sc": "可以躲进除魔南天竹里，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1218,
+          "ja": "怪異から身を隠すことができる",
+          "tc": "藉此藏身避開妖怪",
+          "sc": "借此藏身避开妖怪"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1225,
+          "ja": "苗が成長するまでは使用できない",
+          "tc": "幼苗尚未長大前無法使用",
+          "sc": "幼苗尚未长大前无法使用"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 45,
+      "rec_id": "TIPS_46_CONTINUS_PLACEMENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1233,
+          "ja": "家具の連続設置",
+          "tc": "連續設置家具",
+          "sc": "连续设置家具"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1240,
+          "ja": "家具を置く時に<cmd CMD_UNIT_ACTION_CONTINUS_PLACEMENT_HELP -offsetY -5>で",
+          "tc": "放置家具時按下<cmd CMD_UNIT_ACTION_CONTINUS_PLACEMENT_HELP -offsetY -5>，",
+          "sc": "放置家具时按下<cmd CMD_UNIT_ACTION_CONTINUS_PLACEMENT_HELP -offsetY -5>，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1247,
+          "ja": "移動しながら連続で置くことができる",
+          "tc": "即可一邊移動，一邊連續放置",
+          "sc": "即可一边移动，一边连续放置"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 46,
+      "rec_id": "TIPS_47_WEED_INVASION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1262,
+          "ja": "雑草の侵食",
+          "tc": "雜草蔓延",
+          "sc": "杂草蔓延"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1269,
+          "ja": "雑草を放置すると",
+          "tc": "若放任雜草生長，",
+          "sc": "若放任杂草生长，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1276,
+          "ja": "作物も押しのけ周囲へ広がっていく",
+          "tc": "雜草就會擠壓作物，並向四周蔓延",
+          "sc": "杂草就会挤压作物，并向四周蔓延"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1283,
+          "ja": "こまめに草刈りをしよう",
+          "tc": "要勤於除草喔",
+          "sc": "要勤于除草哦"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 47,
+      "rec_id": "TIPS_48_INFO_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1291,
+          "ja": "樹木の情報",
+          "tc": "樹木的資訊",
+          "sc": "树木的信息"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1298,
+          "ja": "樹木に<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>か<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>で注視すると、",
+          "tc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注視樹木，",
+          "sc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注视树木，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1305,
+          "ja": "樹木の名前などを",
+          "tc": "就能確認樹木的名稱等",
+          "sc": "就能确认树木的名称等"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1312,
+          "ja": "確認することができる",
+          "tc": "詳細資訊",
+          "sc": "详细信息"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 48,
+      "rec_id": "TIPS_49_INFO_CROPS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1320,
+          "ja": "作物の情報",
+          "tc": "作物的資訊",
+          "sc": "作物的信息"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1327,
+          "ja": "作物に<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>か<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>で注視すると、",
+          "tc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注視作物，",
+          "sc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注视作物，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1334,
+          "ja": "作物の名前や成育日数を",
+          "tc": "就能確認作物的名稱及生長天數等",
+          "sc": "就能确认作物的名称及生长天数等"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1341,
+          "ja": "確認することができる",
+          "tc": "詳細資訊",
+          "sc": "详细信息"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 49,
+      "rec_id": "TIPS_50_INFO_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1349,
+          "ja": "家畜の情報",
+          "tc": "家畜的資訊",
+          "sc": "家畜的信息"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1356,
+          "ja": "家畜に<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>か<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>で注視すると、",
+          "tc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注視家畜，",
+          "sc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注视家畜，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1363,
+          "ja": "名前や食事の状況、なつき度を",
+          "tc": "就能確認其名稱、進食狀況、親密度等",
+          "sc": "就能确认其名称、进食状况、亲密度等"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1370,
+          "ja": "確認することができる",
+          "tc": "詳細資訊",
+          "sc": "详细信息"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 50,
+      "rec_id": "TIPS_51_INFO_VILLAGER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1378,
+          "ja": "村人の情報",
+          "tc": "村民的資訊",
+          "sc": "村民的信息"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1385,
+          "ja": "住人に<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>か<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>で注視すると、",
+          "tc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注視村民，",
+          "sc": "按下<cmd CMD_UNIT_MOVE_PARALLEL -offsetY -5>或<cmd CMD_UNIT_MOVE_ANGLE -offsetY -5>注视村民，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1392,
+          "ja": "住人の名前や好感度、",
+          "tc": "就能確認村民的名字、好感度",
+          "sc": "就能确认村民的名字、好感度"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1399,
+          "ja": "贈り物の好みなどを確認できる",
+          "tc": "以及禮物喜好等資訊",
+          "sc": "以及礼物喜好等信息"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 51,
+      "rec_id": "TIPS_52_PADDY_FIELD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1407,
+          "ja": "水田",
+          "tc": "水田",
+          "sc": "水田"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1414,
+          "ja": "水田の作物に水やりは不要だが、",
+          "tc": "雖然水田的作物不需要澆水，",
+          "sc": "虽然水田的作物不需要浇水，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1421,
+          "ja": "作物の側に雑草が生えていると、",
+          "tc": "但若作物旁邊長出雜草，",
+          "sc": "但若作物旁边长出杂草，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1428,
+          "ja": "成長が止まるので注意しよう",
+          "tc": "作物就會停止生長，要注意喔",
+          "sc": "作物就会停止生长，要注意哦"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 52,
+      "rec_id": "TIPS_53_LIVING_TANK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1436,
+          "ja": "生け簀",
+          "tc": "養魚池",
+          "sc": "养鱼池"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1443,
+          "ja": "同じ種類の魚を2匹以上入れると",
+          "tc": "若放入兩條以上同種類的魚，",
+          "sc": "若放入两条以上同种类的鱼，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1450,
+          "ja": "魚が増えることがある",
+          "tc": "魚的數量可能會增加",
+          "sc": "鱼的数量可能会增加"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1457,
+          "ja": "魚が多いほど増える確率が上がる",
+          "tc": "魚的數量愈多，增加的機率就愈高",
+          "sc": "鱼的数量愈多，增加的机率就愈高"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 53,
+      "rec_id": "TIPS_54_WHISTLE_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1465,
+          "ja": "家畜の呼笛",
+          "tc": "家畜的呼笛",
+          "sc": "家畜的呼笛"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1472,
+          "ja": "家畜の呼笛を吹くと、",
+          "tc": "只要吹奏家畜的呼笛，",
+          "sc": "只要吹奏家畜的呼笛，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1479,
+          "ja": "周囲にいる飼っている家畜が、",
+          "tc": "周圍飼養的家畜就會",
+          "sc": "周围饲养的家畜就会"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1486,
+          "ja": "主人公の近くに集まってくる",
+          "tc": "聚集到主角身邊",
+          "sc": "聚集到主角身边"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 54,
+      "rec_id": "TIPS_55_WHISTLE_RETURN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1494,
+          "ja": "奇跡の呼笛",
+          "tc": "奇蹟的呼笛",
+          "sc": "奇迹的呼笛"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1501,
+          "ja": "奇跡の呼笛を吹くと、",
+          "tc": "只要吹奏奇蹟的呼笛，",
+          "sc": "只要吹奏奇迹的呼笛，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1508,
+          "ja": "村の時間が止まる",
+          "tc": "村裡的時間就會停止流動",
+          "sc": "村里的时间就会停止流动"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1515,
+          "ja": "庭の中でだけ効果がある",
+          "tc": "只有在庭院裡能發揮效果",
+          "sc": "只有在庭院里能发挥效果"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 55,
+      "rec_id": "TIPS_56_WHISTLE_RAINMAKING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1523,
+          "ja": "雨の呼笛",
+          "tc": "喚雨呼笛",
+          "sc": "唤雨呼笛"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1530,
+          "ja": "雨の呼笛を吹くと、",
+          "tc": "只要吹出喚雨呼笛，",
+          "sc": "只要吹出唤雨呼笛，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1537,
+          "ja": "翌日に雨が降る確率が上がる",
+          "tc": "隔天下雨的機率就會提升",
+          "sc": "隔天下雨的机率就会提升"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 56,
+      "rec_id": "TIPS_57_STUMP_REMOVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1545,
+          "ja": "切り株の撤去",
+          "tc": "拆除樹樁",
+          "sc": "拆除树桩"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1552,
+          "ja": "木を切り倒すと切り株が残る",
+          "tc": "砍倒樹木後會留下樹樁",
+          "sc": "砍倒树木后会留下树桩"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1559,
+          "ja": "切り株はオノで撤去できるが、",
+          "tc": "樹樁可以使用斧頭拆除，",
+          "sc": "树桩可以使用斧头拆除，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1566,
+          "ja": "残しておいても木に成長しない",
+          "tc": "即使留著也不會長成樹木",
+          "sc": "即使留着也不会长成树木"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 57,
+      "rec_id": "TIPS_58_FURNITURE_REMOVE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1574,
+          "ja": "家具の連続回収",
+          "tc": "連續回收家具",
+          "sc": "连续回收家具"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1581,
+          "ja": "家具に向かって<cmd CMD_INTERACTION_RETRIEVE -offsetY -5>で回収",
+          "tc": "朝著家具按下<cmd CMD_INTERACTION_RETRIEVE -offsetY -5>回收",
+          "sc": "朝着家具按下<cmd CMD_INTERACTION_RETRIEVE -offsetY -5>回收"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1588,
+          "ja": "長押しの間、目の前の家具と",
+          "tc": "長按期間，會自動連續回收",
+          "sc": "长按期间，会自动连续回收"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1595,
+          "ja": "同じ家具を自動で連続回収する",
+          "tc": "與面前家具相同的家具",
+          "sc": "与面前家具相同的家具"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 58,
+      "rec_id": "TIPS_59_CONSTRUCTION_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1603,
+          "ja": "建築時の回収物",
+          "tc": "建築時的回收物",
+          "sc": "建筑时的回收物"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1610,
+          "ja": "建築予定地の範囲内にある",
+          "tc": "配置於建築預定地範圍內的",
+          "sc": "配置于建筑预定地范围内的"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1617,
+          "ja": "家具や作物、加工機などは、",
+          "tc": "家具和作物、加工機等物品",
+          "sc": "家具和作物、加工机等物品"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1624,
+          "ja": "回収箱に入れられる",
+          "tc": "會被放入回收箱",
+          "sc": "会被放入回收箱"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 59,
+      "rec_id": "TIPS_60_ROCK_CUT_MACHETE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1632,
+          "ja": "岩切りナタ",
+          "tc": "劈岩柴刀",
+          "sc": "劈岩柴刀"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1639,
+          "ja": "鋭く、どんなものでも切れる",
+          "tc": "非常鋒利，能切割任何物品",
+          "sc": "非常锋利，能切割任何物品"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1646,
+          "ja": "木や草、岩も壊すことができる",
+          "tc": "也能切割草木，甚至是破壞岩石",
+          "sc": "也能切割草木，甚至是破坏岩石"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1653,
+          "ja": "農具の強化に準じた効果を持つ",
+          "tc": "具有等同於農具強化的效果",
+          "sc": "具有等同于农具强化的效果"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 60,
+      "rec_id": "TIPS_61_NUE_LEATHER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1661,
+          "ja": "鵺の皮",
+          "tc": "鵺皮",
+          "sc": "鵺皮"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1668,
+          "ja": "<cmd CMD_INTERACTION_LONG_CANCEL -offsetY -5>鵺の皮を使用する",
+          "tc": "按下<cmd CMD_INTERACTION_LONG_CANCEL -offsetY -5>使用鵺皮",
+          "sc": "按下<cmd CMD_INTERACTION_LONG_CANCEL -offsetY -5>使用鵺皮"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1675,
+          "ja": "<cmd CMD_INTERACTION_LONG_CANCEL -offsetY -5>を押している間、",
+          "tc": "按住<cmd CMD_INTERACTION_LONG_CANCEL -offsetY -5>期間，",
+          "sc": "按住<cmd CMD_INTERACTION_LONG_CANCEL -offsetY -5>期间，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1682,
+          "ja": "普段より早く移動できる",
+          "tc": "能以比平常更快的速度移動",
+          "sc": "能以比平常更快的速度移动"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 61,
+      "rec_id": "TIPS_62_COOKING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1690,
+          "ja": "料理",
+          "tc": "料理",
+          "sc": "料理"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1697,
+          "ja": "料理は卵類や肉類など、",
+          "tc": "料理中可使用蛋類、肉類等",
+          "sc": "料理中可使用蛋类、肉类等"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1704,
+          "ja": "同種の食材なら使用できる",
+          "tc": "相同種類的食材",
+          "sc": "相同种类的食材"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1711,
+          "ja": "異なる素材も併用可能",
+          "tc": "也能搭配不同食材",
+          "sc": "也能搭配不同食材"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 62,
+      "rec_id": "TIPS_FAIR_NOTICE_CROPS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1719,
+          "ja": "品評会／作物",
+          "tc": "評鑑會／作物",
+          "sc": "评鉴会／作物"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1726,
+          "ja": "今日は10時から作物の品評会だ",
+          "tc": "今天10點開始舉辦作物評鑑會",
+          "sc": "今天10点开始举办作物评鉴会"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 63,
+      "rec_id": "TIPS_FAIR_NOTICE_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1734,
+          "ja": "品評会／家畜",
+          "tc": "評鑑會／家畜",
+          "sc": "评鉴会／家畜"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1741,
+          "ja": "今日は10時から家畜の品評会だ",
+          "tc": "今天10點開始舉辦家畜評鑑會",
+          "sc": "今天10点开始举办家畜评鉴会"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 64,
+      "rec_id": "TIPS_FAIR_NOTICE_HORSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1749,
+          "ja": "品評会／馬",
+          "tc": "評鑑會／馬",
+          "sc": "评鉴会／马"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1756,
+          "ja": "今日は10時から馬の品評会だ",
+          "tc": "今天10點開始舉辦馬匹評鑑會",
+          "sc": "今天10点开始举办马匹评鉴会"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 65,
+      "rec_id": "TIPS_FAIR_NOTICE_UNKNOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1764,
+          "ja": "品評会",
+          "tc": "評鑑會",
+          "sc": "评鉴会"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1771,
+          "ja": "今日は10時から品評会だ",
+          "tc": "今天10點開始舉辦評鑑會",
+          "sc": "今天10点开始举办评鉴会"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 66,
+      "rec_id": "TIPS_HOLIDAY_SPR_NOTICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1779,
+          "ja": "祭日／春",
+          "tc": "節日／春",
+          "sc": "节日／春"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1786,
+          "ja": "今日は10時からお花見だ",
+          "tc": "今天10點開始賞花",
+          "sc": "今天10点开始赏花"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 67,
+      "rec_id": "TIPS_HOLIDAY_SUM_NOTICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1794,
+          "ja": "祭日／夏",
+          "tc": "節日／夏",
+          "sc": "节日／夏"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1801,
+          "ja": "今日は16時から縁日だ",
+          "tc": "今天16點開始是廟會日",
+          "sc": "今天16点开始是庙会"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 68,
+      "rec_id": "TIPS_HOLIDAY_AUT_NOTICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1809,
+          "ja": "祭日／秋",
+          "tc": "節日／秋",
+          "sc": "节日／秋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1816,
+          "ja": "今日は10時から収穫祭だ",
+          "tc": "今天10點開始是收穫祭典",
+          "sc": "今天10点开始是收获祭典"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 69,
+      "rec_id": "TIPS_HOLIDAY_WIN_NOTICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1824,
+          "ja": "祭日／冬",
+          "tc": "節日／冬",
+          "sc": "节日／冬"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1831,
+          "ja": "今日は16時から年越しだ",
+          "tc": "今天16點開始是過年",
+          "sc": "今天16点开始是过年"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 70,
+      "rec_id": "TIPS_HOLIDAY_SPR_GAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1839,
+          "ja": "バドミントン",
+          "tc": "羽毛球",
+          "sc": "羽毛球"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1846,
+          "ja": "<cmd CMD_OK -offsetY -5>でラケットを振る",
+          "tc": "按下<cmd CMD_OK -offsetY -5>揮動球拍",
+          "sc": "按下<cmd CMD_OK -offsetY -5>挥动球拍"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1853,
+          "ja": "タイミングよく羽根を打ち返して",
+          "tc": "抓準時機，把球打回去吧",
+          "sc": "抓准时机，把球打回去吧"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1860,
+          "ja": "コマコとラリーをしよう",
+          "tc": "和駒子連續擊球對打吧",
+          "sc": "和驹子连续击球对打吧"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2665 @@
+{
+  "batch_id": "batch_012_flora_fauna",
+  "group": "flora_fauna",
+  "files": [
+    "crops.dat",
+    "livestock.dat"
+  ],
+  "record_count": 179,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "crops.dat",
+      "rec_idx": 0,
+      "rec_id": "CROPS_ID_ONION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "タマネギ",
+          "tc": "洋蔥",
+          "sc": "洋葱"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 54,
+          "ja": "祟られタマネギ",
+          "tc": "被詛咒的洋蔥",
+          "sc": "被诅咒的洋葱"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 1,
+      "rec_id": "CROPS_ID_CABBAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "キャベツ",
+          "tc": "高麗菜",
+          "sc": "卷心菜"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 118,
+          "ja": "祟られキャベツ",
+          "tc": "被詛咒的高麗菜",
+          "sc": "被诅咒的卷心菜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 2,
+      "rec_id": "CROPS_ID_TURNIP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "カブ",
+          "tc": "大頭菜",
+          "sc": "大头菜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 3,
+      "rec_id": "CROPS_ID_POTATO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 190,
+          "ja": "ジャガイモ",
+          "tc": "馬鈴薯",
+          "sc": "土豆"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 4,
+      "rec_id": "CROPS_ID_WHITE_ONION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 247,
+          "ja": "白ネギ",
+          "tc": "蔥",
+          "sc": "葱"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 296,
+          "ja": "祟られ白ネギ",
+          "tc": "被詛咒的蔥",
+          "sc": "被诅咒的葱"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 5,
+      "rec_id": "CROPS_ID_CHAMOMILE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 311,
+          "ja": "カモミール",
+          "tc": "洋甘菊",
+          "sc": "洋甘菊"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 6,
+      "rec_id": "CROPS_ID_POPPY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 361,
+          "ja": "ポピー",
+          "tc": "罌粟花",
+          "sc": "罂粟花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 7,
+      "rec_id": "CROPS_ID_CARNATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 411,
+          "ja": "カーネーション",
+          "tc": "康乃馨",
+          "sc": "康乃馨"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 8,
+      "rec_id": "CROPS_ID_PEA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 461,
+          "ja": "エンドウ豆",
+          "tc": "豌豆",
+          "sc": "豌豆"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 496,
+          "ja": "サヤエンドウ",
+          "tc": "荷蘭豆",
+          "sc": "荷兰豆"
+        },
+        {
+          "f_idx": 8,
+          "pidx_tc": 517,
+          "ja": "サヤエンドウ",
+          "tc": "荷蘭豆",
+          "sc": "荷兰豆"
+        },
+        {
+          "f_idx": 11,
+          "pidx_tc": 538,
+          "ja": "サヤエンドウ",
+          "tc": "荷蘭豆",
+          "sc": "荷兰豆"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 9,
+      "rec_id": "CROPS_ID_LETTUCE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 560,
+          "ja": "レタス",
+          "tc": "萵苣",
+          "sc": "莴苣"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 10,
+      "rec_id": "CROPS_ID_CARROT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 617,
+          "ja": "ニンジン",
+          "tc": "紅蘿蔔",
+          "sc": "胡萝卜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 11,
+      "rec_id": "CROPS_ID_STRAWBERRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 674,
+          "ja": "イチゴ",
+          "tc": "草莓",
+          "sc": "草莓"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 744,
+          "ja": "祟られイチゴ",
+          "tc": "被詛咒的草莓",
+          "sc": "被诅咒的草莓"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 12,
+      "rec_id": "CROPS_ID_HYACINTH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 759,
+          "ja": "ヒヤシンス",
+          "tc": "風信子",
+          "sc": "风信子"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 13,
+      "rec_id": "CROPS_ID_TULIP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 809,
+          "ja": "チューリップ",
+          "tc": "鬱金香",
+          "sc": "郁金香"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 14,
+      "rec_id": "CROPS_ID_DIANTHUS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 859,
+          "ja": "なでしこ",
+          "tc": "瞿麥",
+          "sc": "瞿麦"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 15,
+      "rec_id": "CROPS_ID_FORGET_ME_NOT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 909,
+          "ja": "勿忘草",
+          "tc": "勿忘我",
+          "sc": "勿忘我"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 16,
+      "rec_id": "CROPS_ID_ASPARAGUS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 959,
+          "ja": "アスパラガス",
+          "tc": "蘆筍",
+          "sc": "芦笋"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 17,
+      "rec_id": "CROPS_ID_RADISH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1037,
+          "ja": "ラディッシュ",
+          "tc": "櫻桃蘿蔔",
+          "sc": "樱桃萝卜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 18,
+      "rec_id": "CROPS_ID_IRIS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1094,
+          "ja": "アヤメ",
+          "tc": "鳶尾花",
+          "sc": "鸢尾花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 19,
+      "rec_id": "CROPS_ID_SKUNK_CABBAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1144,
+          "ja": "水芭蕉",
+          "tc": "水芭蕉",
+          "sc": "水芭蕉"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 20,
+      "rec_id": "CROPS_ID_TOMATO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1194,
+          "ja": "トマト",
+          "tc": "番茄",
+          "sc": "西红柿"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 1264,
+          "ja": "祟られトマト",
+          "tc": "被詛咒的番茄",
+          "sc": "被诅咒的西红柿"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 21,
+      "rec_id": "CROPS_ID_EGGPLANT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1279,
+          "ja": "ナス",
+          "tc": "茄子",
+          "sc": "茄子"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 22,
+      "rec_id": "CROPS_ID_PEPPER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1357,
+          "ja": "ピーマン",
+          "tc": "青椒",
+          "sc": "青椒"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 23,
+      "rec_id": "CROPS_ID_CUCUMBER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1435,
+          "ja": "キュウリ",
+          "tc": "小黃瓜",
+          "sc": "黄瓜"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 1505,
+          "ja": "祟られキュウリ",
+          "tc": "被詛咒的小黃瓜",
+          "sc": "被诅咒的黄瓜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 24,
+      "rec_id": "CROPS_ID_CORN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1520,
+          "ja": "トウモロコシ",
+          "tc": "玉米",
+          "sc": "玉米"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 25,
+      "rec_id": "CROPS_ID_WATERMELON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1598,
+          "ja": "スイカ",
+          "tc": "西瓜",
+          "sc": "西瓜"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 1647,
+          "ja": "祟られスイカ",
+          "tc": "被詛咒的西瓜",
+          "sc": "被诅咒的西瓜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 26,
+      "rec_id": "CROPS_ID_WHEAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1662,
+          "ja": "小麦",
+          "tc": "小麥",
+          "sc": "小麦"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 1711,
+          "ja": "祟られ小麦",
+          "tc": "被詛咒的小麥",
+          "sc": "被诅咒的小麦"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 27,
+      "rec_id": "CROPS_ID_SUGARCANE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1726,
+          "ja": "サトウキビ",
+          "tc": "甘蔗",
+          "sc": "甘蔗"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 28,
+      "rec_id": "CROPS_ID_MORNING_GLORY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1783,
+          "ja": "アサガオ",
+          "tc": "牽牛花",
+          "sc": "牵牛花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 29,
+      "rec_id": "CROPS_ID_SUNFLOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1833,
+          "ja": "ヒマワリ",
+          "tc": "向日葵",
+          "sc": "向日葵"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 30,
+      "rec_id": "CROPS_ID_LAVENDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1883,
+          "ja": "ラベンダー",
+          "tc": "薰衣草",
+          "sc": "薰衣草"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 31,
+      "rec_id": "CROPS_ID_PUMPKIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1933,
+          "ja": "カボチャ",
+          "tc": "南瓜",
+          "sc": "南瓜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 32,
+      "rec_id": "CROPS_ID_GINGER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1990,
+          "ja": "ショウガ",
+          "tc": "薑",
+          "sc": "姜"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 2039,
+          "ja": "祟られショウガ",
+          "tc": "被詛咒的薑",
+          "sc": "被诅咒的姜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 33,
+      "rec_id": "CROPS_ID_EDAMAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2054,
+          "ja": "エダマメ",
+          "tc": "毛豆",
+          "sc": "毛豆"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 2068,
+          "ja": "もやし",
+          "tc": "豆芽菜",
+          "sc": "豆芽菜"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 2124,
+          "ja": "大豆",
+          "tc": "黃豆",
+          "sc": "黄豆"
+        },
+        {
+          "f_idx": 11,
+          "pidx_tc": 2131,
+          "ja": "祟られ大豆",
+          "tc": "被詛咒的黃豆",
+          "sc": "被诅咒的黄豆"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 34,
+      "rec_id": "CROPS_ID_BLUEBERRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2139,
+          "ja": "ブルーベリー",
+          "tc": "藍莓",
+          "sc": "蓝莓"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 35,
+      "rec_id": "CROPS_ID_HOPS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2217,
+          "ja": "ホップ",
+          "tc": "啤酒花",
+          "sc": "啤酒花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 36,
+      "rec_id": "CROPS_ID_GYPSOPHILA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2295,
+          "ja": "カスミソウ",
+          "tc": "滿天星",
+          "sc": "满天星"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 37,
+      "rec_id": "CROPS_ID_MARIGOLD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2345,
+          "ja": "マリーゴールド",
+          "tc": "萬壽菊",
+          "sc": "万寿菊"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 38,
+      "rec_id": "CROPS_ID_HIBISCUS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2395,
+          "ja": "ハイビスカス",
+          "tc": "木槿",
+          "sc": "木槿"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 39,
+      "rec_id": "CROPS_ID_ROSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2445,
+          "ja": "バラ",
+          "tc": "玫瑰",
+          "sc": "玫瑰"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 40,
+      "rec_id": "CROPS_ID_MELON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2495,
+          "ja": "メロン",
+          "tc": "甜瓜",
+          "sc": "甜瓜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 41,
+      "rec_id": "CROPS_ID_PINEAPPLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2552,
+          "ja": "パイナップル",
+          "tc": "鳳梨",
+          "sc": "菠萝"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 42,
+      "rec_id": "CROPS_ID_GARLIC",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2609,
+          "ja": "ニンニク",
+          "tc": "大蒜",
+          "sc": "大蒜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 43,
+      "rec_id": "CROPS_ID_LILY_OF_THE_VALLEY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2666,
+          "ja": "スズラン",
+          "tc": "鈴蘭",
+          "sc": "铃兰"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 44,
+      "rec_id": "CROPS_ID_BUCKWHEAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2716,
+          "ja": "ソバ",
+          "tc": "蕎麥",
+          "sc": "荞麦"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 2765,
+          "ja": "祟られソバ",
+          "tc": "被詛咒的蕎麥",
+          "sc": "被诅咒的荞麦"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 45,
+      "rec_id": "CROPS_ID_TARO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2780,
+          "ja": "サトイモ",
+          "tc": "芋頭",
+          "sc": "芋头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 46,
+      "rec_id": "CROPS_ID_SWEET_POTATO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2837,
+          "ja": "サツマイモ",
+          "tc": "地瓜",
+          "sc": "红薯"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 47,
+      "rec_id": "CROPS_ID_OLIVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2894,
+          "ja": "オリーブ",
+          "tc": "油橄欖",
+          "sc": "油橄榄"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 2964,
+          "ja": "祟られオリーブ",
+          "tc": "被詛咒的油橄欖",
+          "sc": "被诅咒的油橄榄"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 48,
+      "rec_id": "CROPS_ID_COSMOS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2979,
+          "ja": "コスモス",
+          "tc": "波斯菊",
+          "sc": "波斯菊"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 49,
+      "rec_id": "CROPS_ID_CHRYSANTHEMUM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3029,
+          "ja": "キク",
+          "tc": "菊花",
+          "sc": "菊花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 50,
+      "rec_id": "CROPS_ID_SESAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3079,
+          "ja": "ゴマ",
+          "tc": "芝麻",
+          "sc": "芝麻"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 51,
+      "rec_id": "CROPS_ID_SHIMEJI",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3157,
+          "ja": "シメジ",
+          "tc": "鴻喜菇",
+          "sc": "鸿喜菇"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 52,
+      "rec_id": "CROPS_ID_DAHLIA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3228,
+          "ja": "ダリア",
+          "tc": "大理花",
+          "sc": "大理花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 53,
+      "rec_id": "CROPS_ID_SHIITAKE_MUSHROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3278,
+          "ja": "シイタケ",
+          "tc": "香菇",
+          "sc": "香菇"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 54,
+      "rec_id": "CROPS_ID_KIKURAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3349,
+          "ja": "キクラゲ",
+          "tc": "木耳",
+          "sc": "木耳"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 55,
+      "rec_id": "CROPS_ID_DAIKON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3420,
+          "ja": "ダイコン",
+          "tc": "白蘿蔔",
+          "sc": "白萝卜"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 3469,
+          "ja": "祟られダイコン",
+          "tc": "被詛咒的白蘿蔔",
+          "sc": "被诅咒的白萝卜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 56,
+      "rec_id": "CROPS_ID_SPINACH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3484,
+          "ja": "ホウレンソウ",
+          "tc": "菠菜",
+          "sc": "菠菜"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 3533,
+          "ja": "祟られホウレンソウ",
+          "tc": "被詛咒的菠菜",
+          "sc": "被诅咒的菠菜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 57,
+      "rec_id": "CROPS_ID_PANSY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3548,
+          "ja": "パンジー",
+          "tc": "三色堇",
+          "sc": "三色堇"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 58,
+      "rec_id": "CROPS_ID_ROSEMARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3598,
+          "ja": "ローズマリー",
+          "tc": "迷迭香",
+          "sc": "迷迭香"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 59,
+      "rec_id": "CROPS_ID_CHINESE_CABBAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3648,
+          "ja": "ハクサイ",
+          "tc": "大白菜",
+          "sc": "大白菜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 60,
+      "rec_id": "CROPS_ID_DAFFODIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3705,
+          "ja": "スイセン",
+          "tc": "水仙",
+          "sc": "水仙"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 61,
+      "rec_id": "CROPS_ID_RICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3755,
+          "ja": "お米",
+          "tc": "稻米",
+          "sc": "稻米"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 62,
+      "rec_id": "CROPS_ID_TEA_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3812,
+          "ja": "お茶",
+          "tc": "茶葉",
+          "sc": "茶叶"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 63,
+      "rec_id": "CROPS_ID_WASABI",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3897,
+          "ja": "ワサビ",
+          "tc": "山葵",
+          "sc": "山葵"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 64,
+      "rec_id": "CROPS_ID_LOTUS_ROOT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3940,
+          "ja": "レンコン",
+          "tc": "蓮藕",
+          "sc": "莲藕"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 65,
+      "rec_id": "CROPS_ID_MULBERRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3983,
+          "ja": "桑の葉",
+          "tc": "桑葉",
+          "sc": "桑叶"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 66,
+      "rec_id": "CROPS_ID_APPLE_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4068,
+          "ja": "リンゴの木",
+          "tc": "蘋果樹",
+          "sc": "苹果树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 67,
+      "rec_id": "CROPS_ID_CHERRY_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4125,
+          "ja": "サクランボの木",
+          "tc": "櫻桃樹",
+          "sc": "樱桃树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 68,
+      "rec_id": "CROPS_ID_YUZU_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4182,
+          "ja": "ユズの木",
+          "tc": "柚子樹",
+          "sc": "柚子树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 69,
+      "rec_id": "CROPS_ID_PERSIMMON_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4239,
+          "ja": "カキの木",
+          "tc": "柿子樹",
+          "sc": "柿子树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 70,
+      "rec_id": "CROPS_ID_MANDARIN_ORANGE_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4296,
+          "ja": "ミカンの木",
+          "tc": "橘子樹",
+          "sc": "橘子树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 71,
+      "rec_id": "CROPS_ID_LEMON_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4353,
+          "ja": "レモンの木",
+          "tc": "檸檬樹",
+          "sc": "柠檬树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 72,
+      "rec_id": "CROPS_ID_PLUM_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4410,
+          "ja": "梅の木",
+          "tc": "梅子樹",
+          "sc": "梅子树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 73,
+      "rec_id": "CROPS_ID_PEACH_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4467,
+          "ja": "モモの木",
+          "tc": "桃子樹",
+          "sc": "桃子树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 74,
+      "rec_id": "CROPS_ID_GRAPE_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4524,
+          "ja": "ブドウの木",
+          "tc": "葡萄樹",
+          "sc": "葡萄树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 75,
+      "rec_id": "CROPS_ID_PEAR_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4581,
+          "ja": "ナシの木",
+          "tc": "梨子樹",
+          "sc": "梨子树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 76,
+      "rec_id": "CROPS_ID_BANANA_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4638,
+          "ja": "バナナの木",
+          "tc": "香蕉樹",
+          "sc": "香蕉树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 77,
+      "rec_id": "CROPS_ID_CACAO_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4695,
+          "ja": "カカオの木",
+          "tc": "可可樹",
+          "sc": "可可树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 78,
+      "rec_id": "CROPS_ID_MANGO_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4752,
+          "ja": "マンゴーの木",
+          "tc": "芒果樹",
+          "sc": "芒果树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 79,
+      "rec_id": "CROPS_ID_OBJECT_MUD_SEEDS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4809,
+          "ja": "泥の種(オブジェクト)",
+          "tc": "泥土種子（物品）",
+          "sc": "泥土种子（物品）"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 4830,
+          "ja": "幽霊の花",
+          "tc": "幽靈花",
+          "sc": "幽灵花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 80,
+      "rec_id": "CROPS_ID_MUD_SEEDS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4838,
+          "ja": "泥の種",
+          "tc": "泥土種子",
+          "sc": "泥土种子"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 81,
+      "rec_id": "CROPS_ID_HIDING_GRASS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4860,
+          "ja": "魔除けナンテン",
+          "tc": "除魔南天竹",
+          "sc": "除魔南天竹"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 82,
+      "rec_id": "CROPS_ID_OBJECT_UNKNOWN_LIVESTOCK_ITEM_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4896,
+          "ja": "見知らぬ家畜_埋まってるアイテム",
+          "tc": "陌生家畜_埋藏著的物品",
+          "sc": "陌生家畜_埋藏着的物品"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 83,
+      "rec_id": "CROPS_ID_OBJECT_UNKNOWN_LIVESTOCK_ITEM_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4918,
+          "ja": "見知らぬ家畜_埋まってるアイテム",
+          "tc": "陌生家畜_埋藏著的物品",
+          "sc": "陌生家畜_埋藏着的物品"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 84,
+      "rec_id": "CROPS_ID_OBJECT_UNKNOWN_LIVESTOCK_ITEM_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4940,
+          "ja": "見知らぬ家畜_埋まってるアイテム",
+          "tc": "陌生家畜_埋藏著的物品",
+          "sc": "陌生家畜_埋藏着的物品"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 85,
+      "rec_id": "CROPS_ID_BIG_TURNIP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4962,
+          "ja": "巨大作物_カブ",
+          "tc": "巨大作物_大頭菜",
+          "sc": "巨大作物_大头菜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 86,
+      "rec_id": "CROPS_ID_BIG_CORN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4977,
+          "ja": "巨大作物_トウモロコシ",
+          "tc": "巨大作物_玉米",
+          "sc": "巨大作物_玉米"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 87,
+      "rec_id": "CROPS_ID_BIG_TARO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4992,
+          "ja": "巨大作物_サトイモ",
+          "tc": "巨大作物_芋頭",
+          "sc": "巨大作物_芋头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 88,
+      "rec_id": "CROPS_ID_BIG_CHINESE_CABBAGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5007,
+          "ja": "巨大作物_ハクサイ",
+          "tc": "巨大作物_大白菜",
+          "sc": "巨大作物_大白菜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 89,
+      "rec_id": "CROPS_ID_OBJECT_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5022,
+          "ja": "クリ",
+          "tc": "栗子",
+          "sc": "栗子"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 90,
+      "rec_id": "CROPS_ID_OBJECT_TREE_CEDAR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5079,
+          "ja": "スギ",
+          "tc": "柳杉",
+          "sc": "柳杉"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 91,
+      "rec_id": "CROPS_ID_OBJECT_TREE_PINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5136,
+          "ja": "マツ",
+          "tc": "松樹",
+          "sc": "松树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 92,
+      "rec_id": "CROPS_ID_OBJECT_TREE_OAK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5193,
+          "ja": "カシワ",
+          "tc": "槲樹",
+          "sc": "槲树"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 93,
+      "rec_id": "CROPS_ID_OBJECT_TREE_HINOKI",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5250,
+          "ja": "ヒノキ",
+          "tc": "檜木",
+          "sc": "桧木"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 94,
+      "rec_id": "CROPS_ID_OBJECT_WEED_COLOR_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5307,
+          "ja": "雑草",
+          "tc": "雜草",
+          "sc": "杂草"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 95,
+      "rec_id": "CROPS_ID_OBJECT_WEED_COLOR_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5322,
+          "ja": "雑草",
+          "tc": "雜草",
+          "sc": "杂草"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 96,
+      "rec_id": "CROPS_ID_OBJECT_TWIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5337,
+          "ja": "小枝",
+          "tc": "樹枝",
+          "sc": "树枝"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 97,
+      "rec_id": "CROPS_ID_OBJECT_FALLEN_TREE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5352,
+          "ja": "倒木",
+          "tc": "倒木",
+          "sc": "倒木"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 98,
+      "rec_id": "CROPS_ID_OBJECT_STUMP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5367,
+          "ja": "切り株",
+          "tc": "樹樁",
+          "sc": "树桩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 99,
+      "rec_id": "CROPS_ID_OBJECT_STUMP_HARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5382,
+          "ja": "堅い切り株",
+          "tc": "堅硬的樹樁",
+          "sc": "坚硬的树桩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 100,
+      "rec_id": "CROPS_ID_OBJECT_STUMP_VERY_HARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5397,
+          "ja": "すごく堅い切り株",
+          "tc": "非常堅硬的樹樁",
+          "sc": "非常坚硬的树桩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 101,
+      "rec_id": "CROPS_ID_OBJECT_STONE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5412,
+          "ja": "石",
+          "tc": "石頭",
+          "sc": "石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 102,
+      "rec_id": "CROPS_ID_OBJECT_STONE_TUNNEL_A1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5427,
+          "ja": "石切場の石",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 103,
+      "rec_id": "CROPS_ID_OBJECT_STONE_TUNNEL_A2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5442,
+          "ja": "石切場の石",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 104,
+      "rec_id": "CROPS_ID_OBJECT_STONE_TUNNEL_A3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5457,
+          "ja": "石切場の石",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 105,
+      "rec_id": "CROPS_ID_OBJECT_STONE_TUNNEL_B1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5472,
+          "ja": "石切場の石",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 106,
+      "rec_id": "CROPS_ID_OBJECT_STONE_TUNNEL_B2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5487,
+          "ja": "石切場の石",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 107,
+      "rec_id": "CROPS_ID_OBJECT_STONE_TUNNEL_B3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5502,
+          "ja": "石切場の石",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 108,
+      "rec_id": "CROPS_ID_OBJECT_STONE_COPPER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5517,
+          "ja": "銅鉱脈の石",
+          "tc": "銅礦脈的石頭",
+          "sc": "铜矿脉的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 109,
+      "rec_id": "CROPS_ID_OBJECT_STONE_IRON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5532,
+          "ja": "鉄鉱脈の石",
+          "tc": "鐵礦脈的石頭",
+          "sc": "铁矿脉的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 110,
+      "rec_id": "CROPS_ID_OBJECT_STONE_GOLD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5547,
+          "ja": "金鉱脈の石",
+          "tc": "金礦脈的石頭",
+          "sc": "金矿脉的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 111,
+      "rec_id": "CROPS_ID_OBJECT_STONE_METEORIC_IRON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5562,
+          "ja": "隕鉄鉱脈の石",
+          "tc": "隕鐵礦脈的石頭",
+          "sc": "陨铁矿脉的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 112,
+      "rec_id": "CROPS_ID_OBJECT_STONE_GEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5577,
+          "ja": "宝石鉱脈の石",
+          "tc": "寶石礦脈的石頭",
+          "sc": "宝石矿脉的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 113,
+      "rec_id": "CROPS_ID_OBJECT_ROCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5592,
+          "ja": "岩",
+          "tc": "岩石",
+          "sc": "岩石"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 114,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_TUNNEL_BIG_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5607,
+          "ja": "石切場の岩",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 115,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_TUNNEL_BIG_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5622,
+          "ja": "石切場の岩",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 116,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_TUNNEL_BIG_3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5637,
+          "ja": "石切場の岩",
+          "tc": "採石場的石頭",
+          "sc": "采石场的石头"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 117,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_COPPER_BIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5652,
+          "ja": "銅鉱脈の岩",
+          "tc": "銅礦脈的岩石",
+          "sc": "铜矿脉的岩石"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 118,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_IRON_BIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5667,
+          "ja": "鉄鉱脈の岩",
+          "tc": "鐵礦脈的岩石",
+          "sc": "铁矿脉的岩石"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 119,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_GOLD_BIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5682,
+          "ja": "金鉱脈の岩",
+          "tc": "金礦脈的岩石",
+          "sc": "金矿脉的岩石"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 120,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_METEORIC_IRON_BIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5697,
+          "ja": "隕鉄鉱脈の岩",
+          "tc": "隕鐵礦脈的岩石",
+          "sc": "陨铁矿脉的岩石"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 121,
+      "rec_id": "CROPS_ID_OBJECT_ROCK_GEM_BIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5712,
+          "ja": "宝石鉱脈の岩",
+          "tc": "寶石礦脈的岩石",
+          "sc": "宝石矿脉的岩石"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 122,
+      "rec_id": "CROPS_ID_OBJECT_HUGE_ROCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5727,
+          "ja": "巨岩",
+          "tc": "巨岩",
+          "sc": "巨岩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 123,
+      "rec_id": "CROPS_ID_OBJECT_HUGE_ROCK_HARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5742,
+          "ja": "堅い巨岩",
+          "tc": "堅硬的巨岩",
+          "sc": "坚硬的巨岩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 124,
+      "rec_id": "CROPS_ID_OBJECT_HUGE_ROCK_VERY_HARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5757,
+          "ja": "すごく堅い巨岩",
+          "tc": "非常堅硬的巨岩",
+          "sc": "非常坚硬的巨岩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 125,
+      "rec_id": "CROPS_ID_OBJECT_GRASS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5772,
+          "ja": "牧草",
+          "tc": "牧草",
+          "sc": "牧草"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 126,
+      "rec_id": "CROPS_ID_OBJECT_BANBOO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5787,
+          "ja": "竹",
+          "tc": "竹子",
+          "sc": "竹子"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 127,
+      "rec_id": "CROPS_ID_OBJECT_RICEFIELD_WEED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5844,
+          "ja": "水田の雑草",
+          "tc": "水田的雜草",
+          "sc": "水田的杂草"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 5851,
+          "ja": "雑草",
+          "tc": "雜草",
+          "sc": "杂草"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 128,
+      "rec_id": "CROPS_ID_OBJECT_BRACKEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5859,
+          "ja": "ワラビ",
+          "tc": "蕨",
+          "sc": "蕨"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 129,
+      "rec_id": "CROPS_ID_OBJECT_DANDELION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5874,
+          "ja": "タンポポ",
+          "tc": "蒲公英",
+          "sc": "蒲公英"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 130,
+      "rec_id": "CROPS_ID_OBJECT_JAPANESE_HONEYWORT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5889,
+          "ja": "ミツバ",
+          "tc": "三葉草",
+          "sc": "三叶草"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 131,
+      "rec_id": "CROPS_ID_OBJECT_HORSETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5904,
+          "ja": "つくし",
+          "tc": "筆頭菜",
+          "sc": "笔头菜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 132,
+      "rec_id": "CROPS_ID_OBJECT_CLUSTER_AMARYLLIS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5919,
+          "ja": "彼岸花",
+          "tc": "石蒜",
+          "sc": "石蒜"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 133,
+      "rec_id": "CROPS_ID_OBJECT_SASANOKO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5934,
+          "ja": "ササノコ",
+          "tc": "小竹筍",
+          "sc": "小竹笋"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 134,
+      "rec_id": "CROPS_ID_OBJECT_LILY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5949,
+          "ja": "ユリ",
+          "tc": "百合花",
+          "sc": "百合花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 135,
+      "rec_id": "CROPS_ID_OBJECT_LILY_ROOT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5964,
+          "ja": "ユリ根",
+          "tc": "百合根",
+          "sc": "百合根"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 136,
+      "rec_id": "CROPS_ID_OBJECT_JAPANESE_PEPPER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5979,
+          "ja": "山椒",
+          "tc": "山椒",
+          "sc": "山椒"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 137,
+      "rec_id": "CROPS_ID_OBJECT_BAMBOO_SHOOTS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5994,
+          "ja": "タケノコ",
+          "tc": "竹筍",
+          "sc": "竹笋"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 138,
+      "rec_id": "CROPS_ID_OBJECT_BUTTERBUR_SCAPE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6009,
+          "ja": "ふきのとう",
+          "tc": "蜂斗菜花苞",
+          "sc": "蜂斗菜花苞"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 139,
+      "rec_id": "CROPS_ID_OBJECT_WATER_HYACINTH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6024,
+          "ja": "ホテイアオイ",
+          "tc": "布袋蓮",
+          "sc": "布袋莲"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 140,
+      "rec_id": "CROPS_ID_OBJECT_BAYBERRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6039,
+          "ja": "ヤマモモ",
+          "tc": "楊梅",
+          "sc": "杨梅"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 141,
+      "rec_id": "CROPS_ID_OBJECT_RUBUS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6054,
+          "ja": "キイチゴ",
+          "tc": "樹莓",
+          "sc": "树莓"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 142,
+      "rec_id": "CROPS_ID_OBJECT_ROQUAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6069,
+          "ja": "ビワ",
+          "tc": "枇杷",
+          "sc": "枇杷"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 143,
+      "rec_id": "CROPS_ID_OBJECT_PINE_CONE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6084,
+          "ja": "まつぼっくり",
+          "tc": "松果",
+          "sc": "松果"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 144,
+      "rec_id": "CROPS_ID_OBJECT_AKEBI",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6099,
+          "ja": "アケビ",
+          "tc": "木通",
+          "sc": "木通"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 145,
+      "rec_id": "CROPS_ID_OBJECT_JAPANESE_YAM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6114,
+          "ja": "自然薯",
+          "tc": "野山藥",
+          "sc": "野山药"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 146,
+      "rec_id": "CROPS_ID_OBJECT_WALNUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6129,
+          "ja": "クルミ",
+          "tc": "胡桃",
+          "sc": "胡桃"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 147,
+      "rec_id": "CROPS_ID_OBJECT_MATSUTAKE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6144,
+          "ja": "マツタケ",
+          "tc": "松茸",
+          "sc": "松茸"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 148,
+      "rec_id": "CROPS_ID_OBJECT_WOLFBERRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6159,
+          "ja": "クコの実",
+          "tc": "枸杞",
+          "sc": "枸杞"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 149,
+      "rec_id": "CROPS_ID_OBJECT_FUYUICHIGO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6174,
+          "ja": "フユイチゴ",
+          "tc": "寒莓",
+          "sc": "寒莓"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 150,
+      "rec_id": "CROPS_ID_OBJECT_GINKGO_NUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6189,
+          "ja": "ギンナン",
+          "tc": "銀杏果",
+          "sc": "银杏果"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 151,
+      "rec_id": "CROPS_ID_OBJECT_BEETLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6204,
+          "ja": "カブトムシ",
+          "tc": "獨角仙",
+          "sc": "独角仙"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 152,
+      "rec_id": "CROPS_ID_OBJECT_STAG_BEETLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6219,
+          "ja": "クワガタムシ",
+          "tc": "鍬形蟲",
+          "sc": "锹形虫"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 153,
+      "rec_id": "CROPS_ID_OBJECT_COD_BUD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6234,
+          "ja": "タラの芽",
+          "tc": "楤木芽",
+          "sc": "楤木芽"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 154,
+      "rec_id": "CROPS_ID_OBJECT_COIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6249,
+          "ja": "埋められたコイン",
+          "tc": "被埋起來的硬幣",
+          "sc": "被埋起来的硬币"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 155,
+      "rec_id": "CROPS_ID_OBJECT_DONG_QUAI",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6271,
+          "ja": "トウキ",
+          "tc": "當歸",
+          "sc": "当归"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 156,
+      "rec_id": "CROPS_ID_OBJECT_PURPLE_FLOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6286,
+          "ja": "紫の花",
+          "tc": "紫色的花",
+          "sc": "紫色的花"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 157,
+      "rec_id": "CROPS_ID_OBJECT_CUTTING_SILVER_GRASS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6301,
+          "ja": "ススキ",
+          "tc": "芒草",
+          "sc": "芒草"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 158,
+      "rec_id": "CROPS_ID_OBJECT_KODAMA_ROCK_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6316,
+          "ja": "木霊の岩",
+          "tc": "木靈之岩",
+          "sc": "木灵之岩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 159,
+      "rec_id": "CROPS_ID_OBJECT_KODAMA_ROCK_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6331,
+          "ja": "木霊の岩",
+          "tc": "木靈之岩",
+          "sc": "木灵之岩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 160,
+      "rec_id": "CROPS_ID_OBJECT_KODAMA_ROCK_3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6346,
+          "ja": "木霊の岩",
+          "tc": "木靈之岩",
+          "sc": "木灵之岩"
+        }
+      ]
+    },
+    {
+      "file": "crops.dat",
+      "rec_idx": 161,
+      "rec_id": "CROPS_ID_OBJECT_WALKING_STONE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6361,
+          "ja": "歩く石（ダミー・翻訳不要）",
+          "tc": "行走的石頭（DUMMY）",
+          "sc": "行走的石头（DUMMY）"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 0,
+      "rec_id": "LIVESTOCK_ID_CHICKEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "ニワトリ",
+          "tc": "雞",
+          "sc": "鸡"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 1,
+      "rec_id": "LIVESTOCK_ID_CHICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 14,
+          "ja": "ヒヨコ",
+          "tc": "小雞",
+          "sc": "小鸡"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 2,
+      "rec_id": "LIVESTOCK_ID_DUCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 23,
+          "ja": "アヒル",
+          "tc": "鴨",
+          "sc": "鸭"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 3,
+      "rec_id": "LIVESTOCK_ID_DUCK_CHICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 32,
+          "ja": "アヒルのヒヨコ",
+          "tc": "小鴨",
+          "sc": "小鸭"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 4,
+      "rec_id": "LIVESTOCK_ID_TURKEY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 41,
+          "ja": "七面鳥",
+          "tc": "火雞",
+          "sc": "火鸡"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 5,
+      "rec_id": "LIVESTOCK_ID_TURKEY_CHICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 50,
+          "ja": "七面鳥のヒヨコ",
+          "tc": "小火雞",
+          "sc": "小火鸡"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 6,
+      "rec_id": "LIVESTOCK_ID_COW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 59,
+          "ja": "ウシ",
+          "tc": "牛",
+          "sc": "牛"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 7,
+      "rec_id": "LIVESTOCK_ID_CALF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 68,
+          "ja": "子ウシ",
+          "tc": "小牛",
+          "sc": "小牛"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 8,
+      "rec_id": "LIVESTOCK_ID_SHEEP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "ヒツジ",
+          "tc": "綿羊",
+          "sc": "绵羊"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 9,
+      "rec_id": "LIVESTOCK_ID_LAMB",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 86,
+          "ja": "子ヒツジ",
+          "tc": "小綿羊",
+          "sc": "小绵羊"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 10,
+      "rec_id": "LIVESTOCK_ID_GOAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 95,
+          "ja": "ヤギ",
+          "tc": "山羊",
+          "sc": "山羊"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 11,
+      "rec_id": "LIVESTOCK_ID_BABY_GOAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 104,
+          "ja": "子ヤギ",
+          "tc": "小山羊",
+          "sc": "小山羊"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 12,
+      "rec_id": "LIVESTOCK_ID_CASHMERE_GOAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 113,
+          "ja": "カシミヤヤギ",
+          "tc": "喀什米爾山羊",
+          "sc": "克什米尔山羊"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 13,
+      "rec_id": "LIVESTOCK_ID_BABY_CASHMERE_GOAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 122,
+          "ja": "カシミヤ子ヤギ",
+          "tc": "喀什米爾小山羊",
+          "sc": "克什米尔小山羊"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 14,
+      "rec_id": "LIVESTOCK_ID_PIG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 131,
+          "ja": "ブタ",
+          "tc": "豬",
+          "sc": "猪"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 15,
+      "rec_id": "LIVESTOCK_ID_PIGLET",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 140,
+          "ja": "子ブタ",
+          "tc": "小豬",
+          "sc": "小猪"
+        }
+      ]
+    },
+    {
+      "file": "livestock.dat",
+      "rec_idx": 16,
+      "rec_id": "LIVESTOCK_ID_HORSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "ウマ",
+          "tc": "馬",
+          "sc": "马"
+        }
+      ]
+    }
+  ]
+}

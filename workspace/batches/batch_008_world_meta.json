@@ -1,0 +1,2129 @@
+{
+  "batch_id": "batch_008_world_meta",
+  "group": "world_meta",
+  "files": [
+    "character.dat",
+    "construction.dat",
+    "facility.dat",
+    "facilityRelease.dat",
+    "talkNameplate.dat"
+  ],
+  "record_count": 102,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "character.dat",
+      "rec_idx": 0,
+      "rec_id": "CHARA_ID_ORPHAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6,
+          "ja": "トバリ",
+          "tc": "帷",
+          "sc": "帷"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 23,
+          "ja": "無愛想で冷たい印象の少女。",
+          "tc": "不苟言笑，給人冷淡印象的少女。",
+          "sc": "不苟言笑，给人冷淡印象的少女。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 30,
+          "ja": "村に馴染まず、反抗的な態度が目立つ。",
+          "tc": "無法融入村子，叛逆的態度十分明顯。",
+          "sc": "无法融入村子，叛逆的态度十分明显。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 37,
+          "ja": "リンの屋敷の離れに住んでいる。",
+          "tc": "住在林的宅邸別館裡。",
+          "sc": "住在林的宅邸别馆里。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 49,
+          "ja": "よろしく",
+          "tc": "拜託了。",
+          "sc": "拜托了。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 1,
+      "rec_id": "CHARA_ID_CARPENTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 58,
+          "ja": "キスケ",
+          "tc": "木助",
+          "sc": "木助"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 75,
+          "ja": "大工を生業とし、その仕事に誇りを持つ男性。",
+          "tc": "以木匠為業，並以這份工作為傲的男性。",
+          "sc": "以木匠为业，并以这份工作为傲的男性。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 82,
+          "ja": "自由奔放で傍若無人だが、面倒見がいい一面もある。",
+          "tc": "自由奔放且旁若無人，但也有著很會照顧人的一面。",
+          "sc": "自由奔放且旁若无人，但也有着很会照顾人的一面。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 89,
+          "ja": "樹木建設と同じ敷地にある平屋に住んでいる。",
+          "tc": "住在跟樹木建設同一塊用地上的平房。",
+          "sc": "住在跟树木建设同一块用地上的平房。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 101,
+          "ja": "報酬アリ",
+          "tc": "會提供報酬。",
+          "sc": "会提供报酬。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 2,
+      "rec_id": "CHARA_ID_LUMBERJACK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 110,
+          "ja": "シロージ",
+          "tc": "四郎治",
+          "sc": "四郎治"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 127,
+          "ja": "寡黙で大柄な木こりの青年。",
+          "tc": "沉默寡言、體格魁武的伐木工青年。",
+          "sc": "沉默寡言、体格魁梧的伐木工青年。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 134,
+          "ja": "口数は少ないが、喋ると案外親しみやすい。",
+          "tc": "雖然話不多，但聊起天來卻意外地親切好相處。",
+          "sc": "虽然话不多，但聊起天来却意外地亲切好相处。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 141,
+          "ja": "妹のコマコをいつも気にかけている。",
+          "tc": "總是掛心妹妹駒子的事情。",
+          "sc": "总是挂心妹妹驹子的事情。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 153,
+          "ja": "至急求む",
+          "tc": "急徵。",
+          "sc": "急求。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 3,
+      "rec_id": "CHARA_ID_VILLAGE_HEAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 162,
+          "ja": "リン",
+          "tc": "林",
+          "sc": "林"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 179,
+          "ja": "まだ若いが、彼々津村の村長を務める少女。",
+          "tc": "年紀尚輕，卻已肩負彼津村村長之任的少女。",
+          "sc": "年纪尚轻，却已肩负彼津村村长之任的少女。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 186,
+          "ja": "責任感が強いあまり、横暴な態度を取ることがある。",
+          "tc": "由於責任感太強，有時會表現出蠻橫的一面。",
+          "sc": "由于责任感太强，有时会表现出蛮横的一面。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 193,
+          "ja": "村の一番奥、高い塀に囲まれた屋敷に住んでいる。",
+          "tc": "住在村子最裡面，被高高的土牆圍起的宅邸裡。",
+          "sc": "住在村子最里面，被高高的土墙围起的宅邸里。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 205,
+          "ja": "必ず！確実に！<br>なるべく早く！",
+          "tc": "一定要！確實地！<br>盡快完成！",
+          "sc": "一定要！切实地！<br>尽快完成！"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 4,
+      "rec_id": "CHARA_ID_HUNTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 214,
+          "ja": "コマコ",
+          "tc": "駒子",
+          "sc": "驹子"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 231,
+          "ja": "穏やかで優しいが、気弱な印象の少女。",
+          "tc": "個性溫柔和善，帶著幾分怯弱的少女。",
+          "sc": "个性温柔和善，带着几分怯弱的少女。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 238,
+          "ja": "狩人詰所に併設された家に住んでいる。",
+          "tc": "住在附設於獵人哨站旁的房子裡。",
+          "sc": "住在附设于猎人哨站旁的房子里。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 245,
+          "ja": "シロージとは兄妹だが、あまり似ていない。",
+          "tc": "雖然與四郎治是兄妹，卻長得不太像，",
+          "sc": "虽然与四郎治是兄妹，却长得不太像。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 257,
+          "ja": "どなたか<br>お力を貸してください",
+          "tc": "有沒有人<br>能幫個忙～",
+          "sc": "有没有人<br>能帮个忙～"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 5,
+      "rec_id": "CHARA_ID_GENERAL_STORE_MANAGER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 266,
+          "ja": "サザンカ",
+          "tc": "茶梅",
+          "sc": "茶梅"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 283,
+          "ja": "マイペースで明るい雑貨店のお姉さん。",
+          "tc": "有點我行我素，性格開朗的雜貨店大姐姐。",
+          "sc": "有点我行我素，性格开朗的杂货店大姐姐。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 290,
+          "ja": "常にポジティブで、考えるより先に行動するタイプ。",
+          "tc": "始終保持積極樂觀，比起思考會先採取行動。",
+          "sc": "始终保持积极乐观，比起思考会先采取行动。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 297,
+          "ja": "そのため突発的なトラブルを起こすこともある。",
+          "tc": "也因此有時會發生一些突發狀況。",
+          "sc": "也因此有时会发生一些突发状况。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 309,
+          "ja": "できれば今すぐレベルで<br>よろしく〜",
+          "tc": "如果可以的話<br>請現在馬上處理～",
+          "sc": "如果可以的话<br>请现在马上处理～"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 6,
+      "rec_id": "CHARA_ID_OLD_MAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 318,
+          "ja": "ロッカク",
+          "tc": "六角",
+          "sc": "六角"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 335,
+          "ja": "落ち着きがあり、飄々とした雰囲気のおじさん。",
+          "tc": "沉穩從容，給人一種悠然自若感的大叔。",
+          "sc": "沉稳从容，给人一种悠然自若感的大叔。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 342,
+          "ja": "活発には動かず、面倒くさがりな一面がある。",
+          "tc": "不怎麼愛活動，有著怕麻煩的一面。",
+          "sc": "不怎么爱活动，有着怕麻烦的一面。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 349,
+          "ja": "食堂を営んでおり、店の２階にヨウと住んでいる。",
+          "tc": "經營餐廳，與洋一起住在店裡二樓。",
+          "sc": "经营餐厅，与洋一起住在店里二楼。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 361,
+          "ja": "謝礼はご心配なく。",
+          "tc": "不用擔心謝禮。",
+          "sc": "不用担心谢礼。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 7,
+      "rec_id": "CHARA_ID_SECRETARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 370,
+          "ja": "コンノ",
+          "tc": "今野",
+          "sc": "今野"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 387,
+          "ja": "嫌味な口調の変わり者で、成金趣味の男性。",
+          "tc": "說話刻薄，打扮風格帶著暴發戶氣息的古怪男性。",
+          "sc": "说话刻薄，打扮风格带着暴发户气息的古怪男性。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 394,
+          "ja": "一応、村長の秘書として働いているらしい。",
+          "tc": "姑且算是在擔任村長的秘書。",
+          "sc": "姑且算是在担任村长的秘书。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 401,
+          "ja": "リンの屋敷に住んでいるようだ。",
+          "tc": "似乎住在林的宅邸裡。",
+          "sc": "似乎住在林的宅邸里。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 413,
+          "ja": "これは最優先事項です",
+          "tc": "這是優先度最高的事項。",
+          "sc": "这是优先级最高的事项。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 8,
+      "rec_id": "CHARA_ID_CITY_HALL_STAFF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 422,
+          "ja": "ナゴ",
+          "tc": "名護",
+          "sc": "名护"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 439,
+          "ja": "村の土地を買いに来ていた市役所員の男性。",
+          "tc": "市公所職員，來收購村裡土地的男性。",
+          "sc": "市政厅职员，来收购村里土地的男性。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 446,
+          "ja": "図書館の管理と整理を任されている。",
+          "tc": "被委以管理及整理圖書館的工作。",
+          "sc": "被委以管理及整理图书馆的工作。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 453,
+          "ja": "視力が低く、メガネがないと人相が悪くなる。",
+          "tc": "視力不好，沒戴眼鏡時會變得凶神惡煞。",
+          "sc": "视力不好，没戴眼镜时相貌会变凶。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 465,
+          "ja": "ご協力のほど、<br>よろしくお願いいたします。",
+          "tc": "還請提供協助，<br>感謝。",
+          "sc": "还请提供协助，<br>非常感谢。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 9,
+      "rec_id": "CHARA_ID_GIRL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 474,
+          "ja": "ヨウ",
+          "tc": "洋",
+          "sc": "洋"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 491,
+          "ja": "口数が少ない幼い女の子。",
+          "tc": "話不多的小女孩。",
+          "sc": "话不多的小女孩。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 498,
+          "ja": "村に年が近い子どもが少なくて、さみしそう。",
+          "tc": "村裡年齡相近的小孩很少，看來有些寂寞。",
+          "sc": "村里年龄相仿的小孩很少，看来有些寂寞。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 505,
+          "ja": "ロッカクと共に、食堂の２階に住んでいる。",
+          "tc": "與六角一起住在餐廳的二樓。",
+          "sc": "与六角一起住在餐厅的二楼。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 517,
+          "ja": "よろしくおねがいします",
+          "tc": "拜託了。",
+          "sc": "拜托了。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 10,
+      "rec_id": "CHARA_ID_YOUNG_MAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 526,
+          "ja": "ユータ",
+          "tc": "裕太",
+          "sc": "裕太"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 543,
+          "ja": "人当たりがよく、優しい雰囲気の青年。",
+          "tc": "待人親切，給人溫柔印象的青年。",
+          "sc": "待人亲切，给人温柔印象的青年。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 550,
+          "ja": "都会から彼ヶ津村へ移住してきたらしい。",
+          "tc": "據說是從都市移居到彼津村的。",
+          "sc": "据说是从大城市移居到彼津村的。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 557,
+          "ja": "「田舎暮らし」が趣味で、毎日暇そうで忙しそう。",
+          "tc": "興趣是「鄉村生活」，每天看起來都又悠閒又忙碌。",
+          "sc": "兴趣是“田园生活”，每天看起来都又清闲又忙碌。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 569,
+          "ja": "お手伝いお願いします！",
+          "tc": "請幫個忙！",
+          "sc": "请帮个忙！"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 11,
+      "rec_id": "CHARA_ID_BOY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 578,
+          "ja": "スミレ",
+          "tc": "堇怜",
+          "sc": "堇怜"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 595,
+          "ja": "明るく活発で、面倒見のいい少年。",
+          "tc": "開朗活潑，喜歡照顧人的少年。",
+          "sc": "开朗活泼，喜欢照顾人的少年。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 602,
+          "ja": "釣りや探検など、様々な遊びに詳しい。",
+          "tc": "對釣魚、探險等各種玩樂相當熟悉。",
+          "sc": "对钓鱼、探险等各种玩乐相当熟悉。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 609,
+          "ja": "ハスミとは姉弟で、一緒に暮らしている。",
+          "tc": "與蓮實是姊弟，且住在一起。",
+          "sc": "与莲实是姐弟，且住在一起。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 621,
+          "ja": "だれかよろしくね！",
+          "tc": "拜託誰來處理一下！",
+          "sc": "拜托谁来处理一下！"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 12,
+      "rec_id": "CHARA_ID_FEMALE_DOCTOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 630,
+          "ja": "ハスミ",
+          "tc": "蓮實",
+          "sc": "莲实"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 647,
+          "ja": "物静かで知的な印象の女性。",
+          "tc": "文靜沉穩，給人知性印象的女性。",
+          "sc": "文静沉稳，给人知性印象的女性。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 654,
+          "ja": "薬の調合が得意で、普段は村の診療所にいる。",
+          "tc": "擅長調合藥劑，平時都在村子的診所。",
+          "sc": "擅长调配药剂，平时都在村子的诊所。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 661,
+          "ja": "スミレとは姉弟で、同じ家に住んでいる。",
+          "tc": "與堇怜是姊弟，住在同一個家裡。",
+          "sc": "与堇怜是姐弟，住在同一个家里。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 673,
+          "ja": "お手数ですが、<br>よろしくお願いします。",
+          "tc": "不好意思，<br>再麻煩了。",
+          "sc": "不好意思，<br>再麻烦了。"
+        }
+      ]
+    },
+    {
+      "file": "character.dat",
+      "rec_idx": 13,
+      "rec_id": "CHARA_ID_STREET_VENDOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 682,
+          "ja": "チナナ",
+          "tc": "琪娜娜",
+          "sc": "琪娜娜"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 699,
+          "ja": "変わった風貌をした露天商の女性。",
+          "tc": "打扮風格相當獨特，經營著流動攤販的女性。",
+          "sc": "打扮风格相当独特，经营着流动摊贩的女性。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 706,
+          "ja": "親しみやすいが、どこか掴みどころがない性格。",
+          "tc": "親切好相處，卻有著難以捉摸的一面。",
+          "sc": "亲切好相处，却有着难以捉摸的一面。"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 713,
+          "ja": "トラックで寝泊まりしているらしい。",
+          "tc": "似乎都在卡車上過夜。",
+          "sc": "似乎都在卡车上过夜。"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 725,
+          "ja": "暇人募集",
+          "tc": "募集閒人",
+          "sc": "募集闲人"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 0,
+      "rec_id": "TALK_NAME_ID_ORPHAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6,
+          "ja": "トバリ",
+          "tc": "帷",
+          "sc": "帷"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 1,
+      "rec_id": "TALK_NAME_ID_CARPENTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 15,
+          "ja": "キスケ",
+          "tc": "木助",
+          "sc": "木助"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 2,
+      "rec_id": "TALK_NAME_ID_LUMBERJACK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 24,
+          "ja": "シロージ",
+          "tc": "四郎治",
+          "sc": "四郎治"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 3,
+      "rec_id": "TALK_NAME_ID_VILLAGE_HEAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 33,
+          "ja": "リン",
+          "tc": "林",
+          "sc": "林"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 4,
+      "rec_id": "TALK_NAME_ID_HUNTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 42,
+          "ja": "コマコ",
+          "tc": "駒子",
+          "sc": "驹子"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 5,
+      "rec_id": "TALK_NAME_ID_GENERAL_STORE_MANAGER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 51,
+          "ja": "サザンカ",
+          "tc": "茶梅",
+          "sc": "茶梅"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 6,
+      "rec_id": "TALK_NAME_ID_OLD_MAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 60,
+          "ja": "ロッカク",
+          "tc": "六角",
+          "sc": "六角"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 7,
+      "rec_id": "TALK_NAME_ID_SECRETARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "コンノ",
+          "tc": "今野",
+          "sc": "今野"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 8,
+      "rec_id": "TALK_NAME_ID_CITY_HALL_STAFF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 78,
+          "ja": "ナゴ",
+          "tc": "名護",
+          "sc": "名护"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 9,
+      "rec_id": "TALK_NAME_ID_GIRL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 87,
+          "ja": "ヨウ",
+          "tc": "洋",
+          "sc": "洋"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 10,
+      "rec_id": "TALK_NAME_ID_YOUNG_MAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 96,
+          "ja": "ユータ",
+          "tc": "裕太",
+          "sc": "裕太"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 11,
+      "rec_id": "TALK_NAME_ID_BOY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 105,
+          "ja": "スミレ",
+          "tc": "堇怜",
+          "sc": "堇怜"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 12,
+      "rec_id": "TALK_NAME_ID_FEMALE_DOCTOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 114,
+          "ja": "ハスミ",
+          "tc": "蓮實",
+          "sc": "莲实"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 13,
+      "rec_id": "TALK_NAME_ID_STREET_VENDOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 123,
+          "ja": "チナナ",
+          "tc": "琪娜娜",
+          "sc": "琪娜娜"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 14,
+      "rec_id": "TALK_NAME_ID_GHOST_GIRL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 132,
+          "ja": "コダマ",
+          "tc": "木珠",
+          "sc": "木珠"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 16,
+      "rec_id": "TALK_NAME_ID_RED_MERCHANT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 150,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 17,
+      "rec_id": "TALK_NAME_ID_BLUE_MERCHANT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 159,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 18,
+      "rec_id": "TALK_NAME_ID_UNKNOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 168,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 19,
+      "rec_id": "TALK_NAME_ID_FAIR_STAFF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 177,
+          "ja": "品評会職員",
+          "tc": "評鑑會職員",
+          "sc": "评鉴会职员"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 20,
+      "rec_id": "TALK_NAME_ID_GIRL_MOTHER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 186,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 21,
+      "rec_id": "TALK_NAME_ID_GIRL_FATHER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 195,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 22,
+      "rec_id": "TALK_NAME_ID_YOUNG_OLD_MAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 204,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 23,
+      "rec_id": "TALK_NAME_ID_PARROT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 213,
+          "ja": "オワン",
+          "tc": "歐萬",
+          "sc": "欧宛"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 24,
+      "rec_id": "TALK_NAME_ID_DEMON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 222,
+          "ja": "ヅ主",
+          "tc": "主",
+          "sc": "津主"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 25,
+      "rec_id": "TALK_NAME_ID_PLAYER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 231,
+          "ja": "<player>",
+          "tc": "<player>",
+          "sc": "<player>"
+        }
+      ]
+    },
+    {
+      "file": "talkNameplate.dat",
+      "rec_idx": 26,
+      "rec_id": "TALK_NAME_ID_UNKNOWN_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 240,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 0,
+      "rec_id": "FACILITY_ID_GENERAL_STORE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "田上雑貨店",
+          "tc": "田上雜貨店",
+          "sc": "田上杂货店"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 12,
+          "ja": "営業時間：AM9:00～PM5:00",
+          "tc": "營業時間：AM9:00～PM5:00",
+          "sc": "营业时间：AM9:00～PM5:00"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 19,
+          "ja": "金曜休み",
+          "tc": "週五公休",
+          "sc": "周五休息"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 1,
+      "rec_id": "FACILITY_ID_CONSTRUCTION_SHED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 27,
+          "ja": "樹木建設",
+          "tc": "樹木建設",
+          "sc": "树木建设"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 34,
+          "ja": "営業時間：AM10:00～PM5:00",
+          "tc": "營業時間：AM10:00～PM5:00",
+          "sc": "营业时间：AM10:00～PM5:00"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 41,
+          "ja": "土・日曜休み",
+          "tc": "週六、日公休",
+          "sc": "周六、周日休息"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 2,
+      "rec_id": "FACILITY_ID_RESTAURANT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 49,
+          "ja": "茶碗亭",
+          "tc": "茶碗亭",
+          "sc": "茶碗亭"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 56,
+          "ja": "営業時間：AM11:00～PM10:00",
+          "tc": "營業時間：AM11:00～PM10:00",
+          "sc": "营业时间：AM11:00～PM10:00"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 63,
+          "ja": "木・金曜休み",
+          "tc": "週四、五公休",
+          "sc": "周四、周五休息"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 3,
+      "rec_id": "FACILITY_ID_MAYOR_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 71,
+          "ja": "村長邸",
+          "tc": "村長宅邸",
+          "sc": "村长宅邸"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 4,
+      "rec_id": "FACILITY_ID_CLINIC",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "くすのき診療所",
+          "tc": "樟樹診所",
+          "sc": "樟树诊所"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 100,
+          "ja": "営業時間：AM7:00～PM9:30",
+          "tc": "營業時間：AM7:00～PM9:30",
+          "sc": "营业时间：AM7:00～PM9:30"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 5,
+      "rec_id": "FACILITY_ID_LIVRARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 115,
+          "ja": "図書館",
+          "tc": "圖書館",
+          "sc": "图书馆"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 122,
+          "ja": "営業時間：AM9:00～PM5:00",
+          "tc": "營業時間：AM9:00～PM5:00",
+          "sc": "营业时间：AM9:00～PM5:00"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 129,
+          "ja": "土・日曜休み",
+          "tc": "週六、日公休",
+          "sc": "周六、周日休息"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 6,
+      "rec_id": "FACILITY_ID_HUNTINGLODGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 137,
+          "ja": "狩人詰所",
+          "tc": "獵人哨站",
+          "sc": "猎人哨站"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 144,
+          "ja": "営業時間：AM10:00～PM5:00",
+          "tc": "營業時間：AM10:00～PM5:00",
+          "sc": "营业时间：AM10:00～PM5:00"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 151,
+          "ja": "月・火曜休み",
+          "tc": "週一、二公休",
+          "sc": "周一、周二休息"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 7,
+      "rec_id": "FACILITY_ID_CARPENTER_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 159,
+          "ja": "キスケの家",
+          "tc": "木助的家",
+          "sc": "木助的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 8,
+      "rec_id": "FACILITY_ID_GENERAL_STORE_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 181,
+          "ja": "サザンカの家",
+          "tc": "茶梅的家",
+          "sc": "茶梅的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 9,
+      "rec_id": "FACILITY_ID_HUNTER_AND_LUMBERJACK_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 203,
+          "ja": "コマコとシロージの家",
+          "tc": "駒子與四郎治的家",
+          "sc": "驹子与四郎治的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 10,
+      "rec_id": "FACILITY_ID_YOUTH_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 225,
+          "ja": "ユータの家",
+          "tc": "裕太的家",
+          "sc": "裕太的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 11,
+      "rec_id": "FACILITY_ID_DOCTOR_AND_BOY_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 247,
+          "ja": "ハスミとスミレの家",
+          "tc": "蓮實與堇怜的家",
+          "sc": "莲实与堇怜的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 12,
+      "rec_id": "FACILITY_ID_CITY_HALL_EMPLOYEE_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 269,
+          "ja": "ナゴの家",
+          "tc": "名護的家",
+          "sc": "名护的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 13,
+      "rec_id": "FACILITY_ID_MAYOR_DETACHED_BUILDING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 291,
+          "ja": "村長邸の離れ",
+          "tc": "村長宅邸的別館",
+          "sc": "村长宅邸的别馆"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 14,
+      "rec_id": "FACILITY_ID_MAYOR_STOREHOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 313,
+          "ja": "村長邸の蔵",
+          "tc": "村長宅邸的倉庫",
+          "sc": "村长宅邸的仓库"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 15,
+      "rec_id": "FACILITY_ID_CLOCK_TOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 335,
+          "ja": "時計塔",
+          "tc": "鐘樓",
+          "sc": "钟楼"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 16,
+      "rec_id": "FACILITY_ID_STREET_VENDOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "露天商",
+          "tc": "流動攤販",
+          "sc": "流动摊贩"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 364,
+          "ja": "営業時間：AM7:00～PM5:00",
+          "tc": "營業時間：AM7:00～PM5:00",
+          "sc": "营业时间：AM7:00～PM5:00"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 371,
+          "ja": "火・木・土曜休み",
+          "tc": "週二、四、六公休",
+          "sc": "周二、周四、周六休息"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 17,
+      "rec_id": "FACILITY_ID_SHRINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 379,
+          "ja": "辻の祠",
+          "tc": "岔路的祠堂",
+          "sc": "岔路的祠堂"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 18,
+      "rec_id": "FACILITY_ID_MYHOUSE_LV1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 401,
+          "ja": "自宅",
+          "tc": "我的家",
+          "sc": "我的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 19,
+      "rec_id": "FACILITY_ID_MYHOUSE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 423,
+          "ja": "自宅",
+          "tc": "我的家",
+          "sc": "我的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 20,
+      "rec_id": "FACILITY_ID_MYHOUSE_LV3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "自宅",
+          "tc": "我的家",
+          "sc": "我的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 21,
+      "rec_id": "FACILITY_ID_MYHOUSE_LV4",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 467,
+          "ja": "自宅",
+          "tc": "我的家",
+          "sc": "我的家"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 22,
+      "rec_id": "FACILITY_ID_AVIARY_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 489,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 23,
+      "rec_id": "FACILITY_ID_AVIARY_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 511,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 24,
+      "rec_id": "FACILITY_ID_AVIARY_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 533,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 25,
+      "rec_id": "FACILITY_ID_AVIARY_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 555,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 26,
+      "rec_id": "FACILITY_ID_LIVESTOCK_HOUSE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 577,
+          "ja": "家畜小屋",
+          "tc": "畜舍",
+          "sc": "畜舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 27,
+      "rec_id": "FACILITY_ID_LIVESTOCK_HOUSE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 599,
+          "ja": "家畜小屋",
+          "tc": "畜舍",
+          "sc": "畜舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 28,
+      "rec_id": "FACILITY_ID_LIVESTOCK_HOUSE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 621,
+          "ja": "家畜小屋",
+          "tc": "畜舍",
+          "sc": "畜舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 29,
+      "rec_id": "FACILITY_ID_LIVESTOCK_HOUSE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 643,
+          "ja": "家畜小屋",
+          "tc": "畜舍",
+          "sc": "畜舍"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 30,
+      "rec_id": "FACILITY_ID_BARN_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 665,
+          "ja": "納屋",
+          "tc": "倉庫",
+          "sc": "仓库"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 31,
+      "rec_id": "FACILITY_ID_BARN_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 687,
+          "ja": "納屋",
+          "tc": "倉庫",
+          "sc": "仓库"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 32,
+      "rec_id": "FACILITY_ID_BARN_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 709,
+          "ja": "納屋",
+          "tc": "倉庫",
+          "sc": "仓库"
+        }
+      ]
+    },
+    {
+      "file": "facility.dat",
+      "rec_idx": 33,
+      "rec_id": "FACILITY_ID_BARN_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 731,
+          "ja": "納屋",
+          "tc": "倉庫",
+          "sc": "仓库"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 0,
+      "rec_id": "FACILITY_RELEASE_ID_GENERAL_STORE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "田上雑貨店で買い物ができるようになった！",
+          "tc": "可以在田上雜貨店買東西了！",
+          "sc": "可以在田上杂货店买东西了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 1,
+      "rec_id": "FACILITY_RELEASE_ID_CONSTRUCTION_SHED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 13,
+          "ja": "樹木建設で建築の依頼ができるようになった！",
+          "tc": "可以在樹木建設委託建築工程了！",
+          "sc": "可以在树木建设委托建筑工程了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 2,
+      "rec_id": "FACILITY_RELEASE_ID_RESTAURANT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 21,
+          "ja": "茶碗亭で食事ができるようになった！",
+          "tc": "可以在茶碗亭用餐了！",
+          "sc": "可以在茶碗亭用餐了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 3,
+      "rec_id": "FACILITY_RELEASE_ID_CLINIC",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 29,
+          "ja": "くすのき診療所が利用できるようになった！",
+          "tc": "可以使用樟樹診所了！",
+          "sc": "可以使用樟树诊所了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 4,
+      "rec_id": "FACILITY_RELEASE_ID_LIBRARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "図書館が利用できるようになった！",
+          "tc": "可以使用圖書館了！",
+          "sc": "可以使用图书馆了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 5,
+      "rec_id": "FACILITY_RELEASE_ID_HUNTING_LODGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "狩人詰所が利用できるようになった！",
+          "tc": "可以使用獵人哨站了！",
+          "sc": "可以使用猎人哨站了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 6,
+      "rec_id": "FACILITY_RELEASE_ID_STREET_VENDOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "露天商で買い物ができるようになった！",
+          "tc": "可以跟流動攤販買東西了！",
+          "sc": "可以跟流动摊贩买东西了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 7,
+      "rec_id": "FACILITY_RELEASE_ID_VILLAGE_BUNDLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 61,
+          "ja": "納品してリンからごほうびを貰おう！",
+          "tc": "交付後再和林領取獎勵吧！",
+          "sc": "交付后再和林领取奖励吧！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 8,
+      "rec_id": "FACILITY_RELEASE_ID_SHRINE_BUNDLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "辻の祠を直した！",
+          "tc": "修好岔路的祠堂了！",
+          "sc": "修好岔路的祠堂了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 9,
+      "rec_id": "FACILITY_RELEASE_ID_SHRINE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "祠をさらに修復した！",
+          "tc": "對祠堂進行了進一步的修繕！",
+          "sc": "对祠堂进行了进一步的修缮！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 10,
+      "rec_id": "FACILITY_RELEASE_ID_SHRINE_LV3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "祠をさらに修復した！",
+          "tc": "對祠堂進行了進一步的修繕！",
+          "sc": "对祠堂进行了进一步的修缮！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 11,
+      "rec_id": "FACILITY_RELEASE_ID_SHRINE_LV4",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "祠をさらに修復した！",
+          "tc": "對祠堂進行了進一步的修繕！",
+          "sc": "对祠堂进行了进一步的修缮！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 12,
+      "rec_id": "FACILITY_RELEASE_ID_VILLAGE_BUNDLE_COMPLETE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 101,
+          "ja": "リンからの依頼をすべて達成した！",
+          "tc": "完成林所有的委託了！",
+          "sc": "完成林所有的委托了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 13,
+      "rec_id": "FACILITY_RELEASE_ID_FARMLAND_EXPANTION_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "新しい庭を買い取った！",
+          "tc": "買下了一座新庭院！",
+          "sc": "买下了一座新庭院！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 14,
+      "rec_id": "FACILITY_RELEASE_ID_FARMLAND_EXPANTION_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "新しい庭を買い取った！",
+          "tc": "買下了一座新庭院！",
+          "sc": "买下了一座新庭院！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 15,
+      "rec_id": "FACILITY_RELEASE_ID_REMOVE_RUBBLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "庭の裏道が開通した！",
+          "tc": "庭院的小路開通了！",
+          "sc": "庭院的小路开通了！"
+        }
+      ]
+    },
+    {
+      "file": "facilityRelease.dat",
+      "rec_idx": 16,
+      "rec_id": "FACILITY_RELEASE_ID_ADDITIONAL_FARMLAND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "新しい庭を買い取った！",
+          "tc": "買下了一座新庭院！",
+          "sc": "买下了一座新庭院！"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 0,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "きれいなお家",
+          "tc": "整潔的房屋",
+          "sc": "整洁的房屋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 12,
+          "ja": "新しくリフォームされた、小さなお家。",
+          "tc": "翻新後的小房屋。",
+          "sc": "翻新后的小房屋。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 19,
+          "ja": "キッチンが設置され、部屋も少し広くなる。",
+          "tc": "可以設置廚房，房間也會稍微變寬敞。",
+          "sc": "可以设置厨房，房间也会稍微变宽敞。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 26,
+          "ja": "壁紙と床の変更ができるようになる。",
+          "tc": "並且可以更換房間壁紙與地板的樣式。",
+          "sc": "并且可以更换房间壁纸与地板的样式。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 1,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_LV3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 35,
+          "ja": "二階建てのお家",
+          "tc": "兩層樓的房屋",
+          "sc": "两层楼的房屋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 42,
+          "ja": "二階が増築されたお家。",
+          "tc": "增建了二樓的房屋。",
+          "sc": "增建了二楼的房屋。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 49,
+          "ja": "部屋が増え、土間も少し広くなる。",
+          "tc": "可以增加房間，玄關處也會稍微變寬敞。",
+          "sc": "可以增加房间，玄关处也会稍微变宽敞。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 56,
+          "ja": "たくさんの家具を置けるようになる。",
+          "tc": "並且可以放得下更多家具，",
+          "sc": "并且可以放得下更多家具。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 2,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_LV4",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 65,
+          "ja": "大きなお家",
+          "tc": "大型房屋",
+          "sc": "大型房屋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 72,
+          "ja": "木材で建てられたとても広いお家。",
+          "tc": "十分寬敞的木造房屋。",
+          "sc": "十分宽敞的木造房屋。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 79,
+          "ja": "二階の部屋が広くなる。",
+          "tc": "二樓的房間會變得更加寬敞，",
+          "sc": "二楼的房间会变得更加宽敞，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 86,
+          "ja": "家の外装を変えることができるようになる。",
+          "tc": "並且可以變更房屋的外觀。",
+          "sc": "并且可以变更房屋的外观。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 3,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_JAPANESE_STYLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 95,
+          "ja": "和風な外装",
+          "tc": "和風房屋外觀",
+          "sc": "和风房屋外观"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 102,
+          "ja": "古民家風の落ち着いたお家の外装。",
+          "tc": "氛圍沉穩的古民家房屋外觀。",
+          "sc": "氛围沉稳的古民家房屋外观。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 109,
+          "ja": "自宅の見た目だけを変えられる。",
+          "tc": "只會變更房屋的外觀。",
+          "sc": "只会变更房屋的外观。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 4,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_LOG_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "丸太の外装",
+          "tc": "原木房屋外觀",
+          "sc": "原木房屋外观"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 132,
+          "ja": "自然に溶け込むお家の外装。",
+          "tc": "與大自然融為一體的房屋外觀。",
+          "sc": "与大自然融为一体的房屋外观。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 139,
+          "ja": "自宅の見た目だけを変えられる。",
+          "tc": "只會變更房屋的外觀。",
+          "sc": "只会变更房屋的外观。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 5,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_BRICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 155,
+          "ja": "レンガの外装",
+          "tc": "磚瓦房屋外觀",
+          "sc": "砖瓦房屋外观"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 162,
+          "ja": "レンガの温かみあるお家の外装。",
+          "tc": "令人感到溫馨的房屋外觀。",
+          "sc": "令人感到温馨的房屋外观。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 169,
+          "ja": "自宅の見た目だけを変えられる。",
+          "tc": "只會變更房屋的外觀。",
+          "sc": "只会变更房屋的外观。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 6,
+      "rec_id": "CONSTRUCTION_ID_MAKEOVER_BASEMENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 275,
+          "ja": "地下室",
+          "tc": "地下室",
+          "sc": "地下室"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 282,
+          "ja": "お家の下に増築される小部屋。",
+          "tc": "在房屋地下增建的小房間。",
+          "sc": "在房屋地下增建的小房间。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 289,
+          "ja": "秘密基地みたいでワクワクする。",
+          "tc": "就像是祕密基地一樣，令人興奮。",
+          "sc": "就像是秘密基地一样，令人兴奋。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 7,
+      "rec_id": "CONSTRUCTION_ID_BUILD_ANVIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 305,
+          "ja": "金床",
+          "tc": "鐵砧",
+          "sc": "铁砧"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 312,
+          "ja": "素材を加工して、道具を強化する作業台。",
+          "tc": "可以加工材料、強化道具的作業台。",
+          "sc": "可以加工材料、强化道具的工作台。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 319,
+          "ja": "庭には最大３つまで建てられる。",
+          "tc": "庭院中最多可建造3座。",
+          "sc": "庭院中最多可建造3座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 326,
+          "ja": "３×２マスの建築スペースが必要。",
+          "tc": "需要3×2格的建築空間。",
+          "sc": "需要3×2格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 8,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_AVIARY_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 335,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 342,
+          "ja": "鳥の家畜を、８羽まで飼育できる小屋。",
+          "tc": "最多可以飼養8隻家禽的鳥屋。",
+          "sc": "最多可以饲养8只家禽的鸟屋。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 349,
+          "ja": "庭には最大４軒まで建てられる。",
+          "tc": "庭院中最多可建造4座。",
+          "sc": "庭院中最多可建造4座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 356,
+          "ja": "６×７マスの建築スペースが必要。",
+          "tc": "需要6×7格的建築空間。",
+          "sc": "需要6×7格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 9,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_AVIARY_LV3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "大きな鶏小屋",
+          "tc": "大型雞舍",
+          "sc": "大型鸡舍"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 372,
+          "ja": "広々としたゆとりのある鶏小屋。",
+          "tc": "擁有大空間的雞舍。",
+          "sc": "拥有大空间的鸡舍。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 379,
+          "ja": "鳥の家畜を、１２羽まで飼育できる。",
+          "tc": "最多可以飼養12隻家禽。",
+          "sc": "最多可以饲养12只家禽。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 386,
+          "ja": "ホッパーの牧草を自動給餌する機械付き。",
+          "tc": "附帶連接儲料斗的自動牧草餵食器。",
+          "sc": "附带连接储料斗的自动牧草喂食器。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 10,
+      "rec_id": "CONSTRUCTION_ID_BUILD_AVIARY_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 395,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 402,
+          "ja": "鳥の家畜を、８羽まで飼育できる小屋。",
+          "tc": "最多可以飼養8隻家禽的鳥屋。",
+          "sc": "最多可以饲养8只家禽的鸟屋。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 409,
+          "ja": "庭には最大４軒まで建てられる。",
+          "tc": "庭院中最多可建造4座。",
+          "sc": "庭院中最多可建造4座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 416,
+          "ja": "６×７マスの建築スペースが必要。",
+          "tc": "需要6×7格的建築空間。",
+          "sc": "需要6×7格的建筑空间。"
+        }
+      ]
+    }
+  ]
+}

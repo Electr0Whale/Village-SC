@@ -1,0 +1,40 @@
+# Nintendo Switch Keys & Cryptographic Secrets (Strictly Prohibited)
+keys/
+*.keys
+*.cert
+*.tik
+
+# Nintendo Switch Game ROMs and Large Dumps
+nsp/
+*.nsp
+*.xci
+*.nsz
+*.xcz
+
+# Unpacked Game Assets (Extracted from commercial ROM)
+unpacked/
+build/
+
+# Generated Large Archives exceeding GitHub 100MB limit
+output/**/fairy_1_00.dat
+output/**/misc_1_00.dat
+output/test_*/
+
+# Local Scratch and Development Test Artifacts
+scratch/
+workspace/temp_*
+workspace/*.bin
+workspace/*.dat
+workspace/*.ttf
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+*.bak
+.vscode/
+.idea/
