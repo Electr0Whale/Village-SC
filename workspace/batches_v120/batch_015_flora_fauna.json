@@ -1,0 +1,2811 @@
+{
+  "batch_id": "batch_015_flora_fauna",
+  "group": "flora_fauna",
+  "files": [
+    "intangeble.dat"
+  ],
+  "record_count": 200,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 189,
+      "rec_id": "INTANGEBLE_ID_RECIPE_108",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1517,
+          "ja": "金粉ちらし寿司のレシピを入手した！",
+          "tc": "獲得了金粉散壽司的食譜！",
+          "sc": "获得了金粉散寿司的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 190,
+      "rec_id": "INTANGEBLE_ID_RECIPE_109",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1525,
+          "ja": "醤油プリンのレシピを入手した！",
+          "tc": "獲得了醬油布丁的食譜！",
+          "sc": "获得了酱油布丁的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 191,
+      "rec_id": "INTANGEBLE_ID_RECIPE_110",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1533,
+          "ja": "タピオカミルクティーのレシピを入手した！",
+          "tc": "獲得了珍珠奶茶的食譜！",
+          "sc": "获得了珍珠奶茶的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 192,
+      "rec_id": "INTANGEBLE_ID_RECIPE_111",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1541,
+          "ja": "焼き鮭定食のレシピを入手した！",
+          "tc": "獲得烤鮭魚定食的食譜！",
+          "sc": "获得烤三文鱼定食的菜谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 193,
+      "rec_id": "INTANGEBLE_ID_RECIPE_112",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1549,
+          "ja": "肉吸い豆腐のレシピを入手した！",
+          "tc": "獲得了牛肉豆腐湯的食譜！",
+          "sc": "获得了牛肉豆腐汤的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 194,
+      "rec_id": "INTANGEBLE_ID_RECIPE_113",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1557,
+          "ja": "いももちのレシピを入手した！",
+          "tc": "獲得了馬鈴薯麻糬的食譜！",
+          "sc": "获得了土豆年糕的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 195,
+      "rec_id": "INTANGEBLE_ID_RECIPE_114",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1565,
+          "ja": "メンチカツのレシピを入手した！",
+          "tc": "獲得了炸肉餅的食譜！",
+          "sc": "获得了炸肉饼的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 196,
+      "rec_id": "INTANGEBLE_ID_RECIPE_115",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1573,
+          "ja": "レモネードのレシピを入手した！",
+          "tc": "獲得了檸檬水的食譜！",
+          "sc": "获得了柠檬水的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 197,
+      "rec_id": "INTANGEBLE_ID_RECIPE_116",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1581,
+          "ja": "小魚の唐揚げのレシピを入手した！",
+          "tc": "獲得了油炸小魚的食譜！",
+          "sc": "获得了油炸小鱼的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 198,
+      "rec_id": "INTANGEBLE_ID_RECIPE_117",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1589,
+          "ja": "焼きそばのレシピを入手した！",
+          "tc": "獲得了日式炒麵的食譜！",
+          "sc": "获得了日式炒面的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 199,
+      "rec_id": "INTANGEBLE_ID_RECIPE_118",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1597,
+          "ja": "リンゴ飴のレシピを入手した！",
+          "tc": "獲得了蘋果糖的食譜！",
+          "sc": "获得了苹果糖的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 200,
+      "rec_id": "INTANGEBLE_ID_RECIPE_119",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1605,
+          "ja": "ソーダフロートのレシピを入手した！",
+          "tc": "獲得了冰淇淋蘇打的食譜！",
+          "sc": "获得了冰淇淋苏打的食谱！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 201,
+      "rec_id": "INTANGEBLE_ID_RECIPE_120",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1613,
+          "ja": "焼き芋（レシピ無し）",
+          "tc": "烤地瓜（無食譜）",
+          "sc": "烤红薯（无食谱）"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 202,
+      "rec_id": "INTANGEBLE_ID_WHISTLE_SONG_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1621,
+          "ja": "奇跡の呼笛？を覚えた！",
+          "tc": "學會了奇蹟的呼笛？！",
+          "sc": "学会了奇迹的呼笛？！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 203,
+      "rec_id": "INTANGEBLE_ID_WHISTLE_SONG_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1629,
+          "ja": "雨の呼笛を覚えた！",
+          "tc": "學會了喚雨呼笛！",
+          "sc": "学会了唤雨呼笛！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 204,
+      "rec_id": "INTANGEBLE_ID_WHISTLE_SONG_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1637,
+          "ja": "家畜の呼笛を覚えた！",
+          "tc": "學會了家畜的呼笛！",
+          "sc": "学会了家畜的呼笛！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 205,
+      "rec_id": "INTANGEBLE_ID_SHRINE_REPAIR_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1645,
+          "ja": "ボロボロの祠を修復した！",
+          "tc": "修繕了破破爛爛的祠堂！",
+          "sc": "修缮了破破烂烂的祠堂！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 206,
+      "rec_id": "INTANGEBLE_ID_SHRINE_REPAIR_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1653,
+          "ja": "祠をさらに修復した！",
+          "tc": "對祠堂進行了進一步的修繕！",
+          "sc": "对祠堂进行了进一步的修缮！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 207,
+      "rec_id": "INTANGEBLE_ID_SHRINE_REPAIR_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1661,
+          "ja": "祠をさらに修復した！",
+          "tc": "對祠堂進行了進一步的修繕！",
+          "sc": "对祠堂进行了进一步的修缮！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 208,
+      "rec_id": "INTANGEBLE_ID_SHRINE_REPAIR_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1669,
+          "ja": "祠をさらに修復した！",
+          "tc": "對祠堂進行了進一步的修繕！",
+          "sc": "对祠堂进行了进一步的修缮！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 209,
+      "rec_id": "INTANGEBLE_ID_SHRINE_REPAIR_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1677,
+          "ja": "立派な祠が完成した！",
+          "tc": "氣派的祠堂完工了！",
+          "sc": "气派的祠堂完工了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 210,
+      "rec_id": "INTANGEBLE_ID_SACRED_ITEM_SONG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1685,
+          "ja": "神器『奇跡の呼笛』を覚えた",
+          "tc": "學會了神器「奇蹟的呼笛」。",
+          "sc": "学会了神器“奇迹的呼笛”。"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 211,
+      "rec_id": "INTANGEBLE_ID_SACRED_ITEM_SKIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1693,
+          "ja": "神器『鵺の皮』を手に入れた",
+          "tc": "獲得了神器「鵺皮」。",
+          "sc": "获得了神器“鵺皮”。"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 212,
+      "rec_id": "INTANGEBLE_ID_SACRED_ITEM_HATCHET_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1701,
+          "ja": "神器『欠けたナタ』を手に入れた",
+          "tc": "獲得了神器「缺失的柴刀」。",
+          "sc": "获得了神器“残缺柴刀”。"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 213,
+      "rec_id": "INTANGEBLE_ID_SACRED_ITEM_HATCHET_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1709,
+          "ja": "神器『岩切りナタ』を手に入れた",
+          "tc": "獲得了神器「劈岩柴刀」。",
+          "sc": "获得了神器“劈岩柴刀”。"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 214,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_AXE_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1717,
+          "ja": "木の伐採　10回達成！",
+          "tc": "砍伐木頭　達成10次！",
+          "sc": "砍伐木头　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 215,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_AXE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1725,
+          "ja": "木の伐採　50回達成！",
+          "tc": "砍伐木頭　達成50次！",
+          "sc": "砍伐木头　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 216,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_AXE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1733,
+          "ja": "木の伐採　100回達成！",
+          "tc": "砍伐木頭　達成100次！",
+          "sc": "砍伐木头　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 217,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_AXE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1741,
+          "ja": "木の伐採　500回達成！",
+          "tc": "砍伐木頭　達成500次！",
+          "sc": "砍伐木头　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 218,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_AXE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1749,
+          "ja": "木の伐採　1000回達成！",
+          "tc": "砍伐木頭　達成1000次！",
+          "sc": "砍伐木头　达成1000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 219,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PICKAXE_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1757,
+          "ja": "石の破壊　10回達成！",
+          "tc": "破壞石頭　達成10次！",
+          "sc": "破坏石头　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 220,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PICKAXE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1765,
+          "ja": "石の破壊　50回達成！",
+          "tc": "破壞石頭　達成50次！",
+          "sc": "破坏石头　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 221,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PICKAXE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1773,
+          "ja": "石の破壊　100回達成！",
+          "tc": "破壞石頭　達成100次！",
+          "sc": "破坏石头　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 222,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PICKAXE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1781,
+          "ja": "石の破壊　500回達成！",
+          "tc": "破壞石頭　達成500次！",
+          "sc": "破坏石头　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 223,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PICKAXE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1789,
+          "ja": "石の破壊　1000回達成！",
+          "tc": "破壞石頭　達成1000次！",
+          "sc": "破坏石头　达成1000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 224,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SICKLE_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1797,
+          "ja": "雑草の刈り取り　１００回達成！",
+          "tc": "清除雜草　達成100次！",
+          "sc": "清除杂草　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 225,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SICKLE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1805,
+          "ja": "雑草の刈り取り　５００回達成！",
+          "tc": "清除雜草　達成500次！",
+          "sc": "清除杂草　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 226,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SICKLE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1813,
+          "ja": "雑草の刈り取り　１０００回達成！",
+          "tc": "清除雜草　達成1000次！",
+          "sc": "清除杂草　达成1000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 227,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SICKLE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1821,
+          "ja": "雑草の刈り取り　５０００回達成！",
+          "tc": "清除雜草　達成5000次！",
+          "sc": "清除杂草　达成5000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 228,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SICKLE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1829,
+          "ja": "雑草の刈り取り　１００００回達成！",
+          "tc": "清除雜草　達成10000次！",
+          "sc": "清除杂草　达成10000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 229,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOE_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1837,
+          "ja": "畑を耕す　10回達成！",
+          "tc": "翻整田地　達成10次！",
+          "sc": "翻整田地　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 230,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1845,
+          "ja": "畑を耕す　50回達成！",
+          "tc": "翻整田地　達成50次！",
+          "sc": "翻整田地　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 231,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1853,
+          "ja": "畑を耕す　100回達成！",
+          "tc": "翻整田地　達成100次！",
+          "sc": "翻整田地　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 232,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1861,
+          "ja": "畑を耕す　500回達成！",
+          "tc": "翻整田地　達成500次！",
+          "sc": "翻整田地　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 233,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1869,
+          "ja": "畑を耕す　1000回達成！",
+          "tc": "翻整田地　達成1000次！",
+          "sc": "翻整田地　达成1000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 234,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PLOW_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1877,
+          "ja": "水田を起こす　10回達成！",
+          "tc": "翻整水田　達成10次！",
+          "sc": "翻整水田　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 235,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PLOW_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1885,
+          "ja": "水田を起こす　50回達成！",
+          "tc": "翻整水田　達成50次！",
+          "sc": "翻整水田　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 236,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PLOW_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1893,
+          "ja": "水田を起こす　100回達成！",
+          "tc": "翻整水田　達成100次！",
+          "sc": "翻整水田　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 237,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PLOW_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1901,
+          "ja": "水田を起こす　500回達成！",
+          "tc": "翻整水田　達成500次！",
+          "sc": "翻整水田　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 238,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PLOW_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1909,
+          "ja": "水田を起こす　1000回達成！",
+          "tc": "翻整水田　達成1000次！",
+          "sc": "翻整水田　达成1000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 239,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_FISHING_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1917,
+          "ja": "魚を釣り上げる　10回達成！",
+          "tc": "釣到魚　達成10次！",
+          "sc": "钓到鱼　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 240,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_FISHING_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1925,
+          "ja": "魚を釣り上げる　25回達成！",
+          "tc": "釣到魚　達成25次！",
+          "sc": "钓到鱼　达成25次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 241,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_FISHING_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1933,
+          "ja": "魚を釣り上げる　50回達成！",
+          "tc": "釣到魚　達成50次！",
+          "sc": "钓到鱼　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 242,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_FISHING_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1941,
+          "ja": "魚を釣り上げる　100回達成！",
+          "tc": "釣到魚　達成100次！",
+          "sc": "钓到鱼　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 243,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_FISHING_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1949,
+          "ja": "魚を釣り上げる　300回達成！",
+          "tc": "釣到魚　達成300次！",
+          "sc": "钓到鱼　达成300次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 244,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HUNTING_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1957,
+          "ja": "弓での狩猟　3回達成！",
+          "tc": "用弓狩獵　達成3次！",
+          "sc": "用弓狩猎　达成3次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 245,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HUNTING_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1965,
+          "ja": "弓での狩猟　10回達成！",
+          "tc": "用弓狩獵　達成10次！",
+          "sc": "用弓狩猎　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 246,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HUNTING_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1973,
+          "ja": "弓での狩猟　25回達成！",
+          "tc": "用弓狩獵　達成25次！",
+          "sc": "用弓狩猎　达成25次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 247,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HUNTING_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1981,
+          "ja": "弓での狩猟　50回達成！",
+          "tc": "用弓狩獵　達成50次！",
+          "sc": "用弓狩猎　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 248,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HUNTING_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1989,
+          "ja": "弓での狩猟　100回達成！",
+          "tc": "用弓狩獵　達成100次！",
+          "sc": "用弓狩猎　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 249,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_TRAP_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1997,
+          "ja": "罠での狩猟　3回達成！",
+          "tc": "用陷阱狩獵　達成3次！",
+          "sc": "用陷阱狩猎　达成3次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 250,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_TRAP_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2005,
+          "ja": "罠での狩猟　10回達成！",
+          "tc": "用陷阱狩獵　達成10次！",
+          "sc": "用陷阱狩猎　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 251,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_TRAP_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2013,
+          "ja": "罠での狩猟　25回達成！",
+          "tc": "用陷阱狩獵　達成25次！",
+          "sc": "用陷阱狩猎　达成25次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 252,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_TRAP_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2021,
+          "ja": "罠での狩猟　50回達成！",
+          "tc": "用陷阱狩獵　達成50次！",
+          "sc": "用陷阱狩猎　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 253,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_TRAP_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2029,
+          "ja": "罠での狩猟　100回達成！",
+          "tc": "用陷阱狩獵　達成100次！",
+          "sc": "用陷阱狩猎　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 254,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COLLECTION_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2037,
+          "ja": "山菜の採取　10回達成！",
+          "tc": "採集山菜　達成10次！",
+          "sc": "采集山菜　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 255,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COLLECTION_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2045,
+          "ja": "山菜の採取　30回達成！",
+          "tc": "採集山菜　達成30次！",
+          "sc": "采集山菜　达成30次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 256,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COLLECTION_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2053,
+          "ja": "山菜の採取　100回達成！",
+          "tc": "採集山菜　達成100次！",
+          "sc": "采集山菜　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 257,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COLLECTION_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2061,
+          "ja": "山菜の採取　250回達成！",
+          "tc": "採集山菜　達成250次！",
+          "sc": "采集山菜　达成250次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 258,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COLLECTION_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2069,
+          "ja": "山菜の採取　500回達成！",
+          "tc": "採集山菜　達成500次！",
+          "sc": "采集山菜　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 259,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HARVEST_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2077,
+          "ja": "作物の収穫　5回達成！",
+          "tc": "收穫作物　達成5次！",
+          "sc": "收获作物　达成5次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 260,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HARVEST_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2085,
+          "ja": "作物の収穫　20回達成！",
+          "tc": "收穫作物　達成20次！",
+          "sc": "收获作物　达成20次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 261,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HARVEST_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2093,
+          "ja": "作物の収穫　100回達成！",
+          "tc": "收穫作物　達成100次！",
+          "sc": "收获作物　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 262,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HARVEST_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2101,
+          "ja": "作物の収穫　500回達成！",
+          "tc": "收穫作物　達成500次！",
+          "sc": "收获作物　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 263,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HARVEST_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2109,
+          "ja": "作物の収穫　1000回達成！",
+          "tc": "收穫作物　達成1000次！",
+          "sc": "收获作物　达成1000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 264,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HARVEST_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2117,
+          "ja": "作物の収穫　10000回達成！",
+          "tc": "收穫作物　達成10000次！",
+          "sc": "收获作物　达成10000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 265,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_LIVESTOCK_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2125,
+          "ja": "畜産品の採取　5回達成！",
+          "tc": "採集畜產品　達成5次！",
+          "sc": "采集畜产品　达成5次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 266,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_LIVESTOCK_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2133,
+          "ja": "畜産品の採取　20回達成！",
+          "tc": "採集畜產品　達成20次！",
+          "sc": "采集畜产品　达成20次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 267,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_LIVESTOCK_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2141,
+          "ja": "畜産品の採取　100回達成！",
+          "tc": "採集畜產品　達成100次！",
+          "sc": "采集畜产品　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 268,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_LIVESTOCK_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2149,
+          "ja": "畜産品の採取　500回達成！",
+          "tc": "採集畜產品　達成500次！",
+          "sc": "采集畜产品　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 269,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_LIVESTOCK_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2157,
+          "ja": "畜産品の採取　1000回達成！",
+          "tc": "採集畜產品　達成1000次！",
+          "sc": "采集畜产品　达成1000次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 270,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANIMAL_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2165,
+          "ja": "動物とのふれあい　20回達成！",
+          "tc": "與動物互動　達成20次！",
+          "sc": "与动物互动　达成20次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 271,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANIMAL_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2173,
+          "ja": "動物とのふれあい　50回達成！",
+          "tc": "與動物互動　達成50次！",
+          "sc": "与动物互动　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 272,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANIMAL_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2181,
+          "ja": "動物とのふれあい　100回達成！",
+          "tc": "與動物互動　達成100次！",
+          "sc": "与动物互动　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 273,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANIMAL_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2189,
+          "ja": "動物とのふれあい　300回達成！",
+          "tc": "與動物互動　達成300次！",
+          "sc": "与动物互动　达成300次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 274,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANIMAL_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2197,
+          "ja": "動物とのふれあい　500回達成！",
+          "tc": "與動物互動　達成500次！",
+          "sc": "与动物互动　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 275,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CRAFT_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2205,
+          "ja": "作業台でもの作り　10回達成！",
+          "tc": "在工作台製作物品　達成10次！",
+          "sc": "在工作台制作物品　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 276,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CRAFT_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2213,
+          "ja": "作業台でもの作り　25回達成！",
+          "tc": "在工作台製作物品　達成25次！",
+          "sc": "在工作台制作物品　达成25次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 277,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CRAFT_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2221,
+          "ja": "作業台でもの作り　50回達成！",
+          "tc": "在工作台製作物品　達成50次！",
+          "sc": "在工作台制作物品　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 278,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CRAFT_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2229,
+          "ja": "作業台でもの作り　100回達成！",
+          "tc": "在工作台製作物品　達成100次！",
+          "sc": "在工作台制作物品　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 279,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CRAFT_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2237,
+          "ja": "作業台でもの作り　500回達成！",
+          "tc": "在工作台製作物品　達成500次！",
+          "sc": "在工作台制作物品　达成500次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 280,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COOKING_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2245,
+          "ja": "料理の作成　1回達成！",
+          "tc": "製作料理　達成1次！",
+          "sc": "制作料理　达成1次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 281,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COOKING_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2253,
+          "ja": "料理の作成　5回達成！",
+          "tc": "製作料理　達成5次！",
+          "sc": "制作料理　达成5次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 282,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COOKING_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2261,
+          "ja": "料理の作成　20回達成！",
+          "tc": "製作料理　達成20次！",
+          "sc": "制作料理　达成20次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 283,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COOKING_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2269,
+          "ja": "料理の作成　50回達成！",
+          "tc": "製作料理　達成50次！",
+          "sc": "制作料理　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 284,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_COOKING_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2277,
+          "ja": "料理の作成　100回達成！",
+          "tc": "製作料理　達成100次！",
+          "sc": "制作料理　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 285,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PROCESSING_MACHINE_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2285,
+          "ja": "加工品の作成　5回達成！",
+          "tc": "製作加工品　達成5次！",
+          "sc": "制作加工品　达成5次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 286,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PROCESSING_MACHINE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2293,
+          "ja": "加工品の作成　15回達成！",
+          "tc": "製作加工品　達成15次！",
+          "sc": "制作加工品　达成15次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 287,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PROCESSING_MACHINE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2301,
+          "ja": "加工品の作成　30回達成！",
+          "tc": "製作加工品　達成30次！",
+          "sc": "制作加工品　达成30次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 288,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PROCESSING_MACHINE_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2309,
+          "ja": "加工品の作成　50回達成！",
+          "tc": "製作加工品　達成50次！",
+          "sc": "制作加工品　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 289,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_PROCESSING_MACHINE_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2317,
+          "ja": "加工品の作成　100回達成！",
+          "tc": "製作加工品　達成100次！",
+          "sc": "制作加工品　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 290,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ENCYCLOPEDIA_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2325,
+          "ja": "図鑑の登録　50品目達成！",
+          "tc": "集齊圖鑑　達成50項！",
+          "sc": "收集图鉴　达成50项！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 291,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ENCYCLOPEDIA_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2333,
+          "ja": "図鑑の登録　150回達成！",
+          "tc": "集齊圖鑑　達成150項！",
+          "sc": "收集图鉴　达成150项！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 292,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ENCYCLOPEDIA_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2341,
+          "ja": "図鑑の登録　300回達成！",
+          "tc": "集齊圖鑑　達成300項！",
+          "sc": "收集图鉴　达成300项！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 293,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ENCYCLOPEDIA_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2349,
+          "ja": "図鑑の登録　500回達成！",
+          "tc": "集齊圖鑑　達成500項！",
+          "sc": "收集图鉴　达成500项！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 294,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ENCYCLOPEDIA_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2357,
+          "ja": "図鑑の登録　1000回達成！",
+          "tc": "集齊圖鑑　達成1000項！",
+          "sc": "收集图鉴　达成1000项！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 295,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ENCYCLOPEDIA_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2365,
+          "ja": "図鑑の登録　全て達成！",
+          "tc": "集齊了所有圖鑑！",
+          "sc": "完成了所有图鉴！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 296,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_BIRD_DROP_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2373,
+          "ja": "野鳥の落とし物拾い　3回達成！",
+          "tc": "拾取野鳥的遺失物　達成3次！",
+          "sc": "拾取野鸟的遗落物　达成3次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 297,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_BIRD_DROP_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2381,
+          "ja": "野鳥の落とし物拾い　10回達成！",
+          "tc": "拾取野鳥的遺失物　達成10次！",
+          "sc": "拾取野鸟的遗落物　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 298,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_BIRD_DROP_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2389,
+          "ja": "野鳥の落とし物拾い　20回達成！",
+          "tc": "拾取野鳥的遺失物　達成20次！",
+          "sc": "拾取野鸟的遗落物　达成20次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 299,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_BIRD_DROP_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2397,
+          "ja": "野鳥の落とし物拾い　50回達成！",
+          "tc": "拾取野鳥的遺失物　達成50次！",
+          "sc": "拾取野鸟的遗落物　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 300,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_BIRD_DROP_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2405,
+          "ja": "野鳥の落とし物拾い　100回達成！",
+          "tc": "拾取野鳥的遺失物　達成100次！",
+          "sc": "拾取野鸟的遗落物　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 301,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CLINIC_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2413,
+          "ja": "診療所のお世話になる　1回達成！",
+          "tc": "在診所接受治療　達成1次！",
+          "sc": "前往诊所看病　达成1次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 302,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CLINIC_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2421,
+          "ja": "診療所のお世話になる　2回達成！",
+          "tc": "在診所接受治療　達成2次！",
+          "sc": "前往诊所看病　达成2次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 303,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CLINIC_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2429,
+          "ja": "診療所のお世話になる　4回達成！",
+          "tc": "在診所接受治療　達成4次！",
+          "sc": "前往诊所看病　达成4次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 304,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CLINIC_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2437,
+          "ja": "診療所のお世話になる　7回達成！",
+          "tc": "在診所接受治療　達成7次！",
+          "sc": "前往诊所看病　达成7次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 305,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CLINIC_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2445,
+          "ja": "診療所のお世話になる　10回達成！",
+          "tc": "在診所接受治療　達成10次！",
+          "sc": "前往诊所看病　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 306,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_VILLAGER_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2453,
+          "ja": "住人と仲良くなる　1人達成！",
+          "tc": "和村民拉近關係　達成1人！",
+          "sc": "和村民拉近关系　达成1人！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 307,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_VILLAGER_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2461,
+          "ja": "住人と仲良くなる　3人達成！",
+          "tc": "和村民拉近關係　達成3人！",
+          "sc": "和村民拉近关系　达成3人！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 308,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_VILLAGER_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2469,
+          "ja": "住人と仲良くなる　6人達成！",
+          "tc": "和村民拉近關係　達成6人！",
+          "sc": "和村民拉近关系　达成6人！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 309,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_VILLAGER_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2477,
+          "ja": "住人と仲良くなる　10人達成！",
+          "tc": "和村民拉近關係　達成10人！",
+          "sc": "和村民拉近关系　达成10人！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 310,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_VILLAGER_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2485,
+          "ja": "住人と仲良くなる　14人達成！",
+          "tc": "和村民成為好朋友　達成14人！",
+          "sc": "和村民成为好朋友　达成14人！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 311,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CONSTRUCTION_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2493,
+          "ja": "庭に建物を建築　1回達成！",
+          "tc": "在庭院建造建築物　達成1次！",
+          "sc": "在庭院建造建筑物　达成1次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 312,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CONSTRUCTION_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2501,
+          "ja": "庭に建物を建築　5回達成！",
+          "tc": "在庭院建造建築物　達成5次！",
+          "sc": "在庭院建造建筑物　达成5次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 313,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CONSTRUCTION_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2509,
+          "ja": "庭に建物を建築　15回達成！",
+          "tc": "在庭院建造建築物　達成15次！",
+          "sc": "在庭院建造建筑物　达成15次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 314,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CONSTRUCTION_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2517,
+          "ja": "庭に建物を建築　25回達成！",
+          "tc": "在庭院建造建築物　達成25次！",
+          "sc": "在庭院建造建筑物　达成25次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 315,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_CONSTRUCTION_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2525,
+          "ja": "庭に建物を建築　50回達成！",
+          "tc": "在庭院建造建築物　達成50次！",
+          "sc": "在庭院建造建筑物　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 316,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SUB_QUEST_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2533,
+          "ja": "住人からのお使い　5回達成！",
+          "tc": "幫村民跑腿　達成5次！",
+          "sc": "为村民跑腿　达成5次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 317,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SUB_QUEST_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2541,
+          "ja": "住人からのお使い　15回達成！",
+          "tc": "幫村民跑腿　達成15次！",
+          "sc": "为村民跑腿　达成15次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 318,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SUB_QUEST_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2549,
+          "ja": "住人からのお使い　30回達成！",
+          "tc": "幫村民跑腿　達成30次！",
+          "sc": "为村民跑腿　达成30次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 319,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SUB_QUEST_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2557,
+          "ja": "住人からのお使い　50回達成！",
+          "tc": "幫村民跑腿　達成50次！",
+          "sc": "为村民跑腿　达成50次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 320,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_SUB_QUEST_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2565,
+          "ja": "住人からのお使い　100回達成！",
+          "tc": "幫村民跑腿　達成100次！",
+          "sc": "为村民跑腿　达成100次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 321,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANVIL_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2573,
+          "ja": "全ての道具を銅以上に強化した！",
+          "tc": "將所有道具強化到銅以上了！",
+          "sc": "将所有道具强化到铜以上了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 322,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANVIL_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2581,
+          "ja": "全ての道具を鋼以上に強化した！",
+          "tc": "將所有道具強化到鋼以上了！",
+          "sc": "将所有道具强化到钢以上了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 323,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANVIL_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2589,
+          "ja": "全ての道具を金以上に強化した！",
+          "tc": "將所有道具強化到金以上了！",
+          "sc": "将所有道具强化到金以上了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 324,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_ANVIL_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2597,
+          "ja": "全ての道具を隕鉄に強化した！",
+          "tc": "將所有道具強化到隕鐵以上了！",
+          "sc": "将所有道具强化到了陨铁！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 325,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOLIDAY_SPRING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2605,
+          "ja": "お花見でラリー　15回達成！",
+          "tc": "參與賞花活動　達成15次！",
+          "sc": "赏花羽毛球对打　达成15次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 326,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOLIDAY_SUMMER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2613,
+          "ja": "縁日で買い物　10回達成！",
+          "tc": "在廟會日買東西　達成10次！",
+          "sc": "在庙会日买东西　达成10次！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 327,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOLIDAY_AUTUMN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2621,
+          "ja": "収穫祭で上手に焼き芋を焼いた！",
+          "tc": "在收穫祭典烤出美味的烤地瓜了！",
+          "sc": "在收获祭典上烤出了美味的烤红薯！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 328,
+      "rec_id": "INTANGEBLE_ID_SECRET_QUEST_HOLIDAY_WINTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2629,
+          "ja": "年末祭で上手に餅をついた！",
+          "tc": "在年終祭典順利搗出麻糬了！",
+          "sc": "在年终祭典上顺利打好了年糕！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 329,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2637,
+          "ja": "オーバーオールを着られるようになった！",
+          "tc": "可以穿上吊帶褲了！",
+          "sc": "可以穿上吊带裤了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 330,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2645,
+          "ja": "スカートを着られるようになった！",
+          "tc": "可以穿上裙子了！",
+          "sc": "可以穿上裙子了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 331,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2653,
+          "ja": "ダッフルコートを着られるようになった！",
+          "tc": "可以穿上牛角扣大衣了！",
+          "sc": "可以穿上牛角扣大衣了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 332,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2661,
+          "ja": "ニットベストを着られるようになった！",
+          "tc": "可以穿上針織背心了！",
+          "sc": "可以穿上针织背心了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 333,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_06",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2669,
+          "ja": "パジャマを着られるようになった！",
+          "tc": "可以穿上睡衣了！",
+          "sc": "可以穿上睡衣了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 334,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2677,
+          "ja": "ポンチョを着られるようになった！",
+          "tc": "可以穿上斗篷了！",
+          "sc": "可以穿上斗篷了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 335,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2685,
+          "ja": "レインコートを着られるようになった！",
+          "tc": "可以穿上雨衣了！",
+          "sc": "可以穿上雨衣了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 336,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2693,
+          "ja": "ワンピースを着られるようになった！",
+          "tc": "可以穿上連身裙了！",
+          "sc": "可以穿上连身裙了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 337,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2701,
+          "ja": "男性用喪服を着られるようになった！",
+          "tc": "可以穿上男用喪服了！",
+          "sc": "可以穿上男用丧服了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 338,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2709,
+          "ja": "女性用喪服を着られるようになった！",
+          "tc": "可以穿上女用喪服了！",
+          "sc": "可以穿上女用丧服了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 339,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2717,
+          "ja": "甚平を着られるようになった！",
+          "tc": "可以穿上甚平了！",
+          "sc": "可以穿上甚平了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 340,
+      "rec_id": "INTANGEBLE_ID_RELEASE_CLOTHING_13",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2725,
+          "ja": "トレンチコートを着られるようになった！",
+          "tc": "可以穿上風衣了！",
+          "sc": "可以穿上风衣了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 341,
+      "rec_id": "INTANGEBLE_ID_RELEASE_COLLAR_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2733,
+          "ja": "マフラーを巻けるようになった！",
+          "tc": "可以戴上圍巾了！",
+          "sc": "可以戴上围巾了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 342,
+      "rec_id": "INTANGEBLE_ID_RELEASE_COLLAR_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2741,
+          "ja": "もこもこを巻けるようになった！",
+          "tc": "可以戴上毛茸茸圍巾了！",
+          "sc": "可以戴上毛茸茸围巾了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 343,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2749,
+          "ja": "麦わら帽子を被れるようになった！",
+          "tc": "可以戴上草帽了！",
+          "sc": "可以戴上草帽了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 344,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2757,
+          "ja": "ベレー帽をかぶれるようになった！",
+          "tc": "可以戴上貝雷帽了！",
+          "sc": "可以戴上贝雷帽了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 345,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2765,
+          "ja": "カウボーイハットをかぶれるようになった！",
+          "tc": "可以戴上牛仔帽了！",
+          "sc": "可以戴上牛仔帽了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 346,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2773,
+          "ja": "探偵帽子をかぶれるようになった！",
+          "tc": "可以戴上偵探帽了！",
+          "sc": "可以戴上侦探帽了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 347,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2781,
+          "ja": "ナイトキャップをかぶれるようになった！",
+          "tc": "可以戴上睡帽了！",
+          "sc": "可以戴上睡帽了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 348,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_06",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2789,
+          "ja": "春の花冠を被れるようになった！",
+          "tc": "可以戴上春季花環了！",
+          "sc": "可以戴上春季花环了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 349,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2797,
+          "ja": "夏の花冠をかぶれるようになった！",
+          "tc": "可以戴上夏季花環了！",
+          "sc": "可以戴上夏季花环了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 350,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2805,
+          "ja": "秋の花冠をかぶれるようになった！",
+          "tc": "可以戴上秋季花環了！",
+          "sc": "可以戴上秋季花环了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 351,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2813,
+          "ja": "冬の花冠をかぶれるようになった！",
+          "tc": "可以戴上冬季花環了！",
+          "sc": "可以戴上冬季花环了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 352,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2821,
+          "ja": "魔法使い帽子をかぶれるようになった！",
+          "tc": "可以戴上魔法師帽了！",
+          "sc": "可以戴上魔法师帽了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 353,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2829,
+          "ja": "キャップをかぶれるようになった！",
+          "tc": "可以戴上鴨舌帽了！",
+          "sc": "可以戴上鸭舌帽了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 354,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2837,
+          "ja": "笠をかぶれるようになった！",
+          "tc": "可以戴上斗笠了！",
+          "sc": "可以戴上斗笠了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 355,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_30",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2845,
+          "ja": "狐面を着けられるようになった！",
+          "tc": "可以戴上狐狸面具了！",
+          "sc": "可以戴上狐狸面具了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 356,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_31",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2853,
+          "ja": "般若面を着けられるようになった！",
+          "tc": "可以戴上般若面具了！",
+          "sc": "可以戴上般若面具了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 357,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_32",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2861,
+          "ja": "おかめ面を着けられるようになった！",
+          "tc": "可以戴上阿龜面具了！",
+          "sc": "可以戴上阿龟面具了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 358,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_33",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2869,
+          "ja": "王冠を着けられるようになった！",
+          "tc": "可以戴上王冠了！",
+          "sc": "可以戴上王冠了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 359,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_34",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2877,
+          "ja": "音符バッジを着けられるようになった！",
+          "tc": "可以別上音符徽章了！",
+          "sc": "可以别上音符徽章了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 360,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_35",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2885,
+          "ja": "蝶のピン留めを着けられるようになった！",
+          "tc": "可以別上蝴蝶髮夾了！",
+          "sc": "可以别上蝴蝶发夹了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 361,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_36",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2893,
+          "ja": "花のピン留めを着けられるようになった！",
+          "tc": "可以別上花朵髮夾了！",
+          "sc": "可以别上花朵发夹了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 362,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_37",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2901,
+          "ja": "天狗面を着けられるようになった！",
+          "tc": "可以戴上天狗面具了！",
+          "sc": "可以戴上天狗面具了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 363,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_50",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2909,
+          "ja": "リボンを着けられるようになった！",
+          "tc": "可以戴上蝴蝶結了！",
+          "sc": "可以戴上蝴蝶结了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 364,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_51",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2917,
+          "ja": "紐リボンを着けられるようになった！",
+          "tc": "可以戴上蝴蝶繩結了！",
+          "sc": "可以戴上蝴蝶绳结了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 365,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_52",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2925,
+          "ja": "鈴の髪飾りを着けられるようになった！",
+          "tc": "可以戴上鈴鐺髮飾了！",
+          "sc": "可以戴上铃铛发饰了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 366,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_53",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2933,
+          "ja": "ボンボンを着けられるようになった！",
+          "tc": "可以戴上毛球髮飾了！",
+          "sc": "可以戴上毛球发饰了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 367,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_60",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2941,
+          "ja": "うさみみリボンを着けられるようになった！",
+          "tc": "可以戴上兔耳髮帶了！",
+          "sc": "可以戴上兔耳发带了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 368,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_62",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2949,
+          "ja": "ヘッドドレスを着けられるようになった！",
+          "tc": "可以戴上頭飾了！",
+          "sc": "可以戴上头饰了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 369,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_63",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2957,
+          "ja": "ヘッドフォンを着けられるようになった！",
+          "tc": "可以戴上耳機了！",
+          "sc": "可以戴上耳机了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 370,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_70",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2965,
+          "ja": "アイマスクを着けられるようになった！",
+          "tc": "可以戴上眼罩了！",
+          "sc": "可以戴上眼罩了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 371,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_71",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2973,
+          "ja": "ゴーグルを着けられるようになった！",
+          "tc": "可以戴上護目鏡了！",
+          "sc": "可以戴上护目镜了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 372,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_72",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2981,
+          "ja": "メガネを着けられるようになった！",
+          "tc": "可以戴上眼鏡了！",
+          "sc": "可以戴上眼镜了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 373,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_73",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2989,
+          "ja": "サングラスを着けられるようになった！",
+          "tc": "可以戴上太陽眼鏡了！",
+          "sc": "可以戴上墨镜了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 374,
+      "rec_id": "INTANGEBLE_ID_RELEASE_ACCESSORY_74",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2997,
+          "ja": "モノクルを着けられるようになった！",
+          "tc": "可以戴上單片眼鏡了！",
+          "sc": "可以戴上单片眼镜了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 375,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BAG_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3005,
+          "ja": "ランドセルを背負えるようになった！",
+          "tc": "可以背上書包了！",
+          "sc": "可以背上书包了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 376,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BAG_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3013,
+          "ja": "リュックを背負えるようになった！",
+          "tc": "可以背上背包了！",
+          "sc": "可以背上背包了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 377,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BAG_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3021,
+          "ja": "猫バックを背負えるようになった！",
+          "tc": "可以背上貓咪背包了！",
+          "sc": "可以背上猫咪背包了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 378,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BAG_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3029,
+          "ja": "背負子を背負えるようになった！",
+          "tc": "可以背上背架了！",
+          "sc": "可以背上背架了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 379,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BAG_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3037,
+          "ja": "籠を背負えるようになった！",
+          "tc": "可以背上竹簍了！",
+          "sc": "可以背上背篓了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 380,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3045,
+          "ja": "前髪／片側かき上げを覚えた！",
+          "tc": "學會了瀏海／旁分的造型！",
+          "sc": "学会了刘海／偏分的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 381,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3053,
+          "ja": "前髪／クセ毛センターを覚えた！",
+          "tc": "學會了瀏海／自然捲中分的造型！",
+          "sc": "学会了刘海／自然卷中分的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 382,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3061,
+          "ja": "前髪／オールバックを覚えた！",
+          "tc": "學會了瀏海／後梳頭的造型！",
+          "sc": "学会了刘海／后梳头的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 383,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3069,
+          "ja": "前髪／センターウェーブを覚えた！",
+          "tc": "學會了瀏海／波浪捲中分的造型！",
+          "sc": "学会了刘海／波浪卷中分的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 384,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3077,
+          "ja": "前髪／ナチュラルセンターを覚えた！",
+          "tc": "學會了瀏海／自然中分的造型！",
+          "sc": "学会了刘海／自然中分的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 385,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_14",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3085,
+          "ja": "前髪／切りすぎパッツンを覚えた！",
+          "tc": "學會了瀏海／超短齊瀏海的造型！",
+          "sc": "学会了刘海／超短齐刘海的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 386,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_15",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3093,
+          "ja": "前髪／七三サイドを覚えた！",
+          "tc": "學會了瀏海／三七分的造型！",
+          "sc": "学会了刘海／三七分的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 387,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_16",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3101,
+          "ja": "前髪／サイド三つ編みを覚えた！",
+          "tc": "學會了瀏海／側三股辮的造型！",
+          "sc": "学会了刘海／侧麻花辫的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 388,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_17",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3109,
+          "ja": "前髪／ふわふわを覚えた！",
+          "tc": "學會了瀏海／蓬鬆的造型！",
+          "sc": "学会了刘海／蓬松的造型！"
+        }
+      ]
+    }
+  ]
+}

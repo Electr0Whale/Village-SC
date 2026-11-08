@@ -1,0 +1,1056 @@
+{
+  "batch_id": "batch_011_world_meta",
+  "group": "world_meta",
+  "files": [
+    "bgm.dat",
+    "trophy.dat",
+    "whistle.dat"
+  ],
+  "record_count": 66,
+  "line_count": 83,
+  "records": [
+    {
+      "file": "trophy.dat",
+      "rec_idx": 35,
+      "rec_id": "TROPHY_ID_036",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 530,
+          "ja": "貧弱",
+          "tc": "虛弱",
+          "sc": "虚弱"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 537,
+          "ja": "ほの暮しモードで診療所に10回運び込まれた",
+          "tc": "在靜謐田園模式中被送入診所10次",
+          "sc": "在静谧田园模式中被送入诊所10次"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 36,
+      "rec_id": "TROPHY_ID_037",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 545,
+          "ja": "深夜",
+          "tc": "深夜",
+          "sc": "深夜"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 552,
+          "ja": "ほの暮しモードで勾玉を500個拾った",
+          "tc": "在靜謐田園模式中拾取了500個勾玉",
+          "sc": "在静谧田园模式中拾取了500个勾玉"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 37,
+      "rec_id": "TROPHY_ID_038",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 560,
+          "ja": "里人",
+          "tc": "村民",
+          "sc": "村民"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 567,
+          "ja": "ほの暮しモードで全ての住人と仲良くなった",
+          "tc": "在靜謐田園模式中與所有村民成為好朋友",
+          "sc": "在静谧田园模式中与所有村民成为了好友"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 38,
+      "rec_id": "TROPHY_ID_039",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 575,
+          "ja": "築造",
+          "tc": "建造",
+          "sc": "建造"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 582,
+          "ja": "ほの暮しモードで建築を50個作った",
+          "tc": "在靜謐田園模式中建造了50座建築物",
+          "sc": "在静谧田园模式中建造了50座建筑物"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 39,
+      "rec_id": "TROPHY_ID_040",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 590,
+          "ja": "庶幾",
+          "tc": "願望",
+          "sc": "愿望"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 597,
+          "ja": "ほの暮しモードで住人の依頼を100回叶えた",
+          "tc": "在靜謐田園模式中完成了100次村民的委託",
+          "sc": "在静谧田园模式中完成了100次村民的委托"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 40,
+      "rec_id": "TROPHY_ID_041",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "春の遊戯",
+          "tc": "春天的遊戲",
+          "sc": "春天的游戏"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 612,
+          "ja": "ほの暮しモードでバドミントンを15回連続でラリーした",
+          "tc": "在靜謐田園模式中連續擊打羽毛球15次",
+          "sc": "在静谧田园模式中连续击打羽毛球15次"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 41,
+      "rec_id": "TROPHY_ID_042",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 620,
+          "ja": "夏の祭",
+          "tc": "夏天的慶典",
+          "sc": "夏天的庆典"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 627,
+          "ja": "ほの暮しモードで夏祭りに合計10個の商品を購入した",
+          "tc": "在靜謐田園模式中於夏日祭典購買了10個商品",
+          "sc": "在静谧田园模式中的夏日祭典上累计购买了10件商品"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 42,
+      "rec_id": "TROPHY_ID_043",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 635,
+          "ja": "秋の焼芋",
+          "tc": "秋天的烤地瓜",
+          "sc": "秋天的烤红薯"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 642,
+          "ja": "ほの暮しモードで焼き芋を完成させた",
+          "tc": "在靜謐田園模式中完成了烤地瓜",
+          "sc": "在静谧田园模式中制作完成了烤红薯"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 43,
+      "rec_id": "TROPHY_ID_044",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 650,
+          "ja": "冬の餅搗き",
+          "tc": "冬天的搗麻糬",
+          "sc": "冬天的捣年糕"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 657,
+          "ja": "ほの暮しモードでモチを完成させた",
+          "tc": "在靜謐田園模式中完成了麻糬",
+          "sc": "在静谧田园模式中制作完成了年糕"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 44,
+      "rec_id": "TROPHY_ID_045",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 665,
+          "ja": "五斗米",
+          "tc": "五斗米",
+          "sc": "五斗米"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 672,
+          "ja": "ほの暮しモードで10,000円分を出荷した",
+          "tc": "在靜謐田園模式中達成了10,000元的出貨",
+          "sc": "在静谧田园模式中达成了10,000元的出货"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 45,
+      "rec_id": "TROPHY_ID_046",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 680,
+          "ja": "繁盛",
+          "tc": "興盛",
+          "sc": "兴盛"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 687,
+          "ja": "ほの暮しモードで100,000円分を出荷した",
+          "tc": "在靜謐田園模式中達成了100,000元的出貨",
+          "sc": "在静谧田园模式中达成了100,000元的出货"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 46,
+      "rec_id": "TROPHY_ID_047",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 695,
+          "ja": "富裕",
+          "tc": "富裕",
+          "sc": "富裕"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 702,
+          "ja": "ほの暮しモードで1,000,000円分を出荷した",
+          "tc": "在靜謐田園模式中達成了1,000,000元的出貨",
+          "sc": "在静谧田园模式中达成了1,000,000元的出货"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 47,
+      "rec_id": "TROPHY_ID_048",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 710,
+          "ja": "長者",
+          "tc": "富豪",
+          "sc": "富豪"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 717,
+          "ja": "ほの暮しモードで10,000,000円分を出荷した",
+          "tc": "在靜謐田園模式中達成了10,000,000元的出貨",
+          "sc": "在静谧田园模式中达成了10,000,000元的出货"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 48,
+      "rec_id": "TROPHY_ID_049",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 725,
+          "ja": "三百項",
+          "tc": "三百項",
+          "sc": "三百项"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 732,
+          "ja": "ほの暮しモードで図鑑の登録アイテム300種類達成",
+          "tc": "在靜謐田園模式中集齊了300項圖鑑",
+          "sc": "在静谧田园模式中图鉴收录道具达到300种"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 49,
+      "rec_id": "TROPHY_ID_050",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 740,
+          "ja": "五百項",
+          "tc": "五百項",
+          "sc": "五百项"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 747,
+          "ja": "ほの暮しモードで図鑑の登録アイテム500種類達成",
+          "tc": "在靜謐田園模式中集齊了500項圖鑑",
+          "sc": "在静谧田园模式中图鉴收录道具达到500种"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 50,
+      "rec_id": "TROPHY_ID_051",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 755,
+          "ja": "千項",
+          "tc": "千項",
+          "sc": "千项"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 762,
+          "ja": "ほの暮しモードで図鑑の登録アイテム1000種類達成",
+          "tc": "在靜謐田園模式中集齊了1000項圖鑑",
+          "sc": "在静谧田园模式中图鉴收录道具达到1000种"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 51,
+      "rec_id": "TROPHY_ID_052",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 770,
+          "ja": "図鑑",
+          "tc": "圖鑑",
+          "sc": "图鉴"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 777,
+          "ja": "ほの暮しモードで図鑑を全て完成させた",
+          "tc": "在靜謐田園模式中完成了所有圖鑑",
+          "sc": "在静谧田园模式中完成了所有图鉴"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 0,
+      "rec_id": "WHISTLE_ID_CALL_DOG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "犬の呼笛",
+          "tc": "喚犬呼笛",
+          "sc": "唤犬呼笛"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 1,
+      "rec_id": "WHISTLE_ID_CALL_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 36,
+          "ja": "家畜の呼笛",
+          "tc": "家畜的呼笛",
+          "sc": "家畜的呼笛"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 2,
+      "rec_id": "WHISTLE_ID_CALL_MOUNTAIN_GUARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 67,
+          "ja": "山守の呼笛",
+          "tc": "巡山員的呼笛",
+          "sc": "巡山员的呼笛"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 3,
+      "rec_id": "WHISTLE_ID_LULLABY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 98,
+          "ja": "子守唄",
+          "tc": "搖籃曲",
+          "sc": "摇篮曲"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 4,
+      "rec_id": "WHISTLE_ID_RETURN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 129,
+          "ja": "奇跡の呼笛",
+          "tc": "奇蹟的呼笛",
+          "sc": "奇迹的呼笛"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 5,
+      "rec_id": "WHISTLE_ID_REVERSAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 160,
+          "ja": "逆転の唄",
+          "tc": "逆轉之歌",
+          "sc": "逆转之歌"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 6,
+      "rec_id": "WHISTLE_ID_VISION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 191,
+          "ja": "幻視の唄",
+          "tc": "幻視之歌",
+          "sc": "幻视之歌"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 7,
+      "rec_id": "WHISTLE_ID_ARMOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 222,
+          "ja": "鎧の唄",
+          "tc": "鎧甲之歌",
+          "sc": "铠甲之歌"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 8,
+      "rec_id": "WHISTLE_ID_SWORD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 253,
+          "ja": "剣の唄",
+          "tc": "劍之歌",
+          "sc": "剑之歌"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 9,
+      "rec_id": "WHISTLE_ID_RAINMAKING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 284,
+          "ja": "雨の呼笛",
+          "tc": "喚雨呼笛",
+          "sc": "唤雨呼笛"
+        }
+      ]
+    },
+    {
+      "file": "whistle.dat",
+      "rec_idx": 10,
+      "rec_id": "WHISTLE_ID_RETURN_FALSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 315,
+          "ja": "奇跡の呼笛？",
+          "tc": "奇蹟的呼笛？",
+          "sc": "奇迹的呼笛？"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 0,
+      "rec_id": "BGM_ID_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 7,
+          "ja": "ほの暮しの庭／メインテーマ",
+          "tc": "靜謐田園／主題曲",
+          "sc": "静谧田园／主题曲"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 1,
+      "rec_id": "BGM_ID_SPRING_MORNING_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 17,
+          "ja": "春／晴の朝",
+          "tc": "春／晴朗的早晨",
+          "sc": "春／晴朗的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 2,
+      "rec_id": "BGM_ID_SPRING_NOON_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 27,
+          "ja": "春／晴の昼",
+          "tc": "春／晴朗的日間",
+          "sc": "春／晴朗的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 3,
+      "rec_id": "BGM_ID_SPRING_NIGHT_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "春／晴の夜",
+          "tc": "春／無雲的夜晚",
+          "sc": "春／晴朗的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 4,
+      "rec_id": "BGM_ID_SPRING_MORNING_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 47,
+          "ja": "春／雨の朝",
+          "tc": "春／下雨的早晨",
+          "sc": "春／下雨的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 5,
+      "rec_id": "BGM_ID_SPRING_NOON_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 57,
+          "ja": "春／雨の昼",
+          "tc": "春／下雨的日間",
+          "sc": "春／下雨的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 6,
+      "rec_id": "BGM_ID_SPRING_NIGHT_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 67,
+          "ja": "春／雨の夜",
+          "tc": "春／下雨的夜晚",
+          "sc": "春／下雨的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 7,
+      "rec_id": "BGM_ID_SUMMER_MORNING_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "夏／晴の朝",
+          "tc": "夏／晴朗的早晨",
+          "sc": "夏／晴朗的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 8,
+      "rec_id": "BGM_ID_SUMMER_NOON_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 87,
+          "ja": "夏／晴の昼",
+          "tc": "夏／晴朗的日間",
+          "sc": "夏／晴朗的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 9,
+      "rec_id": "BGM_ID_SUMMER_NIGHT_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 97,
+          "ja": "夏／晴の夜",
+          "tc": "夏／無雲的夜晚",
+          "sc": "夏／晴朗的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 10,
+      "rec_id": "BGM_ID_SUMMER_MORNING_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 107,
+          "ja": "夏／雨の朝",
+          "tc": "夏／下雨的早晨",
+          "sc": "夏／下雨的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 11,
+      "rec_id": "BGM_ID_SUMMER_NOON_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "夏／雨の昼",
+          "tc": "夏／下雨的日間",
+          "sc": "夏／下雨的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 12,
+      "rec_id": "BGM_ID_SUMMER_NIGHT_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 127,
+          "ja": "夏／雨の夜",
+          "tc": "夏／下雨的夜晚",
+          "sc": "夏／下雨的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 13,
+      "rec_id": "BGM_ID_AUTUMN_MORNING_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 137,
+          "ja": "秋／晴の朝",
+          "tc": "秋／晴朗的早晨",
+          "sc": "秋／晴朗的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 14,
+      "rec_id": "BGM_ID_AUTUMN_NOON_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 147,
+          "ja": "秋／晴の昼",
+          "tc": "秋／晴朗的日間",
+          "sc": "秋／晴朗的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 15,
+      "rec_id": "BGM_ID_AUTUMN_NIGHT_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 157,
+          "ja": "秋／晴の夜",
+          "tc": "秋／無雲的夜晚",
+          "sc": "秋／晴朗的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 16,
+      "rec_id": "BGM_ID_AUTUMN_MORNING_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 167,
+          "ja": "秋／雨の朝",
+          "tc": "秋／下雨的早晨",
+          "sc": "秋／下雨的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 17,
+      "rec_id": "BGM_ID_AUTUMN_NOON_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 177,
+          "ja": "秋／雨の昼",
+          "tc": "秋／下雨的日間",
+          "sc": "秋／下雨的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 18,
+      "rec_id": "BGM_ID_AUTUMN_NIGHT_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 187,
+          "ja": "秋／雨の夜",
+          "tc": "秋／下雨的夜晚",
+          "sc": "秋／下雨的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 19,
+      "rec_id": "BGM_ID_WINTER_MORNING_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 197,
+          "ja": "冬／晴の朝",
+          "tc": "冬／晴朗的早晨",
+          "sc": "冬／晴朗的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 20,
+      "rec_id": "BGM_ID_WINTER_NOON_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 207,
+          "ja": "冬／晴の昼",
+          "tc": "冬／晴朗的日間",
+          "sc": "冬／晴朗的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 21,
+      "rec_id": "BGM_ID_WINTER_NIGHT_SUNNY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 217,
+          "ja": "冬／晴の夜",
+          "tc": "冬／無雲的夜晚",
+          "sc": "冬／晴朗的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 22,
+      "rec_id": "BGM_ID_WINTER_MORNING_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 227,
+          "ja": "冬／雪の朝",
+          "tc": "冬／下雪的早晨",
+          "sc": "冬／下雪的早晨"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 23,
+      "rec_id": "BGM_ID_WINTER_NOON_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 237,
+          "ja": "冬／雪の昼",
+          "tc": "冬／下雪的日間",
+          "sc": "冬／下雪的白天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 24,
+      "rec_id": "BGM_ID_WINTER_NIGHT_RAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 247,
+          "ja": "冬／雪の夜",
+          "tc": "冬／下雪的夜晚",
+          "sc": "冬／下雪的夜晚"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 25,
+      "rec_id": "BGM_ID_26",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 257,
+          "ja": "品評会",
+          "tc": "評鑑會",
+          "sc": "评鉴会"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 26,
+      "rec_id": "BGM_ID_27",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 267,
+          "ja": "賑わい祭り",
+          "tc": "熱鬧的祭典",
+          "sc": "热闹的祭典"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 27,
+      "rec_id": "BGM_ID_28",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "厳か祭り",
+          "tc": "隆重的祭典",
+          "sc": "庄严的祭典"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 28,
+      "rec_id": "BGM_ID_29",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 287,
+          "ja": "vsヅ主",
+          "tc": "vs津主",
+          "sc": "vs津主"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 29,
+      "rec_id": "BGM_ID_30",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 297,
+          "ja": "vs鵺の皮",
+          "tc": "vs鵺皮",
+          "sc": "vs鵺皮"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 30,
+      "rec_id": "BGM_ID_31",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 307,
+          "ja": "vs以津真天",
+          "tc": "vs以津真天",
+          "sc": "vs以津真天"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 31,
+      "rec_id": "BGM_ID_32",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 317,
+          "ja": "vs化け狐",
+          "tc": "vs狐妖",
+          "sc": "vs狐妖"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 32,
+      "rec_id": "BGM_ID_33",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 327,
+          "ja": "vsタタリ神",
+          "tc": "vs祟神",
+          "sc": "vs祟神"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 33,
+      "rec_id": "BGM_ID_34",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 337,
+          "ja": "vs桃の樹",
+          "tc": "vs桃樹",
+          "sc": "vs桃树"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 34,
+      "rec_id": "BGM_ID_35",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 347,
+          "ja": "彼ヶ津村の住人たち",
+          "tc": "彼津村的村民們",
+          "sc": "彼津村的村民们"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 35,
+      "rec_id": "BGM_ID_36",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "石切場／上層",
+          "tc": "採石場／上層",
+          "sc": "采石场／上层"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 36,
+      "rec_id": "BGM_ID_37",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 367,
+          "ja": "石切場／中層",
+          "tc": "採石場／中層",
+          "sc": "采石场／中层"
+        }
+      ]
+    },
+    {
+      "file": "bgm.dat",
+      "rec_idx": 37,
+      "rec_id": "BGM_ID_38",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 377,
+          "ja": "石切場／下層",
+          "tc": "採石場／下層",
+          "sc": "采石场／下层"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "title_id": "01001BA027DD8000",
-  "version": "1.2.0 (v393216)",
+  "version": "1.3.0 (v458752)",
   "total_files": 37,
-  "total_records": 14224,
-  "total_lines": 55931,
+  "total_records": 14404,
+  "total_lines": 56747,
   "batches": [
     {
       "batch_id": "batch_001_sys_ui",
@@ -83,8 +83,8 @@
         "logText.dat",
         "updateText.dat"
       ],
-      "record_count": 12,
-      "line_count": 30
+      "record_count": 42,
+      "line_count": 83
     },
     {
       "batch_id": "batch_008_world_meta",
@@ -187,8 +187,8 @@
       "files": [
         "intangeble.dat"
       ],
-      "record_count": 33,
-      "line_count": 33
+      "record_count": 34,
+      "line_count": 34
     },
     {
       "batch_id": "batch_017_quest_tips",
@@ -219,7 +219,7 @@
         "tips.dat"
       ],
       "record_count": 56,
-      "line_count": 199
+      "line_count": 198
     },
     {
       "batch_id": "batch_020_quest_tips",
@@ -228,8 +228,8 @@
       "files": [
         "tips.dat"
       ],
-      "record_count": 4,
-      "line_count": 14
+      "record_count": 6,
+      "line_count": 22
     },
     {
       "batch_id": "batch_021_lore_letters",
@@ -299,8 +299,8 @@
         "letter.dat",
         "lostBook.dat"
       ],
-      "record_count": 22,
-      "line_count": 190
+      "record_count": 24,
+      "line_count": 200
     },
     {
       "batch_id": "batch_028_lore_letters",
@@ -310,7 +310,7 @@
         "lostBook.dat"
       ],
       "record_count": 19,
-      "line_count": 197
+      "line_count": 198
     },
     {
       "batch_id": "batch_029_lore_letters",
@@ -320,7 +320,7 @@
         "lostBook.dat"
       ],
       "record_count": 18,
-      "line_count": 196
+      "line_count": 195
     },
     {
       "batch_id": "batch_030_lore_letters",
@@ -330,8 +330,8 @@
         "lostBook.dat",
         "reminiscence.dat"
       ],
-      "record_count": 10,
-      "line_count": 163
+      "record_count": 12,
+      "line_count": 185
     },
     {
       "batch_id": "batch_031_lore_letters",
@@ -368,20 +368,20 @@
       "filename": "batch_034_credits.json",
       "group": "credits",
       "files": [
+        "credit.dat"
+      ],
+      "record_count": 1,
+      "line_count": 76
+    },
+    {
+      "batch_id": "batch_035_credits",
+      "filename": "batch_035_credits.json",
+      "group": "credits",
+      "files": [
         "framework_credit.dat"
       ],
       "record_count": 1,
       "line_count": 181
-    },
-    {
-      "batch_id": "batch_035_item",
-      "filename": "batch_035_item.json",
-      "group": "item",
-      "files": [
-        "item.dat"
-      ],
-      "record_count": 50,
-      "line_count": 200
     },
     {
       "batch_id": "batch_036_item",
@@ -440,8 +440,8 @@
       "files": [
         "item.dat"
       ],
-      "record_count": 49,
-      "line_count": 198
+      "record_count": 50,
+      "line_count": 200
     },
     {
       "batch_id": "batch_042_item",
@@ -450,8 +450,8 @@
       "files": [
         "item.dat"
       ],
-      "record_count": 50,
-      "line_count": 200
+      "record_count": 49,
+      "line_count": 198
     },
     {
       "batch_id": "batch_043_item",
@@ -960,7 +960,7 @@
       "files": [
         "item.dat"
       ],
-      "record_count": 53,
+      "record_count": 50,
       "line_count": 200
     },
     {
@@ -970,38 +970,38 @@
       "files": [
         "item.dat"
       ],
-      "record_count": 23,
-      "line_count": 92
+      "record_count": 50,
+      "line_count": 200
     },
     {
-      "batch_id": "batch_095_talk",
-      "filename": "batch_095_talk.json",
-      "group": "talk",
+      "batch_id": "batch_095_item",
+      "filename": "batch_095_item.json",
+      "group": "item",
       "files": [
-        "talk.dat"
+        "item.dat"
       ],
-      "record_count": 43,
-      "line_count": 194
+      "record_count": 50,
+      "line_count": 200
     },
     {
-      "batch_id": "batch_096_talk",
-      "filename": "batch_096_talk.json",
-      "group": "talk",
+      "batch_id": "batch_096_item",
+      "filename": "batch_096_item.json",
+      "group": "item",
       "files": [
-        "talk.dat"
+        "item.dat"
       ],
-      "record_count": 57,
-      "line_count": 198
+      "record_count": 53,
+      "line_count": 200
     },
     {
-      "batch_id": "batch_097_talk",
-      "filename": "batch_097_talk.json",
-      "group": "talk",
+      "batch_id": "batch_097_item",
+      "filename": "batch_097_item.json",
+      "group": "item",
       "files": [
-        "talk.dat"
+        "item.dat"
       ],
-      "record_count": 70,
-      "line_count": 199
+      "record_count": 26,
+      "line_count": 104
     },
     {
       "batch_id": "batch_098_talk",
@@ -1010,8 +1010,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 67,
-      "line_count": 198
+      "record_count": 43,
+      "line_count": 194
     },
     {
       "batch_id": "batch_099_talk",
@@ -1020,8 +1020,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 37,
-      "line_count": 199
+      "record_count": 57,
+      "line_count": 198
     },
     {
       "batch_id": "batch_100_talk",
@@ -1030,8 +1030,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 59,
-      "line_count": 200
+      "record_count": 70,
+      "line_count": 199
     },
     {
       "batch_id": "batch_101_talk",
@@ -1040,8 +1040,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 78,
-      "line_count": 200
+      "record_count": 67,
+      "line_count": 198
     },
     {
       "batch_id": "batch_102_talk",
@@ -1050,8 +1050,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 67,
-      "line_count": 198
+      "record_count": 35,
+      "line_count": 197
     },
     {
       "batch_id": "batch_103_talk",
@@ -1060,8 +1060,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 30,
-      "line_count": 198
+      "record_count": 50,
+      "line_count": 200
     },
     {
       "batch_id": "batch_104_talk",
@@ -1070,8 +1070,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 61,
-      "line_count": 198
+      "record_count": 80,
+      "line_count": 200
     },
     {
       "batch_id": "batch_105_talk",
@@ -1080,8 +1080,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 72,
-      "line_count": 199
+      "record_count": 70,
+      "line_count": 200
     },
     {
       "batch_id": "batch_106_talk",
@@ -1090,8 +1090,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 71,
-      "line_count": 200
+      "record_count": 31,
+      "line_count": 198
     },
     {
       "batch_id": "batch_107_talk",
@@ -1100,8 +1100,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 29,
-      "line_count": 194
+      "record_count": 53,
+      "line_count": 200
     },
     {
       "batch_id": "batch_108_talk",
@@ -1110,7 +1110,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 54,
+      "record_count": 71,
       "line_count": 198
     },
     {
@@ -1120,8 +1120,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 66,
-      "line_count": 199
+      "record_count": 70,
+      "line_count": 198
     },
     {
       "batch_id": "batch_110_talk",
@@ -1130,8 +1130,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 61,
-      "line_count": 200
+      "record_count": 38,
+      "line_count": 199
     },
     {
       "batch_id": "batch_111_talk",
@@ -1140,8 +1140,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 39,
-      "line_count": 197
+      "record_count": 40,
+      "line_count": 199
     },
     {
       "batch_id": "batch_112_talk",
@@ -1150,8 +1150,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 43,
-      "line_count": 200
+      "record_count": 68,
+      "line_count": 199
     },
     {
       "batch_id": "batch_113_talk",
@@ -1160,8 +1160,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 68,
-      "line_count": 198
+      "record_count": 63,
+      "line_count": 200
     },
     {
       "batch_id": "batch_114_talk",
@@ -1170,8 +1170,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 65,
-      "line_count": 200
+      "record_count": 50,
+      "line_count": 199
     },
     {
       "batch_id": "batch_115_talk",
@@ -1180,8 +1180,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 47,
-      "line_count": 198
+      "record_count": 29,
+      "line_count": 192
     },
     {
       "batch_id": "batch_116_talk",
@@ -1190,8 +1190,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 37,
-      "line_count": 196
+      "record_count": 63,
+      "line_count": 200
     },
     {
       "batch_id": "batch_117_talk",
@@ -1200,8 +1200,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 83,
-      "line_count": 199
+      "record_count": 63,
+      "line_count": 198
     },
     {
       "batch_id": "batch_118_talk",
@@ -1210,8 +1210,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 74,
-      "line_count": 200
+      "record_count": 65,
+      "line_count": 199
     },
     {
       "batch_id": "batch_119_talk",
@@ -1220,8 +1220,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 39,
-      "line_count": 200
+      "record_count": 30,
+      "line_count": 197
     },
     {
       "batch_id": "batch_120_talk",
@@ -1230,8 +1230,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 52,
-      "line_count": 200
+      "record_count": 57,
+      "line_count": 199
     },
     {
       "batch_id": "batch_121_talk",
@@ -1240,8 +1240,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 75,
-      "line_count": 200
+      "record_count": 78,
+      "line_count": 198
     },
     {
       "batch_id": "batch_122_talk",
@@ -1251,7 +1251,7 @@
         "talk.dat"
       ],
       "record_count": 65,
-      "line_count": 199
+      "line_count": 185
     },
     {
       "batch_id": "batch_123_talk",
@@ -1260,8 +1260,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 37,
-      "line_count": 200
+      "record_count": 27,
+      "line_count": 197
     },
     {
       "batch_id": "batch_124_talk",
@@ -1270,8 +1270,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 29,
-      "line_count": 199
+      "record_count": 57,
+      "line_count": 198
     },
     {
       "batch_id": "batch_125_talk",
@@ -1280,8 +1280,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 69,
-      "line_count": 198
+      "record_count": 74,
+      "line_count": 200
     },
     {
       "batch_id": "batch_126_talk",
@@ -1290,7 +1290,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 65,
+      "record_count": 64,
       "line_count": 198
     },
     {
@@ -1300,8 +1300,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 60,
-      "line_count": 198
+      "record_count": 31,
+      "line_count": 187
     },
     {
       "batch_id": "batch_128_talk",
@@ -1310,8 +1310,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 29,
-      "line_count": 197
+      "record_count": 27,
+      "line_count": 199
     },
     {
       "batch_id": "batch_129_talk",
@@ -1320,7 +1320,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 61,
+      "record_count": 68,
       "line_count": 200
     },
     {
@@ -1330,7 +1330,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 60,
+      "record_count": 65,
       "line_count": 198
     },
     {
@@ -1340,8 +1340,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 65,
-      "line_count": 199
+      "record_count": 58,
+      "line_count": 185
     },
     {
       "batch_id": "batch_132_talk",
@@ -1350,7 +1350,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 38,
+      "record_count": 29,
       "line_count": 198
     },
     {
@@ -1360,8 +1360,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 53,
-      "line_count": 199
+      "record_count": 51,
+      "line_count": 200
     },
     {
       "batch_id": "batch_134_talk",
@@ -1370,8 +1370,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 67,
-      "line_count": 199
+      "record_count": 62,
+      "line_count": 198
     },
     {
       "batch_id": "batch_135_talk",
@@ -1380,7 +1380,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 66,
+      "record_count": 65,
       "line_count": 198
     },
     {
@@ -1390,8 +1390,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 54,
-      "line_count": 199
+      "record_count": 43,
+      "line_count": 196
     },
     {
       "batch_id": "batch_137_talk",
@@ -1400,8 +1400,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 25,
-      "line_count": 193
+      "record_count": 34,
+      "line_count": 199
     },
     {
       "batch_id": "batch_138_talk",
@@ -1410,8 +1410,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 53,
-      "line_count": 199
+      "record_count": 73,
+      "line_count": 198
     },
     {
       "batch_id": "batch_139_talk",
@@ -1420,8 +1420,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 64,
-      "line_count": 199
+      "record_count": 65,
+      "line_count": 200
     },
     {
       "batch_id": "batch_140_talk",
@@ -1430,8 +1430,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 61,
-      "line_count": 200
+      "record_count": 62,
+      "line_count": 198
     },
     {
       "batch_id": "batch_141_talk",
@@ -1440,7 +1440,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 50,
+      "record_count": 30,
       "line_count": 195
     },
     {
@@ -1450,8 +1450,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 29,
-      "line_count": 200
+      "record_count": 34,
+      "line_count": 198
     },
     {
       "batch_id": "batch_143_talk",
@@ -1460,7 +1460,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 65,
+      "record_count": 66,
       "line_count": 199
     },
     {
@@ -1470,8 +1470,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 71,
-      "line_count": 200
+      "record_count": 60,
+      "line_count": 197
     },
     {
       "batch_id": "batch_145_talk",
@@ -1481,7 +1481,7 @@
         "talk.dat"
       ],
       "record_count": 61,
-      "line_count": 199
+      "line_count": 198
     },
     {
       "batch_id": "batch_146_talk",
@@ -1490,8 +1490,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 29,
-      "line_count": 195
+      "record_count": 34,
+      "line_count": 200
     },
     {
       "batch_id": "batch_147_talk",
@@ -1500,7 +1500,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 57,
+      "record_count": 37,
       "line_count": 199
     },
     {
@@ -1510,8 +1510,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 67,
-      "line_count": 198
+      "record_count": 72,
+      "line_count": 200
     },
     {
       "batch_id": "batch_149_talk",
@@ -1520,7 +1520,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 66,
+      "record_count": 69,
       "line_count": 199
     },
     {
@@ -1530,8 +1530,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 26,
-      "line_count": 198
+      "record_count": 46,
+      "line_count": 195
     },
     {
       "batch_id": "batch_151_talk",
@@ -1540,8 +1540,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 47,
-      "line_count": 199
+      "record_count": 30,
+      "line_count": 193
     },
     {
       "batch_id": "batch_152_talk",
@@ -1550,8 +1550,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 66,
-      "line_count": 198
+      "record_count": 77,
+      "line_count": 199
     },
     {
       "batch_id": "batch_153_talk",
@@ -1560,7 +1560,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 64,
+      "record_count": 90,
       "line_count": 200
     },
     {
@@ -1570,7 +1570,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 13,
+      "record_count": 32,
       "line_count": 198
     },
     {
@@ -1580,8 +1580,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 7,
-      "line_count": 185
+      "record_count": 41,
+      "line_count": 199
     },
     {
       "batch_id": "batch_156_talk",
@@ -1590,8 +1590,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 7,
-      "line_count": 180
+      "record_count": 85,
+      "line_count": 200
     },
     {
       "batch_id": "batch_157_talk",
@@ -1600,8 +1600,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 7,
-      "line_count": 194
+      "record_count": 64,
+      "line_count": 175
     },
     {
       "batch_id": "batch_158_talk",
@@ -1611,7 +1611,7 @@
         "talk.dat"
       ],
       "record_count": 7,
-      "line_count": 198
+      "line_count": 180
     },
     {
       "batch_id": "batch_159_talk",
@@ -1620,8 +1620,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 8,
-      "line_count": 198
+      "record_count": 7,
+      "line_count": 185
     },
     {
       "batch_id": "batch_160_talk",
@@ -1631,7 +1631,7 @@
         "talk.dat"
       ],
       "record_count": 7,
-      "line_count": 178
+      "line_count": 180
     },
     {
       "batch_id": "batch_161_talk",
@@ -1641,7 +1641,7 @@
         "talk.dat"
       ],
       "record_count": 7,
-      "line_count": 172
+      "line_count": 194
     },
     {
       "batch_id": "batch_162_talk",
@@ -1651,7 +1651,7 @@
         "talk.dat"
       ],
       "record_count": 7,
-      "line_count": 183
+      "line_count": 198
     },
     {
       "batch_id": "batch_163_talk",
@@ -1660,8 +1660,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 7,
-      "line_count": 176
+      "record_count": 8,
+      "line_count": 198
     },
     {
       "batch_id": "batch_164_talk",
@@ -1670,8 +1670,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 28,
-      "line_count": 196
+      "record_count": 7,
+      "line_count": 178
     },
     {
       "batch_id": "batch_165_talk",
@@ -1680,8 +1680,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 45,
-      "line_count": 196
+      "record_count": 7,
+      "line_count": 172
     },
     {
       "batch_id": "batch_166_talk",
@@ -1690,8 +1690,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 28,
-      "line_count": 184
+      "record_count": 7,
+      "line_count": 183
     },
     {
       "batch_id": "batch_167_talk",
@@ -1700,8 +1700,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 26,
-      "line_count": 198
+      "record_count": 7,
+      "line_count": 176
     },
     {
       "batch_id": "batch_168_talk",
@@ -1710,8 +1710,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 57,
-      "line_count": 194
+      "record_count": 28,
+      "line_count": 196
     },
     {
       "batch_id": "batch_169_talk",
@@ -1720,8 +1720,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 55,
-      "line_count": 200
+      "record_count": 45,
+      "line_count": 196
     },
     {
       "batch_id": "batch_170_talk",
@@ -1730,8 +1730,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 54,
-      "line_count": 198
+      "record_count": 28,
+      "line_count": 184
     },
     {
       "batch_id": "batch_171_talk",
@@ -1740,7 +1740,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 55,
+      "record_count": 26,
       "line_count": 198
     },
     {
@@ -1751,7 +1751,7 @@
         "talk.dat"
       ],
       "record_count": 58,
-      "line_count": 195
+      "line_count": 196
     },
     {
       "batch_id": "batch_173_talk",
@@ -1760,7 +1760,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 58,
+      "record_count": 55,
       "line_count": 200
     },
     {
@@ -1770,8 +1770,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 56,
-      "line_count": 196
+      "record_count": 54,
+      "line_count": 198
     },
     {
       "batch_id": "batch_175_talk",
@@ -1780,8 +1780,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 44,
-      "line_count": 200
+      "record_count": 55,
+      "line_count": 198
     },
     {
       "batch_id": "batch_176_talk",
@@ -1790,8 +1790,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 191
+      "record_count": 58,
+      "line_count": 195
     },
     {
       "batch_id": "batch_177_talk",
@@ -1800,8 +1800,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 192
+      "record_count": 58,
+      "line_count": 200
     },
     {
       "batch_id": "batch_178_talk",
@@ -1810,8 +1810,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 43,
-      "line_count": 194
+      "record_count": 56,
+      "line_count": 196
     },
     {
       "batch_id": "batch_179_talk",
@@ -1820,8 +1820,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 30,
-      "line_count": 197
+      "record_count": 44,
+      "line_count": 200
     },
     {
       "batch_id": "batch_180_talk",
@@ -1830,7 +1830,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 36,
+      "record_count": 35,
       "line_count": 191
     },
     {
@@ -1840,8 +1840,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 51,
-      "line_count": 186
+      "record_count": 35,
+      "line_count": 192
     },
     {
       "batch_id": "batch_182_talk",
@@ -1850,8 +1850,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 32,
-      "line_count": 197
+      "record_count": 43,
+      "line_count": 194
     },
     {
       "batch_id": "batch_183_talk",
@@ -1860,8 +1860,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 42,
-      "line_count": 200
+      "record_count": 30,
+      "line_count": 197
     },
     {
       "batch_id": "batch_184_talk",
@@ -1870,8 +1870,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 30,
-      "line_count": 200
+      "record_count": 36,
+      "line_count": 191
     },
     {
       "batch_id": "batch_185_talk",
@@ -1880,8 +1880,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 42,
-      "line_count": 200
+      "record_count": 51,
+      "line_count": 186
     },
     {
       "batch_id": "batch_186_talk",
@@ -1890,8 +1890,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 30,
-      "line_count": 199
+      "record_count": 32,
+      "line_count": 197
     },
     {
       "batch_id": "batch_187_talk",
@@ -1910,7 +1910,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 48,
+      "record_count": 30,
       "line_count": 200
     },
     {
@@ -1920,8 +1920,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 40,
-      "line_count": 199
+      "record_count": 42,
+      "line_count": 200
     },
     {
       "batch_id": "batch_190_talk",
@@ -1930,8 +1930,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 52,
-      "line_count": 195
+      "record_count": 30,
+      "line_count": 199
     },
     {
       "batch_id": "batch_191_talk",
@@ -1940,8 +1940,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 39,
-      "line_count": 198
+      "record_count": 42,
+      "line_count": 200
     },
     {
       "batch_id": "batch_192_talk",
@@ -1950,8 +1950,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 39,
-      "line_count": 199
+      "record_count": 48,
+      "line_count": 200
     },
     {
       "batch_id": "batch_193_talk",
@@ -1960,8 +1960,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 49,
-      "line_count": 196
+      "record_count": 40,
+      "line_count": 199
     },
     {
       "batch_id": "batch_194_talk",
@@ -1970,8 +1970,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 46,
-      "line_count": 198
+      "record_count": 52,
+      "line_count": 195
     },
     {
       "batch_id": "batch_195_talk",
@@ -1980,8 +1980,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 63,
-      "line_count": 200
+      "record_count": 39,
+      "line_count": 198
     },
     {
       "batch_id": "batch_196_talk",
@@ -1990,8 +1990,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 47,
-      "line_count": 195
+      "record_count": 39,
+      "line_count": 199
     },
     {
       "batch_id": "batch_197_talk",
@@ -2000,8 +2000,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 27,
-      "line_count": 198
+      "record_count": 49,
+      "line_count": 196
     },
     {
       "batch_id": "batch_198_talk",
@@ -2010,8 +2010,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 36,
-      "line_count": 195
+      "record_count": 46,
+      "line_count": 198
     },
     {
       "batch_id": "batch_199_talk",
@@ -2020,8 +2020,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 23,
-      "line_count": 196
+      "record_count": 63,
+      "line_count": 200
     },
     {
       "batch_id": "batch_200_talk",
@@ -2030,8 +2030,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 38,
-      "line_count": 194
+      "record_count": 47,
+      "line_count": 195
     },
     {
       "batch_id": "batch_201_talk",
@@ -2040,8 +2040,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 47,
-      "line_count": 200
+      "record_count": 27,
+      "line_count": 197
     },
     {
       "batch_id": "batch_202_talk",
@@ -2050,8 +2050,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 200
+      "record_count": 36,
+      "line_count": 193
     },
     {
       "batch_id": "batch_203_talk",
@@ -2060,8 +2060,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 36,
-      "line_count": 199
+      "record_count": 23,
+      "line_count": 195
     },
     {
       "batch_id": "batch_204_talk",
@@ -2070,8 +2070,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 45,
-      "line_count": 200
+      "record_count": 38,
+      "line_count": 194
     },
     {
       "batch_id": "batch_205_talk",
@@ -2080,8 +2080,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 40,
-      "line_count": 196
+      "record_count": 47,
+      "line_count": 200
     },
     {
       "batch_id": "batch_206_talk",
@@ -2090,8 +2090,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 34,
-      "line_count": 198
+      "record_count": 35,
+      "line_count": 200
     },
     {
       "batch_id": "batch_207_talk",
@@ -2100,8 +2100,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 42,
-      "line_count": 195
+      "record_count": 36,
+      "line_count": 199
     },
     {
       "batch_id": "batch_208_talk",
@@ -2110,8 +2110,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 39,
-      "line_count": 186
+      "record_count": 45,
+      "line_count": 200
     },
     {
       "batch_id": "batch_209_talk",
@@ -2120,8 +2120,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 39,
-      "line_count": 199
+      "record_count": 40,
+      "line_count": 196
     },
     {
       "batch_id": "batch_210_talk",
@@ -2130,8 +2130,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 42,
-      "line_count": 194
+      "record_count": 34,
+      "line_count": 198
     },
     {
       "batch_id": "batch_211_talk",
@@ -2140,8 +2140,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 36,
-      "line_count": 197
+      "record_count": 42,
+      "line_count": 195
     },
     {
       "batch_id": "batch_212_talk",
@@ -2150,8 +2150,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 32,
-      "line_count": 189
+      "record_count": 39,
+      "line_count": 186
     },
     {
       "batch_id": "batch_213_talk",
@@ -2160,8 +2160,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 31,
-      "line_count": 192
+      "record_count": 39,
+      "line_count": 199
     },
     {
       "batch_id": "batch_214_talk",
@@ -2170,8 +2170,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 31,
-      "line_count": 196
+      "record_count": 42,
+      "line_count": 194
     },
     {
       "batch_id": "batch_215_talk",
@@ -2180,8 +2180,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 19,
-      "line_count": 179
+      "record_count": 36,
+      "line_count": 197
     },
     {
       "batch_id": "batch_216_talk",
@@ -2190,8 +2190,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 24,
-      "line_count": 200
+      "record_count": 32,
+      "line_count": 189
     },
     {
       "batch_id": "batch_217_talk",
@@ -2200,8 +2200,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 43,
-      "line_count": 190
+      "record_count": 31,
+      "line_count": 192
     },
     {
       "batch_id": "batch_218_talk",
@@ -2210,8 +2210,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 23,
-      "line_count": 195
+      "record_count": 31,
+      "line_count": 196
     },
     {
       "batch_id": "batch_219_talk",
@@ -2220,8 +2220,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 53,
-      "line_count": 199
+      "record_count": 19,
+      "line_count": 179
     },
     {
       "batch_id": "batch_220_talk",
@@ -2230,8 +2230,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 199
+      "record_count": 24,
+      "line_count": 200
     },
     {
       "batch_id": "batch_221_talk",
@@ -2240,8 +2240,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 52,
-      "line_count": 200
+      "record_count": 43,
+      "line_count": 190
     },
     {
       "batch_id": "batch_222_talk",
@@ -2250,8 +2250,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 33,
-      "line_count": 199
+      "record_count": 23,
+      "line_count": 195
     },
     {
       "batch_id": "batch_223_talk",
@@ -2261,7 +2261,7 @@
         "talk.dat"
       ],
       "record_count": 53,
-      "line_count": 198
+      "line_count": 199
     },
     {
       "batch_id": "batch_224_talk",
@@ -2270,8 +2270,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 51,
-      "line_count": 190
+      "record_count": 35,
+      "line_count": 199
     },
     {
       "batch_id": "batch_225_talk",
@@ -2281,7 +2281,7 @@
         "talk.dat"
       ],
       "record_count": 52,
-      "line_count": 199
+      "line_count": 200
     },
     {
       "batch_id": "batch_226_talk",
@@ -2290,8 +2290,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 41,
-      "line_count": 192
+      "record_count": 33,
+      "line_count": 199
     },
     {
       "batch_id": "batch_227_talk",
@@ -2300,8 +2300,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 24,
-      "line_count": 200
+      "record_count": 53,
+      "line_count": 198
     },
     {
       "batch_id": "batch_228_talk",
@@ -2310,8 +2310,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 22,
-      "line_count": 191
+      "record_count": 51,
+      "line_count": 190
     },
     {
       "batch_id": "batch_229_talk",
@@ -2320,8 +2320,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 44,
-      "line_count": 179
+      "record_count": 52,
+      "line_count": 199
     },
     {
       "batch_id": "batch_230_talk",
@@ -2330,8 +2330,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 57,
-      "line_count": 198
+      "record_count": 41,
+      "line_count": 192
     },
     {
       "batch_id": "batch_231_talk",
@@ -2340,7 +2340,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 57,
+      "record_count": 24,
       "line_count": 200
     },
     {
@@ -2350,8 +2350,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 48,
-      "line_count": 197
+      "record_count": 22,
+      "line_count": 191
     },
     {
       "batch_id": "batch_233_talk",
@@ -2360,8 +2360,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 54,
-      "line_count": 200
+      "record_count": 44,
+      "line_count": 179
     },
     {
       "batch_id": "batch_234_talk",
@@ -2370,8 +2370,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 47,
-      "line_count": 196
+      "record_count": 57,
+      "line_count": 198
     },
     {
       "batch_id": "batch_235_talk",
@@ -2380,8 +2380,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 46,
-      "line_count": 196
+      "record_count": 57,
+      "line_count": 200
     },
     {
       "batch_id": "batch_236_talk",
@@ -2390,8 +2390,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 52,
-      "line_count": 198
+      "record_count": 48,
+      "line_count": 197
     },
     {
       "batch_id": "batch_237_talk",
@@ -2400,8 +2400,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 52,
-      "line_count": 199
+      "record_count": 54,
+      "line_count": 200
     },
     {
       "batch_id": "batch_238_talk",
@@ -2410,8 +2410,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 46,
-      "line_count": 200
+      "record_count": 47,
+      "line_count": 196
     },
     {
       "batch_id": "batch_239_talk",
@@ -2420,8 +2420,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 51,
-      "line_count": 190
+      "record_count": 46,
+      "line_count": 196
     },
     {
       "batch_id": "batch_240_talk",
@@ -2430,8 +2430,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 69,
-      "line_count": 200
+      "record_count": 52,
+      "line_count": 198
     },
     {
       "batch_id": "batch_241_talk",
@@ -2440,8 +2440,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 55,
-      "line_count": 200
+      "record_count": 52,
+      "line_count": 199
     },
     {
       "batch_id": "batch_242_talk",
@@ -2450,8 +2450,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 52,
-      "line_count": 199
+      "record_count": 46,
+      "line_count": 200
     },
     {
       "batch_id": "batch_243_talk",
@@ -2460,8 +2460,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 199
+      "record_count": 51,
+      "line_count": 190
     },
     {
       "batch_id": "batch_244_talk",
@@ -2470,7 +2470,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 37,
+      "record_count": 69,
       "line_count": 200
     },
     {
@@ -2480,7 +2480,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 41,
+      "record_count": 55,
       "line_count": 200
     },
     {
@@ -2490,7 +2490,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 43,
+      "record_count": 52,
       "line_count": 199
     },
     {
@@ -2500,8 +2500,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 41,
-      "line_count": 192
+      "record_count": 35,
+      "line_count": 199
     },
     {
       "batch_id": "batch_248_talk",
@@ -2510,8 +2510,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 38,
-      "line_count": 199
+      "record_count": 37,
+      "line_count": 200
     },
     {
       "batch_id": "batch_249_talk",
@@ -2520,8 +2520,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 40,
-      "line_count": 198
+      "record_count": 41,
+      "line_count": 200
     },
     {
       "batch_id": "batch_250_talk",
@@ -2530,8 +2530,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 200
+      "record_count": 43,
+      "line_count": 199
     },
     {
       "batch_id": "batch_251_talk",
@@ -2540,8 +2540,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 37,
-      "line_count": 200
+      "record_count": 41,
+      "line_count": 192
     },
     {
       "batch_id": "batch_252_talk",
@@ -2550,8 +2550,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 29,
-      "line_count": 194
+      "record_count": 38,
+      "line_count": 199
     },
     {
       "batch_id": "batch_253_talk",
@@ -2560,8 +2560,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 26,
-      "line_count": 196
+      "record_count": 40,
+      "line_count": 198
     },
     {
       "batch_id": "batch_254_talk",
@@ -2570,8 +2570,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 42,
-      "line_count": 187
+      "record_count": 35,
+      "line_count": 200
     },
     {
       "batch_id": "batch_255_talk",
@@ -2580,8 +2580,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 43,
-      "line_count": 198
+      "record_count": 37,
+      "line_count": 200
     },
     {
       "batch_id": "batch_256_talk",
@@ -2590,8 +2590,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 36,
-      "line_count": 195
+      "record_count": 29,
+      "line_count": 194
     },
     {
       "batch_id": "batch_257_talk",
@@ -2600,8 +2600,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 198
+      "record_count": 26,
+      "line_count": 196
     },
     {
       "batch_id": "batch_258_talk",
@@ -2610,8 +2610,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 39,
-      "line_count": 182
+      "record_count": 42,
+      "line_count": 187
     },
     {
       "batch_id": "batch_259_talk",
@@ -2620,7 +2620,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 24,
+      "record_count": 43,
       "line_count": 198
     },
     {
@@ -2630,8 +2630,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 24,
-      "line_count": 191
+      "record_count": 36,
+      "line_count": 195
     },
     {
       "batch_id": "batch_261_talk",
@@ -2640,8 +2640,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 25,
-      "line_count": 200
+      "record_count": 35,
+      "line_count": 198
     },
     {
       "batch_id": "batch_262_talk",
@@ -2650,8 +2650,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 31,
-      "line_count": 194
+      "record_count": 39,
+      "line_count": 182
     },
     {
       "batch_id": "batch_263_talk",
@@ -2660,8 +2660,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 28,
-      "line_count": 195
+      "record_count": 24,
+      "line_count": 198
     },
     {
       "batch_id": "batch_264_talk",
@@ -2670,8 +2670,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 53,
-      "line_count": 196
+      "record_count": 24,
+      "line_count": 191
     },
     {
       "batch_id": "batch_265_talk",
@@ -2680,7 +2680,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 49,
+      "record_count": 25,
       "line_count": 200
     },
     {
@@ -2690,8 +2690,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 165
+      "record_count": 31,
+      "line_count": 194
     },
     {
       "batch_id": "batch_267_talk",
@@ -2700,8 +2700,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 22,
-      "line_count": 183
+      "record_count": 28,
+      "line_count": 195
     },
     {
       "batch_id": "batch_268_talk",
@@ -2710,8 +2710,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 23,
-      "line_count": 189
+      "record_count": 53,
+      "line_count": 196
     },
     {
       "batch_id": "batch_269_talk",
@@ -2720,8 +2720,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 23,
-      "line_count": 199
+      "record_count": 49,
+      "line_count": 200
     },
     {
       "batch_id": "batch_270_talk",
@@ -2730,8 +2730,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 34,
-      "line_count": 197
+      "record_count": 36,
+      "line_count": 200
     },
     {
       "batch_id": "batch_271_talk",
@@ -2740,7 +2740,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 47,
+      "record_count": 25,
       "line_count": 198
     },
     {
@@ -2750,8 +2750,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 35,
-      "line_count": 196
+      "record_count": 22,
+      "line_count": 181
     },
     {
       "batch_id": "batch_273_talk",
@@ -2760,8 +2760,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 33,
-      "line_count": 196
+      "record_count": 24,
+      "line_count": 191
     },
     {
       "batch_id": "batch_274_talk",
@@ -2770,7 +2770,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 29,
+      "record_count": 43,
       "line_count": 199
     },
     {
@@ -2780,8 +2780,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 28,
-      "line_count": 191
+      "record_count": 42,
+      "line_count": 190
     },
     {
       "batch_id": "batch_276_talk",
@@ -2790,8 +2790,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 25,
-      "line_count": 199
+      "record_count": 32,
+      "line_count": 194
     },
     {
       "batch_id": "batch_277_talk",
@@ -2800,8 +2800,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 25,
-      "line_count": 189
+      "record_count": 30,
+      "line_count": 195
     },
     {
       "batch_id": "batch_278_talk",
@@ -2810,8 +2810,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 37,
-      "line_count": 196
+      "record_count": 32,
+      "line_count": 200
     },
     {
       "batch_id": "batch_279_talk",
@@ -2820,8 +2820,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 51,
-      "line_count": 199
+      "record_count": 29,
+      "line_count": 196
     },
     {
       "batch_id": "batch_280_talk",
@@ -2830,8 +2830,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 55,
-      "line_count": 197
+      "record_count": 21,
+      "line_count": 180
     },
     {
       "batch_id": "batch_281_talk",
@@ -2840,7 +2840,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 41,
+      "record_count": 26,
       "line_count": 200
     },
     {
@@ -2850,7 +2850,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 47,
+      "record_count": 37,
       "line_count": 198
     },
     {
@@ -2860,8 +2860,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 50,
-      "line_count": 200
+      "record_count": 45,
+      "line_count": 199
     },
     {
       "batch_id": "batch_284_talk",
@@ -2870,8 +2870,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 66,
-      "line_count": 199
+      "record_count": 57,
+      "line_count": 198
     },
     {
       "batch_id": "batch_285_talk",
@@ -2880,8 +2880,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 73,
-      "line_count": 199
+      "record_count": 45,
+      "line_count": 197
     },
     {
       "batch_id": "batch_286_talk",
@@ -2890,8 +2890,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 49,
-      "line_count": 199
+      "record_count": 43,
+      "line_count": 197
     },
     {
       "batch_id": "batch_287_talk",
@@ -2900,8 +2900,8 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 50,
-      "line_count": 200
+      "record_count": 49,
+      "line_count": 199
     },
     {
       "batch_id": "batch_288_talk",
@@ -2910,7 +2910,7 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 53,
+      "record_count": 59,
       "line_count": 200
     },
     {
@@ -2920,8 +2920,58 @@
       "files": [
         "talk.dat"
       ],
-      "record_count": 30,
-      "line_count": 113
+      "record_count": 74,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_290_talk",
+      "filename": "batch_290_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 55,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_291_talk",
+      "filename": "batch_291_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 48,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_292_talk",
+      "filename": "batch_292_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 46,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_293_talk",
+      "filename": "batch_293_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_294_talk",
+      "filename": "batch_294_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 24
     }
   ]
 }

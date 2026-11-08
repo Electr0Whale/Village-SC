@@ -4,8 +4,8 @@
   "files": [
     "intangeble.dat"
   ],
-  "record_count": 33,
-  "line_count": 33,
+  "record_count": 34,
+  "line_count": 34,
   "records": [
     {
       "file": "intangeble.dat",
@@ -466,6 +466,20 @@
           "ja": "カバンがもっと大きくなった！",
           "tc": "包包變得更大了！",
           "sc": "背包变得更大了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 422,
+      "rec_id": "INTANGEBLE_ID_RELEASE_SEEDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3381,
+          "ja": "種まき機を入手した！",
+          "tc": "獲得了播種機！",
+          "sc": "获得了播种机！"
         }
       ]
     }

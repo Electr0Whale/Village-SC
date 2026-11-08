@@ -42,15 +42,15 @@ pip install pyswizzle
 
 ```mermaid
 flowchart TD
-    A["workspace/batches/*.json<br/>(289 个批次 / 55,931 行文本)"] --> B["tools/validate_batch.py<br/>(自动化质检门禁)"]
+    A["workspace/batches/*.json<br/>(294 个批次 / 56,747 行文本)"] --> B["tools/validate_batch.py<br/>(自动化质检门禁)"]
     B -->|100% 校验通过| C["tools/build_patch.py<br/>(数据库总编译器)"]
-    C --> D["output/.../romfs/data/database/<br/>(47 个 .dat 数据库 / 20.48 MB)"]
+    C --> D["output/.../romfs/data/database/<br/>(47 个 .dat 数据库 / 22.93 MB)"]
     
     E["LXGW WenKai Mono v1.530<br/>(霞鹜文楷等宽 Medium 500)"] --> F["tools/build_font_patch.py<br/>(字库归档编译器)"]
     F --> G["output/.../romfs/data/misc_1_00.dat<br/>(字库归档 / 164.36 MB)"]
     
     H["switch_icons/icon_SimplifiedChinese.png"] --> I["tools/apply_control_patch.py<br/>(控制元数据打包)"]
-    I --> J["output/.../icon.jpg & control/<br/>(桌面图标与 NACP 简体标题)"]
+    I --> J["output/.../icon.jpg & config.ini & control/<br/>(桌面图标与 NACP 简体标题)"]
     
     D & G & J --> K["Atmosphere LayeredFS 实机交付<br/>或 PC Eden 模拟器直接加载"]
 ```
@@ -69,14 +69,14 @@ cd D:\Village-SC
 ```powershell
 python tools/validate_batch.py all
 ```
-*预期输出*：`Summary: 289/289 batch(es) passed with 0 errors (Total errors: 0, Total warnings: 0).`
+*预期输出*：`Summary: 294/294 batch(es) passed with 0 errors (Total errors: 0, Total warnings: 0).`
 
 ### 步骤二：编译 47 个本地化数据库
 运行补丁总编译器，自动重算变长字符串池偏移，无损编译全部 47 个数据库（包括常规数据表、多行布告栏表、角色外观库、小地图矢量重定向路由及 32px 掌机字体配置）：
 ```powershell
 python tools/build_patch.py
 ```
-*编译产物*：`output/atmosphere/contents/01001BA027DD8000/romfs/data/database/*.dat`（共 47 个文件，20.48 MB）。
+*编译产物*：`output/atmosphere/contents/01001BA027DD8000/romfs/data/database/*.dat`（共 47 个文件，22.93 MB）。
 
 ### 步骤三：编译霞鹜文楷等宽字库归档
 将官方 PC 级正统字库（霞鹜文楷等宽 v1.530 Medium 500）注入游戏 `misc_1_00.dat` 归档：
@@ -91,7 +91,7 @@ python tools/build_font_patch.py --weight regular
 ### 步骤四：编译 UI 贴图封包 (可选)
 如果需要替换标题艺术字 Logo、主菜单开始/设定按钮、作物详情弹窗等 66 张图集：
 ```powershell
-# 全量路线 B：66 张贴图全量重打包 (已攻克 P0-4 主索引表与 Swizzle，实测稳定)
+# 全量路线 B：66 张贴图全量重打包 (已攻克 P0-4 主索引表、Swizzle 及 v1.3.0 413 项贴图与 resident_v130.fad 归档排布)
 python tools/build_fairy_patch.py --mode all
 
 # 极稳路线 A：仅替换 5 张原生 0x07 BC3 贴图 (标题艺术字 Logo 及 4 张大传单)
@@ -99,9 +99,15 @@ python tools/build_fairy_patch.py --mode safe
 ```
 
 ### 步骤五：打包桌面图标与 NACP 控制元数据
-将简体中文游戏标题《静谧田园》写入 Control NACP 的 Slot 13（繁中）与 Slot 14（简中），并生成 Switch 桌面替换图标：
+将简体中文游戏标题《静谧田园》写入 Control NACP 的 Slot 13（繁中）与 Slot 14（简中），并生成 Switch 桌面替换图标与 config.ini (v1.3.0)：
 ```powershell
 python tools/apply_control_patch.py
+```
+
+### 步骤六：打包完整分发安装包 (可选)
+一键打包生成完整分发 ZIP 压缩包（包含 atmosphere、sys-icon 插件及已更新的使用教程）：
+```powershell
+python scratch/package_release.py
 ```
 
 ---
@@ -112,7 +118,7 @@ python tools/apply_control_patch.py
 - 硬件支持：Nintendo Switch 全机型（OLED / v1 / v2 / Lite）；
 - 系统固件：推荐 16.0.0 以上；
 - 引导环境：Atmosphere（大气层）/ Hekate；
-- 游戏版本：基础版 (Base) + 升级补丁 `v1.2.0`（内部版本号 `v393216`，TitleID: `01001BA027DD8000`）。
+- 游戏版本：基础版 (Base) + 升级补丁 `v1.3.0`（内部版本号 `v458752`，向下兼容 v1.2.0，TitleID: `01001BA027DD8000`）。
 
 ### 4.2 安装方法
 1. 将 Switch 关机并取出 TF/MicroSD 卡（或通过 DBI MTP 连接电脑）；
@@ -123,8 +129,9 @@ python tools/apply_control_patch.py
    └── atmosphere/
        └── contents/
            └── 01001BA027DD8000/
-               ├── icon.jpg                     (桌面图标)
-               ├── control/                     (NACP 控制元数据)
+               ├── icon.jpg                     (sys-icon/sys-tweak 桌面图标)
+               ├── config.ini                   (sys-icon/sys-tweak 桌面游戏名配置文件)
+               ├── control/                     (NACP 控制元数据备份)
                └── romfs/
                    └── data/
                        ├── database/            (47 个 .dat 数据库)
@@ -133,10 +140,13 @@ python tools/apply_control_patch.py
    ```
 4. 将 TF 卡插回 Switch，启动进入 Atmosphere 虚拟/真实系统，运行游戏即可！
 
-### 4.3 启用桌面图标替换 (sys-tweak)
-LayeredFS 原生机制仅针对 `romfs` 与 `exefs` 生效。若想在 Switch 官方主界面直接看到简体中文的《静谧田园》图标：
-- 在 Switch 上安装 Atmosphere 插件 `sys-tweak`（或 `sys-icon`）；
-- 插件会自动读取 `contents/01001BA027DD8000/icon.jpg`，开机即可看到华丽的简体中文桌面图标。
+### 4.3 启用桌面图标与名称替换 (sys-icon / sys-tweak)
+LayeredFS 原生机制仅针对 `romfs` 与 `exefs` 生效。若想在 Switch 官方桌面（Home 菜单）直接看到简体中文的《静谧田园》图标以及游戏名称：
+- 在 Switch 上安装 Atmosphere 系统模块 [`eradicatinglove/sys-icon`](https://github.com/eradicatinglove/sys-icon)（支持 FW 21+）或 `sys-tweak`；
+- 插件会运行时拦截 `ns:GetApplicationControlData`：
+  - **图标拦截**：读取 `contents/01001BA027DD8000/icon.jpg`（256×256 JPEG）；
+  - **名称拦截**：读取 `contents/01001BA027DD8000/config.ini`（必须以 `[override_nacp]` 开头，包含 `name=静谧田园` 与 `author=Clouded Leopard Entertainment Inc.`）；
+- 产物目录已预置好 `icon.jpg` 与 `config.ini`，拷贝覆盖到 SD 卡并重启 Switch 后，桌面图标与游戏名称将同时切换为规范简体中文。
 
 ---
 

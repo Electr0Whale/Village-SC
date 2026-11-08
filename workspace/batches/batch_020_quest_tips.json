@@ -4,9 +4,44 @@
   "files": [
     "tips.dat"
   ],
-  "record_count": 4,
-  "line_count": 14,
+  "record_count": 6,
+  "line_count": 22,
   "records": [
+    {
+      "file": "tips.dat",
+      "rec_idx": 70,
+      "rec_id": "TIPS_HOLIDAY_SPR_GAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1839,
+          "ja": "バドミントン",
+          "tc": "羽毛球",
+          "sc": "羽毛球"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1846,
+          "ja": "<cmd CMD_OK -offsetY -5>でラケットを振る",
+          "tc": "按下<cmd CMD_OK -offsetY -5>揮動球拍",
+          "sc": "按下<cmd CMD_OK -offsetY -5>挥动球拍"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1853,
+          "ja": "タイミングよく羽根を打ち返して",
+          "tc": "抓準時機，把球打回去吧",
+          "sc": "抓准时机，把球打回去吧"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1860,
+          "ja": "コマコとラリーをしよう",
+          "tc": "和駒子連續擊球對打吧",
+          "sc": "和驹子连续击球对打吧"
+        }
+      ]
+    },
     {
       "file": "tips.dat",
       "rec_idx": 71,
@@ -130,6 +165,41 @@
           "ja": "種を回収することができる",
           "tc": "並回收種子",
           "sc": "并回收种子"
+        }
+      ]
+    },
+    {
+      "file": "tips.dat",
+      "rec_idx": 75,
+      "rec_id": "TIPS_65_SEEDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1970,
+          "ja": "種まき機",
+          "tc": "播種機",
+          "sc": "播种机"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1977,
+          "ja": "種まき機で広い範囲に種を撒こう",
+          "tc": "使用播種機對廣範圍播撒種子吧",
+          "sc": "使用播种机大范围播种吧"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1984,
+          "ja": "農具サークルで種まき機を選び、",
+          "tc": "在農具環中選擇播種機，",
+          "sc": "在农具轮盘中选择播种机，"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1991,
+          "ja": "<cmd CMD_UNIT_ACTION -offsetY -5>で使うことができる",
+          "tc": "按下<cmd CMD_UNIT_ACTION -offsetY -5>即可使用",
+          "sc": "按下<cmd CMD_UNIT_ACTION -offsetY -5>即可使用"
         }
       ]
     }

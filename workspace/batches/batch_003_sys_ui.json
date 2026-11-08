@@ -11,6 +11,48 @@
   "records": [
     {
       "file": "framework_cmd.dat",
+      "rec_idx": 11,
+      "rec_id": "CMD_CURSOR_EX_DOWN_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 12,
+      "rec_id": "CMD_CURSOR_EX_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 101,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 13,
+      "rec_id": "CMD_CURSOR_EX_RIGHT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
       "rec_idx": 14,
       "rec_id": "CMD_CURSOR_EX_RIGHT_X100",
       "lines": [
@@ -2594,7 +2636,7 @@
           "f_idx": 0,
           "pidx_tc": 39,
           "ja": "インベントリ下",
-          "tc": "副游標向上",
+          "tc": "副游標向下",
           "sc": "副光标向下"
         }
       ]
@@ -2608,7 +2650,7 @@
           "f_idx": 0,
           "pidx_tc": 46,
           "ja": "インベントリ左",
-          "tc": "副游標向上",
+          "tc": "副游標向左",
           "sc": "副光标向左"
         }
       ]
@@ -2622,7 +2664,7 @@
           "f_idx": 0,
           "pidx_tc": 53,
           "ja": "インベントリ右",
-          "tc": "副游標向上",
+          "tc": "副游標向右",
           "sc": "副光标向右"
         }
       ]
@@ -2734,7 +2776,7 @@
           "f_idx": 0,
           "pidx_tc": 109,
           "ja": "ページ移動左",
-          "tc": "增加",
+          "tc": "切換頁面（左）",
           "sc": "增加"
         }
       ]
@@ -2748,7 +2790,7 @@
           "f_idx": 0,
           "pidx_tc": 116,
           "ja": "ページ移動右",
-          "tc": "減少",
+          "tc": "切換頁面（右）",
           "sc": "减少"
         }
       ]
@@ -2762,50 +2804,8 @@
           "f_idx": 0,
           "pidx_tc": 123,
           "ja": "副ページ移動左",
-          "tc": "瀏覽頁面",
+          "tc": "切換副頁面（左）",
           "sc": "浏览页面"
-        }
-      ]
-    },
-    {
-      "file": "framework_vkey.dat",
-      "rec_idx": 18,
-      "rec_id": "REC_0018",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 130,
-          "ja": "副ページ移動右",
-          "tc": "瀏覽頁面",
-          "sc": "浏览页面"
-        }
-      ]
-    },
-    {
-      "file": "framework_vkey.dat",
-      "rec_idx": 19,
-      "rec_id": "REC_0019",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 137,
-          "ja": "高速演出",
-          "tc": "加速",
-          "sc": "加速"
-        }
-      ]
-    },
-    {
-      "file": "framework_vkey.dat",
-      "rec_idx": 20,
-      "rec_id": "REC_0020",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 144,
-          "ja": "前ページ",
-          "tc": "上一頁",
-          "sc": "上一页"
         }
       ]
     }

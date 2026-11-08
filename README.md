@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Nintendo Switch《静谧田园 / ほの暮しの庭 / Village in the Shade》全量 100% 简体中文本地化工程</b><br>
-  Atmosphere LayeredFS 实机免改包补丁 · 霞鹜文楷等宽 32px 掌机大字号 · 官方简中矢量切片重定向 · 411 项 FAD 贴图封包无损重构
+  Atmosphere LayeredFS 实机免改包补丁 · 霞鹜文楷等宽 32px 掌机大字号 · 官方简中矢量切片重定向 · 413 项 FAD 贴图封包无损重构
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012.svg?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/TitleID-01001BA027DD8000-0078d7.svg?style=flat-square" alt="TitleID">
-  <img src="https://img.shields.io/badge/Game%20Version-v1.2.0%20(v393216)-brightgreen.svg?style=flat-square" alt="Version">
-  <img src="https://img.shields.io/badge/Translation%20Status-100%25%20(55%2C931%20Lines)-success.svg?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/QA%20Gate-289%2F289%20Batches%20Passed-blue.svg?style=flat-square" alt="QA">
+  <img src="https://img.shields.io/badge/Game%20Version-v1.3.0%20(v458752)-brightgreen.svg?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Translation%20Status-100%25%20(56%2C747%20Lines)-success.svg?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/QA%20Gate-294%2F294%20Batches%20Passed-blue.svg?style=flat-square" alt="QA">
   <img src="https://img.shields.io/badge/Font-LXGW%20WenKai%20Mono%20v1.530-orange.svg?style=flat-square" alt="Font">
   <img src="https://img.shields.io/badge/Runtime-Atmosphere%20LayeredFS%20%2F%20Eden-9cf.svg?style=flat-square" alt="Runtime">
 </p>
@@ -42,15 +42,16 @@
 ## ✨ 核心特性与技术突破 (Key Features)
 
 ### 1. 100% 全量文本汉化与深度人设校正 (100% Full Translation)
-- **全域覆盖**：涵盖系统 UI、世界观设施、动植物特产、任务教学、神话典籍、制作人名单、全道具说明以及全剧情日常对话共 **289 个批次、55,931 行对照文本**；
+- **全域覆盖**：涵盖系统 UI、世界观设施、动植物特产、任务教学、神话典籍、制作人名单、全道具说明以及全剧情日常对话共 **294 个批次、56,747 行对照文本**（含 v1.3.0 全部 14 位村民生日新增剧情、生日设定任务、新道具、新信件与更新文本）；
 - **神怪区分与代词规范**：严格恪守“**古神尊称用祂/祂们，普通妖怪动物用它/它们或他/他们**”，一票否决繁体代词“妳”与“牠”；
-- **全量脱繁入简**：对 1,829 行繁体语气词与港台口语残留进行全量专项治理（彻底剔除违和的“啰/喔/耶/唷/捏/咧”，规范“咖哩 $\rightarrow$ 咖喱”）；
+- **全量脱繁入简**：对繁体语气词与港台口语残留进行全量专项治理（彻底剔除违和的“啰/喔/耶/唷/捏/咧”，规范“咖哩 $\rightarrow$ 咖喱”）；
 - **立体人设还原**：今野的阴阳怪气拖长音（`～`）、六角的热情市井口癖（`～っス` $\rightarrow$ “……呐/哟/喽”）、帷的孤傲带刺冷感、木珠的断续呢喃等均得到深度还原。
 
-### 2. 掌机友好 32px 大字号重平衡 (Handheld Scaled Font)
+### 2. 掌机 1.2 倍舒适大字增强版与引擎级垂直居中校准 (Handheld 1.2x Scaled Font & Baseline Alignment)
 - 逆向查明官方移植时中文对话（`FONT_ID_GAME_TALK`）与通用 UI（`FONT_ID_GAME`）从日版原生 32px 强行缩至 26px（字符面积萎缩 34%）；
-- 证实引擎底层拥有 `枠内に収めるための拡縮処理`（文本超长自动水平微挤压 Auto-Fit）；
-- 在 `font.dat` 中将对话与主菜单字号全面升级恢复为 **32px**（字符面积提升 51%），书籍道具字号微调为 **26px**，掌机 720p 屏幕清晰锐利、告别阅读疲倦。
+- 证实引擎底层拥有 `枠内に収めるための拡縮处理`（文本超长自动水平微挤压 Auto-Fit）；
+- **全域升级 1.2 倍大字版**：以日版原生字号为基准全面放大 1.2 倍（大标题 `46px`、主 UI/对话 `38px`、书籍/小字 `29px`），字符渲染面积提升超 110%，在 Switch 掌机 720p 屏幕上清晰舒适、彻底告别费眼阅读；
+- **逆向攻关消除基线下沉 Bug**：深入逆向 `village.exe` 字体渲染管线，直接调节 `font.dat` 原生全局 `offsetY` 偏移，消除了官方繁中槽位遗留的 4px 下沉缺陷，实现交互提示（`Ⓐ 岔路的祠堂`）、底部操作栏（`Ⓡ 转向`）全场景毫米级完美居中。
 
 ### 3. 官方 PC 级正统字库 —— 霞鹜文楷等宽 (LXGW WenKai Mono)
 - 选用 **霞鹜文楷等宽 (LXGW WenKai Mono v1.530) Medium (500)**（1:1 契合 PC 官方版视觉骨架，兼顾掌机 720p 与电视 1080p 抗锯齿）；
@@ -59,25 +60,25 @@
 - 提供 `--weight regular`（400 纤细常规体）与 `--weight medium`（500 推荐加粗体）双模式支持。
 
 ### 4. 0 字节封包膨胀的小地图与贴图矢量重定向 (Zero-Expansion Texture Routing)
-- 小地图 18 个地名切片（水车小屋、樟树诊所等）原烘焙在 1.15 GB 的 `fairy_1_00.dat` 中；
+- 小地图 18 个地名切片（水车小屋、樟树诊所等）原烘焙在大贴图封包中；
 - 本项目逆向解析 `texture.dat` 与 `framework_texture.dat`，直接修改贴图切片 UV 寻址，将其无缝重定向到官方 PC 简中矢量图元流；
 - **在 0 字节体积膨胀的前提下，达成 18 处小地图地名与主菜单版权标示的原生级简体中文显示！**
 
 ### 5. UI 贴图封包无损重构与四大致命缺陷攻坚 (UI Texture Repacking)
-- 攻克 `data/fairy/resident_lang_tc.fad` 的 411 个贴图描述符链（64B 前导描述符 + 128B NMPLTEX1 头 + 20B YKCMP_V1 容器 + NVN Tegra Swizzle 贴图数据）；
+- 攻克 `data/fairy/resident_lang_tc.fad` 的 413 个贴图描述符链（64B 前导描述符 + 128B NMPLTEX1 头 + 20B YKCMP_V1 容器 + NVN Tegra Swizzle 贴图数据）及动态排布新增的 `resident_v130.fad`（5.13 MB）；
 - **彻底攻坚四大导致实机卡死/崩溃的 P0 缺陷**：
   1. **P0-1 压缩长度定义偏差**：修正 YKCMP 容器与 NMPLTEX1 头部少算 20 字节 YK 头导致实机 LZ4 解压 100% 崩溃的根本死因；
   2. **P0-2 贴图像素格式对齐**：为 61 张专用格式贴图升级描述符为标准 BC3（`0x07`）并严格同步解压尺寸；
-  3. **P0-3 Tegra Swizzle 块高适配**：动态读取 `ints[14] & 0xFF` 适配 Block Height Log2 模式（标题艺术字 Logo #209 正确使用 `mode=3`），彻底杜绝画面撕裂花屏；
-  4. **P0-4 FAD 主索引表绝对偏移脱节**：重打包时逐项重算并同步 `0xd00` 起的 411 项主贴图查找表绝对物理偏移与步长，彻底攻克“卡在加载第一帧”的 Unmapped 内存访问死锁！
+  3. **P0-3 Tegra Swizzle 块高适配**：动态读取 `ints[14] & 0xFF` 适配 Block Height Log2 模式（标题艺术字 Logo #211 正确使用 `mode=3`），彻底杜绝画面撕裂花屏；
+  4. **P0-4 FAD 主索引表绝对偏移脱节**：重打包时逐项重算并同步 `0xd00` 起的 413 项主贴图查找表绝对物理偏移与步长，彻底攻克“卡在加载第一帧”的 Unmapped 内存访问死锁！
 - 涵盖标题艺术字 Logo《静谧田园》、主菜单开始/设定按钮、库存详情弹窗、分类标签、31 张新闻传单看板等共计 **66 张**本土化贴图图集。
 
 ### 6. Switch 桌面图标与 NACP 简体元数据 (Custom Icon & NACP)
-- 将《静谧田园》简体中文标题与发行商写入 Control NACP 的 Slot 13（繁中）与 Slot 14（简中）；
+- 将《静谧田园》简体中文标题与发行商写入 Control NACP 的 Slot 13（繁中）与 Slot 14（简中），并自动同步 `config.ini` 中的版本号为 `1.3.0`；
 - 配套提供高清重绘的 Switch 桌面封面图标（`icon.jpg`），支持 Atmosphere 插件 `sys-tweak` / `sys-icon` 动态加载，实机开机即见精美简中封面。
 
 ### 7. 严苛的自动化流水线质检门禁 (Automated Quality Gate)
-- 门禁脚本 `tools/validate_batch.py` 对全量 289 个批次执行 **8 大多维审查**：
+- 门禁脚本 `tools/validate_batch.py` 对全量 294 个批次执行 **8 大多维审查**：
   1. JSON 结构与字段拓扑完整性；
   2. 行文本非空性；
   3. 内联控制标签（`<player>`, `<icon ...>`, `<color=...>` 等）100% 与日文原文比对；
@@ -85,7 +86,7 @@
   5. 繁体字形与港台违禁词一票否决；
   6. 日式直角引号 `「」` 拦截与大陆规范引号强制转换；
   7. 视口排版超宽预警。
-- **当前状态**：289/289 批次 **0 Error / 0 Warning，100% 完美通过！**
+- **当前状态**：294/294 批次 **0 Error / 0 Warning，100% 完美通过！**
 
 ---
 
@@ -93,14 +94,14 @@
 
 ### 适用版本与环境
 - **游戏本体**：Nintendo Switch《ほの暮しの庭 / 靜謐田園 / Village in the Shade》
-- **适用版本**：Base + Update `v1.2.0`（内部版本号 `v393216`）
+- **适用版本**：Base + Update `v1.3.0`（内部版本号 `v458752`，向下兼容 v1.2.0）
 - **TitleID**：`01001BA027DD8000`
 
 ---
 
 ### 方法一：实机 Atmosphere (大气层) 部署
 1. 关机取出 Switch 的 TF / MicroSD 卡（或通过 DBI 的 MTP 模式连接电脑）；
-2. 进入本项目的产物目录 `output/atmosphere`（或从 GitHub Releases 下载最新的 `Village-SC-Atmosphere-Patch.zip` 并解压）；
+2. 进入本项目的产物目录 `output/atmosphere`（或解压最新的分发包 `静谧田园简体中文补丁-v1.3.0.zip`）；
 3. 将 `atmosphere` 文件夹直接复制并合并覆盖到 Switch TF 卡的根目录下：
    ```text
    SDCard:/
@@ -108,6 +109,7 @@
        └── contents/
            └── 01001BA027DD8000/
                ├── icon.jpg                          # (可选: sys-tweak 桌面图标)
+               ├── config.ini                        # (sys-icon 桌面游戏名与版本号拦截配置)
                ├── control/                          # (NACP 控制元数据备份)
                │   ├── control.nacp
                │   ├── icon_SimplifiedChinese.dat
@@ -117,9 +119,9 @@
                    │   ├── talk.dat
                    │   ├── item.dat
                    │   ├── font.dat
-                   │   └── ... (共 47 个文件，20.48 MB)
+                   │   └── ... (共 47 个文件，22.93 MB)
                    ├── misc_1_00.dat                 # (核心: 霞鹜文楷等宽字库归档 164.36 MB)
-                   └── fairy_1_00.dat                # (可选: 全量 UI 贴图图集 1.08 GB)
+                   └── fairy_1_00.dat                # (可选: 全量 UI 贴图图集 1.212 GB)
    ```
 4. 将 TF 卡插回 Switch，启动 Atmosphere 进入游戏即可享受 100% 简体中文！
 
@@ -151,7 +153,7 @@
 
 ### 1. 运行自动化质检门禁 (Validate Batches)
 ```powershell
-# 校验全部 289 个批次（必须保持 0 Error / 0 Warning）
+# 校验全部 294 个批次（必须保持 0 Error / 0 Warning）
 python tools/validate_batch.py all
 
 # 校验单个批次

@@ -1,0 +1,473 @@
+{
+  "batch_id": "batch_016_flora_fauna",
+  "group": "flora_fauna",
+  "files": [
+    "intangeble.dat"
+  ],
+  "record_count": 33,
+  "line_count": 33,
+  "records": [
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 389,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_18",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3117,
+          "ja": "前髪／バラバラパッツンを覚えた！",
+          "tc": "學會了瀏海／凌亂齊瀏海的造型！",
+          "sc": "学会了刘海／碎齐刘海的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 390,
+      "rec_id": "INTANGEBLE_ID_RELEASE_FRONT_HAIRSTYLE_19",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3125,
+          "ja": "前髪／濡れウェーブを覚えた！",
+          "tc": "學會了瀏海／濕髮感波浪捲的造型！",
+          "sc": "学会了刘海／湿发波浪卷的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 391,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3133,
+          "ja": "後ろ髪／つのを覚えた！",
+          "tc": "學會了後髮／角的造型！",
+          "sc": "学会了后发／角的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 392,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3141,
+          "ja": "後ろ髪／ツンツンふたばを覚えた！",
+          "tc": "學會了後髮／刺刺葉苗的造型！",
+          "sc": "学会了后发／刺刺幼芽的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 393,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_12",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3149,
+          "ja": "後ろ髪／ハーフツインを覚えた！",
+          "tc": "學會了後髮／雙馬尾公主頭的造型！",
+          "sc": "学会了后发／半扎双马尾的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 394,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_14",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3157,
+          "ja": "後ろ髪／サイドテールを覚えた！",
+          "tc": "學會了後髮／側馬尾的造型！",
+          "sc": "学会了后发／侧马尾的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 395,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_16",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3165,
+          "ja": "後ろ髪／クセ毛短髪を覚えた！",
+          "tc": "學會了後髮／自然捲短髮的造型！",
+          "sc": "学会了后发／自然卷短发的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 396,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_17",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3173,
+          "ja": "後ろ髪／サイドお団子を覚えた！",
+          "tc": "學會了後髮／側丸子頭的造型！",
+          "sc": "学会了后发／侧丸子头的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 397,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_18",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3181,
+          "ja": "後ろ髪／三つ編みを覚えた！",
+          "tc": "學會了後髮／三股辮的造型！",
+          "sc": "学会了后发／麻花辫的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 398,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_19",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3189,
+          "ja": "後ろ髪／ツイン三つ編みを覚えた！",
+          "tc": "學會了後髮／雙三股辮的造型！",
+          "sc": "学会了后发／双麻花辫的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 399,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_20",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3197,
+          "ja": "後ろ髪／ツインお団子を覚えた！",
+          "tc": "學會了後髮／雙丸子頭的造型！",
+          "sc": "学会了后发／双丸子头的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 400,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_21",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3205,
+          "ja": "後ろ髪／お嬢様ツインを覚えた！",
+          "tc": "學會了後髮／大小姐雙馬尾的造型！",
+          "sc": "学会了后发／大小姐双马尾的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 401,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_22",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3213,
+          "ja": "後ろ髪／チャイナツインヘアを覚えた！",
+          "tc": "學會了後髮／中國風雙馬尾的造型！",
+          "sc": "学会了后发／中国风双马尾的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 402,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_24",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3221,
+          "ja": "後ろ髪／ロングウェーブを覚えた！",
+          "tc": "學會了後髮／長波浪捲的造型！",
+          "sc": "学会了后发／长波浪卷的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 403,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_25",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3229,
+          "ja": "後ろ髪／アフロを覚えた！",
+          "tc": "學會了後髮／爆炸頭的造型！",
+          "sc": "学会了后发／爆炸头的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 404,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_26",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3237,
+          "ja": "後ろ髪／パッツンロングを覚えた！",
+          "tc": "學會了後髮／長直髮的造型！",
+          "sc": "学会了后发／长直发的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 405,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BACK_HAIRSTYLE_29",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3245,
+          "ja": "後ろ髪／サムライポニテを覚えた！",
+          "tc": "學會了後髮／武士馬尾的造型！",
+          "sc": "学会了后发／武士马尾的造型！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 406,
+      "rec_id": "INTANGEBLE_ID_OTHER_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3253,
+          "ja": "村の地図を渡された",
+          "tc": "拿到了村子的地圖",
+          "sc": "拿到了村子的地图"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 407,
+      "rec_id": "INTANGEBLE_ID_OTHER_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3261,
+          "ja": "100円を渡された",
+          "tc": "拿到了100元",
+          "sc": "拿到了100元"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 408,
+      "rec_id": "INTANGEBLE_ID_OTHER_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3269,
+          "ja": "500円を渡された",
+          "tc": "拿到了500元",
+          "sc": "拿到了500元"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 409,
+      "rec_id": "INTANGEBLE_ID_OTHER_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3277,
+          "ja": "ヌシの鱗を入手した！",
+          "tc": "獲得了霸主的鱗片！",
+          "sc": "获得了霸主的鳞片！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 410,
+      "rec_id": "INTANGEBLE_ID_OTHER_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3285,
+          "ja": "離れの鍵を盗み取った",
+          "tc": "偷走了別館的鑰匙！",
+          "sc": "偷走了偏房的钥匙！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 411,
+      "rec_id": "INTANGEBLE_ID_OTHER_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3293,
+          "ja": "鉛筆とメモ帳を渡された",
+          "tc": "拿到了鉛筆與筆記本",
+          "sc": "拿到了铅笔与笔记本"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 412,
+      "rec_id": "INTANGEBLE_ID_OTHER_06",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3301,
+          "ja": "コダマの体を渡された",
+          "tc": "拿到了木珠的身體",
+          "sc": "拿到了木珠的身体"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 413,
+      "rec_id": "INTANGEBLE_ID_OTHER_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3309,
+          "ja": "図書館の鍵を渡された",
+          "tc": "拿到了圖書館的鑰匙",
+          "sc": "拿到了图书馆的钥匙"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 414,
+      "rec_id": "INTANGEBLE_ID_OTHER_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3317,
+          "ja": "彼ヶ津村の土地を渡された",
+          "tc": "拿到了彼津村的土地",
+          "sc": "拿到了彼津村的土地"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 415,
+      "rec_id": "INTANGEBLE_ID_OTHER_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3325,
+          "ja": "<gamevalue GAME_VALUE_TALK_NUM>円を渡された",
+          "tc": "拿到了<gamevalue GAME_VALUE_TALK_NUM>元",
+          "sc": "拿到了<gamevalue GAME_VALUE_TALK_NUM>元"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 416,
+      "rec_id": "INTANGEBLE_ID_OTHER_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3333,
+          "ja": "狐の油揚げを入手した！",
+          "tc": "獲得了狐狸的油豆腐！",
+          "sc": "获得了狐狸的油豆腐！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 417,
+      "rec_id": "INTANGEBLE_ID_OTHER_11",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3341,
+          "ja": "1000円を渡された",
+          "tc": "拿到了1000元",
+          "sc": "拿到了1000元"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 418,
+      "rec_id": "INTANGEBLE_ID_RELEASE_HUNTING_AREA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3349,
+          "ja": "新しい狩り場に入れるようになった！",
+          "tc": "可以進入新的狩獵場了！",
+          "sc": "可以进入新的狩猎场了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 419,
+      "rec_id": "INTANGEBLE_ID_RELEASE_SICKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3357,
+          "ja": "カマを入手した！",
+          "tc": "獲得了鐮刀！",
+          "sc": "获得了镰刀！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 420,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BAG_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3365,
+          "ja": "カバンが大きくなった！",
+          "tc": "包包變大了！",
+          "sc": "背包变大了！"
+        }
+      ]
+    },
+    {
+      "file": "intangeble.dat",
+      "rec_idx": 421,
+      "rec_id": "INTANGEBLE_ID_RELEASE_BAG_LV3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3373,
+          "ja": "カバンがもっと大きくなった！",
+          "tc": "包包變得更大了！",
+          "sc": "背包变得更大了！"
+        }
+      ]
+    }
+  ]
+}

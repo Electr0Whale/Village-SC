@@ -1,0 +1,2812 @@
+{
+  "batch_id": "batch_001_sys_ui",
+  "group": "sys_ui",
+  "files": [
+    "action.dat",
+    "cmd.dat"
+  ],
+  "record_count": 200,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "action.dat",
+      "rec_idx": 2,
+      "rec_id": "ACTION_ID_PLAYER_WATERING_CAN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 30,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 3,
+      "rec_id": "ACTION_ID_PLAYER_MULBERRY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 41,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 4,
+      "rec_id": "ACTION_ID_PLAYER_AXE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 52,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 5,
+      "rec_id": "ACTION_ID_PLAYER_PICKAXE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 63,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 6,
+      "rec_id": "ACTION_ID_PLAYER_SICKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 74,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 7,
+      "rec_id": "ACTION_ID_PLAYER_FISHING_ROD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 8,
+      "rec_id": "ACTION_ID_PLAYER_SOWING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 96,
+          "ja": "植える",
+          "tc": "種植",
+          "sc": "种植"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 9,
+      "rec_id": "ACTION_ID_PLAYER_FERTILIZER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 107,
+          "ja": "撒く",
+          "tc": "播撒",
+          "sc": "播撒"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 11,
+      "rec_id": "ACTION_ID_PLAYER_LIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 129,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 12,
+      "rec_id": "ACTION_ID_PLAYER_PLOW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 140,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 14,
+      "rec_id": "ACTION_ID_PLAYER_HATCHET",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 162,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 15,
+      "rec_id": "ACTION_ID_PLAYER_USEITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 173,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 17,
+      "rec_id": "ACTION_ID_PLAYER_PLACEMENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 195,
+          "ja": "置く",
+          "tc": "放置",
+          "sc": "放置"
+        }
+      ]
+    },
+    {
+      "file": "action.dat",
+      "rec_idx": 20,
+      "rec_id": "ACTION_ID_PLAYER_BOW_SHOOT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 228,
+          "ja": "撃つ",
+          "tc": "射擊",
+          "sc": "射击"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 1,
+      "rec_id": "CMD_REF_ALL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 13,
+          "ja": "全ボタン",
+          "tc": "所有按鈕",
+          "sc": "所有按键"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 2,
+      "rec_id": "CMD_REF_OK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 21,
+          "ja": "決定ボタン",
+          "tc": "確認按鈕",
+          "sc": "确认按键"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 3,
+      "rec_id": "CMD_REF_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 29,
+          "ja": "キャンセルボタン",
+          "tc": "取消按鈕",
+          "sc": "取消按键"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 4,
+      "rec_id": "CMD_TALK_BACKLOG_VIEW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "会話ログ",
+          "tc": "對話紀錄",
+          "sc": "对话记录"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 5,
+      "rec_id": "CMD_ANY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "いずれかのボタン",
+          "tc": "任意按鈕",
+          "sc": "任意按键"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 6,
+      "rec_id": "CMD_UNIT_MOVE_STICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "移動",
+          "tc": "移動",
+          "sc": "移动"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 7,
+      "rec_id": "CMD_UNIT_MOVE_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 61,
+          "ja": "移動(未実装)",
+          "tc": "移動（未實裝）",
+          "sc": "移动（未实装）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 8,
+      "rec_id": "CMD_UNIT_MOVE_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "移動(未実装)",
+          "tc": "移動（未實裝）",
+          "sc": "移动（未实装）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 9,
+      "rec_id": "CMD_UNIT_MOVE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "移動(未実装)",
+          "tc": "移動（未實裝）",
+          "sc": "移动（未实装）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 10,
+      "rec_id": "CMD_UNIT_MOVE_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "移動(未実装)",
+          "tc": "移動（未實裝）",
+          "sc": "移动（未实装）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 11,
+      "rec_id": "CMD_UNIT_MOVE_STICK_FIRST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "移動(未実装)",
+          "tc": "移動（未實裝）",
+          "sc": "移动（未实装）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 12,
+      "rec_id": "CMD_UNIT_ACTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 101,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 13,
+      "rec_id": "CMD_UNIT_ACTION_BUFFERING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "アクション(先行入力)",
+          "tc": "動作（預先輸入）",
+          "sc": "动作（预先输入）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 14,
+      "rec_id": "CMD_UNIT_ACTION_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "アクション",
+          "tc": "動作",
+          "sc": "动作"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 15,
+      "rec_id": "CMD_UNIT_ACTION_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "アクション左",
+          "tc": "動作左",
+          "sc": "动作左"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 16,
+      "rec_id": "CMD_UNIT_ACTION_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "アクション上",
+          "tc": "動作上",
+          "sc": "动作上"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 17,
+      "rec_id": "CMD_UNIT_ACTION_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 141,
+          "ja": "アクション下",
+          "tc": "動作下",
+          "sc": "动作下"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 18,
+      "rec_id": "CMD_UNIT_ACTION_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "アクション右",
+          "tc": "動作右",
+          "sc": "动作右"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 19,
+      "rec_id": "CMD_UNIT_ACTION_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 157,
+          "ja": "アクションキャンセル",
+          "tc": "取消動作",
+          "sc": "取消动作"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 20,
+      "rec_id": "CMD_UNIT_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 21,
+      "rec_id": "CMD_UNIT_ITEM_BUFFERING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 173,
+          "ja": "使う(先行入力)",
+          "tc": "使用（預先輸入）",
+          "sc": "使用（预先输入）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 22,
+      "rec_id": "CMD_UNIT_ITEM_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 181,
+          "ja": "アイテム使用長押し",
+          "tc": "長按使用物品長按物品使用長按物品使用",
+          "sc": "长按使用物品"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 23,
+      "rec_id": "CMD_UNIT_NUE_DASH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 189,
+          "ja": "鵺の皮ダッシュ",
+          "tc": "鵺皮衝刺",
+          "sc": "鵺皮冲刺"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 24,
+      "rec_id": "CMD_UNIT_ACTION_CONTINUS_PLACEMENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 197,
+          "ja": "連続配置",
+          "tc": "連續設置",
+          "sc": "连续放置"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 25,
+      "rec_id": "CMD_UNIT_ACTION_CONTINUS_PLACEMENT_HELP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 205,
+          "ja": "連続配置",
+          "tc": "連續設置",
+          "sc": "连续放置"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 26,
+      "rec_id": "CMD_UNIT_CHANGE_HANDHELD_PREV",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 213,
+          "ja": "アイテム変更（未実装？）",
+          "tc": "道具變更（未實裝？）",
+          "sc": "道具变更（未实装？）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 27,
+      "rec_id": "CMD_UNIT_CHANGE_HANDHELD_NEXT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 221,
+          "ja": "アイテム変更（未実装？）",
+          "tc": "道具變更（未實裝？）",
+          "sc": "道具变更（未实装？）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 28,
+      "rec_id": "CMD_UNIT_JUMP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 229,
+          "ja": "ジャンプ",
+          "tc": "跳躍",
+          "sc": "跳跃"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 29,
+      "rec_id": "CMD_UNIT_MOVE_PARALLEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 237,
+          "ja": "平行移動",
+          "tc": "平行移動",
+          "sc": "平移"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 30,
+      "rec_id": "CMD_UNIT_MOVE_STICK_PARALLEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "平行移動のスティック操作",
+          "tc": "平行移動的操作桿操作",
+          "sc": "平移的摇杆操作"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 31,
+      "rec_id": "CMD_UNIT_MOVE_ANGLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 253,
+          "ja": "向き変更",
+          "tc": "轉向",
+          "sc": "转向"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 32,
+      "rec_id": "CMD_UNIT_MOVE_STICK_ANGLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 261,
+          "ja": "向き変更のスティック操作",
+          "tc": "轉向的操作桿操作",
+          "sc": "转向的摇杆操作"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 33,
+      "rec_id": "CMD_UNIT_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 269,
+          "ja": "詳細表示",
+          "tc": "顯示詳情",
+          "sc": "显示详情"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 34,
+      "rec_id": "CMD_UNIT_ITEM_INVENTORY_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "アイテムインベントリ内移動",
+          "tc": "於道具收納欄中移動",
+          "sc": "在道具收纳栏中移动"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 35,
+      "rec_id": "CMD_UNIT_ITEM_INVENTORY_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 285,
+          "ja": "アイテムインベントリ内移動",
+          "tc": "於道具收納欄中移動",
+          "sc": "在道具收纳栏中移动"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 36,
+      "rec_id": "CMD_UNIT_ITEM_INVENTORY_NEXT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 293,
+          "ja": "アイテムインベントリ切り替え",
+          "tc": "切換道具收納欄",
+          "sc": "切换道具收纳栏"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 37,
+      "rec_id": "CMD_UNIT_ITEM_INVENTORY_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 301,
+          "ja": "詳細",
+          "tc": "詳情",
+          "sc": "详情"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 38,
+      "rec_id": "CMD_UNIT_MAIN_MENU",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 309,
+          "ja": "メインメニュー",
+          "tc": "主選單",
+          "sc": "主菜单"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 39,
+      "rec_id": "CMD_UNIT_CHANGE_CAMERA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 317,
+          "ja": "カメラの拡縮",
+          "tc": "縮放視角",
+          "sc": "缩放视角"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 40,
+      "rec_id": "CMD_UNIT_SHORTCUT_MEMO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 325,
+          "ja": "メモ機能",
+          "tc": "筆記功能",
+          "sc": "备忘录功能"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 41,
+      "rec_id": "CMD_UNIT_SHORTCUT_TOOL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 333,
+          "ja": "道具",
+          "tc": "道具",
+          "sc": "道具"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 42,
+      "rec_id": "CMD_UNIT_SHORTCUT_INVENTORY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 341,
+          "ja": "インベントリ",
+          "tc": "收納欄",
+          "sc": "收纳栏"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 43,
+      "rec_id": "CMD_UNIT_FLUTTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 349,
+          "ja": "ジタバタする（実装なし）",
+          "tc": "手腳亂揮（未實裝）",
+          "sc": "手脚乱挥（未实装）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 44,
+      "rec_id": "CMD_INTERACTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "インタラクション✕",
+          "tc": "互動✕",
+          "sc": "互动×"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 45,
+      "rec_id": "CMD_INTERACTION_INVISIBLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "インタラクション✕(非表示)",
+          "tc": "互動✕(不顯示)",
+          "sc": "互动×（不显示）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 46,
+      "rec_id": "CMD_INTERACTION_TRIANGLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 373,
+          "ja": "インタラクション△",
+          "tc": "互動△",
+          "sc": "互动△"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 47,
+      "rec_id": "CMD_INTERACTION_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 381,
+          "ja": "インタラクション〇",
+          "tc": "互動〇",
+          "sc": "互动〇"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 48,
+      "rec_id": "CMD_INTERACTION_CANCEL_INVISIBLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 389,
+          "ja": "インタラクション○(非表示)",
+          "tc": "互動○(不顯示)",
+          "sc": "互动○（不显示）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 49,
+      "rec_id": "CMD_INTERACTION_SQUARE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 397,
+          "ja": "インタラクション□",
+          "tc": "互動□",
+          "sc": "互动□"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 50,
+      "rec_id": "CMD_INTERACTION_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 405,
+          "ja": "インタラクション✕(押下)",
+          "tc": "互動✕(按下)",
+          "sc": "互动×（按下）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 51,
+      "rec_id": "CMD_INTERACTION_TRIANGLE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 413,
+          "ja": "インタラクション△(押下)",
+          "tc": "互動△(按下)",
+          "sc": "互动△（按下）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 52,
+      "rec_id": "CMD_INTERACTION_CANCEL_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 421,
+          "ja": "インタラクション〇(押下)",
+          "tc": "互動〇(按下)",
+          "sc": "互动〇（按下）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 53,
+      "rec_id": "CMD_INTERACTION_SQUARE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 429,
+          "ja": "インタラクション□(押下)",
+          "tc": "互動□(按下)",
+          "sc": "互动□（按下）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 54,
+      "rec_id": "CMD_INTERACTION_L1_INVISIBLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 437,
+          "ja": "インタラクションL1(非表示)",
+          "tc": "互動L1(不顯示)",
+          "sc": "互动L1（不显示）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 55,
+      "rec_id": "CMD_INTERACTION_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "インタラクション(押しっぱなし)",
+          "tc": "互動（按住）",
+          "sc": "互动（按住）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 56,
+      "rec_id": "CMD_INTERACTION_TRIANGLE_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 453,
+          "ja": "インタラクション△(押しっぱなし)",
+          "tc": "互動△（按住）",
+          "sc": "互动△（按住）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 57,
+      "rec_id": "CMD_INTERACTION_CANCEL_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 461,
+          "ja": "インタラクション〇(押しっぱなし)",
+          "tc": "互動〇（按住）",
+          "sc": "互动〇（按住）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 58,
+      "rec_id": "CMD_INTERACTION_SQUARE_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 469,
+          "ja": "インタラクション□(押しっぱなし)",
+          "tc": "互動□（按住）",
+          "sc": "互动□（按住）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 59,
+      "rec_id": "CMD_INTERACTION_LONG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 477,
+          "ja": "インタラクション長押し",
+          "tc": "互動長按",
+          "sc": "长按互动"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 60,
+      "rec_id": "CMD_INTERACTION_LONG_TRIANGLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "インタラクション長押し△",
+          "tc": "互動長按△",
+          "sc": "长按互动△"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 61,
+      "rec_id": "CMD_INTERACTION_LONG_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 493,
+          "ja": "インタラクション長押し〇",
+          "tc": "互動長按〇",
+          "sc": "长按互动〇"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 62,
+      "rec_id": "CMD_INTERACTION_LONG_SQUARE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 501,
+          "ja": "インタラクション長押し□",
+          "tc": "互動長按□",
+          "sc": "长按互动□"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 63,
+      "rec_id": "CMD_INTERACTION_ENTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 509,
+          "ja": "入る",
+          "tc": "進入",
+          "sc": "进入"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 64,
+      "rec_id": "CMD_INTERACTION_EXIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 517,
+          "ja": "出る",
+          "tc": "出去",
+          "sc": "出去"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 65,
+      "rec_id": "CMD_INTERACTION_OPEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 525,
+          "ja": "開ける",
+          "tc": "打開",
+          "sc": "打开"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 66,
+      "rec_id": "CMD_INTERACTION_CLOSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 533,
+          "ja": "閉じる",
+          "tc": "關閉",
+          "sc": "关闭"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 67,
+      "rec_id": "CMD_INTERACTION_SHAKE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 541,
+          "ja": "揺らす",
+          "tc": "搖晃",
+          "sc": "摇晃"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 68,
+      "rec_id": "CMD_INTERACTION_HARVEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 549,
+          "ja": "収穫",
+          "tc": "收穫",
+          "sc": "收获"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 69,
+      "rec_id": "CMD_INTERACTION_HARVEST_BUFFERING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 557,
+          "ja": "収穫(先行入力)",
+          "tc": "收穫（預先輸入）",
+          "sc": "收获（预先输入）"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 70,
+      "rec_id": "CMD_INTERACTION_HARVEST_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 565,
+          "ja": "収穫長押し",
+          "tc": "長按採收",
+          "sc": "长按采收"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 71,
+      "rec_id": "CMD_INTERACTION_LIVESTOCK_ACTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 573,
+          "ja": "家畜へのアクション",
+          "tc": "對家畜的動作",
+          "sc": "对家畜的动作"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 72,
+      "rec_id": "CMD_INTERACTION_MILKING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 581,
+          "ja": "ミルクをとる",
+          "tc": "擠奶",
+          "sc": "挤奶"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 73,
+      "rec_id": "CMD_INTERACTION_ON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 589,
+          "ja": "つける",
+          "tc": "打開",
+          "sc": "打开"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 74,
+      "rec_id": "CMD_INTERACTION_OFF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 597,
+          "ja": "消す",
+          "tc": "關掉",
+          "sc": "关掉"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 75,
+      "rec_id": "CMD_INTERACTION_SWITCH_ON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "スイッチをオンにする",
+          "tc": "將開關打開",
+          "sc": "打开开关"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 76,
+      "rec_id": "CMD_INTERACTION_SWITCH_OFF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 613,
+          "ja": "スイッチをオフにする",
+          "tc": "將開關關閉",
+          "sc": "关闭开关"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 77,
+      "rec_id": "CMD_INTERACTION_ITEM_IN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 621,
+          "ja": "入れる",
+          "tc": "放入",
+          "sc": "放入"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 78,
+      "rec_id": "CMD_INTERACTION_ITEM_OUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 629,
+          "ja": "出す",
+          "tc": "取出",
+          "sc": "取出"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 79,
+      "rec_id": "CMD_INTERACTION_SLEEP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 637,
+          "ja": "寝る",
+          "tc": "睡覺",
+          "sc": "睡觉"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 80,
+      "rec_id": "CMD_INTERACTION_AWAKE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 645,
+          "ja": "起きる",
+          "tc": "起床",
+          "sc": "起床"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 81,
+      "rec_id": "CMD_INTERACTION_SIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 653,
+          "ja": "座る",
+          "tc": "坐下",
+          "sc": "坐下"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 82,
+      "rec_id": "CMD_INTERACTION_STAND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 661,
+          "ja": "立つ",
+          "tc": "起身",
+          "sc": "起身"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 83,
+      "rec_id": "CMD_INTERACTION_SPEAK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 669,
+          "ja": "会話",
+          "tc": "對話",
+          "sc": "对话"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 84,
+      "rec_id": "CMD_INTERACTION_LET_GO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 677,
+          "ja": "逃がす",
+          "tc": "放走",
+          "sc": "放走"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 85,
+      "rec_id": "CMD_INTERACTION_CHANGE_CLOTHES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 685,
+          "ja": "着替える",
+          "tc": "換裝",
+          "sc": "换装"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 86,
+      "rec_id": "CMD_INTERACTION_CHECK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 693,
+          "ja": "調べる",
+          "tc": "調查",
+          "sc": "调查"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 87,
+      "rec_id": "CMD_INTERACTION_PUT_AWAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 701,
+          "ja": "しまう",
+          "tc": "收起來",
+          "sc": "收起来"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 88,
+      "rec_id": "CMD_INTERACTION_PUMP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 709,
+          "ja": "水をくむ",
+          "tc": "汲水",
+          "sc": "汲水"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 89,
+      "rec_id": "CMD_INTERACTION_INSERT_FLOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 717,
+          "ja": "花を挿す",
+          "tc": "插花",
+          "sc": "插花"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 90,
+      "rec_id": "CMD_INTERACTION_ANSWER_PHONE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 725,
+          "ja": "電話に出る",
+          "tc": "接電話",
+          "sc": "接电话"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 91,
+      "rec_id": "CMD_INTERACTION_CONFIRM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 733,
+          "ja": "確認",
+          "tc": "確認",
+          "sc": "确认"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 92,
+      "rec_id": "CMD_INTERACTION_TAKEOUT_LONG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 741,
+          "ja": "出す",
+          "tc": "取出",
+          "sc": "取出"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 93,
+      "rec_id": "CMD_INTERACTION_OBTAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 749,
+          "ja": "入手",
+          "tc": "取得",
+          "sc": "获得"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 94,
+      "rec_id": "CMD_INTERACTION_PICK_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 757,
+          "ja": "拾う",
+          "tc": "撿起",
+          "sc": "捡起"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 95,
+      "rec_id": "CMD_INTERACTION_PICK_UP_ITEMFULL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 765,
+          "ja": "拾う",
+          "tc": "撿起",
+          "sc": "捡起"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 96,
+      "rec_id": "CMD_INTERACTION_TAKEOUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 773,
+          "ja": "取り出す",
+          "tc": "取出",
+          "sc": "取出"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 97,
+      "rec_id": "CMD_INTERACTION_RETURN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 781,
+          "ja": "入れる",
+          "tc": "放入",
+          "sc": "放入"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 98,
+      "rec_id": "CMD_INTERACTION_PUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 789,
+          "ja": "置く",
+          "tc": "放置",
+          "sc": "放置"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 99,
+      "rec_id": "CMD_INTERACTION_AXE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 797,
+          "ja": "オノを振る",
+          "tc": "揮動斧頭",
+          "sc": "挥动斧头"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 100,
+      "rec_id": "CMD_INTERACTION_GENERALSTORE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 805,
+          "ja": "田上雑貨店",
+          "tc": "田上雜貨店",
+          "sc": "田上杂货店"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 101,
+      "rec_id": "CMD_INTERACTION_SHOPPING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 813,
+          "ja": "商品を見る",
+          "tc": "查看商品",
+          "sc": "查看商品"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 102,
+      "rec_id": "CMD_INTERACTION_ANIMAL_SHOPPING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 821,
+          "ja": "家畜を購入",
+          "tc": "購買家畜",
+          "sc": "购买家畜"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 103,
+      "rec_id": "CMD_INTERACTION_ITEM_SHOPPING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 829,
+          "ja": "商品を見る",
+          "tc": "查看商品",
+          "sc": "查看商品"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 104,
+      "rec_id": "CMD_INTERACTION_CONSTRUCTION_SHED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 837,
+          "ja": "樹木建設",
+          "tc": "樹木建設",
+          "sc": "树木建设"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 105,
+      "rec_id": "CMD_INTERACTION_RESTAURANT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 845,
+          "ja": "茶碗亭",
+          "tc": "茶碗亭",
+          "sc": "茶碗亭"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 106,
+      "rec_id": "CMD_INTERACTION_FIRST_FLOOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 853,
+          "ja": "2階",
+          "tc": "2樓",
+          "sc": "2楼"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 107,
+      "rec_id": "CMD_INTERACTION_DINING_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 861,
+          "ja": "食堂",
+          "tc": "餐廳",
+          "sc": "餐厅"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 108,
+      "rec_id": "CMD_INTERACTION_MAYOR_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 869,
+          "ja": "村長邸",
+          "tc": "村長宅邸",
+          "sc": "村长宅邸"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 109,
+      "rec_id": "CMD_INTERACTION_CORRIDOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 877,
+          "ja": "廊下",
+          "tc": "走廊",
+          "sc": "走廊"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 110,
+      "rec_id": "CMD_INTERACTION_RIN_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 885,
+          "ja": "リンの部屋",
+          "tc": "林的房間",
+          "sc": "林的房间"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 111,
+      "rec_id": "CMD_INTERACTION_KONNO_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 893,
+          "ja": "コンノの部屋",
+          "tc": "今野的房間",
+          "sc": "今野的房间"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 112,
+      "rec_id": "CMD_INTERACTION_BACK_ROAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 901,
+          "ja": "屋敷の裏道",
+          "tc": "宅邸的小路",
+          "sc": "宅邸的小路"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 113,
+      "rec_id": "CMD_INTERACTION_CLINIC",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 909,
+          "ja": "くすのき診療所",
+          "tc": "樟樹診所",
+          "sc": "樟树诊所"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 114,
+      "rec_id": "CMD_INTERACTION_CLINIC_ENTRANCE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 917,
+          "ja": "受付",
+          "tc": "櫃台",
+          "sc": "服务台"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 115,
+      "rec_id": "CMD_INTERACTION_CLINIC_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 925,
+          "ja": "病室",
+          "tc": "病房",
+          "sc": "病房"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 116,
+      "rec_id": "CMD_INTERACTION_LIBRARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 933,
+          "ja": "図書館",
+          "tc": "圖書館",
+          "sc": "图书馆"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 117,
+      "rec_id": "CMD_INTERACTION_HUNTINGLODGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 941,
+          "ja": "狩人詰所",
+          "tc": "獵人哨站",
+          "sc": "猎人哨站"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 118,
+      "rec_id": "CMD_INTERACTION_CARPENTER_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 949,
+          "ja": "キスケの家",
+          "tc": "木助的家",
+          "sc": "木助的家"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 119,
+      "rec_id": "CMD_INTERACTION_GENERALSTORE_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 957,
+          "ja": "サザンカの家",
+          "tc": "茶梅的家",
+          "sc": "茶梅的家"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 120,
+      "rec_id": "CMD_INTERACTION_HUNTERS_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 965,
+          "ja": "コマコとシロージの家",
+          "tc": "駒子與四郎治的家",
+          "sc": "驹子与四郎治的家"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 121,
+      "rec_id": "CMD_INTERACTION_KOMAKO_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 973,
+          "ja": "コマコの部屋",
+          "tc": "駒子的房間",
+          "sc": "驹子的房间"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 122,
+      "rec_id": "CMD_INTERACTION_SHIROJI_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 981,
+          "ja": "シロージの部屋",
+          "tc": "四郎治的房間",
+          "sc": "四郎治的房间"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 123,
+      "rec_id": "CMD_INTERACTION_YOUTH_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 989,
+          "ja": "ユータの家",
+          "tc": "裕太的家",
+          "sc": "裕太的家"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 124,
+      "rec_id": "CMD_INTERACTION_DOCTOR_AND_BOY_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 997,
+          "ja": "ハスミとスミレの家",
+          "tc": "蓮實與堇怜的家",
+          "sc": "莲实与堇怜的家"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 125,
+      "rec_id": "CMD_INTERACTION_HASUMI_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1005,
+          "ja": "ハスミの部屋",
+          "tc": "蓮實的房間",
+          "sc": "莲实的房间"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 126,
+      "rec_id": "CMD_INTERACTION_SUMIRE_ROOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1013,
+          "ja": "スミレの部屋",
+          "tc": "堇怜的房間",
+          "sc": "堇怜的房间"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 127,
+      "rec_id": "CMD_INTERACTION_HALL_EMPLOYEE_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1021,
+          "ja": "ナゴの家",
+          "tc": "名護的家",
+          "sc": "名护的家"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 128,
+      "rec_id": "CMD_INTERACTION_MAYOR_DETACHED_BUILDING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1029,
+          "ja": "村長邸の離れ",
+          "tc": "村長宅邸的別館",
+          "sc": "村长宅邸的别馆"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 129,
+      "rec_id": "CMD_INTERACTION_MAYOR_STOREHOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1037,
+          "ja": "村長邸の蔵",
+          "tc": "村長宅邸的倉庫",
+          "sc": "村长宅邸的仓库"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 130,
+      "rec_id": "CMD_INTERACTION_CLOCK_TOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1045,
+          "ja": "時計塔",
+          "tc": "鐘樓",
+          "sc": "钟楼"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 131,
+      "rec_id": "CMD_INTERACTION_CHINANA_TRUCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1053,
+          "ja": "チナナのトラック",
+          "tc": "琪娜娜的卡車",
+          "sc": "琪娜娜的卡车"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 132,
+      "rec_id": "CMD_INTERACTION_ROOM_OUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1061,
+          "ja": "出る",
+          "tc": "出去",
+          "sc": "出去"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 133,
+      "rec_id": "CMD_INTERACTION_MYHOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1069,
+          "ja": "自宅",
+          "tc": "我的家",
+          "sc": "我家"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 134,
+      "rec_id": "CMD_INTERACTION_MYHOUSE_UNDERGROUND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1077,
+          "ja": "地下",
+          "tc": "地下室",
+          "sc": "地下室"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 135,
+      "rec_id": "CMD_INTERACTION_MYHOUSE_GROUND_FLOOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1085,
+          "ja": "１階",
+          "tc": "1樓",
+          "sc": "1楼"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 136,
+      "rec_id": "CMD_INTERACTION_AVIARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1093,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 137,
+      "rec_id": "CMD_INTERACTION_LIVESTOCKHOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1101,
+          "ja": "家畜小屋",
+          "tc": "畜舍",
+          "sc": "畜舍"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 138,
+      "rec_id": "CMD_INTERACTION_BARN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1109,
+          "ja": "納屋",
+          "tc": "倉庫",
+          "sc": "仓库"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 139,
+      "rec_id": "CMD_INTERACTION_GREENHOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1117,
+          "ja": "温室",
+          "tc": "溫室",
+          "sc": "温室"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 140,
+      "rec_id": "CMD_INTERACTION_MAILBOX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1125,
+          "ja": "ポスト",
+          "tc": "郵筒",
+          "sc": "邮箱"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 141,
+      "rec_id": "CMD_INTERACTION_ONIZUKA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1133,
+          "ja": "屋敷の裏道",
+          "tc": "宅邸的小路",
+          "sc": "宅邸的小路"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 142,
+      "rec_id": "CMD_INTERACTION_UNDERGROUND_ROAD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1141,
+          "ja": "地下通路",
+          "tc": "地下通道",
+          "sc": "地下通道"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 143,
+      "rec_id": "CMD_INTERACTION_LOST_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1149,
+          "ja": "廃屋",
+          "tc": "廢棄屋",
+          "sc": "废弃屋"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 144,
+      "rec_id": "CMD_INTERACTION_MOVE_ON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1157,
+          "ja": "進む",
+          "tc": "前進",
+          "sc": "前进"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 145,
+      "rec_id": "CMD_INTERACTION_RETURN_MOUNTAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1165,
+          "ja": "戻る",
+          "tc": "返回",
+          "sc": "返回"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 146,
+      "rec_id": "CMD_INTERACTION_MOVE_FORWARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1173,
+          "ja": "進む",
+          "tc": "前進",
+          "sc": "前进"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 147,
+      "rec_id": "CMD_INTERACTION_RETURN_EXIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1181,
+          "ja": "戻る",
+          "tc": "返回",
+          "sc": "返回"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 148,
+      "rec_id": "CMD_INTERACTION_DUNGEON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1189,
+          "ja": "石切場",
+          "tc": "採石場",
+          "sc": "采石场"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 149,
+      "rec_id": "CMD_INTERACTION_BACK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1197,
+          "ja": "登る",
+          "tc": "上升",
+          "sc": "上去"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 150,
+      "rec_id": "CMD_INTERACTION_NEXT_FLOOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1205,
+          "ja": "下る",
+          "tc": "下降",
+          "sc": "下去"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 151,
+      "rec_id": "CMD_INTERACTION_ELEVATOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1213,
+          "ja": "エレベーター",
+          "tc": "升降機",
+          "sc": "升降机"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 152,
+      "rec_id": "CMD_INTERACTION_SHIPPINGBOX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1221,
+          "ja": "出荷",
+          "tc": "出貨",
+          "sc": "出货"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 153,
+      "rec_id": "CMD_INTERACTION_CHEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1229,
+          "ja": "収納箱",
+          "tc": "收納箱",
+          "sc": "收纳箱"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 154,
+      "rec_id": "CMD_INTERACTION_REWARD_BOX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1237,
+          "ja": "報酬箱",
+          "tc": "獎勵箱",
+          "sc": "奖励箱"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 155,
+      "rec_id": "CMD_INTERACTION_CONSTRUCTION_BOX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1245,
+          "ja": "回収箱",
+          "tc": "回收箱",
+          "sc": "回收箱"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 156,
+      "rec_id": "CMD_INTERACTION_BOARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1253,
+          "ja": "掲示板",
+          "tc": "公告欄",
+          "sc": "公告栏"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 157,
+      "rec_id": "CMD_INTERACTION_BUNDLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1261,
+          "ja": "バンドル",
+          "tc": "組合",
+          "sc": "组合"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 158,
+      "rec_id": "CMD_INTERACTION_SUBMIT_CERTIFICATE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1269,
+          "ja": "狩猟証明を入れる",
+          "tc": "放入狩獵證明",
+          "sc": "放入狩猎证明"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 159,
+      "rec_id": "CMD_INTERACTION_PUSH_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1277,
+          "ja": "入れる",
+          "tc": "放入",
+          "sc": "放入"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 160,
+      "rec_id": "CMD_INTERACTION_PUSH_ITEM_LONG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1285,
+          "ja": "全て入れる",
+          "tc": "全部放入",
+          "sc": "全部放入"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 161,
+      "rec_id": "CMD_INTERACTION_TICKET",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1293,
+          "ja": "お手伝い券を渡す",
+          "tc": "交付幫忙券",
+          "sc": "交付帮忙券"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 162,
+      "rec_id": "CMD_INTERACTION_SUBMIT_QUEST_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1301,
+          "ja": "渡す",
+          "tc": "交付",
+          "sc": "交付"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 163,
+      "rec_id": "CMD_INTERACTION_PRESENT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1309,
+          "ja": "贈り物をする",
+          "tc": "贈送禮物",
+          "sc": "赠送礼物"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 164,
+      "rec_id": "CMD_INTERACTION_PRESENT_DISABLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1317,
+          "ja": "贈り物をする",
+          "tc": "贈送禮物",
+          "sc": "赠送礼物"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 165,
+      "rec_id": "CMD_INTERACTION_DELIVER_SUBQUEST_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1325,
+          "ja": "納品",
+          "tc": "交付",
+          "sc": "交付"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 166,
+      "rec_id": "CMD_INTERACTION_CARESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1333,
+          "ja": "撫でる",
+          "tc": "撫摸",
+          "sc": "抚摸"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 167,
+      "rec_id": "CMD_INTERACTION_FEED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1341,
+          "ja": "エサをあげる",
+          "tc": "餵飼料",
+          "sc": "喂食"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 168,
+      "rec_id": "CMD_INTERACTION_RETRIEVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1349,
+          "ja": "回収",
+          "tc": "收回",
+          "sc": "收回"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 169,
+      "rec_id": "CMD_INTERACTION_RETRIEVE_PRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1357,
+          "ja": "回収押しっぱなし",
+          "tc": "長按收回",
+          "sc": "长按收回"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 170,
+      "rec_id": "CMD_INTERACTION_COLLECT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1365,
+          "ja": "採取",
+          "tc": "採收",
+          "sc": "采集"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 171,
+      "rec_id": "CMD_INTERACTION_OBTAIN_CREATURE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1373,
+          "ja": "回収",
+          "tc": "收回",
+          "sc": "收回"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 172,
+      "rec_id": "CMD_INTERACTION_RELEASE_CREATURE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1381,
+          "ja": "逃がす",
+          "tc": "放走",
+          "sc": "放走"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 173,
+      "rec_id": "CMD_INTERACTION_PUT_BAIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1389,
+          "ja": "エサを置く",
+          "tc": "放餌食",
+          "sc": "放饵料"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 174,
+      "rec_id": "CMD_INTERACTION_FISHING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1397,
+          "ja": "釣り",
+          "tc": "釣魚",
+          "sc": "钓鱼"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 175,
+      "rec_id": "CMD_INTERACTION_FISHING_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1405,
+          "ja": "やめる",
+          "tc": "取消",
+          "sc": "取消"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 176,
+      "rec_id": "CMD_INTERACTION_FISHING_HIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1413,
+          "ja": "釣り上げる",
+          "tc": "釣上來",
+          "sc": "钓上来"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 177,
+      "rec_id": "CMD_INTERACTION_GACHAPON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1421,
+          "ja": "回す",
+          "tc": "轉動",
+          "sc": "转动"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 178,
+      "rec_id": "CMD_INTERACTION_FHONE_BOX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1429,
+          "ja": "電話ボックス",
+          "tc": "電話亭",
+          "sc": "电话亭"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 179,
+      "rec_id": "CMD_INTERACTION_HIDE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1437,
+          "ja": "隠れる",
+          "tc": "躲藏",
+          "sc": "躲藏"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 180,
+      "rec_id": "CMD_INTERACTION_HIDE_OUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1445,
+          "ja": "出る",
+          "tc": "出去",
+          "sc": "出去"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 181,
+      "rec_id": "CMD_INTERACTION_COVER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1453,
+          "ja": "調べる",
+          "tc": "調查",
+          "sc": "调查"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 182,
+      "rec_id": "CMD_INTERACTION_TAKE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1461,
+          "ja": "取る",
+          "tc": "拿取",
+          "sc": "拿取"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 183,
+      "rec_id": "CMD_INTERACTION_PUT_GROUND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1469,
+          "ja": "地面に置く",
+          "tc": "放在地上",
+          "sc": "放在地上"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 184,
+      "rec_id": "CMD_INTERACTION_EXPLORE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1477,
+          "ja": "調べる",
+          "tc": "調查",
+          "sc": "调查"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 185,
+      "rec_id": "CMD_INTERACTION_PUT_ALTAR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1485,
+          "ja": "投げ入れる",
+          "tc": "投入",
+          "sc": "投入"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 186,
+      "rec_id": "CMD_INTERACTION_WRITE_LETTERS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1493,
+          "ja": "文字を書く",
+          "tc": "寫下文字",
+          "sc": "写下文字"
+        }
+      ]
+    }
+  ]
+}

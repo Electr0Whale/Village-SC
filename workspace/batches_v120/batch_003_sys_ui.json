@@ -1,0 +1,2813 @@
+{
+  "batch_id": "batch_003_sys_ui",
+  "group": "sys_ui",
+  "files": [
+    "framework_cmd.dat",
+    "framework_string.dat",
+    "framework_vkey.dat"
+  ],
+  "record_count": 200,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 14,
+      "rec_id": "CMD_CURSOR_EX_RIGHT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 15,
+      "rec_id": "CMD_CURSOR_EX_RIGHT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 16,
+      "rec_id": "CMD_CURSOR_EX_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 17,
+      "rec_id": "CMD_CURSOR_EX_LEFT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 141,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 18,
+      "rec_id": "CMD_CURSOR_EX_LEFT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 19,
+      "rec_id": "CMD_CURSOR_EX_LEFT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 157,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 20,
+      "rec_id": "CMD_CURSOR_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 21,
+      "rec_id": "CMD_CURSOR_UP_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 173,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 22,
+      "rec_id": "CMD_CURSOR_UP_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 181,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 23,
+      "rec_id": "CMD_CURSOR_UP_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 189,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 24,
+      "rec_id": "CMD_CURSOR_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 197,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 25,
+      "rec_id": "CMD_CURSOR_DOWN_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 205,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 26,
+      "rec_id": "CMD_CURSOR_DOWN_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 213,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 27,
+      "rec_id": "CMD_CURSOR_DOWN_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 221,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 28,
+      "rec_id": "CMD_CURSOR_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 229,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 29,
+      "rec_id": "CMD_CURSOR_RIGHT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 237,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 30,
+      "rec_id": "CMD_CURSOR_RIGHT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 31,
+      "rec_id": "CMD_CURSOR_RIGHT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 253,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 32,
+      "rec_id": "CMD_CURSOR_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 261,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 33,
+      "rec_id": "CMD_CURSOR_LEFT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 269,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 34,
+      "rec_id": "CMD_CURSOR_LEFT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 35,
+      "rec_id": "CMD_CURSOR_LEFT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 285,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 36,
+      "rec_id": "CMD_CURSOR_L1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 293,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 37,
+      "rec_id": "CMD_CURSOR_L1_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 301,
+          "ja": "10単位増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 38,
+      "rec_id": "CMD_CURSOR_L1_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 309,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 39,
+      "rec_id": "CMD_CURSOR_L1_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 317,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 40,
+      "rec_id": "CMD_CURSOR_R1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 325,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 41,
+      "rec_id": "CMD_CURSOR_R1_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 333,
+          "ja": "10単位増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 42,
+      "rec_id": "CMD_CURSOR_R1_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 341,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 43,
+      "rec_id": "CMD_CURSOR_R1_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 349,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 44,
+      "rec_id": "CMD_CURSOR_L2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 45,
+      "rec_id": "CMD_CURSOR_L2_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 46,
+      "rec_id": "CMD_CURSOR_L2_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 373,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 47,
+      "rec_id": "CMD_CURSOR_L2_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 381,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 48,
+      "rec_id": "CMD_CURSOR_R2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 389,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 49,
+      "rec_id": "CMD_CURSOR_R2_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 397,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 50,
+      "rec_id": "CMD_CURSOR_R2_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 405,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 51,
+      "rec_id": "CMD_CURSOR_R2_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 413,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 52,
+      "rec_id": "CMD_CURSOR_R_STICK_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 421,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 53,
+      "rec_id": "CMD_CURSOR_R_STICK_UP_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 429,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 54,
+      "rec_id": "CMD_CURSOR_R_STICK_UP_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 437,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 55,
+      "rec_id": "CMD_CURSOR_R_STICK_UP_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 56,
+      "rec_id": "CMD_CURSOR_R_STICK_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 453,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 57,
+      "rec_id": "CMD_CURSOR_R_STICK_DOWN_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 461,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 58,
+      "rec_id": "CMD_CURSOR_R_STICK_DOWN_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 469,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 59,
+      "rec_id": "CMD_CURSOR_R_STICK_DOWN_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 477,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 60,
+      "rec_id": "CMD_CURSOR_R_STICK_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 61,
+      "rec_id": "CMD_CURSOR_R_STICK_LEFT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 493,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 62,
+      "rec_id": "CMD_CURSOR_R_STICK_LEFT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 501,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 63,
+      "rec_id": "CMD_CURSOR_R_STICK_LEFT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 509,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 64,
+      "rec_id": "CMD_CURSOR_R_STICK_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 517,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 65,
+      "rec_id": "CMD_CURSOR_R_STICK_RIGHT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 525,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 66,
+      "rec_id": "CMD_CURSOR_R_STICK_RIGHT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 533,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 67,
+      "rec_id": "CMD_CURSOR_R_STICK_RIGHT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 541,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 68,
+      "rec_id": "CMD_CURSOR_L_STICK_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 549,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 69,
+      "rec_id": "CMD_CURSOR_L_STICK_UP_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 557,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 70,
+      "rec_id": "CMD_CURSOR_L_STICK_UP_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 565,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 71,
+      "rec_id": "CMD_CURSOR_L_STICK_UP_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 573,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 72,
+      "rec_id": "CMD_CURSOR_L_STICK_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 581,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 73,
+      "rec_id": "CMD_CURSOR_L_STICK_DOWN_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 589,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 74,
+      "rec_id": "CMD_CURSOR_L_STICK_DOWN_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 597,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 75,
+      "rec_id": "CMD_CURSOR_L_STICK_DOWN_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 76,
+      "rec_id": "CMD_CURSOR_L_STICK_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 613,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 77,
+      "rec_id": "CMD_CURSOR_L_STICK_LEFT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 621,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 78,
+      "rec_id": "CMD_CURSOR_L_STICK_LEFT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 629,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 79,
+      "rec_id": "CMD_CURSOR_L_STICK_LEFT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 637,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 80,
+      "rec_id": "CMD_CURSOR_L_STICK_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 645,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 81,
+      "rec_id": "CMD_CURSOR_L_STICK_RIGHT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 653,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 82,
+      "rec_id": "CMD_CURSOR_L_STICK_RIGHT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 661,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 83,
+      "rec_id": "CMD_CURSOR_L_STICK_RIGHT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 669,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 84,
+      "rec_id": "CMD_CURSOR_LR_STICK_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 677,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 85,
+      "rec_id": "CMD_CURSOR_LR_STICK_UP_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 685,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 86,
+      "rec_id": "CMD_CURSOR_LR_STICK_UP_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 693,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 87,
+      "rec_id": "CMD_CURSOR_LR_STICK_UP_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 701,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 88,
+      "rec_id": "CMD_CURSOR_LR_STICK_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 709,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 89,
+      "rec_id": "CMD_CURSOR_LR_STICK_DOWN_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 717,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 90,
+      "rec_id": "CMD_CURSOR_LR_STICK_DOWN_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 725,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 91,
+      "rec_id": "CMD_CURSOR_LR_STICK_DOWN_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 733,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 92,
+      "rec_id": "CMD_CURSOR_LR_STICK_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 741,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 93,
+      "rec_id": "CMD_CURSOR_LR_STICK_LEFT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 749,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 94,
+      "rec_id": "CMD_CURSOR_LR_STICK_LEFT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 757,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 95,
+      "rec_id": "CMD_CURSOR_LR_STICK_LEFT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 765,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 96,
+      "rec_id": "CMD_CURSOR_LR_STICK_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 773,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 97,
+      "rec_id": "CMD_CURSOR_LR_STICK_RIGHT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 781,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 98,
+      "rec_id": "CMD_CURSOR_LR_STICK_RIGHT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 789,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 99,
+      "rec_id": "CMD_CURSOR_LR_STICK_RIGHT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 797,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 100,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 805,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 101,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_UP_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 813,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 102,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_UP_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 821,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 103,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_UP_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 829,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 104,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 837,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 105,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_DOWN_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 845,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 106,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_DOWN_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 853,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 107,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_DOWN_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 861,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 108,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 869,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 109,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_LEFT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 877,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 110,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_LEFT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 885,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 111,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_LEFT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 893,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 112,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 901,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 113,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_RIGHT_X10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 909,
+          "ja": "１０倍増減",
+          "tc": "增減10倍",
+          "sc": "增减10倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 114,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_RIGHT_X100",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 917,
+          "ja": "１００倍増減",
+          "tc": "增減100倍",
+          "sc": "增减100倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 115,
+      "rec_id": "CMD_CURSOR_LR_STICK_EX_RIGHT_X1000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 925,
+          "ja": "１０００倍増減",
+          "tc": "增減1000倍",
+          "sc": "增减1000倍"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 116,
+      "rec_id": "CMD_CURSOR_PAGE_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 933,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 117,
+      "rec_id": "CMD_CURSOR_PAGE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 941,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 118,
+      "rec_id": "CMD_CURSOR_PAGE_UP_R_STCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 949,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 119,
+      "rec_id": "CMD_CURSOR_PAGE_DOWN_R_STCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 957,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 120,
+      "rec_id": "CMD_CURSOR_PAGE_LEFT_R_STCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 965,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 121,
+      "rec_id": "CMD_CURSOR_PAGE_RIGHT_R_STCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 973,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 122,
+      "rec_id": "CMD_CURSOR_PAGE_UP_L1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 981,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 123,
+      "rec_id": "CMD_CURSOR_PAGE_DOWN_R1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 989,
+          "ja": "ページ移動",
+          "tc": "換頁",
+          "sc": "换页"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 124,
+      "rec_id": "CMD_CURSOR_SCROLL_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 997,
+          "ja": "スクロール",
+          "tc": "捲動",
+          "sc": "滚动"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 125,
+      "rec_id": "CMD_CURSOR_SCROLL_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1005,
+          "ja": "スクロール",
+          "tc": "捲動",
+          "sc": "滚动"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 126,
+      "rec_id": "CMD_CURSOR_BUTTON_SCROLL_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1013,
+          "ja": "スクロール",
+          "tc": "捲動",
+          "sc": "滚动"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 127,
+      "rec_id": "CMD_CURSOR_BUTTON_SCROLL_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1021,
+          "ja": "スクロール",
+          "tc": "捲動",
+          "sc": "滚动"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 128,
+      "rec_id": "CMD_NEXT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1029,
+          "ja": "次へ",
+          "tc": "下一步",
+          "sc": "下一步"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 129,
+      "rec_id": "CMD_SKIP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1037,
+          "ja": "スキップ",
+          "tc": "略過",
+          "sc": "跳过"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 130,
+      "rec_id": "CMD_FAST_NEXT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1045,
+          "ja": "早送り",
+          "tc": "快轉",
+          "sc": "快进"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 131,
+      "rec_id": "CMD_NEXT_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1053,
+          "ja": "キャンセル",
+          "tc": "取消",
+          "sc": "取消"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 132,
+      "rec_id": "CMD_FASTFORWARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1061,
+          "ja": "デモ高速化",
+          "tc": "動畫快轉",
+          "sc": "快进剧情"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 133,
+      "rec_id": "CMD_BACKLOG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1069,
+          "ja": "バックログ",
+          "tc": "回顧",
+          "sc": "回顾"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 134,
+      "rec_id": "CMD_BACKLOG_PLAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1077,
+          "ja": "再生",
+          "tc": "播放",
+          "sc": "播放"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 135,
+      "rec_id": "CMD_AUTO_TEXT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1085,
+          "ja": "自動送り",
+          "tc": "自動播放",
+          "sc": "自动播放"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 136,
+      "rec_id": "CMD_TEXT_CURSOR_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1093,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 137,
+      "rec_id": "CMD_TEXT_CURSOR_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1101,
+          "ja": "選択",
+          "tc": "選擇",
+          "sc": "选择"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 138,
+      "rec_id": "CMD_TEXT_CURSOR_RANGE_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1109,
+          "ja": "範囲選択",
+          "tc": "選擇範圍",
+          "sc": "选择范围"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 139,
+      "rec_id": "CMD_TEXT_CURSOR_RANGE_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1117,
+          "ja": "範囲選択",
+          "tc": "選擇範圍",
+          "sc": "选择范围"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 172,
+      "rec_id": "CMD_DEBUG_MENU_OPEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1381,
+          "ja": "<lang JP>デバッグメニュー</lang>",
+          "tc": "<lang JP>デバッグメニュー</lang>",
+          "sc": "<lang JP>デバッグメニュー</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 173,
+      "rec_id": "CMD_DEBUG_TREE_ALL_OPEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1389,
+          "ja": "<lang JP>ツリー全展開</lang>",
+          "tc": "<lang JP>ツリー全展開</lang>",
+          "sc": "<lang JP>ツリー全展開</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 174,
+      "rec_id": "CMD_DEBUG_CAMERA_CONTROL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1397,
+          "ja": "<lang JP>カメラ操作</lang>",
+          "tc": "<lang JP>カメラ操作</lang>",
+          "sc": "<lang JP>カメラ操作</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 175,
+      "rec_id": "CMD_DEBUG_PLAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1405,
+          "ja": "<lang JP>再生</lang>",
+          "tc": "<lang JP>再生</lang>",
+          "sc": "<lang JP>再生</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 176,
+      "rec_id": "CMD_DEBUG_STOP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1413,
+          "ja": "<lang JP>停止</lang>",
+          "tc": "<lang JP>停止</lang>",
+          "sc": "<lang JP>停止</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 180,
+      "rec_id": "CMD_DEBUG_PAUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1445,
+          "ja": "<lang JP>一時停止</lang>",
+          "tc": "<lang JP>一時停止</lang>",
+          "sc": "<lang JP>一時停止</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 181,
+      "rec_id": "CMD_DEBUG_PAUSE_END",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1453,
+          "ja": "<lang JP>再開</lang>",
+          "tc": "<lang JP>再開</lang>",
+          "sc": "<lang JP>再開</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 182,
+      "rec_id": "CMD_DEBUG_PAUSE_STEP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1461,
+          "ja": "<lang JP>コマ送り</lang>",
+          "tc": "<lang JP>コマ送り</lang>",
+          "sc": "<lang JP>コマ送り</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 183,
+      "rec_id": "CMD_DEBUG_PAUSE_RESUME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1469,
+          "ja": "<lang JP>押している間再開</lang>",
+          "tc": "<lang JP>押している間再開</lang>",
+          "sc": "<lang JP>押している間再開</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 184,
+      "rec_id": "CMD_DEBUG_COMMAND_RECORD_STOP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1477,
+          "ja": "<lang JP>コマンド記録、再生停止</lang>",
+          "tc": "<lang JP>コマンド記録、再生停止</lang>",
+          "sc": "<lang JP>コマンド記録、再生停止</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 185,
+      "rec_id": "CMD_DEBUG_RENDER_OFF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1485,
+          "ja": "<lang JP>デバッグ描画非表示</lang>",
+          "tc": "<lang JP>デバッグ描画非表示</lang>",
+          "sc": "<lang JP>デバッグ描画非表示</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 186,
+      "rec_id": "CMD_DEBUG_DEFERRED_RENDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1493,
+          "ja": "<lang JP>デファードデバッグ描画</lang>",
+          "tc": "<lang JP>デファードデバッグ描画</lang>",
+          "sc": "<lang JP>デファードデバッグ描画</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 187,
+      "rec_id": "CMD_BASE_DEBUG_MENU",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1501,
+          "ja": "<lang JP>個別デバッグメニュー</lang>",
+          "tc": "<lang JP>個別デバッグメニュー</lang>",
+          "sc": "<lang JP>個別デバッグメニュー</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 188,
+      "rec_id": "CMD_DEBUG_OBJECT_VISIBLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1509,
+          "ja": "<lang JP>表示切り替え</lang>",
+          "tc": "<lang JP>表示切り替え</lang>",
+          "sc": "<lang JP>表示切り替え</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 189,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1517,
+          "ja": "<lang JP>移動</lang>",
+          "tc": "<lang JP>移動</lang>",
+          "sc": "<lang JP>移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 190,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1525,
+          "ja": "<lang JP>移動</lang>",
+          "tc": "<lang JP>移動</lang>",
+          "sc": "<lang JP>移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 191,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1533,
+          "ja": "<lang JP>移動</lang>",
+          "tc": "<lang JP>移動</lang>",
+          "sc": "<lang JP>移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 192,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1541,
+          "ja": "<lang JP>移動</lang>",
+          "tc": "<lang JP>移動</lang>",
+          "sc": "<lang JP>移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 193,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1549,
+          "ja": "<lang JP>移動</lang>",
+          "tc": "<lang JP>移動</lang>",
+          "sc": "<lang JP>移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 194,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_Z_BACK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1557,
+          "ja": "<lang JP>Z軸移動</lang>",
+          "tc": "<lang JP>Z軸移動</lang>",
+          "sc": "<lang JP>Z軸移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 195,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_Z_FRONT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1565,
+          "ja": "<lang JP>Z軸移動</lang>",
+          "tc": "<lang JP>Z軸移動</lang>",
+          "sc": "<lang JP>Z軸移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 196,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_Y_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1573,
+          "ja": "<lang JP>Y軸移動</lang>",
+          "tc": "<lang JP>Y軸移動</lang>",
+          "sc": "<lang JP>Y軸移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 197,
+      "rec_id": "CMD_DEBUG_OBJECT_MOVE_Y_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1581,
+          "ja": "<lang JP>Y軸移動</lang>",
+          "tc": "<lang JP>Y軸移動</lang>",
+          "sc": "<lang JP>Y軸移動</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 198,
+      "rec_id": "CMD_DEBUG_OBJECT_ROTATE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1589,
+          "ja": "<lang JP>回転</lang>",
+          "tc": "<lang JP>回転</lang>",
+          "sc": "<lang JP>回転</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 199,
+      "rec_id": "CMD_DEBUG_OBJECT_ROTATE_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1597,
+          "ja": "<lang JP>回転</lang>",
+          "tc": "<lang JP>回転</lang>",
+          "sc": "<lang JP>回転</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 200,
+      "rec_id": "CMD_DEBUG_OBJECT_ROTATE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1605,
+          "ja": "<lang JP>回転</lang>",
+          "tc": "<lang JP>回転</lang>",
+          "sc": "<lang JP>回転</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 201,
+      "rec_id": "CMD_DEBUG_OBJECT_ROTATE_LEFT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1613,
+          "ja": "<lang JP>回転</lang>",
+          "tc": "<lang JP>回転</lang>",
+          "sc": "<lang JP>回転</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 202,
+      "rec_id": "CMD_DEBUG_OBJECT_ROTATE_RIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1621,
+          "ja": "<lang JP>回転</lang>",
+          "tc": "<lang JP>回転</lang>",
+          "sc": "<lang JP>回転</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 203,
+      "rec_id": "CMD_DEBUG_OBJECT_SCALE_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1629,
+          "ja": "<lang JP>拡縮</lang>",
+          "tc": "<lang JP>拡縮</lang>",
+          "sc": "<lang JP>拡縮</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 204,
+      "rec_id": "CMD_DEBUG_OBJECT_SCALE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1637,
+          "ja": "<lang JP>拡縮</lang>",
+          "tc": "<lang JP>拡縮</lang>",
+          "sc": "<lang JP>拡縮</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 205,
+      "rec_id": "CMD_DEBUG_OBJECT_X_10",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1645,
+          "ja": "<lang JP>10倍操作</lang>",
+          "tc": "<lang JP>10倍操作</lang>",
+          "sc": "<lang JP>10倍操作</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 206,
+      "rec_id": "CMD_DEBUG_OBJECT_RESET_MENU",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1653,
+          "ja": "<lang JP>リセット</lang>",
+          "tc": "<lang JP>リセット</lang>",
+          "sc": "<lang JP>リセット</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 207,
+      "rec_id": "CMD_DEBUG_OBJECT_DETAIL_MENU",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1661,
+          "ja": "<lang JP>詳細設定</lang>",
+          "tc": "<lang JP>詳細設定</lang>",
+          "sc": "<lang JP>詳細設定</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 218,
+      "rec_id": "CMD_DEBUG_CAMERA_ZOOM_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1749,
+          "ja": "<lang JP>ズーム</lang>",
+          "tc": "<lang JP>ズーム</lang>",
+          "sc": "<lang JP>ズーム</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 219,
+      "rec_id": "CMD_DEBUG_CAMERA_ZOOM_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1757,
+          "ja": "<lang JP>ズーム</lang>",
+          "tc": "<lang JP>ズーム</lang>",
+          "sc": "<lang JP>ズーム</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 220,
+      "rec_id": "CMD_DEBUG_CAEMRA_VIEW_ANGLE_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1765,
+          "ja": "<lang JP>画角</lang>",
+          "tc": "<lang JP>画角</lang>",
+          "sc": "<lang JP>画角</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 221,
+      "rec_id": "CMD_DEBUG_CAEMRA_VIEW_ANGLE_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1773,
+          "ja": "<lang JP>画角</lang>",
+          "tc": "<lang JP>画角</lang>",
+          "sc": "<lang JP>画角</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 222,
+      "rec_id": "CMD_DEBUG_CAMERA_RESET",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1781,
+          "ja": "<lang JP>リセット</lang>",
+          "tc": "<lang JP>リセット</lang>",
+          "sc": "<lang JP>リセット</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 223,
+      "rec_id": "CMD_DEBUG_MONKEY_TEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1789,
+          "ja": "<lang JP>モンキーテスト</lang>",
+          "tc": "<lang JP>モンキーテスト</lang>",
+          "sc": "<lang JP>モンキーテスト</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 224,
+      "rec_id": "CMD_DEBUG_SHADOW_BIAS_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1797,
+          "ja": "<lang JP>バイアス値</lang>",
+          "tc": "<lang JP>バイアス値</lang>",
+          "sc": "<lang JP>バイアス値</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 225,
+      "rec_id": "CMD_DEBUG_SHADOW_BIAS_DOWN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1805,
+          "ja": "<lang JP>バイアス値</lang>",
+          "tc": "<lang JP>バイアス値</lang>",
+          "sc": "<lang JP>バイアス値</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 226,
+      "rec_id": "CMD_DEBUG_MODEL_DELETE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1813,
+          "ja": "<lang JP>削除</lang>",
+          "tc": "<lang JP>削除</lang>",
+          "sc": "<lang JP>削除</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 227,
+      "rec_id": "CMD_DEBUG_SOUND_PLAY_BEFORE_LOOP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1821,
+          "ja": "<lang JP>ループ直前再生</lang>",
+          "tc": "<lang JP>ループ直前再生</lang>",
+          "sc": "<lang JP>ループ直前再生</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 228,
+      "rec_id": "CMD_DEBUG_CURSOR_OBJECT_INFO_ON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1829,
+          "ja": "<lang JP>オブジェクト情報表示</lang>",
+          "tc": "<lang JP>オブジェクト情報表示</lang>",
+          "sc": "<lang JP>オブジェクト情報表示</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_cmd.dat",
+      "rec_idx": 230,
+      "rec_id": "CMD_DEBUG_SAVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1845,
+          "ja": "<lang JP>保存</lang>",
+          "tc": "<lang JP>再生</lang>",
+          "sc": "<lang JP>保存</lang>"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 0,
+      "rec_id": "STR_ID_CMD_OR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "／",
+          "tc": "/",
+          "sc": "/"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 1,
+      "rec_id": "STR_ID_CMD_AND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 13,
+          "ja": "＆",
+          "tc": "&",
+          "sc": "&"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 2,
+      "rec_id": "STR_ID_NUM_FLOOR_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 21,
+          "ja": "万",
+          "tc": "萬",
+          "sc": "万"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 3,
+      "rec_id": "STR_ID_NUM_FLOOR_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 29,
+          "ja": "億",
+          "tc": "億",
+          "sc": "亿"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 4,
+      "rec_id": "STR_ID_NUM_FLOOR_3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "兆",
+          "tc": "兆",
+          "sc": "兆"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 5,
+      "rec_id": "STR_ID_NUM_FLOOR_4",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "京",
+          "tc": "京",
+          "sc": "京"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 6,
+      "rec_id": "STR_ID_NUM_FLOOR_5",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "垓",
+          "tc": "垓",
+          "sc": "垓"
+        }
+      ]
+    },
+    {
+      "file": "framework_string.dat",
+      "rec_idx": 7,
+      "rec_id": "STR_ID_NUM_FLOOR_6",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 61,
+          "ja": "秭",
+          "tc": "秭",
+          "sc": "秭"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 0,
+      "rec_id": "REC_0000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4,
+          "ja": "プレイヤー＆カーソル移動上",
+          "tc": "游標向上",
+          "sc": "光标向上"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 1,
+      "rec_id": "REC_0001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 11,
+          "ja": "プレイヤー＆カーソル移動下",
+          "tc": "游標向下",
+          "sc": "光标向下"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 2,
+      "rec_id": "REC_0002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 18,
+          "ja": "プレイヤー＆カーソル移動左",
+          "tc": "游標向左",
+          "sc": "光标向左"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 3,
+      "rec_id": "REC_0003",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 25,
+          "ja": "プレイヤー＆カーソル移動右",
+          "tc": "游標向右",
+          "sc": "光标向右"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 4,
+      "rec_id": "REC_0004",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 32,
+          "ja": "インベントリ上",
+          "tc": "副游標向上",
+          "sc": "副光标向上"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 5,
+      "rec_id": "REC_0005",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 39,
+          "ja": "インベントリ下",
+          "tc": "副游標向上",
+          "sc": "副光标向下"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 6,
+      "rec_id": "REC_0006",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 46,
+          "ja": "インベントリ左",
+          "tc": "副游標向上",
+          "sc": "副光标向左"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 7,
+      "rec_id": "REC_0007",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "インベントリ右",
+          "tc": "副游標向上",
+          "sc": "副光标向右"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 8,
+      "rec_id": "REC_0008",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 60,
+          "ja": "決定／インタラクション",
+          "tc": "確認",
+          "sc": "确认"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 9,
+      "rec_id": "REC_0009",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 67,
+          "ja": "キャンセル",
+          "tc": "取消",
+          "sc": "取消"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 10,
+      "rec_id": "REC_0010",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 74,
+          "ja": "メニュー",
+          "tc": "選單",
+          "sc": "菜单"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 11,
+      "rec_id": "REC_0011",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 81,
+          "ja": "切り替え",
+          "tc": "替換",
+          "sc": "替换"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 12,
+      "rec_id": "REC_0012",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 88,
+          "ja": "入れ替え",
+          "tc": "切換",
+          "sc": "切换"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 13,
+      "rec_id": "REC_0013",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 95,
+          "ja": "１０倍入力",
+          "tc": "捲動 10 行",
+          "sc": "滚动 10 行"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 14,
+      "rec_id": "REC_0014",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 102,
+          "ja": "１００倍入力",
+          "tc": "捲動 100 行",
+          "sc": "滚动 100 行"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 15,
+      "rec_id": "REC_0015",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "ページ移動左",
+          "tc": "增加",
+          "sc": "增加"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 16,
+      "rec_id": "REC_0016",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 116,
+          "ja": "ページ移動右",
+          "tc": "減少",
+          "sc": "减少"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 17,
+      "rec_id": "REC_0017",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 123,
+          "ja": "副ページ移動左",
+          "tc": "瀏覽頁面",
+          "sc": "浏览页面"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 18,
+      "rec_id": "REC_0018",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 130,
+          "ja": "副ページ移動右",
+          "tc": "瀏覽頁面",
+          "sc": "浏览页面"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 19,
+      "rec_id": "REC_0019",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 137,
+          "ja": "高速演出",
+          "tc": "加速",
+          "sc": "加速"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 20,
+      "rec_id": "REC_0020",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 144,
+          "ja": "前ページ",
+          "tc": "上一頁",
+          "sc": "上一页"
+        }
+      ]
+    }
+  ]
+}

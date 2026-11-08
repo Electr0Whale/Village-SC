@@ -1353,6 +1353,34 @@
       ]
     },
     {
+      "file": "quest.dat",
+      "rec_idx": 82,
+      "rec_id": "QUEST_ID_PLAYER_BIRTHDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3587,
+          "ja": "<player>の誕生日",
+          "tc": "<player>的生日",
+          "sc": "<player>的生日"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 3601,
+          "ja": "！このクエストではこのテキストはありません！",
+          "tc": "！這個任務沒有這個字串！",
+          "sc": "！该任务没有此文本！"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 3608,
+          "ja": "！表示されている場合バグなので報告！",
+          "tc": "！若顯示此字串必須回報！",
+          "sc": "！若显示此文本则为BUG请汇报！"
+        }
+      ]
+    },
+    {
       "file": "tips.dat",
       "rec_idx": 0,
       "rec_id": "TIPS_01_HARVEST_01",
@@ -1797,34 +1825,6 @@
           "ja": "メモはメモリストで見れる",
           "tc": "可至筆記清單查看筆記內容",
           "sc": "可至笔记清单查看笔记内容"
-        }
-      ]
-    },
-    {
-      "file": "tips.dat",
-      "rec_idx": 14,
-      "rec_id": "TIPS_16_MEMO_OPEN",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 383,
-          "ja": "メモを展開",
-          "tc": "打開筆記",
-          "sc": "打开笔记"
-        },
-        {
-          "f_idx": 1,
-          "pidx_tc": 390,
-          "ja": "<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>でメモリストを表示する",
-          "tc": "按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>顯示筆記清單",
-          "sc": "按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>显示笔记清单"
-        },
-        {
-          "f_idx": 2,
-          "pidx_tc": 397,
-          "ja": "メモしたものを、一覧で確認できる",
-          "tc": "可於列表上檢視所有筆記",
-          "sc": "可于列表上检视所有笔记"
         }
       ]
     }

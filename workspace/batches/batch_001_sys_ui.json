@@ -205,6 +205,20 @@
       ]
     },
     {
+      "file": "action.dat",
+      "rec_idx": 28,
+      "rec_id": "ACTION_ID_PLAYER_SEEDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 316,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
       "file": "cmd.dat",
       "rec_idx": 1,
       "rec_id": "CMD_REF_ALL",
@@ -2791,20 +2805,6 @@
           "ja": "投げ入れる",
           "tc": "投入",
           "sc": "投入"
-        }
-      ]
-    },
-    {
-      "file": "cmd.dat",
-      "rec_idx": 186,
-      "rec_id": "CMD_INTERACTION_WRITE_LETTERS",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 1493,
-          "ja": "文字を書く",
-          "tc": "寫下文字",
-          "sc": "写下文字"
         }
       ]
     }

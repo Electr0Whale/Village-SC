@@ -1,0 +1,1061 @@
+{
+  "batch_id": "batch_033_credits",
+  "group": "credits",
+  "files": [
+    "credit.dat"
+  ],
+  "record_count": 2,
+  "line_count": 148,
+  "records": [
+    {
+      "file": "credit.dat",
+      "rec_idx": 0,
+      "rec_id": "REC_0000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4,
+          "ja": "Copyright © 2018—2022 Cyano Hao.",
+          "tc": "Copyright © 2018—2022 Cyano Hao.",
+          "sc": "Copyright © 2018—2022 Cyano Hao."
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 11,
+          "ja": "Portions © 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+          "tc": "Portions © 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+          "sc": "Portions © 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 18,
+          "ja": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "tc": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "sc": "This Font Software is licensed under the SIL Open Font License, Version 1.1."
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 25,
+          "ja": "This license is copied below, and is also available with a FAQ at:",
+          "tc": "This license is copied below, and is also available with a FAQ at:",
+          "sc": "This license is copied below, and is also available with a FAQ at:"
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 32,
+          "ja": "http://scripts.sil.org/OFL",
+          "tc": "http://scripts.sil.org/OFL",
+          "sc": "http://scripts.sil.org/OFL"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 39,
+          "ja": "-----------------------------------------------------------",
+          "tc": "-----------------------------------------------------------",
+          "sc": "-----------------------------------------------------------"
+        },
+        {
+          "f_idx": 6,
+          "pidx_tc": 46,
+          "ja": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007",
+          "tc": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007",
+          "sc": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007"
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 53,
+          "ja": "-----------------------------------------------------------",
+          "tc": "-----------------------------------------------------------",
+          "sc": "-----------------------------------------------------------"
+        },
+        {
+          "f_idx": 8,
+          "pidx_tc": 60,
+          "ja": "PREAMBLE",
+          "tc": "PREAMBLE",
+          "sc": "PREAMBLE"
+        },
+        {
+          "f_idx": 9,
+          "pidx_tc": 67,
+          "ja": "The goals of the Open Font License (OFL) are to stimulate worldwide",
+          "tc": "The goals of the Open Font License (OFL) are to stimulate worldwide",
+          "sc": "The goals of the Open Font License (OFL) are to stimulate worldwide"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 74,
+          "ja": "development of collaborative font projects, to support the font creation",
+          "tc": "development of collaborative font projects, to support the font creation",
+          "sc": "development of collaborative font projects, to support the font creation"
+        },
+        {
+          "f_idx": 11,
+          "pidx_tc": 81,
+          "ja": "efforts of academic and linguistic communities, and to provide a free and",
+          "tc": "efforts of academic and linguistic communities, and to provide a free and",
+          "sc": "efforts of academic and linguistic communities, and to provide a free and"
+        },
+        {
+          "f_idx": 12,
+          "pidx_tc": 88,
+          "ja": "open framework in which fonts may be shared and improved in partnership",
+          "tc": "open framework in which fonts may be shared and improved in partnership",
+          "sc": "open framework in which fonts may be shared and improved in partnership"
+        },
+        {
+          "f_idx": 13,
+          "pidx_tc": 95,
+          "ja": "with others.",
+          "tc": "with others.",
+          "sc": "with others."
+        },
+        {
+          "f_idx": 14,
+          "pidx_tc": 102,
+          "ja": "The OFL allows the licensed fonts to be used, studied, modified and",
+          "tc": "The OFL allows the licensed fonts to be used, studied, modified and",
+          "sc": "The OFL allows the licensed fonts to be used, studied, modified and"
+        },
+        {
+          "f_idx": 15,
+          "pidx_tc": 109,
+          "ja": "redistributed freely as long as they are not sold by themselves. The",
+          "tc": "redistributed freely as long as they are not sold by themselves. The",
+          "sc": "redistributed freely as long as they are not sold by themselves. The"
+        },
+        {
+          "f_idx": 16,
+          "pidx_tc": 116,
+          "ja": "fonts, including any derivative works, can be bundled, embedded,",
+          "tc": "fonts, including any derivative works, can be bundled, embedded,",
+          "sc": "fonts, including any derivative works, can be bundled, embedded,"
+        },
+        {
+          "f_idx": 17,
+          "pidx_tc": 123,
+          "ja": "redistributed and/or sold with any software provided that any reserved",
+          "tc": "redistributed and/or sold with any software provided that any reserved",
+          "sc": "redistributed and/or sold with any software provided that any reserved"
+        },
+        {
+          "f_idx": 18,
+          "pidx_tc": 130,
+          "ja": "names are not used by derivative works. The fonts and derivatives,",
+          "tc": "names are not used by derivative works. The fonts and derivatives,",
+          "sc": "names are not used by derivative works. The fonts and derivatives,"
+        },
+        {
+          "f_idx": 19,
+          "pidx_tc": 137,
+          "ja": "however, cannot be released under any other type of license. The",
+          "tc": "however, cannot be released under any other type of license. The",
+          "sc": "however, cannot be released under any other type of license. The"
+        },
+        {
+          "f_idx": 20,
+          "pidx_tc": 144,
+          "ja": "requirement for fonts to remain under this license does not apply",
+          "tc": "requirement for fonts to remain under this license does not apply",
+          "sc": "requirement for fonts to remain under this license does not apply"
+        },
+        {
+          "f_idx": 21,
+          "pidx_tc": 151,
+          "ja": "to any document created using the fonts or their derivatives.",
+          "tc": "to any document created using the fonts or their derivatives.",
+          "sc": "to any document created using the fonts or their derivatives."
+        },
+        {
+          "f_idx": 22,
+          "pidx_tc": 158,
+          "ja": "DEFINITIONS",
+          "tc": "DEFINITIONS",
+          "sc": "DEFINITIONS"
+        },
+        {
+          "f_idx": 23,
+          "pidx_tc": 165,
+          "ja": "Font Software refers to the set of files released by the Copyright",
+          "tc": "Font Software refers to the set of files released by the Copyright",
+          "sc": "Font Software refers to the set of files released by the Copyright"
+        },
+        {
+          "f_idx": 24,
+          "pidx_tc": 172,
+          "ja": "Holder(s) under this license and clearly marked as such. This may",
+          "tc": "Holder(s) under this license and clearly marked as such. This may",
+          "sc": "Holder(s) under this license and clearly marked as such. This may"
+        },
+        {
+          "f_idx": 25,
+          "pidx_tc": 179,
+          "ja": "include source files, build scripts and documentation.",
+          "tc": "include source files, build scripts and documentation.",
+          "sc": "include source files, build scripts and documentation."
+        },
+        {
+          "f_idx": 26,
+          "pidx_tc": 186,
+          "ja": "Reserved Font Name refers to any names specified as such after the",
+          "tc": "Reserved Font Name refers to any names specified as such after the",
+          "sc": "Reserved Font Name refers to any names specified as such after the"
+        },
+        {
+          "f_idx": 27,
+          "pidx_tc": 193,
+          "ja": "copyright statement(s).",
+          "tc": "copyright statement(s).",
+          "sc": "copyright statement(s)."
+        },
+        {
+          "f_idx": 28,
+          "pidx_tc": 200,
+          "ja": "Original Version refers to the collection of Font Software components as",
+          "tc": "Original Version refers to the collection of Font Software components as",
+          "sc": "Original Version refers to the collection of Font Software components as"
+        },
+        {
+          "f_idx": 29,
+          "pidx_tc": 207,
+          "ja": "distributed by the Copyright Holder(s).",
+          "tc": "distributed by the Copyright Holder(s).",
+          "sc": "distributed by the Copyright Holder(s)."
+        },
+        {
+          "f_idx": 30,
+          "pidx_tc": 214,
+          "ja": "Modified Version refers to any derivative made by adding to, deleting,",
+          "tc": "Modified Version refers to any derivative made by adding to, deleting,",
+          "sc": "Modified Version refers to any derivative made by adding to, deleting,"
+        },
+        {
+          "f_idx": 31,
+          "pidx_tc": 221,
+          "ja": "or substituting -- in part or in whole -- any of the components of the",
+          "tc": "or substituting -- in part or in whole -- any of the components of the",
+          "sc": "or substituting -- in part or in whole -- any of the components of the"
+        },
+        {
+          "f_idx": 32,
+          "pidx_tc": 228,
+          "ja": "Original Version, by changing formats or by porting the Font Software to a",
+          "tc": "Original Version, by changing formats or by porting the Font Software to a",
+          "sc": "Original Version, by changing formats or by porting the Font Software to a"
+        },
+        {
+          "f_idx": 33,
+          "pidx_tc": 235,
+          "ja": "new environment.",
+          "tc": "new environment.",
+          "sc": "new environment."
+        },
+        {
+          "f_idx": 34,
+          "pidx_tc": 242,
+          "ja": "Author refers to any designer, engineer, programmer, technical",
+          "tc": "Author refers to any designer, engineer, programmer, technical",
+          "sc": "Author refers to any designer, engineer, programmer, technical"
+        },
+        {
+          "f_idx": 35,
+          "pidx_tc": 249,
+          "ja": "writer or other person who contributed to the Font Software.",
+          "tc": "writer or other person who contributed to the Font Software.",
+          "sc": "writer or other person who contributed to the Font Software."
+        },
+        {
+          "f_idx": 36,
+          "pidx_tc": 256,
+          "ja": "PERMISSION AND CONDITIONS",
+          "tc": "PERMISSION AND CONDITIONS",
+          "sc": "PERMISSION AND CONDITIONS"
+        },
+        {
+          "f_idx": 37,
+          "pidx_tc": 263,
+          "ja": "Permission is hereby granted, free of charge, to any person obtaining",
+          "tc": "Permission is hereby granted, free of charge, to any person obtaining",
+          "sc": "Permission is hereby granted, free of charge, to any person obtaining"
+        },
+        {
+          "f_idx": 38,
+          "pidx_tc": 270,
+          "ja": "a copy of the Font Software, to use, study, copy, merge, embed, modify,",
+          "tc": "a copy of the Font Software, to use, study, copy, merge, embed, modify,",
+          "sc": "a copy of the Font Software, to use, study, copy, merge, embed, modify,"
+        },
+        {
+          "f_idx": 39,
+          "pidx_tc": 277,
+          "ja": "redistribute, and sell modified and unmodified copies of the Font",
+          "tc": "redistribute, and sell modified and unmodified copies of the Font",
+          "sc": "redistribute, and sell modified and unmodified copies of the Font"
+        },
+        {
+          "f_idx": 40,
+          "pidx_tc": 284,
+          "ja": "Software, subject to the following conditions:",
+          "tc": "Software, subject to the following conditions:",
+          "sc": "Software, subject to the following conditions:"
+        },
+        {
+          "f_idx": 41,
+          "pidx_tc": 291,
+          "ja": "1) Neither the Font Software nor any of its individual components,",
+          "tc": "1) Neither the Font Software nor any of its individual components,",
+          "sc": "1) Neither the Font Software nor any of its individual components,"
+        },
+        {
+          "f_idx": 42,
+          "pidx_tc": 298,
+          "ja": "in Original or Modified Versions, may be sold by itself.",
+          "tc": "in Original or Modified Versions, may be sold by itself.",
+          "sc": "in Original or Modified Versions, may be sold by itself."
+        },
+        {
+          "f_idx": 43,
+          "pidx_tc": 305,
+          "ja": "2) Original or Modified Versions of the Font Software may be bundled,",
+          "tc": "2) Original or Modified Versions of the Font Software may be bundled,",
+          "sc": "2) Original or Modified Versions of the Font Software may be bundled,"
+        },
+        {
+          "f_idx": 44,
+          "pidx_tc": 312,
+          "ja": "redistributed and/or sold with any software, provided that each copy",
+          "tc": "redistributed and/or sold with any software, provided that each copy",
+          "sc": "redistributed and/or sold with any software, provided that each copy"
+        },
+        {
+          "f_idx": 45,
+          "pidx_tc": 319,
+          "ja": "contains the above copyright notice and this license. These can be",
+          "tc": "contains the above copyright notice and this license. These can be",
+          "sc": "contains the above copyright notice and this license. These can be"
+        },
+        {
+          "f_idx": 46,
+          "pidx_tc": 326,
+          "ja": "included either as stand-alone text files, human-readable headers or",
+          "tc": "included either as stand-alone text files, human-readable headers or",
+          "sc": "included either as stand-alone text files, human-readable headers or"
+        },
+        {
+          "f_idx": 47,
+          "pidx_tc": 333,
+          "ja": "in the appropriate machine-readable metadata fields within text or",
+          "tc": "in the appropriate machine-readable metadata fields within text or",
+          "sc": "in the appropriate machine-readable metadata fields within text or"
+        },
+        {
+          "f_idx": 48,
+          "pidx_tc": 340,
+          "ja": "binary files as long as those fields can be easily viewed by the user.",
+          "tc": "binary files as long as those fields can be easily viewed by the user.",
+          "sc": "binary files as long as those fields can be easily viewed by the user."
+        },
+        {
+          "f_idx": 49,
+          "pidx_tc": 347,
+          "ja": "3) No Modified Version of the Font Software may use the Reserved Font",
+          "tc": "3) No Modified Version of the Font Software may use the Reserved Font",
+          "sc": "3) No Modified Version of the Font Software may use the Reserved Font"
+        },
+        {
+          "f_idx": 50,
+          "pidx_tc": 354,
+          "ja": "Name(s) unless explicit written permission is granted by the corresponding",
+          "tc": "Name(s) unless explicit written permission is granted by the corresponding",
+          "sc": "Name(s) unless explicit written permission is granted by the corresponding"
+        },
+        {
+          "f_idx": 51,
+          "pidx_tc": 361,
+          "ja": "Copyright Holder. This restriction only applies to the primary font name as",
+          "tc": "Copyright Holder. This restriction only applies to the primary font name as",
+          "sc": "Copyright Holder. This restriction only applies to the primary font name as"
+        },
+        {
+          "f_idx": 52,
+          "pidx_tc": 368,
+          "ja": "presented to the users.",
+          "tc": "presented to the users.",
+          "sc": "presented to the users."
+        },
+        {
+          "f_idx": 53,
+          "pidx_tc": 375,
+          "ja": "4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font",
+          "tc": "4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font",
+          "sc": "4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font"
+        },
+        {
+          "f_idx": 54,
+          "pidx_tc": 382,
+          "ja": "Software shall not be used to promote, endorse or advertise any",
+          "tc": "Software shall not be used to promote, endorse or advertise any",
+          "sc": "Software shall not be used to promote, endorse or advertise any"
+        },
+        {
+          "f_idx": 55,
+          "pidx_tc": 389,
+          "ja": "Modified Version, except to acknowledge the contribution(s) of the",
+          "tc": "Modified Version, except to acknowledge the contribution(s) of the",
+          "sc": "Modified Version, except to acknowledge the contribution(s) of the"
+        },
+        {
+          "f_idx": 56,
+          "pidx_tc": 396,
+          "ja": "Copyright Holder(s) and the Author(s) or with their explicit written",
+          "tc": "Copyright Holder(s) and the Author(s) or with their explicit written",
+          "sc": "Copyright Holder(s) and the Author(s) or with their explicit written"
+        },
+        {
+          "f_idx": 57,
+          "pidx_tc": 403,
+          "ja": "permission.",
+          "tc": "permission.",
+          "sc": "permission."
+        },
+        {
+          "f_idx": 58,
+          "pidx_tc": 410,
+          "ja": "5) The Font Software, modified or unmodified, in part or in whole,",
+          "tc": "5) The Font Software, modified or unmodified, in part or in whole,",
+          "sc": "5) The Font Software, modified or unmodified, in part or in whole,"
+        },
+        {
+          "f_idx": 59,
+          "pidx_tc": 417,
+          "ja": "must be distributed entirely under this license, and must not be",
+          "tc": "must be distributed entirely under this license, and must not be",
+          "sc": "must be distributed entirely under this license, and must not be"
+        },
+        {
+          "f_idx": 60,
+          "pidx_tc": 424,
+          "ja": "distributed under any other license. The requirement for fonts to",
+          "tc": "distributed under any other license. The requirement for fonts to",
+          "sc": "distributed under any other license. The requirement for fonts to"
+        },
+        {
+          "f_idx": 61,
+          "pidx_tc": 431,
+          "ja": "remain under this license does not apply to any document created",
+          "tc": "remain under this license does not apply to any document created",
+          "sc": "remain under this license does not apply to any document created"
+        },
+        {
+          "f_idx": 62,
+          "pidx_tc": 438,
+          "ja": "using the Font Software.",
+          "tc": "using the Font Software.",
+          "sc": "using the Font Software."
+        },
+        {
+          "f_idx": 63,
+          "pidx_tc": 445,
+          "ja": "TERMINATION",
+          "tc": "TERMINATION",
+          "sc": "TERMINATION"
+        },
+        {
+          "f_idx": 64,
+          "pidx_tc": 452,
+          "ja": "This license becomes null and void if any of the above conditions are",
+          "tc": "This license becomes null and void if any of the above conditions are",
+          "sc": "This license becomes null and void if any of the above conditions are"
+        },
+        {
+          "f_idx": 65,
+          "pidx_tc": 459,
+          "ja": "not met.",
+          "tc": "not met.",
+          "sc": "not met."
+        },
+        {
+          "f_idx": 66,
+          "pidx_tc": 466,
+          "ja": "DISCLAIMER",
+          "tc": "DISCLAIMER",
+          "sc": "DISCLAIMER"
+        },
+        {
+          "f_idx": 67,
+          "pidx_tc": 473,
+          "ja": "THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,",
+          "tc": "THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,",
+          "sc": "THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,"
+        },
+        {
+          "f_idx": 68,
+          "pidx_tc": 480,
+          "ja": "EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF",
+          "tc": "EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF",
+          "sc": "EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF"
+        },
+        {
+          "f_idx": 69,
+          "pidx_tc": 487,
+          "ja": "MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT",
+          "tc": "MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT",
+          "sc": "MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
+        },
+        {
+          "f_idx": 70,
+          "pidx_tc": 494,
+          "ja": "OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE",
+          "tc": "OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE",
+          "sc": "OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE"
+        },
+        {
+          "f_idx": 71,
+          "pidx_tc": 501,
+          "ja": "COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,",
+          "tc": "COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,",
+          "sc": "COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,"
+        },
+        {
+          "f_idx": 72,
+          "pidx_tc": 508,
+          "ja": "INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL",
+          "tc": "INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL",
+          "sc": "INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL"
+        },
+        {
+          "f_idx": 73,
+          "pidx_tc": 515,
+          "ja": "DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING",
+          "tc": "DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING",
+          "sc": "DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING"
+        },
+        {
+          "f_idx": 74,
+          "pidx_tc": 522,
+          "ja": "FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM",
+          "tc": "FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM",
+          "sc": "FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM"
+        },
+        {
+          "f_idx": 75,
+          "pidx_tc": 529,
+          "ja": "OTHER DEALINGS IN THE FONT SOFTWARE.",
+          "tc": "OTHER DEALINGS IN THE FONT SOFTWARE.",
+          "sc": "OTHER DEALINGS IN THE FONT SOFTWARE."
+        },
+        {
+          "f_idx": 76,
+          "pidx_tc": 536,
+          "ja": "-----------------------------------------------------------------------------",
+          "tc": "-----------------------------------------------------------------------------",
+          "sc": "-----------------------------------------------------------------------------"
+        }
+      ]
+    },
+    {
+      "file": "credit.dat",
+      "rec_idx": 1,
+      "rec_id": "Kiwi Maru",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 543,
+          "ja": "Kiwi Maru",
+          "tc": "Kiwi Maru",
+          "sc": "Kiwi Maru"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 550,
+          "ja": "Designed by Hiroki-Chan",
+          "tc": "Designed by Hiroki-Chan",
+          "sc": "Designed by Hiroki-Chan"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 557,
+          "ja": "License",
+          "tc": "License",
+          "sc": "License"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 564,
+          "ja": "Copyright 2020 The Kiwi Maru Project Authors ",
+          "tc": "Copyright 2020 The Kiwi Maru Project Authors ",
+          "sc": "Copyright 2020 The Kiwi Maru Project Authors "
+        },
+        {
+          "f_idx": 4,
+          "pidx_tc": 571,
+          "ja": "(https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)",
+          "tc": "(https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)",
+          "sc": "(https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)"
+        },
+        {
+          "f_idx": 5,
+          "pidx_tc": 578,
+          "ja": "This Font Software is licensed under the SIL Open Font License, Version 1.1 . ",
+          "tc": "This Font Software is licensed under the SIL Open Font License, Version 1.1 . ",
+          "sc": "This Font Software is licensed under the SIL Open Font License, Version 1.1 . "
+        },
+        {
+          "f_idx": 6,
+          "pidx_tc": 585,
+          "ja": "This license is copied below, and is also available ",
+          "tc": "This license is copied below, and is also available ",
+          "sc": "This license is copied below, and is also available "
+        },
+        {
+          "f_idx": 7,
+          "pidx_tc": 592,
+          "ja": "with a FAQ at: https://openfontlicense.org",
+          "tc": "with a FAQ at: https://openfontlicense.org",
+          "sc": "with a FAQ at: https://openfontlicense.org"
+        },
+        {
+          "f_idx": 8,
+          "pidx_tc": 599,
+          "ja": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007",
+          "tc": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007",
+          "sc": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007"
+        },
+        {
+          "f_idx": 9,
+          "pidx_tc": 606,
+          "ja": "PREAMBLE",
+          "tc": "PREAMBLE",
+          "sc": "PREAMBLE"
+        },
+        {
+          "f_idx": 10,
+          "pidx_tc": 613,
+          "ja": "The goals of the Open Font License (OFL) are to stimulate worldwide ",
+          "tc": "The goals of the Open Font License (OFL) are to stimulate worldwide ",
+          "sc": "The goals of the Open Font License (OFL) are to stimulate worldwide "
+        },
+        {
+          "f_idx": 11,
+          "pidx_tc": 620,
+          "ja": "development of collaborative font projects, to support the font creation ",
+          "tc": "development of collaborative font projects, to support the font creation ",
+          "sc": "development of collaborative font projects, to support the font creation "
+        },
+        {
+          "f_idx": 12,
+          "pidx_tc": 627,
+          "ja": "efforts of academic and linguistic communities, and to provide a free and ",
+          "tc": "efforts of academic and linguistic communities, and to provide a free and ",
+          "sc": "efforts of academic and linguistic communities, and to provide a free and "
+        },
+        {
+          "f_idx": 13,
+          "pidx_tc": 634,
+          "ja": "open framework in which fonts may be shared and improved in partnership ",
+          "tc": "open framework in which fonts may be shared and improved in partnership ",
+          "sc": "open framework in which fonts may be shared and improved in partnership "
+        },
+        {
+          "f_idx": 14,
+          "pidx_tc": 641,
+          "ja": "with others.",
+          "tc": "with others.",
+          "sc": "with others."
+        },
+        {
+          "f_idx": 15,
+          "pidx_tc": 648,
+          "ja": "The OFL allows the licensed fonts to be used, studied, modified and ",
+          "tc": "The OFL allows the licensed fonts to be used, studied, modified and ",
+          "sc": "The OFL allows the licensed fonts to be used, studied, modified and "
+        },
+        {
+          "f_idx": 16,
+          "pidx_tc": 655,
+          "ja": "redistributed freely as long as they are not sold by themselves. ",
+          "tc": "redistributed freely as long as they are not sold by themselves. ",
+          "sc": "redistributed freely as long as they are not sold by themselves. "
+        },
+        {
+          "f_idx": 17,
+          "pidx_tc": 662,
+          "ja": "The fonts, including any derivative works, can be bundled, embedded, ",
+          "tc": "The fonts, including any derivative works, can be bundled, embedded, ",
+          "sc": "The fonts, including any derivative works, can be bundled, embedded, "
+        },
+        {
+          "f_idx": 18,
+          "pidx_tc": 669,
+          "ja": "redistributed and/or sold with any software provided that any reserved ",
+          "tc": "redistributed and/or sold with any software provided that any reserved ",
+          "sc": "redistributed and/or sold with any software provided that any reserved "
+        },
+        {
+          "f_idx": 19,
+          "pidx_tc": 676,
+          "ja": "names are not used by derivative works. The fonts and derivatives, ",
+          "tc": "names are not used by derivative works. The fonts and derivatives, ",
+          "sc": "names are not used by derivative works. The fonts and derivatives, "
+        },
+        {
+          "f_idx": 20,
+          "pidx_tc": 683,
+          "ja": "however, cannot be released under any other type of license. The requirement ",
+          "tc": "however, cannot be released under any other type of license. The requirement ",
+          "sc": "however, cannot be released under any other type of license. The requirement "
+        },
+        {
+          "f_idx": 21,
+          "pidx_tc": 690,
+          "ja": "for fonts to remain under this license does not apply to any document ",
+          "tc": "for fonts to remain under this license does not apply to any document ",
+          "sc": "for fonts to remain under this license does not apply to any document "
+        },
+        {
+          "f_idx": 22,
+          "pidx_tc": 697,
+          "ja": "created using the fonts or their derivatives.",
+          "tc": "created using the fonts or their derivatives.",
+          "sc": "created using the fonts or their derivatives."
+        },
+        {
+          "f_idx": 23,
+          "pidx_tc": 704,
+          "ja": "DEFINITIONS",
+          "tc": "DEFINITIONS",
+          "sc": "DEFINITIONS"
+        },
+        {
+          "f_idx": 24,
+          "pidx_tc": 711,
+          "ja": "Font Software refers to the set of files released by the Copyright Holder(s) ",
+          "tc": "Font Software refers to the set of files released by the Copyright Holder(s) ",
+          "sc": "Font Software refers to the set of files released by the Copyright Holder(s) "
+        },
+        {
+          "f_idx": 25,
+          "pidx_tc": 718,
+          "ja": "under this license and clearly marked as such. This may include source files, ",
+          "tc": "under this license and clearly marked as such. This may include source files, ",
+          "sc": "under this license and clearly marked as such. This may include source files, "
+        },
+        {
+          "f_idx": 26,
+          "pidx_tc": 725,
+          "ja": "build scripts and documentation.",
+          "tc": "build scripts and documentation.",
+          "sc": "build scripts and documentation."
+        },
+        {
+          "f_idx": 27,
+          "pidx_tc": 732,
+          "ja": "Reserved Font Name refers to any names specified as such after the copyright ",
+          "tc": "Reserved Font Name refers to any names specified as such after the copyright ",
+          "sc": "Reserved Font Name refers to any names specified as such after the copyright "
+        },
+        {
+          "f_idx": 28,
+          "pidx_tc": 739,
+          "ja": "statement(s).",
+          "tc": "statement(s).",
+          "sc": "statement(s)."
+        },
+        {
+          "f_idx": 29,
+          "pidx_tc": 746,
+          "ja": "Original Version refers to the collection of Font Software components as ",
+          "tc": "Original Version refers to the collection of Font Software components as ",
+          "sc": "Original Version refers to the collection of Font Software components as "
+        },
+        {
+          "f_idx": 30,
+          "pidx_tc": 753,
+          "ja": "distributed by the Copyright Holder(s).",
+          "tc": "distributed by the Copyright Holder(s).",
+          "sc": "distributed by the Copyright Holder(s)."
+        },
+        {
+          "f_idx": 31,
+          "pidx_tc": 760,
+          "ja": "Modified Version refers to any derivative made by adding to, deleting, or ",
+          "tc": "Modified Version refers to any derivative made by adding to, deleting, or ",
+          "sc": "Modified Version refers to any derivative made by adding to, deleting, or "
+        },
+        {
+          "f_idx": 32,
+          "pidx_tc": 767,
+          "ja": "substituting -- in part or in whole -- any of the components of the Original ",
+          "tc": "substituting -- in part or in whole -- any of the components of the Original ",
+          "sc": "substituting -- in part or in whole -- any of the components of the Original "
+        },
+        {
+          "f_idx": 33,
+          "pidx_tc": 774,
+          "ja": "Version, by changing formats or by porting the Font Software to a new environment.",
+          "tc": "Version, by changing formats or by porting the Font Software to a new environment.",
+          "sc": "Version, by changing formats or by porting the Font Software to a new environment."
+        },
+        {
+          "f_idx": 34,
+          "pidx_tc": 781,
+          "ja": "Author refers to any designer, engineer, programmer, technical writer or other ",
+          "tc": "Author refers to any designer, engineer, programmer, technical writer or other ",
+          "sc": "Author refers to any designer, engineer, programmer, technical writer or other "
+        },
+        {
+          "f_idx": 35,
+          "pidx_tc": 788,
+          "ja": "person who contributed to the Font Software.",
+          "tc": "person who contributed to the Font Software.",
+          "sc": "person who contributed to the Font Software."
+        },
+        {
+          "f_idx": 36,
+          "pidx_tc": 795,
+          "ja": "PERMISSION & CONDITIONS",
+          "tc": "PERMISSION & CONDITIONS",
+          "sc": "PERMISSION & CONDITIONS"
+        },
+        {
+          "f_idx": 37,
+          "pidx_tc": 802,
+          "ja": "Permission is hereby granted, free of charge, to any person obtaining a copy of ",
+          "tc": "Permission is hereby granted, free of charge, to any person obtaining a copy of ",
+          "sc": "Permission is hereby granted, free of charge, to any person obtaining a copy of "
+        },
+        {
+          "f_idx": 38,
+          "pidx_tc": 809,
+          "ja": "the Font Software, to use, study, copy, merge, embed, modify, redistribute, ",
+          "tc": "the Font Software, to use, study, copy, merge, embed, modify, redistribute, ",
+          "sc": "the Font Software, to use, study, copy, merge, embed, modify, redistribute, "
+        },
+        {
+          "f_idx": 39,
+          "pidx_tc": 816,
+          "ja": "and sell modified and unmodified copies of the Font Software, subject to the ",
+          "tc": "and sell modified and unmodified copies of the Font Software, subject to the ",
+          "sc": "and sell modified and unmodified copies of the Font Software, subject to the "
+        },
+        {
+          "f_idx": 40,
+          "pidx_tc": 823,
+          "ja": "following conditions:",
+          "tc": "following conditions:",
+          "sc": "following conditions:"
+        },
+        {
+          "f_idx": 41,
+          "pidx_tc": 830,
+          "ja": "Neither the Font Software nor any of its individual components, in Original or",
+          "tc": "Neither the Font Software nor any of its individual components, in Original or",
+          "sc": "Neither the Font Software nor any of its individual components, in Original or"
+        },
+        {
+          "f_idx": 42,
+          "pidx_tc": 837,
+          "ja": " Modified Versions, may be sold by itself.",
+          "tc": " Modified Versions, may be sold by itself.",
+          "sc": " Modified Versions, may be sold by itself."
+        },
+        {
+          "f_idx": 43,
+          "pidx_tc": 844,
+          "ja": "Original or Modified Versions of the Font Software may be bundled, redistributed ",
+          "tc": "Original or Modified Versions of the Font Software may be bundled, redistributed ",
+          "sc": "Original or Modified Versions of the Font Software may be bundled, redistributed "
+        },
+        {
+          "f_idx": 44,
+          "pidx_tc": 851,
+          "ja": "and/or sold with any software, provided that each copy contains the above copyright ",
+          "tc": "and/or sold with any software, provided that each copy contains the above copyright ",
+          "sc": "and/or sold with any software, provided that each copy contains the above copyright "
+        },
+        {
+          "f_idx": 45,
+          "pidx_tc": 858,
+          "ja": "notice and this license. These can be included either as stand-alone text files, ",
+          "tc": "notice and this license. These can be included either as stand-alone text files, ",
+          "sc": "notice and this license. These can be included either as stand-alone text files, "
+        },
+        {
+          "f_idx": 46,
+          "pidx_tc": 865,
+          "ja": "human-readable headers or in the appropriate machine-readable metadata fields ",
+          "tc": "human-readable headers or in the appropriate machine-readable metadata fields ",
+          "sc": "human-readable headers or in the appropriate machine-readable metadata fields "
+        },
+        {
+          "f_idx": 47,
+          "pidx_tc": 872,
+          "ja": "within text or binary files as long as those fields can be easily viewed by the user.",
+          "tc": "within text or binary files as long as those fields can be easily viewed by the user.",
+          "sc": "within text or binary files as long as those fields can be easily viewed by the user."
+        },
+        {
+          "f_idx": 48,
+          "pidx_tc": 879,
+          "ja": "No Modified Version of the Font Software may use the Reserved Font Name(s) ",
+          "tc": "No Modified Version of the Font Software may use the Reserved Font Name(s) ",
+          "sc": "No Modified Version of the Font Software may use the Reserved Font Name(s) "
+        },
+        {
+          "f_idx": 49,
+          "pidx_tc": 886,
+          "ja": "unless explicit written permission is granted by the corresponding Copyright Holder. ",
+          "tc": "unless explicit written permission is granted by the corresponding Copyright Holder. ",
+          "sc": "unless explicit written permission is granted by the corresponding Copyright Holder. "
+        },
+        {
+          "f_idx": 50,
+          "pidx_tc": 893,
+          "ja": "This restriction only applies to the primary font name as presented to the users.",
+          "tc": "This restriction only applies to the primary font name as presented to the users.",
+          "sc": "This restriction only applies to the primary font name as presented to the users."
+        },
+        {
+          "f_idx": 51,
+          "pidx_tc": 900,
+          "ja": "The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall ",
+          "tc": "The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall ",
+          "sc": "The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall "
+        },
+        {
+          "f_idx": 52,
+          "pidx_tc": 907,
+          "ja": "not be used to promote, endorse or advertise any Modified Version, except to ",
+          "tc": "not be used to promote, endorse or advertise any Modified Version, except to ",
+          "sc": "not be used to promote, endorse or advertise any Modified Version, except to "
+        },
+        {
+          "f_idx": 53,
+          "pidx_tc": 914,
+          "ja": "acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or ",
+          "tc": "acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or ",
+          "sc": "acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or "
+        },
+        {
+          "f_idx": 54,
+          "pidx_tc": 921,
+          "ja": "with their explicit written permission.",
+          "tc": "with their explicit written permission.",
+          "sc": "with their explicit written permission."
+        },
+        {
+          "f_idx": 55,
+          "pidx_tc": 928,
+          "ja": "The Font Software, modified or unmodified, in part or in whole, must be distributed ",
+          "tc": "The Font Software, modified or unmodified, in part or in whole, must be distributed ",
+          "sc": "The Font Software, modified or unmodified, in part or in whole, must be distributed "
+        },
+        {
+          "f_idx": 56,
+          "pidx_tc": 935,
+          "ja": "entirely under this license, and must not be distributed under any other license. ",
+          "tc": "entirely under this license, and must not be distributed under any other license. ",
+          "sc": "entirely under this license, and must not be distributed under any other license. "
+        },
+        {
+          "f_idx": 57,
+          "pidx_tc": 942,
+          "ja": "The requirement for fonts to remain under this license does not apply to any ",
+          "tc": "The requirement for fonts to remain under this license does not apply to any ",
+          "sc": "The requirement for fonts to remain under this license does not apply to any "
+        },
+        {
+          "f_idx": 58,
+          "pidx_tc": 949,
+          "ja": "document created using the Font Software.",
+          "tc": "document created using the Font Software.",
+          "sc": "document created using the Font Software."
+        },
+        {
+          "f_idx": 59,
+          "pidx_tc": 956,
+          "ja": "TERMINATION",
+          "tc": "TERMINATION",
+          "sc": "TERMINATION"
+        },
+        {
+          "f_idx": 60,
+          "pidx_tc": 963,
+          "ja": "This license becomes null and void if any of the above conditions are not met.",
+          "tc": "This license becomes null and void if any of the above conditions are not met.",
+          "sc": "This license becomes null and void if any of the above conditions are not met."
+        },
+        {
+          "f_idx": 61,
+          "pidx_tc": 970,
+          "ja": "DISCLAIMER",
+          "tc": "DISCLAIMER",
+          "sc": "DISCLAIMER"
+        },
+        {
+          "f_idx": 62,
+          "pidx_tc": 977,
+          "ja": "THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, ",
+          "tc": "THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, ",
+          "sc": "THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, "
+        },
+        {
+          "f_idx": 63,
+          "pidx_tc": 984,
+          "ja": "EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF ",
+          "tc": "EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF ",
+          "sc": "EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF "
+        },
+        {
+          "f_idx": 64,
+          "pidx_tc": 991,
+          "ja": "MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, ",
+          "tc": "MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, ",
+          "sc": "MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, "
+        },
+        {
+          "f_idx": 65,
+          "pidx_tc": 998,
+          "ja": "PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER ",
+          "tc": "PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER ",
+          "sc": "PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER "
+        },
+        {
+          "f_idx": 66,
+          "pidx_tc": 1005,
+          "ja": "BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, ",
+          "tc": "BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, ",
+          "sc": "BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, "
+        },
+        {
+          "f_idx": 67,
+          "pidx_tc": 1012,
+          "ja": "SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF ",
+          "tc": "SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF ",
+          "sc": "SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF "
+        },
+        {
+          "f_idx": 68,
+          "pidx_tc": 1019,
+          "ja": "CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE ",
+          "tc": "CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE ",
+          "sc": "CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE "
+        },
+        {
+          "f_idx": 69,
+          "pidx_tc": 1026,
+          "ja": "FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.",
+          "tc": "FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.",
+          "sc": "FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
+        },
+        {
+          "f_idx": 70,
+          "pidx_tc": 1033,
+          "ja": "-----------------------------------------------------------------------------",
+          "tc": "-----------------------------------------------------------------------------",
+          "sc": "-----------------------------------------------------------------------------"
+        }
+      ]
+    }
+  ]
+}

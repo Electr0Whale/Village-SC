@@ -5,8 +5,36 @@
     "tips.dat"
   ],
   "record_count": 56,
-  "line_count": 199,
+  "line_count": 198,
   "records": [
+    {
+      "file": "tips.dat",
+      "rec_idx": 14,
+      "rec_id": "TIPS_16_MEMO_OPEN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 383,
+          "ja": "メモを展開",
+          "tc": "打開筆記",
+          "sc": "打开笔记"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 390,
+          "ja": "<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>でメモリストを表示する",
+          "tc": "按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>顯示筆記清單",
+          "sc": "按下<cmd CMD_UNIT_SHORTCUT_MEMO -offsetY -5>显示笔记清单"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 397,
+          "ja": "メモしたものを、一覧で確認できる",
+          "tc": "可於列表上檢視所有筆記",
+          "sc": "可于列表上检视所有笔记"
+        }
+      ]
+    },
     {
       "file": "tips.dat",
       "rec_idx": 15,
@@ -499,15 +527,15 @@
           "f_idx": 2,
           "pidx_tc": 811,
           "ja": "少しだけ<cmd CMD_UNIT_MOVE_STICK -offsetY -5>を倒すと",
-          "tc": "可稍微輕推<cmd CMD_UNIT_MOVE_STICK -offsetY -5>，",
+          "tc": "稍微輕推<cmd CMD_UNIT_MOVE_STICK -offsetY -5>，",
           "sc": "可稍微轻推<cmd CMD_UNIT_MOVE_STICK -offsetY -5>，"
         },
         {
           "f_idx": 3,
           "pidx_tc": 818,
           "ja": "歩いて移動できる",
-          "tc": "或按下<cmd CMD_UNIT_WALK_KEY -offsetY -5>就能步行移動",
-          "sc": "或按下<cmd CMD_UNIT_WALK_KEY -offsetY -5>就能步行移动"
+          "tc": "就能步行移動",
+          "sc": "就能步行移动"
         }
       ]
     },
@@ -1754,41 +1782,6 @@
           "ja": "今日は16時から年越しだ",
           "tc": "今天16點開始是過年",
           "sc": "今天16点开始是过年"
-        }
-      ]
-    },
-    {
-      "file": "tips.dat",
-      "rec_idx": 70,
-      "rec_id": "TIPS_HOLIDAY_SPR_GAME",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 1839,
-          "ja": "バドミントン",
-          "tc": "羽毛球",
-          "sc": "羽毛球"
-        },
-        {
-          "f_idx": 1,
-          "pidx_tc": 1846,
-          "ja": "<cmd CMD_OK -offsetY -5>でラケットを振る",
-          "tc": "按下<cmd CMD_OK -offsetY -5>揮動球拍",
-          "sc": "按下<cmd CMD_OK -offsetY -5>挥动球拍"
-        },
-        {
-          "f_idx": 2,
-          "pidx_tc": 1853,
-          "ja": "タイミングよく羽根を打ち返して",
-          "tc": "抓準時機，把球打回去吧",
-          "sc": "抓准时机，把球打回去吧"
-        },
-        {
-          "f_idx": 3,
-          "pidx_tc": 1860,
-          "ja": "コマコとラリーをしよう",
-          "tc": "和駒子連續擊球對打吧",
-          "sc": "和驹子连续击球对打吧"
         }
       ]
     }

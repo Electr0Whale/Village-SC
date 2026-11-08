@@ -34,6 +34,8 @@ def patch_nacp_file(nacp_path, title_sc="静谧田园", author="Clouded Leopard 
     print(f"Patched NACP: {nacp_path} (Slots 13 & 14 set to '{title_sc}' / '{author}')")
 
 def main():
+    title_sc = "静谧田园"
+    author = "Clouded Leopard Entertainment Inc."
     repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     default_icon = os.path.join(repo_root, "switch_icons", "icon_SimplifiedChinese.png")
     icon_src = os.environ.get("VILLAGE_ICON_SRC", default_icon)
@@ -90,11 +92,22 @@ def main():
     print("\n[4/5] Deploying to Atmosphere output...")
     atm_dir = os.path.join(repo_root, "output", "atmosphere", "contents", "01001BA027DD8000")
     
-    # 1. sys-tweak / sys-icon direct hook file: icon.jpg
+    # 1. sys-tweak / sys-icon direct hook files: icon.jpg & config.ini
     atm_icon_jpg = os.path.join(atm_dir, "icon.jpg")
     with open(atm_icon_jpg, "wb") as f:
         f.write(jpeg_bytes)
     print(f"Deployed sys-tweak icon: {atm_icon_jpg}")
+    
+    config_ini_path = os.path.join(atm_dir, "config.ini")
+    config_ini_content = (
+        "[override_nacp]\n"
+        f"name={title_sc}\n"
+        f"author={author}\n"
+        "display_version=1.3.0\n"
+    )
+    with open(config_ini_path, "wb") as f:
+        f.write(config_ini_content.encode("utf-8"))
+    print(f"Deployed sys-icon config.ini: {config_ini_path}")
     
     # 2. control/ subfolder for forwarders / loaders
     atm_control_dir = os.path.join(atm_dir, "control")
@@ -103,6 +116,18 @@ def main():
     shutil.copyfile(tc_icon_update, os.path.join(atm_control_dir, "icon_TraditionalChinese.dat"))
     shutil.copyfile(os.path.join(update_dir, "icon_SimplifiedChinese.dat"), os.path.join(atm_control_dir, "icon_SimplifiedChinese.dat"))
     print(f"Deployed control metadata to: {atm_control_dir}")
+
+    # 3. Sync to Eden if folder exists
+    eden_load = r"C:\Users\Admin\AppData\Roaming\eden\load\01001BA027DD8000\Village_SC_Translation"
+    if os.path.exists(eden_load):
+        eden_ctrl = os.path.join(eden_load, "control")
+        os.makedirs(eden_ctrl, exist_ok=True)
+        shutil.copyfile(os.path.join(update_dir, "control.nacp"), os.path.join(eden_ctrl, "control.nacp"))
+        shutil.copyfile(tc_icon_update, os.path.join(eden_ctrl, "icon_TraditionalChinese.dat"))
+        shutil.copyfile(os.path.join(update_dir, "icon_SimplifiedChinese.dat"), os.path.join(eden_ctrl, "icon_SimplifiedChinese.dat"))
+        shutil.copyfile(atm_icon_jpg, os.path.join(eden_load, "icon.jpg"))
+        shutil.copyfile(config_ini_path, os.path.join(eden_load, "config.ini"))
+        print(f"Synced control metadata & config.ini to Eden: {eden_load}")
 
     # [5/5] Update switch_icons preview directory
     print(f"\n[5/5] Updating preview folder {os.path.join(repo_root, 'switch_icons')}...")

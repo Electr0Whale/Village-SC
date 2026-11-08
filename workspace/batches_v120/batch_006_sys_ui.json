@@ -1,0 +1,2812 @@
+{
+  "batch_id": "batch_006_sys_ui",
+  "group": "sys_ui",
+  "files": [
+    "logText.dat",
+    "string.dat"
+  ],
+  "record_count": 200,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "string.dat",
+      "rec_idx": 284,
+      "rec_id": "STR_ID_INTANGEBLE_POPUP_GET_ITEM_00",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2277,
+          "ja": "<value 1>をもらった",
+          "tc": "收到了<value 1>",
+          "sc": "收到了<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 285,
+      "rec_id": "STR_ID_INTANGEBLE_POPUP_GET_ITEM_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2285,
+          "ja": "<value 1>を手に入れた",
+          "tc": "獲得了<value 1>",
+          "sc": "获得了<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 286,
+      "rec_id": "STR_ID_NPC_LIKABILITY_POPUP_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2293,
+          "ja": "<value 1>との仲が深まった！",
+          "tc": "和<value 1>的感情變好了！",
+          "sc": "和<value 1>的感情变好了！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 287,
+      "rec_id": "STR_ID_NPC_LIKABILITY_POPUP_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2301,
+          "ja": "<value 1>との仲が深まった！<br><value 1>の部屋に入るのを許してもらえるようになった！",
+          "tc": "和<value 1>的感情變好了！<br>獲得了進入<value 1>房間的許可！",
+          "sc": "和<value 1>的感情变好了！<br>获得了进入<value 1>房间的许可！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 288,
+      "rec_id": "STR_ID_FRACTION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2309,
+          "ja": "<half><value 1>/<value 2></half>",
+          "tc": "<half><value 1>/<value 2></half>",
+          "sc": "<half><value 1>/<value 2></half>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 289,
+      "rec_id": "STR_ID_LOSTBOOK_EMPTY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2317,
+          "ja": "未収蔵",
+          "tc": "未收藏",
+          "sc": "未收藏"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 290,
+      "rec_id": "STR_ID_CONTINUE_HEADER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2325,
+          "ja": "どうする？",
+          "tc": "現在要怎麼辦？",
+          "sc": "现在要怎么办？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 291,
+      "rec_id": "STR_ID_CONTINUE_SELECT_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2333,
+          "ja": "もう一度やり直す",
+          "tc": "再試一次",
+          "sc": "再试一次"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 292,
+      "rec_id": "STR_ID_CONTINUE_SELECT_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2341,
+          "ja": "起きた時からやり直す",
+          "tc": "從醒來時再試一次",
+          "sc": "从醒来时再试一次"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 293,
+      "rec_id": "STR_ID_CONTINUE_SELECT_1_HELP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2349,
+          "ja": "【もう一度やり直す】",
+          "tc": "【再試一次】",
+          "sc": "【再试一次】"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 294,
+      "rec_id": "STR_ID_CONTINUE_SELECT_1_HELP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2357,
+          "ja": "直前の状態まで戻ってやり直します",
+          "tc": "回到剛才的狀態再試一次。",
+          "sc": "回到刚才的状态再试一次。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 297,
+      "rec_id": "STR_ID_CONTINUE_SELECT_2_HELP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2381,
+          "ja": "【起きた時からやり直す】",
+          "tc": "【從醒來時再試一次】",
+          "sc": "【从醒来时再试一次】"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 298,
+      "rec_id": "STR_ID_CONTINUE_SELECT_2_HELP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2389,
+          "ja": "最後に起床した時まで戻ってやり直します",
+          "tc": "回到最後一次起床時的狀態再試一次。",
+          "sc": "回到最后一次起床时的状态再试一次。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 301,
+      "rec_id": "STR_ID_STRING_INPUT_MESSAGE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2413,
+          "ja": "「<value 1>」でよろしいですか？",
+          "tc": "名字確定取為「<value 1>」嗎？",
+          "sc": "名字确定取为“<value 1>”吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 302,
+      "rec_id": "STR_ID_STRING_INPUT_YES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2421,
+          "ja": "はい",
+          "tc": "是",
+          "sc": "是"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 303,
+      "rec_id": "STR_ID_STRING_INPUT_NO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2429,
+          "ja": "いいえ",
+          "tc": "否",
+          "sc": "否"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 304,
+      "rec_id": "STR_ID_STRING_LETTER_MESSAGE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2437,
+          "ja": "この返答でよろしいですか？",
+          "tc": "要這樣回信嗎？",
+          "sc": "要这样回信吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 305,
+      "rec_id": "STR_ID_STRING_ANVIL_MESSAGE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2445,
+          "ja": "「<value 1>」を作成しますか？",
+          "tc": "要製作「<value 1>」嗎？",
+          "sc": "要制作“<value 1>”吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 306,
+      "rec_id": "STR_ID_GAME_END_MESSAGE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2453,
+          "ja": "ゲーム終了しますか？",
+          "tc": "確定要結束遊戲嗎？",
+          "sc": "确定要结束游戏吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 307,
+      "rec_id": "STR_ID_GAME_END_MESSAGE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2461,
+          "ja": "（起床後の進行状況が失われます）",
+          "tc": "（將失去起床後的遊玩進度）",
+          "sc": "（将失去起床后的游玩进度）"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 308,
+      "rec_id": "STR_ID_GHOST_FLOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2469,
+          "ja": "幽霊花",
+          "tc": "幽靈花",
+          "sc": "幽灵花"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 309,
+      "rec_id": "STR_ID_SYSTEM_PAUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2477,
+          "ja": "ＰＡＵＳＥ",
+          "tc": "PAUSE",
+          "sc": "PAUSE"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 310,
+      "rec_id": "STR_ID_01_092_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2485,
+          "ja": "願いを叶えるには、",
+          "tc": "若要實現願望，",
+          "sc": "若要实现愿望，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 311,
+      "rec_id": "STR_ID_01_092_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2493,
+          "ja": "大切なものを失わなければならない",
+          "tc": "就必須捨棄重要的東西。",
+          "sc": "就必须舍弃重要的东西。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 312,
+      "rec_id": "STR_ID_01_092_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2501,
+          "ja": "お前が真の意味で村の一員になるつもりなら、",
+          "tc": "如果你想真正地成為村子的一員，",
+          "sc": "如果你想真正地成为村子的一员，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 313,
+      "rec_id": "STR_ID_01_092_02_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2509,
+          "ja": "覚悟しておけ",
+          "tc": "就做好覺悟吧。",
+          "sc": "就做好觉悟吧。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 314,
+      "rec_id": "STR_ID_01_092_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2517,
+          "ja": "お前自身もいつか、大切なものを失うことを",
+          "tc": "你總有一天，也會失去重要的東西。",
+          "sc": "你总有一天，也会失去重要的东西。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 315,
+      "rec_id": "STR_ID_01_093_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2525,
+          "ja": "償え、必ず",
+          "tc": "你必須贖罪，",
+          "sc": "你必须赎罪，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 316,
+      "rec_id": "STR_ID_01_093_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2533,
+          "ja": "お前のせいで",
+          "tc": "為了那些",
+          "sc": "为了那些"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 317,
+      "rec_id": "STR_ID_01_093_02_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2541,
+          "ja": "死んでいった者たちのために",
+          "tc": "因你而死的人們。",
+          "sc": "因你而死的人们。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 318,
+      "rec_id": "STR_ID_05_134_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2549,
+          "ja": "オカエリ、ヨウチャン",
+          "tc": "小洋，歡迎回來。",
+          "sc": "小洋，欢迎回来。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 319,
+      "rec_id": "STR_ID_06_007_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2557,
+          "ja": "ちゃんと、受け取ったね",
+          "tc": "確實收下了呢。",
+          "sc": "确实收下了呢。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 320,
+      "rec_id": "STR_ID_06_007_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2565,
+          "ja": "じゃあその体の代わりに、",
+          "tc": "那作為那副身體的代價，",
+          "sc": "那作为那副身体的代价，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 321,
+      "rec_id": "STR_ID_06_007_02_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2573,
+          "ja": "お願い、叶えて",
+          "tc": "請實現我的願望吧。",
+          "sc": "请实现我的愿望吧。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 322,
+      "rec_id": "STR_ID_06_007_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2581,
+          "ja": "……やっぱり、約束を忘れたきみが、",
+          "tc": "我果然還是無法原諒遺忘約定的你……",
+          "sc": "我果然还是无法原谅遗忘约定的你……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 323,
+      "rec_id": "STR_ID_06_007_03_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2589,
+          "ja": "その体を使って、村で暮らすことを許せないんだ",
+          "tc": "使用那副身體在村子裡生活。",
+          "sc": "使用那副身体在村子里生活。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 324,
+      "rec_id": "STR_ID_06_007_04_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2597,
+          "ja": "だから……そこにナタがあるよね",
+          "tc": "所以……那裡有把柴刀吧？",
+          "sc": "所以……那里有把柴刀吧？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 325,
+      "rec_id": "STR_ID_06_007_05_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2605,
+          "ja": "お願い、",
+          "tc": "請祢，",
+          "sc": "请祢，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 326,
+      "rec_id": "STR_ID_06_007_05_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2613,
+          "ja": "そこまで進んで",
+          "tc": "走過去那裡。",
+          "sc": "走过去那里。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 327,
+      "rec_id": "STR_ID_06_007_06_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2621,
+          "ja": "お願い、",
+          "tc": "請祢，",
+          "sc": "请祢，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 328,
+      "rec_id": "STR_ID_06_007_06_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2629,
+          "ja": "それを拾って",
+          "tc": "把它撿起來。",
+          "sc": "把它捡起来。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 329,
+      "rec_id": "STR_ID_06_007_07_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2637,
+          "ja": "次は……そのナタで",
+          "tc": "然後……用那把柴刀，",
+          "sc": "然后……用那把柴刀，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 330,
+      "rec_id": "STR_ID_06_007_07_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2645,
+          "ja": "首を斬って、死んでほしいの",
+          "tc": "砍斷脖子去死吧。",
+          "sc": "砍断脖子去死吧。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 331,
+      "rec_id": "STR_ID_06_007_08_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2653,
+          "ja": "ね、体をあげたんだよ",
+          "tc": "我可是給了祢身體啊！",
+          "sc": "我可是给了祢身体啊！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 332,
+      "rec_id": "STR_ID_06_007_09_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2661,
+          "ja": "お願い……",
+          "tc": "拜託……",
+          "sc": "拜托……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 333,
+      "rec_id": "STR_ID_06_007_09_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2669,
+          "ja": "ナタで首を斬って、死んで",
+          "tc": "用柴刀砍斷脖子去死吧。",
+          "sc": "用柴刀砍断脖子去死吧。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 334,
+      "rec_id": "STR_ID_06_014_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2677,
+          "ja": "もう、なにも、捧げられないけど……",
+          "tc": "我已經什麼都奉獻不了了……",
+          "sc": "我已经什么都奉献不了了……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 335,
+      "rec_id": "STR_ID_06_014_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2685,
+          "ja": "それでも……お願いします……",
+          "tc": "即使如此……還是求求祢了……",
+          "sc": "即使如此……还是求求祢了……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 336,
+      "rec_id": "STR_ID_06_050_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2693,
+          "ja": "恨めしい",
+          "tc": "我好恨啊……",
+          "sc": "我好恨啊……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 337,
+      "rec_id": "STR_ID_06_050_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2701,
+          "ja": "恨めしい、恨めしい",
+          "tc": "我好恨……我好恨……",
+          "sc": "我好恨……我好恨……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 338,
+      "rec_id": "STR_ID_06_050_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2709,
+          "ja": "約束を忘れて",
+          "tc": "忘掉了約定……",
+          "sc": "忘掉了约定……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 339,
+      "rec_id": "STR_ID_06_050_02_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2717,
+          "ja": "なぜきみが……",
+          "tc": "為什麼你可以……",
+          "sc": "为什么你可以……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 340,
+      "rec_id": "STR_ID_06_050_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2725,
+          "ja": "その居場所は",
+          "tc": "那個容身之處……",
+          "sc": "那个容身之处……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 341,
+      "rec_id": "STR_ID_06_050_03_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2733,
+          "ja": "きみのじゃないのに",
+          "tc": "明明不是屬於你的，",
+          "sc": "明明不是属于你的，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 342,
+      "rec_id": "STR_ID_06_050_04_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2741,
+          "ja": "返して、",
+          "tc": "還給我……",
+          "sc": "还给我……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 343,
+      "rec_id": "STR_ID_06_050_05_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2749,
+          "ja": "体を、庭を、居場所を",
+          "tc": "身體、庭院、容身之處……",
+          "sc": "身体、庭院、容身之处……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 344,
+      "rec_id": "STR_ID_06_050_05_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2757,
+          "ja": "返して",
+          "tc": "全都還給我……",
+          "sc": "全都还给我……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 345,
+      "rec_id": "STR_ID_06_050_06_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2765,
+          "ja": "……神さま、たすけて",
+          "tc": "……神明大人啊，幫幫我。",
+          "sc": "……神明大人啊，帮帮我。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 346,
+      "rec_id": "STR_ID_06_056_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2773,
+          "ja": "神さま、どうして、約束を忘れたの……",
+          "tc": "神明大人，為什麼要忘記約定……",
+          "sc": "神明大人，为什么要忘记约定……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 347,
+      "rec_id": "STR_ID_06_056_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2781,
+          "ja": "奪った全てを、返してよ……<player>",
+          "tc": "把拿走的全都還給我啊……<player>",
+          "sc": "把夺走的全都还给我啊……<player>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 348,
+      "rec_id": "STR_ID_06_057_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2789,
+          "ja": "嫌だっっ！！",
+          "tc": "我不要！！",
+          "sc": "我不要！！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 349,
+      "rec_id": "STR_ID_06_057_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2797,
+          "ja": "約束、したのに……！",
+          "tc": "明明約好了……！",
+          "sc": "明明约好了……！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 350,
+      "rec_id": "STR_ID_06_057_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2805,
+          "ja": "返してもらいたいだけなのに！！",
+          "tc": "我只是想要拿回來而已！！",
+          "sc": "我只是想要拿回来而已！！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 351,
+      "rec_id": "STR_ID_06_057_04_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2813,
+          "ja": "あの庭を、体を……！！",
+          "tc": "那個庭院，那副身體……！！",
+          "sc": "那个庭院，那副身体……！！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 352,
+      "rec_id": "STR_ID_06_057_05_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2821,
+          "ja": "返さないなら、殺してやる！！",
+          "tc": "不還我的話，我就殺了你！！",
+          "sc": "不还我的话，我就杀了你！！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 353,
+      "rec_id": "STR_ID_06_057_06_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2829,
+          "ja": "うわぁぁぁ！",
+          "tc": "哇啊啊啊啊！",
+          "sc": "哇啊啊啊啊！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 354,
+      "rec_id": "STR_ID_06_057_07_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2837,
+          "ja": "痛い！　痛い痛い！",
+          "tc": "好痛！好痛好痛！",
+          "sc": "好痛！好痛好痛！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 355,
+      "rec_id": "STR_ID_06_057_08_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2845,
+          "ja": "助けて、助けて、だれか、たすけ　て",
+          "tc": "救救我、救救我！誰快來……救救……我……",
+          "sc": "救救我、救救我！谁快来……救救……我……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 356,
+      "rec_id": "STR_ID_06_057_09_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2853,
+          "ja": "もう、もうこんなの、嫌だ",
+          "tc": "我已經……受不了了……",
+          "sc": "我已经……受不了了……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 357,
+      "rec_id": "STR_ID_06_057_10_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2861,
+          "ja": "どうして……どうして、返して、くれないの……",
+          "tc": "為什麼……為什麼……不肯還給我……",
+          "sc": "为什么……为什么……不肯还给我……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 358,
+      "rec_id": "STR_ID_06_057_11_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2869,
+          "ja": "痛いよ、助けて……たすけて……",
+          "tc": "好痛啊……救救我……救救我……",
+          "sc": "好痛啊……救救我……救救我……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 359,
+      "rec_id": "STR_ID_06_057_12_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2877,
+          "ja": "……ジ",
+          "tc": "……諒。",
+          "sc": "……谅。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 360,
+      "rec_id": "STR_ID_06_057_13_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2885,
+          "ja": "許ス…マジ……",
+          "tc": "不可……原諒……",
+          "sc": "不可……原谅……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 361,
+      "rec_id": "STR_ID_06_057_14_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2893,
+          "ja": "断ジ　テ、許　スマ　ジ……",
+          "tc": "絕　不　原　諒……",
+          "sc": "绝　不　原　谅……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 362,
+      "rec_id": "STR_ID_06_057_15_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2901,
+          "ja": "……ジ",
+          "tc": "……諒。",
+          "sc": "……谅。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 363,
+      "rec_id": "STR_ID_06_057_16_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2909,
+          "ja": "許ス…マジ……",
+          "tc": "不可……原諒……",
+          "sc": "不可……原谅……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 364,
+      "rec_id": "STR_ID_06_057_17_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2917,
+          "ja": "断ジ　テ、許　スマ　ジ……",
+          "tc": "絕　不　原　諒……",
+          "sc": "绝　不　原　谅……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 365,
+      "rec_id": "STR_ID_06_057_18_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2925,
+          "ja": "ヒト　タビ　捧ゲ　シ　物ヲ、",
+          "tc": "已經　奉獻　的　東西，",
+          "sc": "既　已　奉　献　之　物，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 366,
+      "rec_id": "STR_ID_06_057_18_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2933,
+          "ja": "マ　タ奪ハム　トスル　ヤ……",
+          "tc": "卻　想要　再次　奪回……",
+          "sc": "却　妄　图　再　夺　回……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 367,
+      "rec_id": "STR_ID_06_057_19_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2941,
+          "ja": "人ハ　カクノ　ゴトクシ　テ、",
+          "tc": "人類　總是　如此，",
+          "sc": "人　类　向　来　如　此，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 368,
+      "rec_id": "STR_ID_06_057_19_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2949,
+          "ja": "コノ　地ヲ　奪ヒ　シ　モノ　ゾ……",
+          "tc": "奪走　這片　土地……",
+          "sc": "夺　去　这　片　土　地……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 369,
+      "rec_id": "STR_ID_06_058_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2957,
+          "ja": "怨メ　シ　憎シ",
+          "tc": "可恨！　好　可恨！",
+          "sc": "可恨！　好　可恨！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 370,
+      "rec_id": "STR_ID_06_058_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2965,
+          "ja": "今コソ、コ　ノ怨　ミ、",
+          "tc": "如今　正　是，",
+          "sc": "今　日　正　是，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 371,
+      "rec_id": "STR_ID_06_058_01_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2973,
+          "ja": "晴ラサ　デ　置　クベ　キヤ",
+          "tc": "報仇　雪恨　之時，",
+          "sc": "报　仇　雪　恨　之　时，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 372,
+      "rec_id": "STR_ID_06_058_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2981,
+          "ja": "吾　ガ地、",
+          "tc": "吾　之　土　地",
+          "sc": "吾　之　土　地，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 373,
+      "rec_id": "STR_ID_06_058_02_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2989,
+          "ja": "奪ヒ　シ　コト、",
+          "tc": "被　奪　之　仇，",
+          "sc": "被　夺　之　仇，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 374,
+      "rec_id": "STR_ID_06_058_02_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2997,
+          "ja": "忘レジ　ゾ",
+          "tc": "豈　可　忘　懷！",
+          "sc": "岂　可　忘　怀！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 375,
+      "rec_id": "STR_ID_06_058_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3005,
+          "ja": "汚　レシ　者ドモ　ヨ、",
+          "tc": "汙　穢　之　徒　啊！",
+          "sc": "污　秽　之　徒　啊！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 376,
+      "rec_id": "STR_ID_06_058_03_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3013,
+          "ja": "滅ブ　ベシ、滅　ブ　ベシ",
+          "tc": "毀　滅　吧！　滅　亡　吧！",
+          "sc": "毁　灭　吧！　灭　亡　吧！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 377,
+      "rec_id": "STR_ID_06_058_04_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3021,
+          "ja": "吾　ガ地、",
+          "tc": "吾　之　土　地",
+          "sc": "吾　之　土　地，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 378,
+      "rec_id": "STR_ID_06_058_04_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3029,
+          "ja": "還セ　　ヨ、",
+          "tc": "還　來！",
+          "sc": "还　来！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 379,
+      "rec_id": "STR_ID_06_058_04_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3037,
+          "ja": "稀　人　メ",
+          "tc": "可　憎　的　異　鄉　人！",
+          "sc": "可　憎　之　异　乡　人！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 380,
+      "rec_id": "STR_ID_06_063_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3045,
+          "ja": "怨メシ　ヤ、　怨メシヤ",
+          "tc": "好　恨　啊！　吾好恨啊！",
+          "sc": "好　恨　啊！　吾好恨啊！"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 381,
+      "rec_id": "STR_ID_06_063_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3053,
+          "ja": "稀人ヨ、怨メシヤ……",
+          "tc": "異鄉人，吾好恨啊……",
+          "sc": "异乡人，吾好恨啊……"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 382,
+      "rec_id": "STR_ID_06_063_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3061,
+          "ja": "稀人よ、聞き給へ",
+          "tc": "異鄉人啊，且聽吾一言。",
+          "sc": "异乡人啊，且听吾一言。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 383,
+      "rec_id": "STR_ID_06_063_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3069,
+          "ja": "我を殺さむと願わば、",
+          "tc": "倘若汝欲置吾於死地，",
+          "sc": "倘若汝欲置吾于死地，"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 384,
+      "rec_id": "STR_ID_06_063_03_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3077,
+          "ja": "大切なるものと引き換えぞ",
+          "tc": "需以珍視之物為代價。",
+          "sc": "须以珍视之物为代价。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 385,
+      "rec_id": "STR_ID_06_063_04_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3085,
+          "ja": "その覚悟ありての振る舞いか",
+          "tc": "汝之所作所為，可有這般覺悟？",
+          "sc": "汝之所作所为，可有这般觉悟？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 386,
+      "rec_id": "STR_ID_06_063_04_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3093,
+          "ja": "それこそが、汝の望む末路なるや",
+          "tc": "難道，那正是汝所期盼之末路？",
+          "sc": "难道，那正是汝所期盼之末路？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 387,
+      "rec_id": "STR_ID_06_063_05_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3101,
+          "ja": "あゝ、羨ましや、口惜しや――",
+          "tc": "啊啊，好生羨慕，好生不甘啊──",
+          "sc": "啊啊，好生羡慕，好生不甘啊——"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 388,
+      "rec_id": "STR_ID_06_063_06_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3109,
+          "ja": "この嘆きをば、いづれの誰に告げむ――",
+          "tc": "吾之悲嘆，又該向何人傾訴──",
+          "sc": "吾之悲叹，又该向何人倾诉——"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 389,
+      "rec_id": "STR_ID_06_066_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3117,
+          "ja": "さよなら",
+          "tc": "再見了。",
+          "sc": "再见了。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 390,
+      "rec_id": "STR_ID_06_066_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3125,
+          "ja": "庭を、みんなをよろしくね",
+          "tc": "庭院，還有大家就拜託你了。",
+          "sc": "庭院，还有大家就拜托你了。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 391,
+      "rec_id": "STR_ID_06_066_01_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3133,
+          "ja": "約束、だからね",
+          "tc": "我們約好囉。",
+          "sc": "我们约好了哦。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 392,
+      "rec_id": "STR_ID_PLUS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3141,
+          "ja": "+",
+          "tc": "+",
+          "sc": "+"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 393,
+      "rec_id": "STR_ID_SAVE_FILE_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3149,
+          "ja": "save",
+          "tc": "save",
+          "sc": "save"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 394,
+      "rec_id": "STR_ID_SYSTEM_SAVE_FILE_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3157,
+          "ja": ".systemsave",
+          "tc": ".systemsave",
+          "sc": ".systemsave"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 395,
+      "rec_id": "STR_ID_CHECK_END",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3165,
+          "ja": "STR_ID_CHECK_END",
+          "tc": "STR_ID_CHECK_END",
+          "sc": "STR_ID_CHECK_END"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 396,
+      "rec_id": "STR_ID_CATALOG_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3173,
+          "ja": "家具カタログ",
+          "tc": "家具目錄",
+          "sc": "家具目录"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 397,
+      "rec_id": "STR_ID_CATALOG_ORDER_HEADER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3181,
+          "ja": "本日注文した家具",
+          "tc": "今天訂購的家具",
+          "sc": "今天订购的家具"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 398,
+      "rec_id": "STR_ID_CATALOG_NUMBER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3189,
+          "ja": "<value 1>個",
+          "tc": "<value 1>個",
+          "sc": "<value 1>个"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 399,
+      "rec_id": "STR_ID_MEMO_CATALOG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3197,
+          "ja": "家具カタログ",
+          "tc": "家具目錄",
+          "sc": "家具目录"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 400,
+      "rec_id": "STR_ID_SAVE_ERROR_MSG_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3205,
+          "ja": "バージョンが異なるセーブデータのため読み込めません",
+          "tc": "由於此保存資料的遊戲版本不同，故無法進行讀取。",
+          "sc": "由于此存档的游戏版本不同，故无法进行读取。"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 401,
+      "rec_id": "STR_ID_SCARECROW_COUNT_DAYS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3213,
+          "ja": "あと<value 1>日",
+          "tc": "還有<value 1>日",
+          "sc": "还有<value 1>日"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 0,
+      "rec_id": "LOG_GET_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "<value 1>",
+          "tc": "<value 1>",
+          "sc": "<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 1,
+      "rec_id": "LOG_STAMINA_HALF",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 13,
+          "ja": "ちょっと疲れてきた……",
+          "tc": "有點累了……",
+          "sc": "有点累了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 2,
+      "rec_id": "LOG_STAMINA_QUARTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 21,
+          "ja": "かなり疲れてきた……",
+          "tc": "相當累了……",
+          "sc": "相当累了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 3,
+      "rec_id": "LOG_STAMINA_ZERO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 29,
+          "ja": "疲れて動けない……",
+          "tc": "累到動彈不得了……",
+          "sc": "累到动弹不得了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 4,
+      "rec_id": "LOG_WATER_ZERO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "ジョウロが空っぽだ……",
+          "tc": "澆水壺空空如也……",
+          "sc": "浇水壶空空如也……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 5,
+      "rec_id": "LOG_INVENTORY_FULL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "持ち物がいっぱいで取り出せない",
+          "tc": "隨身物品已滿，無法取出。",
+          "sc": "随身物品已满，无法取出。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 6,
+      "rec_id": "LOG_INVENTORY_FULL_DROP_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "持ち物がいっぱいで拾えない",
+          "tc": "隨身物品已滿，無法撿取。",
+          "sc": "随身物品已满，无法捡取。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 7,
+      "rec_id": "LOG_INVENTORY_FULL_BUY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 61,
+          "ja": "持ち物がいっぱいで買えない",
+          "tc": "隨身物品已滿，無法購買。",
+          "sc": "随身物品已满，无法购买。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 8,
+      "rec_id": "LOG_WHISTLED_SONG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "<value 1>を吹いた",
+          "tc": "吹奏了<value 1>。",
+          "sc": "吹奏了<value 1>。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 9,
+      "rec_id": "LOG_ERROR_NO_PUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "ここには置けない",
+          "tc": "無法放置於此。",
+          "sc": "无法放置于此。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 10,
+      "rec_id": "LOG_CAN_NOT_SIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "ここには座れない",
+          "tc": "無法坐在此處。",
+          "sc": "无法坐在此处。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 11,
+      "rec_id": "LOG_MEMOLIST_FULL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "メモがいっぱいで追加できない",
+          "tc": "筆記已滿，無法新增。",
+          "sc": "笔记已满，无法新增。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 12,
+      "rec_id": "LOG_MEMO_COMPLETE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 101,
+          "ja": "メモの条件を達成！",
+          "tc": "達成筆記上的條件了！",
+          "sc": "达成笔记上的条件了！"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 13,
+      "rec_id": "LOG_MEMO_INCOMPLETE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "メモの条件が未達に戻った",
+          "tc": "筆記上的條件退回未達成狀態。",
+          "sc": "笔记上的条件退回未达成状态。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 14,
+      "rec_id": "LOG_MEMO_REGISTRATION",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "メモに追加した",
+          "tc": "已加入筆記。",
+          "sc": "已加入笔记。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 15,
+      "rec_id": "LOG_INVENTORY_FULL_GET_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "持ち物がいっぱいで入手できない",
+          "tc": "隨身物品已滿，無法取得。",
+          "sc": "随身物品已满，无法获得。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 16,
+      "rec_id": "LOG_FORCE_SLEEP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "もう眠気に耐えられない……",
+          "tc": "已經無法再抵抗睡意了……",
+          "sc": "已经无法再抵挡睡意了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 17,
+      "rec_id": "LOG_ERROR_PRESENT_DAY_LIMIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 141,
+          "ja": "1日に渡せる贈り物は1つまで",
+          "tc": "每天只能贈送一份禮物。",
+          "sc": "每天只能赠送一份礼物。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 18,
+      "rec_id": "LOG_ERROR_PRESENT_WEEK_LIMIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "週に渡せる贈り物は２つまで",
+          "tc": "每週只能贈送兩份禮物。",
+          "sc": "每周只能赠送两份礼物。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 19,
+      "rec_id": "LOG_SILO_FULL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 157,
+          "ja": "中身がいっぱいで追加できない",
+          "tc": "內容物已滿，無法新增。",
+          "sc": "内容物已满，无法新增。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 20,
+      "rec_id": "LOG_LACK_MONEY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "お金が足りない……",
+          "tc": "錢不夠……",
+          "sc": "钱不够……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 21,
+      "rec_id": "LOG_NOT_GACHAPON",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 173,
+          "ja": "今日はもう回せない……",
+          "tc": "今天不能再抽了……",
+          "sc": "今天不能再抽了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 22,
+      "rec_id": "LOG_LACK_MATERIAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 181,
+          "ja": "素材が足りない……",
+          "tc": "材料不夠……",
+          "sc": "材料不够……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 23,
+      "rec_id": "LOG_DROP_GENERATE_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 189,
+          "ja": "持ちきれない分はその場に置いた",
+          "tc": "帶不走的部分已放置於原地。",
+          "sc": "拿不下的部分已放置在原地。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 24,
+      "rec_id": "LOG_LACK_STORE_STOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 197,
+          "ja": "在庫がない……",
+          "tc": "沒有庫存……",
+          "sc": "没有库存……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 25,
+      "rec_id": "LOG_NO_BED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 205,
+          "ja": "自宅内には必ずベッドを置こう",
+          "tc": "請務必在房屋內放置床鋪。",
+          "sc": "请务必在家中放置床铺。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 26,
+      "rec_id": "LOG_NO_BREAK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 213,
+          "ja": "まだ壊せないみたい……",
+          "tc": "似乎還無法破壞……",
+          "sc": "似乎还无法破坏……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 27,
+      "rec_id": "LOG_SOLD_OUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 221,
+          "ja": "売り切れてる……",
+          "tc": "已經賣完了……",
+          "sc": "已经卖完了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 28,
+      "rec_id": "LOG_CAN_NOT_SOWING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 229,
+          "ja": "まだ植えられないみたい……",
+          "tc": "似乎還不能種植……",
+          "sc": "似乎还不能种植……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 29,
+      "rec_id": "LOG_PUT_OFFERING_FLOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 237,
+          "ja": "また明日に来よう……",
+          "tc": "明天再來吧……",
+          "sc": "明天再来吧……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 30,
+      "rec_id": "LOG_SALE_LOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "まだ買えない……",
+          "tc": "還不能購買……",
+          "sc": "还不能购买……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 31,
+      "rec_id": "LOG_NO_LIVESTOCKPLACE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 253,
+          "ja": "飼える建物がまだない……",
+          "tc": "還沒有能用來飼育的建築……",
+          "sc": "还没有能用来饲养的建筑……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 32,
+      "rec_id": "LOG_FAIR_CHILD_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 261,
+          "ja": "子どもの家畜は出品できない",
+          "tc": "幼小的家畜無法出售。",
+          "sc": "幼小的家畜无法参赛。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 33,
+      "rec_id": "LOG_CAN_NOT_SOWING_PLACE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 269,
+          "ja": "ここには植えられない",
+          "tc": "無法種植於此。",
+          "sc": "无法种植于此。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 34,
+      "rec_id": "LOG_NO_COIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "コインが足りない……",
+          "tc": "硬幣不夠……",
+          "sc": "硬币不够……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 35,
+      "rec_id": "LOG_NOT_PASS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 285,
+          "ja": "この先はまだ通れない",
+          "tc": "前方還無法通行……",
+          "sc": "前方还无法通行……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 36,
+      "rec_id": "LOG_WHISTLE_DOG_UNREACHABLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 293,
+          "ja": "ここに来られないみたい……",
+          "tc": "似乎是無法來這裡了……",
+          "sc": "似乎无法来这里了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 37,
+      "rec_id": "LOG_WHISTLE_DOG_UNCALLABLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 301,
+          "ja": "今は呼べない",
+          "tc": "現在無法呼叫。",
+          "sc": "现在无法呼唤。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 38,
+      "rec_id": "LOG_WHISTLE_DOG_LATE_NIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 309,
+          "ja": "寝てるみたい……",
+          "tc": "好像睡著了……",
+          "sc": "好像睡着了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 39,
+      "rec_id": "LOG_MEMO_REMOVE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 317,
+          "ja": "メモを削除した",
+          "tc": "已刪除筆記。",
+          "sc": "已删除笔记。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 40,
+      "rec_id": "LOG_MEMO_ADD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 325,
+          "ja": "<value 1>をメモした",
+          "tc": "記下了<value 1>。",
+          "sc": "记下了<value 1>。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 41,
+      "rec_id": "LOG_NO_PLACEMENT_TREE_GIMMICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 333,
+          "ja": "生育中の木には設置できない",
+          "tc": "無法設置於生長中的樹木上。",
+          "sc": "无法设置于生长中的树木上。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 42,
+      "rec_id": "LOG_NO_HUNTING_LICENSE_DAMAGED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 341,
+          "ja": "まだ狩猟免許を持ってない動物だ",
+          "tc": "是還沒取得相應狩獵執照的動物",
+          "sc": "是还没取得相应狩猎执照的动物"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 43,
+      "rec_id": "LOG_NO_HUNTING_LICENSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 349,
+          "ja": "まだ狩猟免許を持ってない動物だった……",
+          "tc": "是還沒取得相應狩獵執照的動物……",
+          "sc": "是还没取得相应狩猎执照的动物……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 44,
+      "rec_id": "LOG_NO_PLACEMENT_STUMP_GIMMICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "きりかぶには設置できない",
+          "tc": "無法設置於樹樁上。",
+          "sc": "无法设置于树桩上。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 45,
+      "rec_id": "LOG_NO_TREE_SHAKE_HARVEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "この木にはなにも実ってない",
+          "tc": "這棵樹上沒有結出任何果實。",
+          "sc": "这棵树上没有结出任何果实。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 46,
+      "rec_id": "LOG_NO_CERTIFICATE_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 373,
+          "ja": "狩猟証明を一つも持っていない",
+          "tc": "未持有任何狩獵證明。",
+          "sc": "未持有任何狩猎证明。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 47,
+      "rec_id": "LOG_FULL_HUNT_REWARD_BOX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 381,
+          "ja": "先に報酬箱を整理しよう",
+          "tc": "先整理獎勵箱吧。",
+          "sc": "先整理奖励箱吧。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 48,
+      "rec_id": "LOG_NO_SWEET_POTATO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 389,
+          "ja": "サツマイモを持ってない……",
+          "tc": "沒有地瓜……",
+          "sc": "没有红薯……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 49,
+      "rec_id": "LOG_NO_FUEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 397,
+          "ja": "石炭/木炭が足りない……",
+          "tc": "煤炭/木炭不夠……",
+          "sc": "煤炭/木炭不够……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 50,
+      "rec_id": "LOG_NO_DYE_MATERIAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 405,
+          "ja": "小動物の骨/マツ脂が足りない……",
+          "tc": "小動物的骨頭/松脂不夠……",
+          "sc": "小动物的骨头/松脂不够……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 51,
+      "rec_id": "LOG_REMOVAL_ERROR_CHEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 413,
+          "ja": "物が入った収納箱は撤去できない",
+          "tc": "無法撤除已放入物品的收納箱。",
+          "sc": "无法拆除已放入物品的收纳箱。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 52,
+      "rec_id": "LOG_REMOVAL_ERROR_LIVESTOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 421,
+          "ja": "中に家畜がいるので撤去できない",
+          "tc": "內部仍有飼養家畜，無法撤除。",
+          "sc": "内部仍有饲养家畜，无法拆除。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 53,
+      "rec_id": "LOG_REMOVAL_ERROR_CONSTRUCT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 429,
+          "ja": "中に物が入っていて撤去できない",
+          "tc": "內部仍有物品，無法撤除。",
+          "sc": "内部仍有物品，无法拆除。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 54,
+      "rec_id": "LOG_SHOP_CLOSED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 437,
+          "ja": "営業時間外だ……",
+          "tc": "現在不是營業時間……",
+          "sc": "现在不是营业时间……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 55,
+      "rec_id": "LOG_NOT_ENOUGHT_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "<value 1>が足りない……",
+          "tc": "<value 1>不夠……",
+          "sc": "<value 1>不够……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 56,
+      "rec_id": "LOG_FORBID_RELEASE_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 453,
+          "ja": "この道具は手放せない",
+          "tc": "無法丟棄此道具。",
+          "sc": "无法丢弃此道具。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 57,
+      "rec_id": "LOG_FORBID_SELL_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 461,
+          "ja": "この道具は売却できない",
+          "tc": "無法售出此道具。",
+          "sc": "无法售出此道具。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 58,
+      "rec_id": "LOG_TRAP_PLACEMENT_LIMIT_AREA",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 469,
+          "ja": "同種の罠が近くにある",
+          "tc": "附近有同種類的陷阱。",
+          "sc": "附近有同种类的陷阱。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 59,
+      "rec_id": "LOG_TRAP_PLACEMENT_LIMIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 477,
+          "ja": "これ以上置けない……",
+          "tc": "無法放置更多了……",
+          "sc": "无法放置更多了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 60,
+      "rec_id": "LOG_GIMMICK_PLACEMENT_LIMIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "周囲に物が多すぎる……",
+          "tc": "周圍物品太多了……",
+          "sc": "周围物品太多了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 61,
+      "rec_id": "LOG_GIMMICK_PLACEMENT_INDOOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 493,
+          "ja": "これは屋内に置こう",
+          "tc": "這個就放在室內吧。",
+          "sc": "这个就放在室内吧。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 62,
+      "rec_id": "LOG_GIMMICK_PLACEMENT_OUTDOOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 501,
+          "ja": "これは外に置こう",
+          "tc": "這個就放在戶外吧。",
+          "sc": "这个就放在室外吧。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 63,
+      "rec_id": "LOG_GIMMICK_PLACEMENT_MYHOSUE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 509,
+          "ja": "これは自宅に置こう",
+          "tc": "這個就放在家裡吧。",
+          "sc": "这个就放在家里吧。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 64,
+      "rec_id": "LOG_NO_USE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 517,
+          "ja": "ここでは使えない",
+          "tc": "無法在此處使用。",
+          "sc": "无法在此处使用。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 65,
+      "rec_id": "LOG_CONSTRUCTION_IN_PROGRESS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 525,
+          "ja": "他の建物を建設中だ……",
+          "tc": "正在建設其他建築……",
+          "sc": "正在建设其他建筑……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 66,
+      "rec_id": "LOG_FORBID_DIVIDE_STOCK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 533,
+          "ja": "この道具は分けられない",
+          "tc": "這個道具不能分出去。",
+          "sc": "这个道具不能分出去。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 67,
+      "rec_id": "LOG_FORBID_ADD_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 541,
+          "ja": "これ以上持てない……",
+          "tc": "無法持有更多了……",
+          "sc": "无法持有更多了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 68,
+      "rec_id": "LOG_FORBID_REVERSE_ARCHITECTURE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 549,
+          "ja": "この建物は移築の際に反転できない",
+          "tc": "此建築在移建時無法翻轉配置。",
+          "sc": "此建筑在迁建时无法翻转配置。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 69,
+      "rec_id": "LOG_SHIPPING_PRICE_MAX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 557,
+          "ja": "これ以上お金は支払われない",
+          "tc": "無法支付更多費用。",
+          "sc": "无法支付更多费用。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 70,
+      "rec_id": "LOG_NOT_DISCARD_CHEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 565,
+          "ja": "廃棄不可の物が入っていて回収できない",
+          "tc": "內有無法丟棄的物品，無法回收。",
+          "sc": "内有无法丢弃的物品，无法回收。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 71,
+      "rec_id": "LOG_NOT_DISCARD_TABLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 573,
+          "ja": "上に廃棄不可の物があるから回収できない",
+          "tc": "上方有無法丟棄的物品，無法回收。",
+          "sc": "上方有无法丢弃的物品，无法回收。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 72,
+      "rec_id": "LOG_CRAFT_NOT_CRAFT_MORE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 581,
+          "ja": "すでに作ってある",
+          "tc": "已製作。",
+          "sc": "已制作。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 73,
+      "rec_id": "LOG_NOT_SOWING_FERTILIZER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 589,
+          "ja": "ここには肥料を撒けない",
+          "tc": "無法於此播撒肥料。",
+          "sc": "无法于此播撒肥料。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 74,
+      "rec_id": "LOG_NOT_EQUIP_ACCESSORY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 597,
+          "ja": "この後ろ髪ではつけられない……",
+          "tc": "無法裝在這個後髮髮型上……",
+          "sc": "无法装在这个后发发型上……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 75,
+      "rec_id": "LOG_DETACH_ACCESSORY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "つけられないアクセサリを外した",
+          "tc": "已卸除無法穿戴的飾品。",
+          "sc": "已卸下无法佩戴的饰品。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 76,
+      "rec_id": "LOG_GIMMICK_PLACEMENT_OBSTACLE_UNIT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 613,
+          "ja": "ここにいると置けない……",
+          "tc": "在這裡無法放置……",
+          "sc": "站在这里无法放置……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 77,
+      "rec_id": "LOG_HAVE_MEMO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 621,
+          "ja": "これはすでにメモしてある",
+          "tc": "已經加入筆記過。",
+          "sc": "已经加入过笔记。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 78,
+      "rec_id": "LOG_SHIPPING_SLOT_FULL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 629,
+          "ja": "これ以上は出荷できない……",
+          "tc": "無法再繼續出貨……",
+          "sc": "无法再继续出货……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 79,
+      "rec_id": "LOG_ITEM_LOST_CURSED_RED_CANDLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 637,
+          "ja": "赤い蝋燭が燃え尽きた……",
+          "tc": "紅色蠟燭燃盡了……",
+          "sc": "红色蜡烛燃尽了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 80,
+      "rec_id": "LOG_ITEM_LOST_CURSED_BLUE_CANDLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 645,
+          "ja": "青い蝋燭が燃え尽きた……",
+          "tc": "藍色蠟燭燃盡了……",
+          "sc": "蓝色蜡烛燃尽了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 81,
+      "rec_id": "LOG_ITEM_LOST_TRAP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 653,
+          "ja": "罠が壊れた……",
+          "tc": "陷阱壞掉了……",
+          "sc": "陷阱坏掉了……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 82,
+      "rec_id": "LOG_HORROR_01_TEXT_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 661,
+          "ja": "…………ﾃ",
+          "tc": "…………我。",
+          "sc": "…………我。"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 83,
+      "rec_id": "LOG_HORROR_01_TEXT_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 669,
+          "ja": "霑ｽ繧上ｌ 縺ｦ縺?∪縺 謔ｪ縺 蜉ｩ縺代!!∝勧縺代!!",
+          "tc": "@#%!! @#%!! **($&@^@#%!!",
+          "sc": "@#%!! @#%!! **($&@^@#%!!"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 84,
+      "rec_id": "LOG_HORROR_01_TEXT_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 677,
+          "ja": "ﾀｽ…………ﾃ",
+          "tc": "救…………我……",
+          "sc": "救…………我……"
+        }
+      ]
+    },
+    {
+      "file": "logText.dat",
+      "rec_idx": 85,
+      "rec_id": "LOG_HORROR_01_TEXT_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 685,
+          "ja": "ｺﾜ……ｼﾃ……",
+          "tc": "破……壞掉……",
+          "sc": "破……坏掉……"
+        }
+      ]
+    }
+  ]
+}

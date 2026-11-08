@@ -1,0 +1,2310 @@
+{
+  "batch_id": "batch_009_world_meta",
+  "group": "world_meta",
+  "files": [
+    "bundle.dat",
+    "bundleGroup.dat",
+    "construction.dat",
+    "skillTree.dat"
+  ],
+  "record_count": 128,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "construction.dat",
+      "rec_idx": 11,
+      "rec_id": "CONSTRUCTION_ID_BUILD_LIVESTOCK_HOUSE_LV1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 425,
+          "ja": "小さな家畜小屋",
+          "tc": "小型畜舍",
+          "sc": "小型畜舍"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 432,
+          "ja": "ウシやヒツジを、４頭まで飼育できる小屋。",
+          "tc": "最多可以飼養4頭牛或綿羊的畜舍。",
+          "sc": "最多可以饲养4头牛或绵羊的畜舍。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 439,
+          "ja": "庭には最大４軒まで建てられる。",
+          "tc": "庭院中最多可建造4座。",
+          "sc": "庭院中最多可建造4座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 446,
+          "ja": "１２×９マスの建築スペースが必要。",
+          "tc": "需要12×9格的建築空間。",
+          "sc": "需要12×9格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 12,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_LIVESTOCK_HOUSE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 455,
+          "ja": "家畜小屋",
+          "tc": "畜舍",
+          "sc": "畜舍"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 462,
+          "ja": "たくさんの動物を飼える広さの家畜小屋。",
+          "tc": "能夠飼養許多動物的寬敞畜舍。",
+          "sc": "能够饲养许多动物的宽敞畜舍。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 469,
+          "ja": "大きな家畜を、８頭まで飼育できる。",
+          "tc": "最多可以飼養8頭大型家畜。",
+          "sc": "最多可以饲养8头大型家畜。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 13,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_LIVESTOCK_HOUSE_LV3",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "大きな家畜小屋",
+          "tc": "大型畜舍",
+          "sc": "大型畜舍"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 492,
+          "ja": "広々としたゆとりのある家畜小屋。",
+          "tc": "擁有大空間的畜舍。",
+          "sc": "拥有大空间的畜舍。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 499,
+          "ja": "大きな家畜を、１２頭まで飼育できる。",
+          "tc": "最多可以飼養12頭大型家畜。",
+          "sc": "最多可以饲养12头大型家畜。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 506,
+          "ja": "ホッパーの牧草を自動給餌する機械付き。",
+          "tc": "附帶連接儲料斗的自動牧草餵食器。",
+          "sc": "附带连接储料斗的自动牧草喂食器。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 14,
+      "rec_id": "CONSTRUCTION_ID_BUILD_SILO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 515,
+          "ja": "サイロ",
+          "tc": "筒倉",
+          "sc": "筒仓"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 522,
+          "ja": "牧草の最大貯蔵量を９９９個に増やす設備。",
+          "tc": "能夠將牧草的儲藏量增加到999份的設備。",
+          "sc": "能够将牧草的储藏量增加到999份的设备。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 529,
+          "ja": "この建物は、庭に１つしか建てられない。",
+          "tc": "此建築物於庭院中最多只可建造1座。",
+          "sc": "此建筑物于庭院中最多只可建造1座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 536,
+          "ja": "３×３マスの建築スペースが必要。",
+          "tc": "需要3×3格的建築空間。",
+          "sc": "需要3×3格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 15,
+      "rec_id": "CONSTRUCTION_ID_BUILD_STABLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 545,
+          "ja": "馬小屋",
+          "tc": "馬廄",
+          "sc": "马厩"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 552,
+          "ja": "ウマを３頭まで飼育できる小屋。",
+          "tc": "最多可以飼養3頭馬的馬廄。",
+          "sc": "最多可以饲养3匹马的马厩。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 559,
+          "ja": "この建物は、庭に１つしか建てられない。",
+          "tc": "此建築物於庭院中最多只可建造1座。",
+          "sc": "此建筑物于庭院中最多只可建造1座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 566,
+          "ja": "８×４マスの建築スペースが必要。",
+          "tc": "需要8×4格的建築空間。",
+          "sc": "需要8×4格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 16,
+      "rec_id": "CONSTRUCTION_ID_BUILD_BARN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 575,
+          "ja": "納屋",
+          "tc": "倉庫",
+          "sc": "仓库"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 582,
+          "ja": "内部の部屋にいろいろな物を置ける建物。",
+          "tc": "能夠在裡面放置各種物品的建築物。",
+          "sc": "能够在里面放置各种物品的建筑物。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 589,
+          "ja": "庭には最大２軒まで建てられる。",
+          "tc": "庭院中最多可建造2座。",
+          "sc": "庭院中最多可建造2座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 596,
+          "ja": "５×４マスの建築スペースが必要。",
+          "tc": "需要5×4格的建築空間。",
+          "sc": "需要5×4格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 17,
+      "rec_id": "CONSTRUCTION_ID_BUILD_BIRD_BATH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "バードバス",
+          "tc": "鳥浴盆",
+          "sc": "鸟浴盆"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 612,
+          "ja": "小鳥が訪れ、植物の種を落としていく設備。",
+          "tc": "能夠吸引小鳥來訪，並掉落植物種子的設施。",
+          "sc": "能够吸引小鸟来访，并掉落植物种子的设施。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 619,
+          "ja": "庭には最大３つまで建てられる。",
+          "tc": "庭院中最多可建造3座。",
+          "sc": "庭院中最多可建造3座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 626,
+          "ja": "２×２マスの建築スペースが必要。",
+          "tc": "需要2×2格的建築空間。",
+          "sc": "需要2×2格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 18,
+      "rec_id": "CONSTRUCTION_ID_BUILD_WELL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 635,
+          "ja": "井戸",
+          "tc": "水井",
+          "sc": "水井"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 642,
+          "ja": "ジョウロに水を汲むための水場。",
+          "tc": "澆水壺的取水處。",
+          "sc": "浇水壶的取水处。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 649,
+          "ja": "庭には最大３つまで建てられる。",
+          "tc": "庭院中最多可建造3座。",
+          "sc": "庭院中最多可建造3座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 656,
+          "ja": "２×２マスの建築スペースが必要。",
+          "tc": "需要2×2格的建築空間。",
+          "sc": "需要2×2格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 19,
+      "rec_id": "CONSTRUCTION_ID_BUILD_FISH_TANK_LV1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 665,
+          "ja": "生け簀",
+          "tc": "養魚池",
+          "sc": "养鱼池"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 672,
+          "ja": "お魚を１０匹まで入れられる生け簀。",
+          "tc": "最多可容納10條魚的養魚池。",
+          "sc": "最多可容纳10条鱼的养鱼池。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 679,
+          "ja": "庭には最大３つまで建てられる。",
+          "tc": "庭院中最多可建造3座。",
+          "sc": "庭院中最多可建造3座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 686,
+          "ja": "３×３マスの建築スペースが必要。",
+          "tc": "需要3×3格的建築空間。",
+          "sc": "需要3×3格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 20,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_FISH_TANK_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 695,
+          "ja": "大きな生け簀",
+          "tc": "大型養魚池",
+          "sc": "大型养鱼池"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 702,
+          "ja": "お魚を入れて育てるための、大きな生け簀。",
+          "tc": "可以養殖魚類的大型養魚池。",
+          "sc": "可以养殖鱼类的大型养鱼池。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 709,
+          "ja": "お魚が３０匹まで入れられるようになる。",
+          "tc": "最多可容納30條魚。",
+          "sc": "最多可容纳30条鱼。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 21,
+      "rec_id": "CONSTRUCTION_ID_DOG_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 725,
+          "ja": "犬小屋",
+          "tc": "狗屋",
+          "sc": "狗屋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 732,
+          "ja": "犬のための小さなお家。",
+          "tc": "給狗狗住的小房子。",
+          "sc": "给狗狗住的小房子。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 739,
+          "ja": "この建物は、庭に１つしか建てられない。",
+          "tc": "此建築物於庭院中最多只可建造1座。",
+          "sc": "此建筑物于庭院中最多只可建造1座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 746,
+          "ja": "２×３マスの建築スペースが必要。",
+          "tc": "需要2×3格的建築空間。",
+          "sc": "需要2×3格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 22,
+      "rec_id": "CONSTRUCTION_ID_GREENHOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 755,
+          "ja": "温室",
+          "tc": "溫室",
+          "sc": "温室"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 762,
+          "ja": "季節に関係なく作物を育てられる設備。",
+          "tc": "能夠不分季節種植作物的設施。",
+          "sc": "能够不分季节种植作物的设施。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 769,
+          "ja": "この建物は、庭に１つしか建てられない。",
+          "tc": "此建築物於庭院中最多只可建造1座。",
+          "sc": "此建筑物于庭院中最多只可建造1座。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 776,
+          "ja": "９×７マスの建築スペースが必要。",
+          "tc": "需要9×7格的建築空間。",
+          "sc": "需要9×7格的建筑空间。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 23,
+      "rec_id": "CONSTRUCTION_ID_MAKEOVER_NORMAL_WALL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 785,
+          "ja": "普通の壁（デフォルト）",
+          "tc": "普通的牆壁（預設）",
+          "sc": "普通的墙壁（默认）"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 792,
+          "ja": "お部屋の模様替え用の壁紙。",
+          "tc": "能夠替換房間風格的壁紙。",
+          "sc": "能够替换房间风格的壁纸。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 799,
+          "ja": "これが本来のお家の壁。",
+          "tc": "這是這間房子原本的牆壁。",
+          "sc": "这是这间房子原本的墙壁。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 24,
+      "rec_id": "CONSTRUCTION_ID_MAKEOVER_BRIGHT_WALL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 815,
+          "ja": "明るい壁",
+          "tc": "明亮的牆壁",
+          "sc": "明亮的墙壁"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 822,
+          "ja": "お部屋の模様替え用の壁紙。",
+          "tc": "能夠替換房間風格的壁紙。",
+          "sc": "能够替换房间风格的壁纸。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 829,
+          "ja": "白くてどんな家具とも合いやすい。",
+          "tc": "白色跟任何家具都很搭。",
+          "sc": "白色跟任何家具都很搭。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 25,
+      "rec_id": "CONSTRUCTION_ID_MAKEOVER_STYLISH_WALL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 845,
+          "ja": "おしゃれな壁",
+          "tc": "時尚的牆壁",
+          "sc": "时尚的墙壁"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 852,
+          "ja": "お部屋の模様替え用の壁紙。",
+          "tc": "能夠替換房間風格的壁紙。",
+          "sc": "能够替换房间风格的壁纸。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 859,
+          "ja": "赤が印象的で壁が主役になりそう。",
+          "tc": "很搶眼的紅色，感覺牆壁反而成為了注目焦點。",
+          "sc": "很抢眼的红色，感觉墙壁反而成为了注目焦点。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 26,
+      "rec_id": "CONSTRUCTION_ID_MAKEOVER_COLD_WALL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 875,
+          "ja": "冷たい壁",
+          "tc": "冷色的牆壁",
+          "sc": "冷色的墙壁"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 882,
+          "ja": "お部屋の模様替え用の壁紙。",
+          "tc": "能夠替換房間風格的壁紙。",
+          "sc": "能够替换房间风格的壁纸。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 889,
+          "ja": "どんな部屋になるか、個性がでそう。",
+          "tc": "會變成怎樣的房間，要看房間主人的品味。",
+          "sc": "会变成怎样的房间，要看房间主人的品味。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 27,
+      "rec_id": "CONSTRUCTION_ID_ORDINARY_FLOORBOARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 905,
+          "ja": "普通の床（デフォルト）",
+          "tc": "普通的地板（預設）",
+          "sc": "普通的地板（默认）"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 912,
+          "ja": "お部屋の模様替え用の床材。",
+          "tc": "能夠替換房間風格的地板材質。",
+          "sc": "能够替换房间风格的地板材质。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 919,
+          "ja": "これが本来のお家の床。",
+          "tc": "這是這間房子原本的地板。",
+          "sc": "这是这间房子原本的地板。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 28,
+      "rec_id": "CONSTRUCTION_ID_AUSTERE_FLOORBOARD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 935,
+          "ja": "渋い木の床",
+          "tc": "質樸的木頭地板",
+          "sc": "质朴的木头地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 942,
+          "ja": "お部屋の模様替え用の床材。",
+          "tc": "能夠替換房間風格的地板材質。",
+          "sc": "能够替换房间风格的地板材质。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 949,
+          "ja": "落ち着いた雰囲気にしてくれそう。",
+          "tc": "感覺能營造出沉穩的氛圍。",
+          "sc": "感觉能营造出沉稳的氛围。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 29,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_ANVIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 965,
+          "ja": "金床",
+          "tc": "鐵砧",
+          "sc": "铁砧"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 30,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_AVIARY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 995,
+          "ja": "鶏小屋",
+          "tc": "雞舍",
+          "sc": "鸡舍"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 31,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_LIVESTOCK_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1025,
+          "ja": "家畜小屋",
+          "tc": "畜舍",
+          "sc": "畜舍"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 32,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_SILO",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1055,
+          "ja": "サイロ",
+          "tc": "筒倉",
+          "sc": "筒仓"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 33,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_STABLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1085,
+          "ja": "馬小屋",
+          "tc": "馬廄",
+          "sc": "马厩"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 34,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_BARN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1115,
+          "ja": "納屋",
+          "tc": "倉庫",
+          "sc": "仓库"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 35,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_BIRD_BATH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1145,
+          "ja": "バードバス",
+          "tc": "鳥浴盆",
+          "sc": "鸟浴盆"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 36,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_WELL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1175,
+          "ja": "井戸",
+          "tc": "水井",
+          "sc": "水井"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 37,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_FISH_TANK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1205,
+          "ja": "生け簀",
+          "tc": "養魚池",
+          "sc": "养鱼池"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 38,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_DOG_HOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1235,
+          "ja": "犬小屋",
+          "tc": "狗屋",
+          "sc": "狗屋"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 39,
+      "rec_id": "CONSTRUCTION_ID_RELOCATION_GREENHOUSE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1265,
+          "ja": "温室",
+          "tc": "溫室",
+          "sc": "温室"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 40,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_WESTERN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 185,
+          "ja": "洋風な外装",
+          "tc": "西式房屋外觀",
+          "sc": "西式房屋外观"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 192,
+          "ja": "おしゃれな雰囲気のお家の外装。",
+          "tc": "流行時尚的房屋外觀。",
+          "sc": "流行时尚的房屋外观。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 199,
+          "ja": "自宅の見た目だけを変えられる。",
+          "tc": "只會變更房屋的外觀。",
+          "sc": "只会变更房屋的外观。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 41,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_THATCHED",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 215,
+          "ja": "茅葺き屋根の外装",
+          "tc": "茅葺屋房屋外觀",
+          "sc": "茅葺屋房屋外观"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 222,
+          "ja": "昔ながらの良さがあるお家の外装。",
+          "tc": "保有昔日魅力的房屋外觀。",
+          "sc": "保有昔日魅力的房屋外观。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 229,
+          "ja": "自宅の見た目だけを変えられる。",
+          "tc": "只會變更房屋的外觀。",
+          "sc": "只会变更房屋的外观。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 42,
+      "rec_id": "CONSTRUCTION_ID_RENOVATION_MY_HOUSE_PLASTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "漆喰の外装",
+          "tc": "灰泥房屋外觀",
+          "sc": "灰泥房屋外观"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 252,
+          "ja": "漆喰の壁の味わい深いお家の外装。",
+          "tc": "韻味十足的灰泥牆房屋外觀。",
+          "sc": "韵味十足的灰泥墙房屋外观。"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 259,
+          "ja": "自宅の見た目だけを変えられる。",
+          "tc": "只會變更房屋的外觀。",
+          "sc": "只会变更房屋的外观。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 43,
+      "rec_id": "CONSTRUCTION_ID_REMOVE_RUBBLE_BEHIND_RANCH",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1295,
+          "ja": "庭の裏道の開通",
+          "tc": "開通庭院的小路",
+          "sc": "开通庭院的小路"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1302,
+          "ja": "庭の裏道を塞いでいる瓦礫の撤去。",
+          "tc": "清除堵住庭院小路的瓦礫，",
+          "sc": "清除堵住庭院小路的瓦砾，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1309,
+          "ja": "庭から石切場へ繋がる道が開通する。",
+          "tc": "能夠開通通往採石場的道路。",
+          "sc": "能够开通通往采石场的道路。"
+        }
+      ]
+    },
+    {
+      "file": "construction.dat",
+      "rec_idx": 44,
+      "rec_id": "CONSTRUCTION_ID_EXPANTION_ADDITIONAL_FARMLAND",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1325,
+          "ja": "農地の拡張",
+          "tc": "農地擴建",
+          "sc": "农地扩建"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1332,
+          "ja": "庭の南側の瓦礫を撤去して、",
+          "tc": "清理庭院南側的瓦礫，",
+          "sc": "清理庭院南侧的瓦砾，"
+        },
+        {
+          "f_idx": 2,
+          "pidx_tc": 1339,
+          "ja": "道の先の土地を農地として使えるようにする。",
+          "tc": "即可將道路前方的土地開墾為農地。",
+          "sc": "即可将道路前方的土地开垦为农地。"
+        },
+        {
+          "f_idx": 3,
+          "pidx_tc": 1346,
+          "ja": "費用にはリンに支払う土地代も含む。",
+          "tc": "當中包含支付給林的土地費用。",
+          "sc": "当中包含支付给林的土地费用。"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 0,
+      "rec_id": "BUNDLE_ID_SPRING_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "春の山菜奉納",
+          "tc": "供奉春季山菜",
+          "sc": "供奉春季山菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 1,
+      "rec_id": "BUNDLE_ID_SPRING_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 13,
+          "ja": "春の野菜奉納",
+          "tc": "供奉春季蔬菜",
+          "sc": "供奉春季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 2,
+      "rec_id": "BUNDLE_ID_SPRING_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 21,
+          "ja": "春の花奉納",
+          "tc": "供奉春季花卉",
+          "sc": "供奉春季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 3,
+      "rec_id": "BUNDLE_ID_SPRING_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 29,
+          "ja": "春の魚奉納",
+          "tc": "供奉春季漁產",
+          "sc": "供奉春季渔产"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 4,
+      "rec_id": "BUNDLE_ID_SUMMER_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 37,
+          "ja": "夏の山菜奉納",
+          "tc": "供奉夏季山菜",
+          "sc": "供奉夏季山菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 5,
+      "rec_id": "BUNDLE_ID_SUMMER_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 45,
+          "ja": "夏の野菜奉納",
+          "tc": "供奉夏季蔬菜",
+          "sc": "供奉夏季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 6,
+      "rec_id": "BUNDLE_ID_SUMMER_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "夏の花奉納",
+          "tc": "供奉夏季花卉",
+          "sc": "供奉夏季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 7,
+      "rec_id": "BUNDLE_ID_SUMMER_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 61,
+          "ja": "夏の魚奉納",
+          "tc": "供奉夏季漁產",
+          "sc": "供奉夏季渔产"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 8,
+      "rec_id": "BUNDLE_ID_AUTUMN_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "秋の山菜奉納",
+          "tc": "供奉秋季山菜",
+          "sc": "供奉秋季山菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 9,
+      "rec_id": "BUNDLE_ID_AUTUMN_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 77,
+          "ja": "秋の野菜奉納",
+          "tc": "供奉秋季蔬菜",
+          "sc": "供奉秋季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 10,
+      "rec_id": "BUNDLE_ID_AUTUMN_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 85,
+          "ja": "秋の花奉納",
+          "tc": "供奉秋季花卉",
+          "sc": "供奉秋季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 11,
+      "rec_id": "BUNDLE_ID_AUTUMN_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 93,
+          "ja": "秋の魚奉納",
+          "tc": "供奉秋季漁產",
+          "sc": "供奉秋季渔产"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 12,
+      "rec_id": "BUNDLE_ID_WINTER_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 101,
+          "ja": "冬の山菜奉納",
+          "tc": "供奉冬季山菜",
+          "sc": "供奉冬季山菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 13,
+      "rec_id": "BUNDLE_ID_WINTER_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 109,
+          "ja": "冬の野菜奉納",
+          "tc": "供奉冬季蔬菜",
+          "sc": "供奉冬季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 14,
+      "rec_id": "BUNDLE_ID_WINTER_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 117,
+          "ja": "冬の花奉納",
+          "tc": "供奉冬季花卉",
+          "sc": "供奉冬季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 15,
+      "rec_id": "BUNDLE_ID_WINTER_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "冬の魚奉納",
+          "tc": "供奉冬季漁產",
+          "sc": "供奉冬季渔产"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 16,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 133,
+          "ja": "木材",
+          "tc": "木材",
+          "sc": "木材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 17,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 141,
+          "ja": "石材",
+          "tc": "石材",
+          "sc": "石材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 18,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 149,
+          "ja": "木材",
+          "tc": "木材",
+          "sc": "木材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 19,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_02_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 157,
+          "ja": "石材",
+          "tc": "石材",
+          "sc": "石材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 20,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 165,
+          "ja": "木材",
+          "tc": "木材",
+          "sc": "木材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 21,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_03_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 173,
+          "ja": "石材",
+          "tc": "石材",
+          "sc": "石材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 22,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_04_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 181,
+          "ja": "木材",
+          "tc": "木材",
+          "sc": "木材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 23,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_04_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 189,
+          "ja": "石材",
+          "tc": "石材",
+          "sc": "石材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 24,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_05_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 197,
+          "ja": "木材",
+          "tc": "木材",
+          "sc": "木材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 25,
+      "rec_id": "BUNDLE_ID_SHRINE_REPAIR_05_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 205,
+          "ja": "石材",
+          "tc": "石材",
+          "sc": "石材"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 26,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_01_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 213,
+          "ja": "木材の依頼",
+          "tc": "木材的訂單",
+          "sc": "木材的订单"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 27,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_01_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 221,
+          "ja": "石材の依頼",
+          "tc": "石材的訂單",
+          "sc": "石材的订单"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 28,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_01_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 229,
+          "ja": "食品の依頼",
+          "tc": "食品的訂單",
+          "sc": "食品的订单"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 29,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_02_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 237,
+          "ja": "春の野菜",
+          "tc": "春季蔬菜",
+          "sc": "春季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 30,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_02_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "夏の野菜",
+          "tc": "夏季蔬菜",
+          "sc": "夏季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 31,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_02_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 253,
+          "ja": "秋の野菜",
+          "tc": "秋季蔬菜",
+          "sc": "秋季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 32,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_02_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 261,
+          "ja": "冬の野菜",
+          "tc": "冬季蔬菜",
+          "sc": "冬季蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 33,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_03_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 269,
+          "ja": "春の果物",
+          "tc": "春季水果",
+          "sc": "春季水果"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 34,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_03_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 277,
+          "ja": "夏の果物",
+          "tc": "夏季水果",
+          "sc": "夏季水果"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 35,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_03_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 285,
+          "ja": "秋の果物",
+          "tc": "秋季水果",
+          "sc": "秋季水果"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 36,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_03_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 293,
+          "ja": "冬の果物",
+          "tc": "冬季水果",
+          "sc": "冬季水果"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 37,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_04_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 301,
+          "ja": "春の花",
+          "tc": "春季花卉",
+          "sc": "春季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 38,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_04_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 309,
+          "ja": "夏の花",
+          "tc": "夏季花卉",
+          "sc": "夏季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 39,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_04_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 317,
+          "ja": "秋の花",
+          "tc": "秋季花卉",
+          "sc": "秋季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 40,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_04_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 325,
+          "ja": "冬の花",
+          "tc": "冬季花卉",
+          "sc": "冬季花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 41,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_05_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 333,
+          "ja": "漬物",
+          "tc": "醃漬物",
+          "sc": "腌渍物"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 42,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_05_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 341,
+          "ja": "お酒",
+          "tc": "酒",
+          "sc": "酒"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 43,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_05_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 349,
+          "ja": "調味料",
+          "tc": "調味料",
+          "sc": "调味料"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 44,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_05_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 357,
+          "ja": "加工品",
+          "tc": "加工品",
+          "sc": "加工品"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 45,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_06_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "タマゴ",
+          "tc": "蛋",
+          "sc": "蛋"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 46,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_06_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 373,
+          "ja": "畜産品",
+          "tc": "畜產品",
+          "sc": "畜产品"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 47,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_06_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 381,
+          "ja": "家畜の毛",
+          "tc": "家畜毛",
+          "sc": "家畜毛"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 48,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_06_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 389,
+          "ja": "家畜の肉",
+          "tc": "家畜肉",
+          "sc": "家畜肉"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 49,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_07_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 397,
+          "ja": "小動物の素材",
+          "tc": "小動物的材料",
+          "sc": "小动物的材料"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 50,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_07_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 405,
+          "ja": "小動物の希少素材",
+          "tc": "小動物的稀有材料",
+          "sc": "小动物的稀有材料"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 51,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_07_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 413,
+          "ja": "大型動物の素材",
+          "tc": "大型動物的材料",
+          "sc": "大型动物的材料"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 52,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_07_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 421,
+          "ja": "大型動物の希少素材",
+          "tc": "大型動物的稀有材料",
+          "sc": "大型动物的稀有材料"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 53,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_08_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 429,
+          "ja": "小型の魚",
+          "tc": "小型魚",
+          "sc": "小型鱼"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 54,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_08_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 437,
+          "ja": "中型の魚",
+          "tc": "中型魚",
+          "sc": "中型鱼"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 55,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_08_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 445,
+          "ja": "大型の魚",
+          "tc": "大型魚",
+          "sc": "大型鱼"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 56,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_08_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 453,
+          "ja": "幻の魚",
+          "tc": "夢幻之魚",
+          "sc": "梦幻之鱼"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 57,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_09_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 461,
+          "ja": "高品質の作物",
+          "tc": "高品質作物",
+          "sc": "高品质作物"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 58,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_09_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 469,
+          "ja": "高品質の畜産品",
+          "tc": "高品質畜產品",
+          "sc": "高品质畜产品"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 59,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_09_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 477,
+          "ja": "高品質な家畜の毛",
+          "tc": "高品質家畜毛",
+          "sc": "高品质家畜毛"
+        }
+      ]
+    },
+    {
+      "file": "bundle.dat",
+      "rec_idx": 60,
+      "rec_id": "BUNDLE_ID_VILLAGE_HEAD_09_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "希少な宝石",
+          "tc": "稀有寶石",
+          "sc": "稀有宝石"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 0,
+      "rec_id": "BUNDLE_GROUP_ID_SPRING_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6,
+          "ja": "狐の社／春",
+          "tc": "狐狸神社／春",
+          "sc": "狐狸神社／春"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 1,
+      "rec_id": "BUNDLE_GROUP_ID_SUMMER_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 15,
+          "ja": "狐の社／夏",
+          "tc": "狐狸神社／夏",
+          "sc": "狐狸神社／夏"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 2,
+      "rec_id": "BUNDLE_GROUP_ID_AUTUMN_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 24,
+          "ja": "狐の社／秋",
+          "tc": "狐狸神社／秋",
+          "sc": "狐狸神社／秋"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 3,
+      "rec_id": "BUNDLE_GROUP_ID_WINTER_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 33,
+          "ja": "狐の社／冬",
+          "tc": "狐狸神社／冬",
+          "sc": "狐狸神社／冬"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 4,
+      "rec_id": "BUNDLE_GROUP_ID_SHRINE_REPAIR_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 42,
+          "ja": "祠の修復",
+          "tc": "修復祠堂",
+          "sc": "修复祠堂"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 5,
+      "rec_id": "BUNDLE_GROUP_ID_SHRINE_REPAIR_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 51,
+          "ja": "祠の修復",
+          "tc": "修復祠堂",
+          "sc": "修复祠堂"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 6,
+      "rec_id": "BUNDLE_GROUP_ID_SHRINE_REPAIR_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 60,
+          "ja": "祠の修復",
+          "tc": "修復祠堂",
+          "sc": "修复祠堂"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 7,
+      "rec_id": "BUNDLE_GROUP_ID_SHRINE_REPAIR_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 69,
+          "ja": "祠の修復",
+          "tc": "修復祠堂",
+          "sc": "修复祠堂"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 8,
+      "rec_id": "BUNDLE_GROUP_ID_SHRINE_REPAIR_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 78,
+          "ja": "祠の修復",
+          "tc": "修復祠堂",
+          "sc": "修复祠堂"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 9,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 87,
+          "ja": "リンのお手伝い",
+          "tc": "協助林",
+          "sc": "协助林"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 10,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 96,
+          "ja": "野菜の納品",
+          "tc": "交付蔬菜",
+          "sc": "交付蔬菜"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 11,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_03",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 105,
+          "ja": "果物の納品",
+          "tc": "交付水果",
+          "sc": "交付水果"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 12,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_04",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 114,
+          "ja": "花の納品",
+          "tc": "交付花卉",
+          "sc": "交付花卉"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 13,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_05",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 123,
+          "ja": "加工品の納品",
+          "tc": "交付加工品",
+          "sc": "交付加工品"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 14,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_06",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 132,
+          "ja": "畜産物の納品",
+          "tc": "交付畜產品",
+          "sc": "交付畜产品"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 15,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_07",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 141,
+          "ja": "狩猟品の納品",
+          "tc": "交付狩獵品",
+          "sc": "交付狩猎品"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 16,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_08",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 150,
+          "ja": "魚の納品",
+          "tc": "交付漁產品",
+          "sc": "交付渔产品"
+        }
+      ]
+    },
+    {
+      "file": "bundleGroup.dat",
+      "rec_idx": 17,
+      "rec_id": "BUNDLE_GROUP_ID_VILLAGE_HEAD_09",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 159,
+          "ja": "高級品の納品",
+          "tc": "交付奢侈品",
+          "sc": "交付奢侈品"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 0,
+      "rec_id": "SKILL_NODE_SKILL_TREE_RELEASE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 6,
+          "ja": "祠の解放",
+          "tc": "解鎖祠堂",
+          "sc": "解锁祠堂"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 13,
+          "ja": "あなたにこの祠を譲ります",
+          "tc": "將這座祠堂讓給你",
+          "sc": "将这座祠堂让给你"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 1,
+      "rec_id": "SKILL_NODE_AGRICULTURE_UNLOCK_FURROW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 22,
+          "ja": "畝の技術",
+          "tc": "田壟技術",
+          "sc": "田垄技术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 29,
+          "ja": "畑をもう一度叩くと「畝」にできる",
+          "tc": "再敲擊一次田地即可形成「田壟」",
+          "sc": "再敲击一次田地即可形成“田垄”"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 2,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_STRAW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 38,
+          "ja": "藁の庭床",
+          "tc": "戶外稻草地板",
+          "sc": "户外稻草地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 45,
+          "ja": "「藁の庭床」の作り方を覚える",
+          "tc": "解鎖「戶外稻草地板」的製作方式",
+          "sc": "解锁“户外稻草地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 3,
+      "rec_id": "SKILL_NODE_CRAFT_COMPOSTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 54,
+          "ja": "コンポスター",
+          "tc": "堆肥桶",
+          "sc": "堆肥桶"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 61,
+          "ja": "「コンポスター」の作り方を覚える",
+          "tc": "解鎖「堆肥桶」的製作方式",
+          "sc": "解锁“堆肥桶”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 4,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_BRICK",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 70,
+          "ja": "レンガの庭床",
+          "tc": "戶外磚頭地板",
+          "sc": "户外砖头地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 77,
+          "ja": "「レンガの庭床」の作り方を覚える",
+          "tc": "解鎖「戶外磚頭地板」的製作方式",
+          "sc": "解锁“户外砖块地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 5,
+      "rec_id": "SKILL_NODE_CRAFT_PURIFY_SALT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 86,
+          "ja": "清めの塩",
+          "tc": "淨化鹽",
+          "sc": "净化盐"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 93,
+          "ja": "「清めの塩」の作り方を覚える",
+          "tc": "解鎖「淨化鹽」的製作方式",
+          "sc": "解锁“净化盐”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 6,
+      "rec_id": "SKILL_NODE_CRAFT_OIL_EXTRACTION_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 102,
+          "ja": "搾油機",
+          "tc": "榨油機",
+          "sc": "榨油机"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 109,
+          "ja": "「搾油機」の作り方を覚える",
+          "tc": "解鎖「榨油機」的製作方式",
+          "sc": "解锁“榨油机”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 7,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_STONE_TILE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 118,
+          "ja": "石タイルの庭床",
+          "tc": "戶外石磚地板",
+          "sc": "户外石砖地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 125,
+          "ja": "「石タイルの庭床」の作り方を覚える",
+          "tc": "解鎖「戶外石磚地板」的製作方式",
+          "sc": "解锁“户外石砖地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 8,
+      "rec_id": "SKILL_NODE_CRAFT_FLOUR_MILL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 134,
+          "ja": "粉挽き",
+          "tc": "研磨機",
+          "sc": "研磨机"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 141,
+          "ja": "「粉挽き」の作り方を覚える",
+          "tc": "解鎖「研磨機」的製作方式",
+          "sc": "解锁“研磨机”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 9,
+      "rec_id": "SKILL_NODE_CRAFT_STRAW_DOLL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 150,
+          "ja": "藁人形",
+          "tc": "稻草人偶",
+          "sc": "稻草人偶"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 157,
+          "ja": "「藁人形」の作り方を覚える",
+          "tc": "解鎖「稻草人偶」的製作方式",
+          "sc": "解锁“稻草人偶”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 10,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_LOG",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 166,
+          "ja": "丸太の庭床",
+          "tc": "戶外原木地板",
+          "sc": "户外原木地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 173,
+          "ja": "「丸太の庭床」の作り方を覚える",
+          "tc": "解鎖「戶外原木地板」的製作方式",
+          "sc": "解锁“户外原木地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 11,
+      "rec_id": "SKILL_NODE_CRAFT_MILK_PROCESSING_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 182,
+          "ja": "ミルク加工機",
+          "tc": "牛奶加工機",
+          "sc": "牛奶加工机"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 189,
+          "ja": "「ミルク加工機」の作り方を覚える",
+          "tc": "解鎖「牛奶加工機」的製作方式",
+          "sc": "解锁“牛奶加工机”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 12,
+      "rec_id": "SKILL_NODE_CRAFT_BRICK_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 198,
+          "ja": "レンガの柵とゲート",
+          "tc": "磚頭柵欄與柵欄門",
+          "sc": "砖头栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 205,
+          "ja": "「レンガの柵」「レンガのゲート」の作り方を覚える",
+          "tc": "解鎖「磚頭柵欄」、「磚頭柵欄門」的製作方式",
+          "sc": "解锁“砖块栅栏”、“砖块栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 13,
+      "rec_id": "SKILL_NODE_CRAFT_CHARCOAL_KILN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 214,
+          "ja": "炭焼き窯",
+          "tc": "木炭窯",
+          "sc": "木炭窑"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 221,
+          "ja": "「炭焼き窯」の作り方を覚える",
+          "tc": "解鎖「木炭窯」的製作方式",
+          "sc": "解锁“木炭窑”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 14,
+      "rec_id": "SKILL_NODE_CRAFT_STORAGE_JAR_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 230,
+          "ja": "漬物樽／改",
+          "tc": "醃菜桶／改",
+          "sc": "腌菜桶／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 237,
+          "ja": "「漬物樽/改」の作り方を覚える",
+          "tc": "解鎖「醃菜桶／改」的製作方式",
+          "sc": "解锁“腌菜桶·改”的制作方式"
+        }
+      ]
+    }
+  ]
+}

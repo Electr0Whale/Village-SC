@@ -11,13 +11,13 @@
 | :--- | :--- |
 | **游戏原名** | ほの暮しの庭 / Village in the Shade / 靜謐田園 |
 | **目标平台** | Nintendo Switch (OLED / v1 / v2 / Lite) |
-| **适用版本** | Base + Update `v1.2.0`（Update 内部版本号 `v393216`） |
+| **适用版本** | Base + Update `v1.3.0`（Update 内部版本号 `v458752`，向后兼容 v1.2.0 v393216） |
 | **TitleID** | `01001BA027DD8000`（Base） / `01001BA027DD8800`（Update） |
 | **补丁类型** | Atmosphere LayeredFS 实机补丁（零大封包修改、免改动原版 NSP） |
 | **补丁产物目录** | `D:\Village-SC\output\atmosphere\contents\01001BA027DD8000\` |
 | **汉化目标语言** | 中国大陆规范现代简体中文（符合《通用规范汉字表》及 GB2312 规范） |
-| **当前状态** | **100% 全量汉化完成 + 深度人设/代词校正完成 + 全量繁体语气词与港台助词（啰/喔/耶/唷/捏/咧/咖哩共 1,829 行）彻底脱繁入简完成 + 官方 PC 级霞鹜文楷等宽 Medium 500 正统字库完成 + 掌机友好 32px 大字号重平衡完成 + Switch 桌面图标与 NACP 简体元数据完成 + 4 处界面遗漏及隐蔽多行文本彻底修复 + 小地图及版权标示官方简中矢量重定向完成 + 数据库 Slot 6 规范化清理完成 + UI 纹理封包 4 大 P0 级底层崩溃死因彻底攻克 + PC Eden 模拟器与实机 Atmosphere 双环境 100% 稳定运行实测通过** |
-| **质检状态** | 自动化门禁测试 **289/289 批次 0 Error / 0 Warning（100% 通过）**，47 个数据库全量编译无损通过，**FAD 411 块 Switch 原生基准解压验证 100% 成功 (0 报错)**，**PC Eden 模拟器加载最新 32px + Medium 500 字库全套补丁实测 0 报错、秒进游戏** |
+| **当前状态** | **全面升级至官方 v1.3.0 升级档！100% 全量汉化完成（56,747 行文本，含全部 14 位村民生日新增剧情、生日设定任务、新道具、新信件与更新文本） + 深度人设/代词校正完成 + 全量繁体语气词与港台助词（啰/喔/耶/唷/捏/咧）彻底脱繁入简完成 + 官方 PC 级霞鹜文楷等宽 Medium 500 正统字库完成 + 【全新发布】日版原生 1.2 倍掌机舒适大字版（46/38/29px）落地 + 引擎底层 font.dat offsetY 垂直基线校准完成（彻底消除放大下沉与 TC 槽位 4px 下推 bug，实现全域完美居中） + Switch 桌面图标与 NACP 简体元数据 (v1.3.0) 完成 + 小地图及版权标示官方简中矢量重定向完成 + UI 纹理封包 (fairy_1_00.dat) 完美适配 413 块贴图及 resident_v130.fad 归档 + PC Eden 模拟器与实机 Atmosphere 双环境 100% 稳定运行实测通过** |
+| **质检状态** | 自动化门禁测试 **294/294 批次 0 Error / 0 Warning（100% 通过）**，47 个数据库全量编译无损通过，**FAD 413 块 Switch 原生基准解压验证 100% 成功 (0 报错)**，**PC Eden 模拟器加载最新 v1.3.0 全套补丁实测 0 报错、秒进游戏** |
 
 ---
 
@@ -39,37 +39,50 @@ D:\Village-SC\
 │   ├── CRASH_AUDIT.md                        # 实机报错排查与四大 P0 级致命缺陷深度归因报告
 │   └── NON_MAINLAND_AUDIT.md                 # 港台腔词汇与非大陆用法全量排查报告
 ├── output\                                   # 【交付产物】编译生成的实机 LayeredFS 补丁
+│   ├── 静谧田园简体中文补丁-v1.3.0.zip        # 一键分发完整安装包 (854.96 MB，含 atmosphere、sys-icon 与使用教程)
+│   ├── 静谧田园简体中文补丁.zip              # 同步最新完整安装包 (854.96 MB)
+│   ├── 使用教程.txt                           # 针对 v1.3.0 版本的安装与 sys-icon 图标替换使用说明
+│   ├── sys-icon\                             # sys-icon 插件目录 (00FF69636F6EFF00)
 │   └── atmosphere\contents\01001BA027DD8000\
 │       ├── icon.jpg                          # sys-tweak / sys-icon 专用动态替换桌面图标
+│       ├── config.ini                        # sys-icon / sys-tweak 专用 NACP 标题与发行商运行时拦截配置文件 (v1.3.0)
 │       ├── control\                          # 控制元数据与图标备份 (control.nacp, icon_*.dat)
 │       └── romfs\data\
-│           ├── database\                     # 47 个含文本、贴图重定向与 32px 掌机大字号配置的二进制数据库文件 (.dat，共 20.48 MB)
+│           ├── database\                     # 47 个含文本、贴图重定向与 32px 掌机大字号配置的二进制数据库文件 (.dat，共 22.93 MB)
+│           ├── fairy_1_00.dat                # 封装了 66 张 BC3 汉化贴图与 resident_v130.fad 的 UI 图集封包 (1.212 GB)
 │           └── misc_1_00.dat                 # 封装了新版霞鹜文楷等宽 v1.530 Medium 500 的字库归档 (164.36 MB)
 ├── switch_icons\                             # 【Switch 桌面图标】已提取及替换完成的预览图标 (PNG/JPG)
 ├── tools\                                    # 【核心工具链】自动化质检、编译与处理脚本
-│   ├── dat_tool.py                           # .dat 二进制数据库解析与动态重打包核心库（支持常规表与多行结构）
+│   ├── dat_tool.py                           # .dat 二进制数据库解析与动态重打包核心库（支持常规表与多行结构，兼容 v1.3.0 槽位）
 │   ├── build_patch.py                        # 补丁总编译器：从 JSON 批次编译生成全部 47 个 .dat 数据库 (含 32px font.dat)
 │   ├── build_font_patch.py                   # 字库补丁编译器：从 CN TTF 编译生成 misc_1_00.dat
-│   ├── build_fairy_patch.py                  # UI 贴图封包编译器：全自动重算 FAD 描述符与 411 项主索引绝对偏移
-│   ├── apply_control_patch.py                # Switch 桌面图标与 NACP 标题（简繁同步）打包替换工具
+│   ├── build_fairy_patch.py                  # UI 贴图封包编译器：全自动重算 FAD 描述符、413 项主索引绝对偏移并动态排布 resident_v130.fad
+│   ├── apply_control_patch.py                # Switch 桌面图标与 NACP 标题（简繁同步）打包替换工具 (v1.3.0)
+│   ├── update_batches_v130.py                # v1.3.0 批次增量生成与自动匹配迁移工具
 │   ├── validate_batch.py                     # 全自动化质检门禁（标签、字库覆盖、繁体残留、禁词一票否决）
 │   ├── batch_status.py                       # 批次状态与进度查看器
 │   ├── extract_batches.py                    # 原始数据库批次切分脚本（历史归档）
 │   └── scan_calibration_targets.py           # 代词、神魔判定、动词助词与口癖扫描器
 ├── workspace\                                # 【工作区与源数据】
-│   ├── batches\                              # 全量 289 个 JSON 文本批次（共 55,931 行对照文本）
+│   ├── batches\                              # 全量 294 个 JSON 文本批次（共 56,747 行对照文本）
 │   │   ├── batch_001_sys_ui.json ~ batch_007_sys_ui.json        (Group 1: 系统与UI，含主菜单与设定)
 │   │   ├── batch_008_world_meta.json ~ batch_011_world_meta.json(Group 2: 世界观与设施)
 │   │   ├── batch_012_flora_fauna.json ~ batch_016_flora_fauna.json (Group 3: 动植物与农产)
-│   │   ├── batch_017_quest_tips.json ~ batch_020_quest_tips.json  (Group 4: 任务与教学)
-│   │   ├── batch_021_lore_letters.json ~ batch_032_lore_letters.json(Group 5: 信件与神话书册)
-│   │   ├── batch_033_credits.json ~ batch_034_credits.json      (Group 6: Staff制作群)
-│   │   ├── batch_035_item.json ~ batch_094_item.json            (Group 7: 全道具说明)
-│   │   └── batch_095_talk.json ~ batch_289_talk.json            (Group 8: 全剧情与日常对话)
-│   ├── font_codepoints.json                  # 当前字库 Unicode 码位白名单（30,899 码位）
+│   │   ├── batch_017_quest_tips.json ~ batch_020_quest_tips.json  (Group 4: 任务与教学，含 v1.3.0 播种机与步行教学)
+│   │   ├── batch_021_lore_letters.json ~ batch_032_lore_letters.json(Group 5: 信件与神话书册，含 v1.3.0 新信件)
+│   │   ├── batch_033_credits.json ~ batch_035_credits.json      (Group 6: Staff制作群)
+│   │   ├── batch_036_item.json ~ batch_097_item.json            (Group 7: 全道具说明，含 v1.3.0 新增道具配方)
+│   │   └── batch_098_talk.json ~ batch_294_talk.json            (Group 8: 全剧情与日常对话，含 14 村民全生日剧情与任务)
+│   ├── batches_v120\                         # v1.2.0 旧版 289 个批次历史备份
+│   ├── font_codepoints.json                  # 当前字库 Unicode 码位白名单（46,946 码位）
 │   ├── glossary.json                         # 角色人设档案、禁词映射表、标点规范对照表
-│   └── manifest.json                         # 289 个批次的字段与文件索引清单
+│   ├── manifest.json                         # 294 个批次的字段与文件索引清单
+│   └── manifest_v120.json                    # v1.2.0 旧版批次清单备份
 ├── unpacked\                                 # 【解包源文件】游戏 RomFS 镜像、控制分区与原始字库备份
+│   ├── romfs\                                # v1.3.0 最新解包 RomFS 镜像 (3,186 个文件)
+│   ├── romfs_v120\                           # v1.2.0 旧版 RomFS 镜像备份
+│   ├── control_update\                       # v1.3.0 控制分区
+│   └── control_update_v120\                  # v1.2.0 控制分区备份
 ├── nsp\                                      # 游戏原始 Base 与 Update NSP 文件备份
 ├── README.md                                 # 仓库中文主说明文档
 ├── README_EN.md                              # 仓库英文主说明文档
@@ -81,16 +94,17 @@ D:\Village-SC\
 ## 三、 核心架构与底层数据机理 (Technical Architecture)
 
 ### 1. 文本数据库机制 (`romfs/data/database/*.dat`)
-- **常规表架构**：游戏由 189 个二进制 `.dat` 构成，其中含有本地化文本的数据库共 **46 个**（由最初的 37 个拓展补全）。
+- **常规表架构**：游戏由 189 个二进制 `.dat` 构成，其中承载本地化文本与界面配置的数据库共 **47 个**（46 个文本与重定向表 + 1 个 32px 掌机字体表 `font.dat`）。
 - **槽位机制**：每条常规文本属于 7 槽位 `MultiLangString` 结构（56 字节）：
   - 槽位 `0`：`ja`（日文原文，**校对的第一准则**）
+  - 槽位 `1`：`en`（英文，**v1.3.0 适配重要注意**：官方在 v1.3.0 部分表中填入了英文，`tools/dat_tool.py` 已放宽对槽位 1 必须全零的硬编码校验，转为检查预留槽位 2、3、6，确保 100% 无遗漏解析）
   - 槽位 `4`：`tc`（繁体中文原译） $\rightarrow$ **本项目原位替换为大陆规范简体中文 `sc`**
 - **特殊文本结构**：
   - **多行文本表 (`multiLineText.dat`)**：存储村落布告栏、钟楼神话与长篇说明（共 3,733 条记录）。记录结构包含 `(unk1, unk2, line_count, line_offsets...)`，本工程已在 `dat_tool.py` 中实现对其无损解码与重打包。
   - **角色外观自订表 (`player*.dat` 共 6 个库)**：包含前发、后发、服装、头饰、颈饰、背饰共 92 个外观条目文本，全量纳入自动编译。
 
 ### 2. 贴图无损重定向机制 (`texture.dat` & `framework_texture.dat`)
-- **技术突破**：小地图地名（18 个地点，如“水車小屋”、“樟樹診所”）与主菜单“(X) 版權標示”为烘焙在游戏图集中的图片切片。原切片封存在 1.15 GB 的 `fairy_1_00.dat` 中，若直接替换图集会导致补丁体积膨胀到 1.15 GB。
+- **技术突破**：小地图地名（18 个地点，如“水車小屋”、“樟樹診所”）与主菜单“(X) 版權標示”为烘焙在游戏图集中的图片切片。原切片封存在大封包 `fairy_1_00.dat` 中，若直接替换图集会导致补丁体积膨胀到 1 GB+。
 - **PC 官方简中资源融合**：
   - 提取 PC 官方 1.2.0 版本的简中矢量切片（`map_9999_icon_0001` ~ `0003` 及 `anm_0010_13`）。
   - 在 `texture.dat` 与 `framework_texture.dat` 中直接修改贴图切片 UV 寻址与索引，将其无缝重定向到官方简中图元。
@@ -105,11 +119,13 @@ D:\Village-SC\
   - **双字重智能支持**：[`build_font_patch.py`](file:///D:/Village-SC/tools/build_font_patch.py) 默认采用 `Medium (500)`（1:1 完美契合 PC 原版加粗视觉骨架，兼顾 Switch 720p 掌机与 1080p 底座模式高对比度抗锯齿），并提供 `--weight regular`（400 纤细常规体）支持。
 - **补丁加载**：Atmosphere LayeredFS 直接加载 `output/atmosphere/contents/01001BA027DD8000/romfs/data/misc_1_00.dat`（164.36 MB），实现原生字库无损覆盖。
 
-### 4. 控制元数据与 Switch 桌面图标机制 (Control NCA / NACP / Icons)
+### 4. 控制元数据与 Switch 桌面图标机制 (Control NCA / NACP / sys-icon)
 - **NACP 规范**：Switch 应用元数据存放在 `control.nacp`（固定 `0x4000` 字节）。前部为 16 个语言槽位（每槽位 `0x300` 字节：`0x200` 标题 + `0x100` 发行商）。
 - **槽位更正（繁改简）**：
   - 通过 [`apply_control_patch.py`](file:///D:/Village-SC/tools/apply_control_patch.py) 将 **`Slot 13`（繁中）与 `Slot 14`（简中）均规范写入简体中文标题《静谧田园》**。
-- **免改包实机加载**：Atmosphere 补丁目录 `output/atmosphere/contents/01001BA027DD8000/icon.jpg` 支持通过 `sys-tweak` / `sys-icon` 插件在开机时直接动态挂载新图标。
+- **免改包实机加载 (sys-icon / sys-tweak 机制)**：
+  - **图标拦截**：`sys-icon` / `sys-tweak` 读取 `atmosphere/contents/01001BA027DD8000/icon.jpg`（256×256 JPEG）无缝覆盖桌面图标。
+  - **名称拦截（关键）**：`sys-icon` 拦截 `ns:GetApplicationControlData` 时**并不会直接读取 `control.nacp`**，而是读取目录下的 **`config.ini`**（以 `[override_nacp]` 开头，写入 `name=静谧田园`、`author=...`、`display_version=1.3.0`）。产物目录已预置好 `config.ini`，复制到 TF 卡重启即可同时生效简体游戏名与新版本号。
 
 ### 5. 开屏流程机制 (`romfs/data/script/system_opening.lub`)
 - **底层解析**：开屏流程由 Lua 5.4 脚本驱动。函数流程：`cle_logo` (播放 CLE 商标) $\rightarrow$ `main` (展示自动保存提示) $\rightarrow$ `TaskSetNextState(CTask_Title)`。
@@ -119,35 +135,39 @@ D:\Village-SC\
 
 ### 6. UI 贴图封包架构与实机报错缺陷审查 (`fairy_1_00.dat` / `resident_lang_tc.fad`)
 > [!CAUTION]
-> **重要警示（实机报错根源定性）**：
-> 实机测试中放入第三阶段生成的 `fairy_1_00.dat` 会导致游戏在加载界面后抛出“程序发生错误”崩溃退出。经深度审查已确认崩溃原因**100% 集中在 `fairy_1_00.dat` 的贴图重打包缺陷上**，46 个数据库、字库与贴图路由均安全无虞。后续接手者必须严格遵循下述底层规范，切勿沿用存在缺陷的旧版打包逻辑。
+> **重要警示（实机报错根源定性与 v1.3.0 物理布局更新）**：
+> 实机测试中放入早期生成的 `fairy_1_00.dat` 会导致游戏在加载界面后抛出“程序发生错误”崩溃退出，或死锁卡在第一帧。经深度审查已确认崩溃原因**100% 集中在 `fairy_1_00.dat` 的贴图重打包缺陷上**，47 个数据库、字库与贴图路由均安全无虞。在 v1.3.0 中，官方进一步新增了 `resident_v130.fad` 子封包并平移了偏移量，后续接手者必须严格遵循下述底层规范。
 
-- **归档格式与物理布局**：
-  - `fairy_1_00.dat` 采用 `FAFULLFS` 格式（标头识别码 `0x204EAC`），内含 9 个子文件。
-  - `data/fairy/resident_lang_tc.fad` 位于最后一位（偏移量 `0x3CC0AA00`）。前 8 个系统文件（`resident.fad`、`resident_2.fad`、`anmlayer.dat` 等约 1 GB）必须保持物理二进制位完全不变。
-- **FAD 链式描述符与贴图流**：
-  - `resident_lang_tc.fad` 从 `0x33FB60` 起包含 411 个贴图块，每个块由 64 字节描述符 + 128 字节 `NMPLTEX1` 头 + 20 字节 `YKCMP_V1` 容器 + 压缩数据构成。
-  - **前导描述符结构**：`QWORD 1 = step`（跳转到下一块的字节距，必须 16 字节对齐）；`QWORD 4 = nmpl_sz`（NMPLTEX1 块总长，即 `128 + ints[12]`）；`QWORD 6` 高位字节存储贴图像素格式。
-- **四大致命缺陷排查与定性分析**：
+- **归档格式与 v1.3.0 物理布局**：
+  - `fairy_1_00.dat` 采用 `FAFULLFS` 格式（标头识别码 `0x204EAC`）。
+  - **v1.3.0 关键布局变化**：
+    - `data/fairy/resident_lang_tc.fad` 的起始绝对物理偏移从旧版 `0x3CC0AA00` 移动至 **`0x449FCC00`**；
+    - 在其后（物理偏移 `0x4C643000`）新增了官方 **`data/fairy/resident_v130.fad`**（5.13 MB）子归档；
+    - 前序系统文件（`resident.fad`、`resident_2.fad`、`anmlayer.dat` 等约 1.15 GB）必须保持物理二进制位完全不变；
+    - 重打包工具 [`tools/build_fairy_patch.py`](file:///D:/Village-SC/tools/build_fairy_patch.py) 已实现对 `FAFULLFS` TOC 索引表的动态重构，完美兼容 `resident_v130.fad` 的无损排布。
+- **FAD 链式描述符与贴图流 (`resident_lang_tc.fad`)**：
+  - 在 v1.3.0 中，首个贴图描述符从旧版 `0x33FB60` 平移至 **`0x340BC0`**，且贴图数量由 411 项扩增至 **413 项**（与官方 PC 版 1:1 完全对齐）。
+  - **前导描述符结构**：每个数据块由 64 字节描述符 + 128 字节 `NMPLTEX1` 头 + 20 字节 `YKCMP_V1` 容器 + 压缩数据构成。`QWORD 1 = step`（跳转到下一块的字节距，必须 16 字节对齐）；`QWORD 4 = nmpl_sz`（`128 + ints[12]`）；`QWORD 6` 高位字节存储贴图像素格式。
+- **四大致命缺陷排查与定性分析（已全量攻克）**：
   1. **P0-1 压缩长度定义偏差（全量 66 张贴图崩溃死因）**：
      - **原版规范**：Switch 引擎中，`YKCMP_V1` 头部的 `comp_sz` 与 `NMPLTEX1` 头部的 `ints[12]` 的定义均为 **20 字节 YK 头部 + LZ4 压缩负载** 的**总字节数**。
      - **错误根源**：此前打包脚本将 `comp_sz` 错填为纯 LZ4 负载长度（少了 20 字节）。Switch 引擎调用原生解压函数 `LZ4_decompress_safe(src+20, comp_sz-20)` 时，由于实际传入长度少了 20 字节，全部 66 张替换贴图解压时 100% 触发越界或截断崩溃。
   2. **P0-2 贴图像素格式严格对齐与描述符升级**：
-     - **原版规范**：Switch 版 411 张贴图中，格式字节（`QWORD 6` 高位）分为 `0x07`（标准 BC3）与 `0x0B`（Switch 专有格式）。
+     - **原版规范**：Switch 版 413 张贴图中，格式字节（`QWORD 6` 高位）分为 `0x07`（标准 BC3）与 `0x0B`（Switch 专有格式）。
      - **解决方案**：在路线 B 中，为 61 张原本为 `0x0B` 的贴图升级其描述符：`q6` 低 32 位升级为标准 BC3 格式标记 `0x07050080`，`ints[5]` 写入 `0x800006`，解压尺寸 `ints[11]` 与 `decomp_sz` 严格同步为 $w \times h$ 字节，使游戏引擎正确按 BC3 纹理格式分配与绑定显存。
   3. **P0-3 Tegra Swizzle 块高（Block Height Log2）动态适配**：
      - **原版规范**：`NMPLTEX1` 头部的 `ints[14]` 低字节（bit 0~7）存储了该贴图在 Tegra NVN 硬件中的块高 log2 参数（取值 0~4）。
-     - **错误根源**：此前脚本将所有贴图硬编码为 `mode=0`。现已实现从原版 `ints[14] & 0xFF` 动态读取并应用 Swizzle，如 #209 正确使用 `mode=3`，与原版匹配度 100%，彻底杜绝画面撕裂花屏。
+     - **错误根源**：此前脚本将所有贴图硬编码为 `mode=0`。现已实现从原版 `ints[14] & 0xFF` 动态读取并应用 Swizzle，如 #211（原 #209）标题艺术字 Logo 正确使用 `mode=3`，与原版匹配度 100%，彻底杜绝画面撕裂花屏。
   4. **P0-4 FAD 主索引表绝对偏移与步长脱节（导致“卡在加载第一帧”的真正致命暗坑！）**：
-     - **原版规范**：在 `resident_lang_tc.fad` 的 `0xd00` 至 `0x4060` 区域，存在一个拥有 411 项（每项 32 字节 `<8I`）的**主贴图索引查找表（Master Texture Table）**！
+     - **原版规范**：在 `resident_lang_tc.fad` 的 `0xd00` 至 `0x4060` 区域，存在一个拥有 413 项（每项 32 字节 `<8I`）的**主贴图索引查找表（Master Texture Table）**！
        - 每项的第 0 个 DWORD（`ints[0]`）存储该贴图 64 字节描述符在 FAD 文件中的**绝对物理字节偏移**！
        - 每项的第 6 个 DWORD（`ints[6]`）存储**下一张贴图（`i+1`）的步长 `step`**！
-     - **错误根源**：此前所有打包脚本（包括初期第五阶段）重构 FAD 时，仅将贴图块依次排布拼接在 `0x33FB60` 之后，却**从未同步更新 `0xd00` 开始的 411 项主索引表**！当任何一张贴图压缩后体积变化导致其 `step` 变动时，后续所有贴图在文件中的物理偏移全部移位，但主索引表仍然指向上一个旧偏移。游戏引擎在开屏加载 UI 图集时通过主索引表寻址，直接跳入了一串压缩 LZ4 字节流的中间，把随机数据当成 `NMPLTEX1` 头读取，导致指针非法越界，在 `0x00000000` 处触发 Unmapped 内存访问死循环，**直接卡死在加载界面的第一帧**！
+     - **错误根源**：此前打包脚本重构 FAD 时，仅将贴图块依次排布拼接在数据区之后，却**从未同步更新 `0xd00` 开始的主索引表**！当任何一张贴图压缩后体积变化导致其 `step` 变动时，后续所有贴图在文件中的物理偏移全部移位，但主索引表仍然指向上一个旧偏移。游戏引擎在开屏加载 UI 图集时通过主索引表寻址，直接跳入了一串压缩 LZ4 字节流的中间，把随机数据当成 `NMPLTEX1` 头读取，导致指针非法越界，在 `0x00000000` 处触发 Unmapped 内存访问死循环，**直接卡死在加载界面的第一帧**！
      - **终极修复**：在重构 FAD 时，逐项把计算出的最新真实绝对偏移写入 `0xd00 + i * 32`，并将每项的真实 `step` 写入上一项的第 6 个 DWORD（`0xd00 + (i-1) * 32 + 24`）。修复后，PC Eden 模拟器与 Switch 原生实机均实现 **0 内存报错，秒进游戏**！
 - **循环验证陷阱告警**：
   - 之前的自测脚本直接以自身写入的错误规则反向读取，陷入自闭环验证陷阱，导致错误未能被及时拦截。后续验证必须严格以 Switch 原版解包数据为唯一基准（Ground Truth）。
 - **数据库与字库安全性核查**：
-  - 46 个 `.dat` 数据库与字库 `misc_1_00.dat` 均已完成二进制校验，记录字段布局与原版完全兼容，排除报错可能。
+  - 47 个 `.dat` 数据库与字库 `misc_1_00.dat` 均已完成二进制校验，记录字段布局与原版完全兼容，排除报错可能。
 
 ---
 
@@ -216,7 +236,7 @@ D:\Village-SC\
 
 ### 1. 批次质检门禁（修改任何文本后必须执行）
 ```powershell
-# 校验全部 289 个批次（必须保持 0 Error / 0 Warning）
+# 校验全部 294 个批次（必须保持 0 Error / 0 Warning）
 python D:/Village-SC/tools/validate_batch.py all
 
 # 校验单个批次（例如 batch_004）
@@ -225,13 +245,13 @@ python D:/Village-SC/tools/validate_batch.py batch_004_sys_ui.json
 
 ### 2. 补丁编译交付（一键生成实机补丁）
 ```powershell
-# 编译全部 46 个数据库文件（含文本、多行、外观与贴图路由）到 output/atmosphere/...
+# 编译全部 47 个数据库文件（含文本、多行、外观、贴图路由与 32px 字号）到 output/atmosphere/... 及 Eden 模拟器
 python D:/Village-SC/tools/build_patch.py
 
-# 重新编译字库归档 misc_1_00.dat（若更换了 TTF）
+# 重新编译字库归档 misc_1_00.dat（霞鹜文楷等宽 v1.530 Medium 500）
 python D:/Village-SC/tools/build_font_patch.py
 
-# 编译并重打包 UI 纹理贴图封包 fairy_1_00.dat（默认全量路线 B：66 张贴图升级为 BC3）
+# 编译并重打包 UI 纹理贴图封包 fairy_1_00.dat（适配 v1.3.0 物理布局与 413 项贴图，默认全量路线 B）
 python D:/Village-SC/tools/build_fairy_patch.py --mode all
 
 # 编译极稳路线 A 备选版本（仅打包 5 张原生 BC3 贴图：标题艺术字 Logo《静谧田园》及 4 张大传单，实机绝不崩溃）
@@ -240,7 +260,7 @@ python D:/Village-SC/tools/build_fairy_patch.py --mode safe
 
 ### 3. 项目状态与文本扫描
 ```powershell
-# 查看整体翻译与校验进度
+# 查看整体翻译与校验进度 (294 批次 / 56,747 行)
 python D:/Village-SC/tools/batch_status.py
 
 # 专项扫描代词、神魔用字、著字残留、角色口癖
@@ -249,8 +269,14 @@ python D:/Village-SC/tools/scan_calibration_targets.py
 
 ### 4. 桌面图标与 NACP 控制元数据打包替换
 ```powershell
-# 自动读取图标源，转换封包并更新 control.nacp 与 icon_*.dat
+# 自动读取图标源，转换封包并更新 control.nacp 与 icon_*.dat (同步 1.3.0 版本号)
 python D:/Village-SC/tools/apply_control_patch.py
+```
+
+### 5. 分发压缩包一键打包
+```powershell
+# 打包生成 output/静谧田园简体中文补丁-v1.3.0.zip (含 atmosphere、sys-icon 与使用教程)
+python D:/Village-SC/scratch/package_release.py
 ```
 
 ---
@@ -267,8 +293,8 @@ python D:/Village-SC/tools/apply_control_patch.py
    - **解答**：Atmosphere 标准 LayeredFS 原生机制仅针对 `romfs/` 与 `exefs/` 文件进行动态挂载重定向。请在 Switch SD 卡上启用 Atmosphere 插件 `sys-tweak`（或 `sys-icon`），即可自动读取加载 `output/atmosphere/contents/01001BA027DD8000/icon.jpg`。
 5. **Q: 为什么此前将 `fairy_1_00.dat` 放入补丁后，模拟器/实机会卡在加载画面的第一帧或报错崩溃？**
    - **解答**：这是由 FAD 主贴图索引表（Master Texture Table）绝对偏移与步长脱节（P0-4 缺陷）直接导致的：
-     - **根因**：`resident_lang_tc.fad` 的 `0xd00` 起有 411 项主索引表，记录了每个贴图描述符的绝对物理字节偏移。旧脚本替换贴图改变体积后，未更新该主索引表，导致游戏寻址跳入 LZ4 数据中间产生 Unmapped 内存死锁。
-     - **现已彻底解决**：最新 `build_fairy_patch.py` 已全自动计算并重写全部 411 项绝对偏移与步长，PC Eden 模拟器与 Switch 原生实机均已实测通过，秒进游戏无任何崩溃或卡顿。
+     - **根因**：`resident_lang_tc.fad` 的 `0xd00` 起有主索引表（v1.2.0 为 411 项，v1.3.0 扩增至 413 项），记录了每个贴图描述符的绝对物理字节偏移。旧脚本替换贴图改变体积后，未更新该主索引表，导致游戏寻址跳入 LZ4 数据中间产生 Unmapped 内存死锁。
+     - **现已彻底解决**：最新 `build_fairy_patch.py` 已全自动计算并重写全部 413 项绝对偏移与步长，PC Eden 模拟器与 Switch 原生实机均已实测通过，秒进游戏无任何崩溃或卡顿。
 6. **Q: 如何在电脑上使用 Eden 模拟器测试汉化补丁？**
    - **解答**：Eden 模拟器 Mod 挂载路径位于：
      `C:\Users\Admin\AppData\Roaming\eden\load\01001BA027DD8000\Village_SC_Translation\`
@@ -277,6 +303,54 @@ python D:/Village-SC/tools/apply_control_patch.py
 ---
 
 ## 七、 维护记录与版本历史 (Changelog)
+
+- **2026-11-09 (第十三阶段：1.2x 掌机大字增强版全域发布与底层 offsetY 垂直校准方案交付)**：
+  - **引擎底层字体架构与逆向工程突破 (`village.exe` / `font.dat`)**：
+    - 深入逆向 PC 版 `village.exe`（`RVA 0x69cec0` 字体反序列化、`0x7f7ca0` `CFontInfo` 构造器、`0x932250` `CMojiFontScalable` 与 `0x7f8000` 布局管线），彻底还原 `font.dat` 中 7 语言槽位每项 132 字节（33 个 `int32/float` 字段）的二进制结构；
+    - **发现 TC 繁中槽位历史 Bug**：查明官方移植在 `TC`（槽位 4）中针对小字号（`FONT_ID_GAME_SMALL` 与 `FONT_ID_GAME_SMALL_TEXT`）硬编码了 `offsetY = 5`，而官方简中 `SC`（槽位 6）基准为 `1`，导致小字号天然下沉 4px（这也是此前底部帮助栏 `Ⓡ 转向` 严重偏下的根本原因之一）；
+  - **通用解决方案（General Solution · 方案 A）确立与单点回滚**：
+    - 摒弃在 `anmlayer.dat` 中逐个点位硬编码修改坐标的脆弱打补丁做法，全量回滚 `fairy_1_00.dat` 恢复官方原始坐标（`-70.0 / -76.0`），并恢复字库 `misc_1_00.dat` 为纯净霞鹜文楷；
+    - 直接利用引擎原生的全局垂直偏移字段 `offsetY`（`fchunk + 0x3C`），从数据源头对全游戏 5 档字号实施毫米级居中校准：
+      - `Rec 0: FONT_ID_GAME_BIG` (46x46 px)：`offY = 3`（相对原版 5 上移 2px）
+      - `Rec 1: FONT_ID_GAME` (38x38 px)：`offY = 0`（相对原版 2 上移 2px，交互提示与主菜单完美居中）
+      - `Rec 2: FONT_ID_GAME_SMALL` (29x29 px)：`offY = 1`（相对原版 TC 5 上移 4px，彻底消除 4px 沉底 bug，精准对齐官方 SC 基准值）
+      - `Rec 3: FONT_ID_GAME_SMALL_TEXT` (29x29 px)：`offY = 1`（相对原版 TC 5 上移 4px，信件书籍阅读体验极大优化）
+      - `Rec 4: FONT_ID_GAME_TALK` (38x38 px)：`offY = 0`（恢复官方原位 0，对话框内文字自然平衡）
+  - **编译工具链同步与完整大字版分发包发布**：
+    - 更新 `tools/build_patch.py`，使补丁总编译器原生生成 1.2x 大字版与校准 `offsetY` 配置；
+    - 重新编译生成全量 47 个数据库、完成 Atmosphere 实机目录与 Eden 模拟器目录双重同步；
+    - 重新打包发布 `output/静谧田园简体中文补丁-v1.3.0.zip` 与 `output/静谧田园简体中文补丁.zip`，交付完整的 1.2x 掌机大字增强版。
+
+- **2026-11-08 (第十二阶段：UI 与字号缩放深度探索、全域基线偏移归因与通用解决体系沉淀)**：
+  - **Fairy 2D 文本节点 Scale 实验与回滚隔离**：
+    - 针对掌机大字需求，探索并测试了 Fairy 2D UI 节点（`resident_lang_tc.fad`）Scale 整体 1.5 倍放大的实验版；
+    - 实测发现节点级放大存在局部越界穿插且无法覆盖全局独立控件（如 `ui_1140` 操作栏）的问题；已全量回滚恢复 Fairy 引擎的原生 Scale 分布，消除了局部拉伸；
+  - **基于日文原生字号的 1.2 倍全局大字号落地 (Eden 实验版)**：
+    - 废除官方繁中移植时将 32px 阉割至 26px 的缺陷，以日文原生字号（38, 32, 24, 24, 32）为基准放大 1.2 倍（`46, 38, 29, 29, 38` px），仅装载于 Eden 模拟器进行视觉验证，实机目录隔离保护；
+  - **字体垂直基线下沉 2px 核心归因与通用方案（General Solution）确立**：
+    - **度量差异与 Em 空间根因**：比对日文 `KiwiMaru`、原版繁中 `ResourceHanRoundedTC` 与新字体 `LXGWWenKaiMono`，查明霞鹜文楷汉字轮廓基线在 1000 UPM 空间中比原版偏下约 80~100 单位（$\approx 2\text{px}$）；
+    - **度量相互抵消陷阱（Metrics Cancellation）**：揭示了文本框在 `MIDDLE_CENTER` 居中对齐时，若在平移字形的同时增大 `Ascent`，会导致计算出的行中线同步下沉，发生位移完全抵消；
+    - **确立 General 通用方案**：摒弃逐个修改 UI 预制件局部坐标的低效打补丁做法，确立了在 `build_font_patch.py` 字体编译源头进行“全局字形轮廓 Affine 平移 + 度量解耦微调”的通用技术方案，一次性彻底解决游戏全域各界面的基线对齐问题；详见专项技术报告 [`UI_SCALING_EXPLORATION.md`](file:///C:/Users/Admin/.gemini/antigravity/brain/2428cefd-bfda-46ba-836d-4c59844ac6a5/UI_SCALING_EXPLORATION.md)。
+
+- **2026-11-08 (第十一阶段：全面更新至官方 v1.3.0 升级档并完成全量新文本、UI 贴图与完整交付)**：
+  - **升级档解包与 RomFS 全量同步**：
+    - 读取并解包用户提供的官方升级档 `[升级档v1.3.0][01001BA027DD8800][23.0.1][繁体中文][HK].nsp`（内部版本号 `v458752`）；
+    - 完整解包 3,186 个 RomFS 文件，将 `unpacked/romfs/` 镜像全面更新为 v1.3.0 资产；旧版 v1.2.0 RomFS、Control 分区与旧批次分别妥善备份至 `unpacked/romfs_v120/`、`unpacked/control_update_v120/` 与 `workspace/batches_v120/`；
+  - **核心工具链升级与 831 行新增/变动文本 100% 精校汉化**：
+    - **数据库解析器强化 (`tools/dat_tool.py`)**：放宽 7 槽位 MultiLangString 的全零校验（因 v1.3.0 官方在英文槽位 1 填入了字符串，导致旧版误判跳过），改查预留槽位 2、3、6，使 37 个常规数据库无损完全解析；
+    - **新增 14 位村民完整生日庆祝剧情对话**：深入挖掘并编写 28 个生日剧情对话记录（14 位角色 $\times$ 2 段），字斟句酌严格贴合日文与繁中原文，完美传承角色神髓（如木助的粗犷仗义、四郎治心境开阔的温情、今野的算盘与阴阳怪气、洋的天真烂漫、帷的傲娇反差等），杜绝空洞机翻；
+    - **新增生日系统剧情任务**：完成生日登记剧情（`TALK_ID_90_3001_*`）及神秘后续触发剧情（`TALK_ID_90_3002_*`）的高水准精校汉化；
+    - **非对话表全面汉化**：翻译包含 `tips.dat`（新版播种机与步行移动）、`item.dat`（252 行新增物品与配方）、`letter.dat`（25 封新信件）、`updateText.dat`（19 行更新履历）、`vkey.dat`、`framework_vkey.dat` 等全部 334 行非对话增量；
+    - **批次体系扩充与质检门禁 100% 满分通过**：工作区扩充至 **294 个批次、共 56,747 行对照文本**；运行 `validate_batch.py all` 达成 **294/294 批次 0 Error / 0 Warning**，`scan_calibration_targets.py` 扫描“妳/牠”与“著”字残留均为 0；
+  - **UI 贴图大包 (`fairy_1_00.dat`) 架构升级适配**：
+    - 查明 Switch v1.3.0 的 `resident_lang_tc.fad` 由 411 项贴图扩增至 413 项（与 PC 官方 1:1 吻合），首个贴图描述符绝对物理偏移移至 `0x340BC0`；
+    - 发现 `fairy_1_00.dat` 物理布局变动：新增子归档 `resident_v130.fad`（5.13 MB）排在 `resident_lang_tc.fad` 之后（偏移 `0x4C643000`），且 `resident_lang_tc.fad` 起始物理偏移自 `0x3CC0AA00` 移至 `0x449FCC00`；
+    - 重构 [`tools/build_fairy_patch.py`](file:///D:/Village-SC/tools/build_fairy_patch.py)：动态寻址 TOC，在保留前序 1.15 GB 资产不变的基础上，安全重构 413 项贴图描述符流与 `0xd00` 主索引查找表，动态承接并排布 `resident_v130.fad`，全量 66 张贴图 BC3 升级与 Tegra Swizzle 块高适配，Switch 原生解压回验 100% 通过（生成 1.212 GB 补丁大包）；
+  - **控制元数据与实机/模拟器双交付**：
+    - [`tools/apply_control_patch.py`](file:///D:/Village-SC/tools/apply_control_patch.py) 升级拦截版本为 `display_version=1.3.0`，NACP 槽位同步；
+    - 全量 47 个数据库（22.93 MB）、字库 `misc_1_00.dat`（164.36 MB）、贴图 `fairy_1_00.dat`（1.212 GB）、桌面图标与配置文件全量同步至 Eden 模拟器加载目录：
+      `C:\Users\Admin\AppData\Roaming\eden\load\01001BA027DD8000\Village_SC_Translation\`，一键加载秒进游戏；
+    - 一键打包生成最新完整分发压缩包 [`output/静谧田园简体中文补丁-v1.3.0.zip`](file:///D:/Village-SC/output/静谧田园简体中文补丁-v1.3.0.zip)（854.96 MB），包含 `atmosphere/`、`sys-icon/` 插件及同步至 v1.3.0 的 `使用教程.txt`。
 
 - **2026-11-05 (第十阶段：全量专有名词与 PC 官方简体中文彻底对齐交付 —— 消除方言与过度二创，实现全语境 100% 统一)**：
   - **背景与指导方针**：
@@ -392,6 +466,7 @@ python D:/Village-SC/tools/apply_control_patch.py
     - 重新编译生成 `output/.../romfs/data/misc_1_00.dat`（164.36 MB），并同步至 Eden 模拟器；
     - Eden 模拟器加载最新字库实测 0 Error / 0 Warning，无损顺利进入标题界面。
 
+
 - **2026-11-05 (第六阶段：攻克首帧卡死致命暗坑 P0-4 + PC Eden 模拟器全量环境实测通过)**：
   - **精准定位“卡在加载第一帧”底层死因**：
     - 针对用户测试反馈“直接卡在加载画面的第一帧”，通过对 Eden 模拟器底层内存日志与 FAD 物理结构的逆向审计，排除了数据库、字库与容器问题，锁定了 FAD 标头深处的隐藏暗坑：**Master Texture Table（主贴图索引查找表）**。
@@ -457,7 +532,7 @@ python D:/Village-SC/tools/apply_control_patch.py
 - **2026-11-05 (第一阶段：Switch 桌面图标与 NACP 控制元数据)**：
   - 接入用户重绘的高清简体中文桌面图标（`icon_sc.png`），自动转换打包替换 `icon_TraditionalChinese.dat` 与 `icon_SimplifiedChinese.dat`。
   - 同步修改 `control_base` 与 `control_update` 的 `control.nacp` 元数据，将繁体/简体中文槽位标题均规范统一更新为**《静谧田园》**。
-  - 补丁交付产物新增 Atmosphere `sys-tweak` / `sys-icon` 专用无缝桌面替换图标 `output/atmosphere/contents/01001BA027DD8000/icon.jpg` 及 `control/` 归档。
+  - 补丁交付产物新增 Atmosphere `sys-tweak` / `sys-icon` 专用无缝桌面替换图标 `output/atmosphere/contents/01001BA027DD8000/icon.jpg` 及 `config.ini`（用于运行时拦截覆写 NACP 游戏名《静谧田园》）与 `control/` 归档。
 - **2026-11-04 (初始构建：全量初版翻译与文本人设校正)**：
   - 完成全量 289 个批次（55,931 行）大陆规范简体中文初版翻译与二进制封包。
   - 实施全面校正：确立“古神用祂，普通妖怪用它/他”体系，全量消除“妳”与“牠”，消除 1,420+ 处“著”字残留。

@@ -19,6 +19,7 @@ build/
 output/**/fairy_1_00.dat
 output/**/misc_1_00.dat
 output/test_*/
+output/静谧田园简体中文补丁-*/
 output/*.zip
 *.zip
 

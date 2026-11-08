@@ -10,6 +10,20 @@
   "records": [
     {
       "file": "cmd.dat",
+      "rec_idx": 186,
+      "rec_id": "CMD_INTERACTION_WRITE_LETTERS",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1493,
+          "ja": "文字を書く",
+          "tc": "寫下文字",
+          "sc": "写下文字"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
       "rec_idx": 187,
       "rec_id": "CMD_INTERACTION_REPAIR",
       "lines": [
@@ -2613,6 +2627,34 @@
       ]
     },
     {
+      "file": "cmd.dat",
+      "rec_idx": 378,
+      "rec_id": "CMD_ITME_RENAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3029,
+          "ja": "命名変更",
+          "tc": "變更命名",
+          "sc": "更改命名"
+        }
+      ]
+    },
+    {
+      "file": "cmd.dat",
+      "rec_idx": 379,
+      "rec_id": "CMD_TOOL_CIRCLE_SEEDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3037,
+          "ja": "種まき機",
+          "tc": "播種機",
+          "sc": "播种机"
+        }
+      ]
+    },
+    {
       "file": "framework_cmd.dat",
       "rec_idx": 0,
       "rec_id": "CMD_OK",
@@ -2763,48 +2805,6 @@
           "ja": "１００倍増減",
           "tc": "增減100倍",
           "sc": "增减100倍"
-        }
-      ]
-    },
-    {
-      "file": "framework_cmd.dat",
-      "rec_idx": 11,
-      "rec_id": "CMD_CURSOR_EX_DOWN_X1000",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 93,
-          "ja": "１０００倍増減",
-          "tc": "增減1000倍",
-          "sc": "增减1000倍"
-        }
-      ]
-    },
-    {
-      "file": "framework_cmd.dat",
-      "rec_idx": 12,
-      "rec_id": "CMD_CURSOR_EX_RIGHT",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 101,
-          "ja": "選択",
-          "tc": "選擇",
-          "sc": "选择"
-        }
-      ]
-    },
-    {
-      "file": "framework_cmd.dat",
-      "rec_idx": 13,
-      "rec_id": "CMD_CURSOR_EX_RIGHT_X10",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 109,
-          "ja": "１０倍増減",
-          "tc": "增減10倍",
-          "sc": "增减10倍"
         }
       ]
     }

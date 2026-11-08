@@ -9,6 +9,272 @@
   "records": [
     {
       "file": "string.dat",
+      "rec_idx": 65,
+      "rec_id": "STR_ID_PLAYER_DEFAULT_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 525,
+          "ja": "アメ",
+          "tc": "天",
+          "sc": "天"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 66,
+      "rec_id": "STR_ID_PLAYER_NO_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 533,
+          "ja": "名前はまだ無い",
+          "tc": "還沒有名字",
+          "sc": "还没有名字"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 67,
+      "rec_id": "STR_ID_ITEM_UNKNOWN_NAME",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 541,
+          "ja": "？？？",
+          "tc": "？？？",
+          "sc": "？？？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 68,
+      "rec_id": "STR_ID_ITEM_UNKNOWN_HELP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 549,
+          "ja": "？？？？？？",
+          "tc": "？？？？？？",
+          "sc": "？？？？？？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 69,
+      "rec_id": "STR_ID_DATE_FORMAT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 557,
+          "ja": "<value 1>年目 <value 2> <value 3>日",
+          "tc": "第<value 1>年 <value 2> <value 3>日",
+          "sc": "第<value 1>年 <value 2> <value 3>日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 70,
+      "rec_id": "STR_ID_DATE_LATENIGHT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 565,
+          "ja": "　深夜",
+          "tc": "　深夜",
+          "sc": "　深夜"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 71,
+      "rec_id": "STR_ID_SEASON_SPRING",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 573,
+          "ja": "春",
+          "tc": "春",
+          "sc": "春"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 72,
+      "rec_id": "STR_ID_SEASON_SUMMER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 581,
+          "ja": "夏",
+          "tc": "夏",
+          "sc": "夏"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 73,
+      "rec_id": "STR_ID_SEASON_AUTUMN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 589,
+          "ja": "秋",
+          "tc": "秋",
+          "sc": "秋"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 74,
+      "rec_id": "STR_ID_SEASON_WINTER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 597,
+          "ja": "冬",
+          "tc": "冬",
+          "sc": "冬"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 75,
+      "rec_id": "STR_ID_WEEK_MONDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 605,
+          "ja": "月",
+          "tc": "一",
+          "sc": "一"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 76,
+      "rec_id": "STR_ID_WEEK_TUESDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 613,
+          "ja": "火",
+          "tc": "二",
+          "sc": "二"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 77,
+      "rec_id": "STR_ID_WEEK_WEDNESDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 621,
+          "ja": "水",
+          "tc": "三",
+          "sc": "三"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 78,
+      "rec_id": "STR_ID_WEEK_THURSDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 629,
+          "ja": "木",
+          "tc": "四",
+          "sc": "四"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 79,
+      "rec_id": "STR_ID_WEEK_FRIDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 637,
+          "ja": "金",
+          "tc": "五",
+          "sc": "五"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 80,
+      "rec_id": "STR_ID_WEEK_SATURDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 645,
+          "ja": "<c blue>土</c>",
+          "tc": "<c blue>六</c>",
+          "sc": "<c blue>六</c>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 81,
+      "rec_id": "STR_ID_WEEK_SUNDAY",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 653,
+          "ja": "<c red>日</c>",
+          "tc": "<c red>日</c>",
+          "sc": "<c red>日</c>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 82,
+      "rec_id": "STR_ID_ITEM_NUMBER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 661,
+          "ja": "×<value 1>",
+          "tc": "×<value 1>",
+          "sc": "×<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 83,
+      "rec_id": "STR_ID_ITEM_NUMBER_ADD",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 669,
+          "ja": "i<value 1>",
+          "tc": "i<value 1>",
+          "sc": "i<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
       "rec_idx": 84,
       "rec_id": "STR_ID_MEMO_CRAFT",
       "lines": [
@@ -1388,7 +1654,7 @@
           "f_idx": 0,
           "pidx_tc": 1461,
           "ja": "移築撤去",
-          "tc": "移居或拆除",
+          "tc": "移建或拆除",
           "sc": "迁建或拆除"
         }
       ]
@@ -1472,7 +1738,7 @@
           "f_idx": 0,
           "pidx_tc": 1509,
           "ja": "ここに移築しますか？",
-          "tc": "要移居到這裡嗎？",
+          "tc": "要移建到這裡嗎？",
           "sc": "要迁建到这里吗？"
         }
       ]
@@ -1486,7 +1752,7 @@
           "f_idx": 0,
           "pidx_tc": 1517,
           "ja": "移築",
-          "tc": "移居",
+          "tc": "移建",
           "sc": "迁建"
         }
       ]
@@ -2538,272 +2804,6 @@
           "ja": "落とす",
           "tc": "丟掉",
           "sc": "扔掉"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 265,
-      "rec_id": "STR_ID_INVENTORY_CANCEL",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2125,
-          "ja": "やめる",
-          "tc": "算了",
-          "sc": "算了"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 266,
-      "rec_id": "STR_ID_ENCYCLOPEDIA_PRICE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2133,
-          "ja": "購入価格",
-          "tc": "購買價格",
-          "sc": "购买价格"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 267,
-      "rec_id": "STR_ID_ENCYCLOPEDIA_MATERIAL",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2141,
-          "ja": "使用素材",
-          "tc": "使用材料",
-          "sc": "使用材料"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 268,
-      "rec_id": "STR_ID_ENCYCLOPEDIA_HARVEST",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2149,
-          "ja": "総収穫数",
-          "tc": "總收穫數",
-          "sc": "总收获数"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 269,
-      "rec_id": "STR_ID_ENCYCLOPEDIA_MACHINE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2157,
-          "ja": "対応加工機",
-          "tc": "對應加工機",
-          "sc": "对应加工机"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 270,
-      "rec_id": "STR_ID_ENCYCLOPEDIA_INPUT_MACHINE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2165,
-          "ja": "投入加工機",
-          "tc": "投入加工機",
-          "sc": "投入加工机"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 271,
-      "rec_id": "STR_ID_ENCYCLOPEDIA_FEATURE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2173,
-          "ja": "分類",
-          "tc": "分類",
-          "sc": "分类"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 272,
-      "rec_id": "STR_ID_ENCYCLOPEDIA_RANKUP_REMAIN",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2181,
-          "ja": "ランクアップまであと",
-          "tc": "距離升級還有",
-          "sc": "距离升级还有"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 273,
-      "rec_id": "STR_ID_HUD_INVENTORY_DRAW_WATER",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2189,
-          "ja": "汲む",
-          "tc": "汲水",
-          "sc": "汲水"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 274,
-      "rec_id": "STR_ID_HUD_INVENTORY_HAND_OVER",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2197,
-          "ja": "渡す",
-          "tc": "交付",
-          "sc": "交付"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 275,
-      "rec_id": "STR_ID_HUD_INVENTORY_TRHOW",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2205,
-          "ja": "投げる",
-          "tc": "投出",
-          "sc": "投出"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 276,
-      "rec_id": "STR_ID_HUD_INVENTORY_DETAIL",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2213,
-          "ja": "詳細",
-          "tc": "詳情",
-          "sc": "详情"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 277,
-      "rec_id": "STR_ID_HUD_INVENTORY_RETURN",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2221,
-          "ja": "返す",
-          "tc": "返回",
-          "sc": "返回"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 278,
-      "rec_id": "STR_ID_HUD_INVENTORY_HUNG_UP",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2229,
-          "ja": "出る",
-          "tc": "離開",
-          "sc": "离开"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 279,
-      "rec_id": "STR_ID_HUD_INVENTORY_USE_ITEM",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2237,
-          "ja": "使う",
-          "tc": "使用",
-          "sc": "使用"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 280,
-      "rec_id": "STR_ID_HUD_INVENTORY_SPRINKLE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2245,
-          "ja": "撒く",
-          "tc": "播撒",
-          "sc": "播撒"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 281,
-      "rec_id": "STR_ID_HUD_INVENTORY_DELIVER_SUBQUEST_ITEM",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2253,
-          "ja": "納品",
-          "tc": "交付",
-          "sc": "交付"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 282,
-      "rec_id": "STR_ID_HUD_INVENTORY_PUT",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2261,
-          "ja": "置く",
-          "tc": "放置",
-          "sc": "放置"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 283,
-      "rec_id": "STR_ID_HUD_INTANGEBLE_POPUP_CURSOR",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 2269,
-          "ja": "受け取る",
-          "tc": "收下",
-          "sc": "收下"
         }
       ]
     }

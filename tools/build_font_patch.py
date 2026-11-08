@@ -53,6 +53,12 @@ def prepare_lxgw_font(raw_bytes, target_name="ResourceHan", style="Regular"):
 
 def rebuild_misc_1_00(weight="medium"):
     if not os.path.exists(ZIP_PATH):
+        if os.path.exists(OUT_MISC):
+            print(f"LXGW font zip not found at {ZIP_PATH}, but existing built font patch found at {OUT_MISC}.")
+            if os.path.exists(os.path.dirname(EDEN_MISC)):
+                shutil.copy2(OUT_MISC, EDEN_MISC)
+                print(f"  Synced existing misc_1_00.dat to Eden: {EDEN_MISC}")
+            return
         raise FileNotFoundError(f"Cannot find font archive at {ZIP_PATH}")
 
     print(f"Loading fonts from {ZIP_PATH} (Selected primary weight: {weight})...")

@@ -17,9 +17,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012.svg?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/TitleID-01001BA027DD8000-0078d7.svg?style=flat-square" alt="TitleID">
-  <img src="https://img.shields.io/badge/Game%20Version-v1.2.0%20(v393216)-brightgreen.svg?style=flat-square" alt="Version">
-  <img src="https://img.shields.io/badge/Translation%20Status-100%25%20(55%2C931%20Lines)-success.svg?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/QA%20Gate-289%2F289%20Batches%20Passed-blue.svg?style=flat-square" alt="QA">
+  <img src="https://img.shields.io/badge/Game%20Version-v1.3.0%20(v458752)-brightgreen.svg?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Translation%20Status-100%25%20(56%2C747%20Lines)-success.svg?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/QA%20Gate-294%2F294%20Batches%20Passed-blue.svg?style=flat-square" alt="QA">
   <img src="https://img.shields.io/badge/Font-LXGW%20WenKai%20Mono%20v1.530-orange.svg?style=flat-square" alt="Font">
   <img src="https://img.shields.io/badge/Runtime-Atmosphere%20LayeredFS%20%2F%20Eden-9cf.svg?style=flat-square" alt="Runtime">
 </p>
@@ -32,7 +32,7 @@
 The original Nintendo Switch Asian commercial release only provided Japanese and Traditional Chinese language options. This introduced numerous issues for Simplified Chinese players:
 1. **Uncalibrated Regional Phrasing**: Over-reliance on Taiwanese grammatical particles and colloquialisms flattened distinctive character personalities;
 2. **Tiny Font Size on Handheld**: During console porting, Chinese dialogue fonts were downscaled from the Japanese original's 32px to 26px, rendering characters at under 17px on the Switch's 720p screen and causing severe visual fatigue;
-3. **Baked-in Traditional Chinese Text in UI/Mini-map**: 18 mini-map locations and copyright notices were baked as textures into a 1.15 GB archive, remaining unlocalized in Chinese;
+3. **Baked-in Traditional Chinese Text in UI/Mini-map**: 18 mini-map locations and copyright notices were baked as textures into the large texture archive, remaining unlocalized in Chinese;
 4. **Font Deficiencies & Misalignments**: Incomplete character coverage causing missing glyph boxes (□), and uneven monospacing between Latin numerals and Chinese ideographs.
 
 **This project delivers a 100% comprehensive, production-grade Simplified Chinese localization for the Nintendo Switch release.** By reverse-engineering the viewport rendering engine, `FAFULLFS` virtual file archives, NVN Tegra Block Linear swizzling, and FAD descriptor chains, this project provides a native, immersive experience faithful to official mainland linguistic standards.
@@ -42,15 +42,15 @@ The original Nintendo Switch Asian commercial release only provided Japanese and
 ## ✨ Key Technical Achievements & Features
 
 ### 1. 100% Full Translation with Deep Persona Calibration
-- **Complete Scope**: Covers System UI, World Metadata, Flora & Fauna, Quests & Tutorials, Lore Books & Mythological Letters, Staff Credits, Item Descriptions, and Daily Dialogue across **289 batches and 55,931 bilingual lines**;
+- **Complete Scope**: Covers System UI, World Metadata, Flora & Fauna, Quests & Tutorials, Lore Books & Mythological Letters, Staff Credits, Item Descriptions, and Daily Dialogue across **294 batches and 56,747 bilingual lines** (including full v1.3.0 villager birthday celebrations, birthday quest, new items, and letters);
 - **Deity vs. Monster Pronoun Rule**: Strict theological distinction between ancient sacred gods (divine honorific **祂 / 祂们**) and ordinary monsters, spirits, or animals (**它 / 它们** or **他 / 他们**);
 - **Taiwanese Phrasing Cleansing**: 1,829 lines of awkward particles (`囉/喔/耶/唷/捏/咧`) were completely replaced with natural modern Mandarin expressions;
 - **Vivid Persona Preservation**: Reconstructed Konno's sarcastic elongated speech (`～`), Rokkaku's bustling street food dialect (`～っス`), Tobari's cold and prickly demeanor, and Kodama's stuttering whispers.
 
-### 2. Handheld 32px Large Font Rebalance
+### 2. Handheld 1.2x Scaled Large Font & Engine-Level Baseline Calibration
 - Reverse engineering proved that the game engine includes built-in auto-fit logic (`枠内に収めるための拡縮処理`) to dynamically compress character spacing when text overflows boundaries;
-- Rebalanced `font.dat` to upscale dialogue (`FONT_ID_GAME_TALK`) and UI menus (`FONT_ID_GAME`) from 26px to **32px** (+51% render area), matching the Japanese release;
-- Enhanced small text and item lore from 24px to **26px**, ensuring crisp, comfortable readability on the 720p portable display.
+- **1.2x Large Font Profile**: Upscaled all font sizes by 1.2x based on the Japanese original baseline (Big Title `46px`, Game UI/Dialogue `38px`, Books/Small Text `29px`), delivering over 110% larger glyph render area for supreme readability on 720p handheld screens;
+- **Engine-Level Baseline Calibration**: Reverse-engineered the `village.exe` FreeType pipeline and adjusted global `offsetY` fields in `font.dat`, completely resolving the 4px downshift bug in the Traditional Chinese slot and achieving pixel-perfect vertical centering across interaction balloons (`Ⓐ`) and action bars (`Ⓡ`).
 
 ### 3. PC-Grade Official Font: LXGW WenKai Mono v1.530
 - Integrated **LXGW WenKai Mono (霞鹜文楷等宽) v1.530 Medium (500)** to mirror the aesthetic weight of the PC release;
@@ -64,21 +64,21 @@ The original Nintendo Switch Asian commercial release only provided Japanese and
 - **Result: 100% vector-sharp Simplified Chinese mini-map names with 0 bytes of patch size inflation!**
 
 ### 5. UI Texture Archive Re-Packaging & P0 Crash Fixes
-- Fully reconstructed `resident_lang_tc.fad` inside `fairy_1_00.dat` across 411 texture descriptor streams;
+- Fully reconstructed `resident_lang_tc.fad` inside `fairy_1_00.dat` across 413 texture descriptor streams and dynamically arranged the new `resident_v130.fad` (5.13 MB) archive;
 - **Resolved 4 Critical P0 Crash Defects**:
   1. **P0-1 Compression Length Fix**: Rectified `comp_sz` in `YKCMP_V1` and `ints[12]` in `NMPLTEX1` to include the 20-byte header, resolving the 100% crash rate in `LZ4_decompress_safe`;
   2. **P0-2 Pixel Format Alignment**: Upgraded 61 texture descriptors to standard BC3 (`0x07`) with synchronized decompression buffers;
   3. **P0-3 Dynamic Tegra Swizzle Block Height**: Extracted `block_height_log2` directly from `ints[14] & 0xFF`, preventing screen tearing;
-  4. **P0-4 Master Texture Table Synchronization**: Synchronized the 411 absolute offsets and steps at offset `0xd00`, fixing the fatal first-frame unmapped memory deadlock!
+  4. **P0-4 Master Texture Table Synchronization**: Synchronized the 413 absolute offsets and steps at offset `0xd00`, fixing the fatal first-frame unmapped memory deadlock!
 - Re-packaged **66 localized textures**, including the calligraphic title logo, main menu buttons, crop inspection popups, and town bulletin flyers.
 
 ### 6. Switch Home Menu Icon & NACP Metadata
-- Injected Simplified Chinese title 《静谧田园》 and publisher metadata into NACP Slots 13 & 14;
+- Injected Simplified Chinese title 《静谧田园》 and publisher metadata into NACP Slots 13 & 14, and updated `config.ini` to version 1.3.0;
 - Provided a high-resolution custom Switch Home menu icon (`icon.jpg`), compatible with Atmosphere's `sys-tweak` and `sys-icon` sysmodules.
 
 ### 7. Strict Automated Quality Gate
-- `tools/validate_batch.py` runs 8 automated integrity checks on all 289 batches;
-- **Current Status**: 289/289 batches passed with **0 Errors and 0 Warnings (100% Pass Rate)**.
+- `tools/validate_batch.py` runs 8 automated integrity checks on all 294 batches;
+- **Current Status**: 294/294 batches passed with **0 Errors and 0 Warnings (100% Pass Rate)**.
 
 ---
 
@@ -86,14 +86,14 @@ The original Nintendo Switch Asian commercial release only provided Japanese and
 
 ### Prerequisites
 - **Target Game**: Nintendo Switch *ほの暮しの庭 / Village in the Shade*
-- **Required Game Version**: Base + Update `v1.2.0` (Internal Version `v393216`)
+- **Required Game Version**: Base + Update `v1.3.0` (Internal Version `v458752`, backwards compatible with v1.2.0)
 - **TitleID**: `01001BA027DD8000`
 
 ---
 
 ### Real Hardware (Atmosphere LayeredFS)
 1. Turn off your Nintendo Switch and connect its MicroSD card to your PC (or use DBI MTP mode);
-2. Download or locate the patch directory `output/atmosphere`;
+2. Download or locate the patch directory `output/atmosphere` (or extract `静谧田园简体中文补丁-v1.3.0.zip`);
 3. Copy the entire `atmosphere` folder directly into the root directory of your Switch MicroSD card:
    ```text
    SDCard:/
@@ -101,6 +101,7 @@ The original Nintendo Switch Asian commercial release only provided Japanese and
        └── contents/
            └── 01001BA027DD8000/
                ├── icon.jpg                          # (Optional: sys-tweak custom icon)
+               ├── config.ini                        # (sys-icon title & version override)
                ├── control/                          # (NACP title and icon metadata)
                │   ├── control.nacp
                │   ├── icon_SimplifiedChinese.dat
@@ -110,9 +111,9 @@ The original Nintendo Switch Asian commercial release only provided Japanese and
                    │   ├── talk.dat
                    │   ├── item.dat
                    │   ├── font.dat
-                   │   └── ... (47 files, 20.48 MB)
+                   │   └── ... (47 files, 22.93 MB)
                    ├── misc_1_00.dat                 # (Core: LXGW WenKai font archive, 164.36 MB)
-                   └── fairy_1_00.dat                # (Optional: Reconstructed UI texture archive, 1.08 GB)
+                   └── fairy_1_00.dat                # (Optional: Reconstructed UI texture archive, 1.212 GB)
    ```
 4. Re-insert the MicroSD card into your Switch, boot via Atmosphere, and launch the game.
 
@@ -144,7 +145,7 @@ The project includes a portable Python toolchain located in `tools/`:
 
 ### 1. Validate Batches (QA Gate)
 ```powershell
-# Validate all 289 batches (enforces 0 Errors / 0 Warnings)
+# Validate all 294 batches (enforces 0 Errors / 0 Warnings)
 python tools/validate_batch.py all
 
 # Validate a single batch

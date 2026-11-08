@@ -284,33 +284,40 @@ def build_atmosphere_patch(allow_partial: bool = False):
         total_written_bytes += len(new_ebytes)
         print(f"  [OK] {efn:28s}: {rep_c:6d} custom strings updated | {len(ebytes):9d} B -> {len(new_ebytes):9d} B")
 
-    # Build 32px scaled font.dat profile for handheld comfort
+    # Build 1.2x handheld large font profile with engine-level vertical offset calibration
     font_src = os.path.join(ROMFS_DB_DIR, "font.dat")
     font_dst = os.path.join(OUTPUT_DB_DIR, "font.dat")
     with open(font_src, "rb") as f:
         fdata = bytearray(f.read())
     fcnt, frsize, fssize = struct.unpack_from("<III", fdata, 0)
     fpos = 12
-    font_sizes = {
-        0: (38, 38),  # FONT_ID_GAME_BIG: 38
-        1: (32, 32),  # FONT_ID_GAME: 26 -> 32 (matched to JA original)
-        2: (24, 24),  # FONT_ID_GAME_SMALL: 24
-        3: (26, 26),  # FONT_ID_GAME_SMALL_TEXT: 24 -> 26
-        4: (32, 32),  # FONT_ID_GAME_TALK: 26 -> 32 (matched to JA original)
+    # Profile: 1.2x Japanese Base Sizes + Calibrated offsetY
+    # Rec 0 (BIG):        46x46 px, offY = 3 (upshift 2px relative to vanilla 5)
+    # Rec 1 (GAME):       38x38 px, offY = 0 (upshift 2px relative to vanilla 2)
+    # Rec 2 (SMALL):      29x29 px, offY = 1 (upshift 4px relative to vanilla TC 5, aligned with official SC 1)
+    # Rec 3 (SMALL_TEXT): 29x29 px, offY = 1 (upshift 4px relative to vanilla TC 5, aligned with official SC 1)
+    # Rec 4 (TALK):       38x38 px, offY = 0 (vanilla 0)
+    font_configs = {
+        0: (46, 46, 3),  # FONT_ID_GAME_BIG: 38 * 1.2 = 45.6 -> 46
+        1: (38, 38, 0),  # FONT_ID_GAME: 32 * 1.2 = 38.4 -> 38
+        2: (29, 29, 1),  # FONT_ID_GAME_SMALL: 24 * 1.2 = 28.8 -> 29
+        3: (29, 29, 1),  # FONT_ID_GAME_SMALL_TEXT: 24 * 1.2 = 28.8 -> 29
+        4: (38, 38, 0),  # FONT_ID_GAME_TALK: 32 * 1.2 = 38.4 -> 38
     }
     for r in range(fcnt):
         frlen = struct.unpack_from("<I", fdata, fpos)[0]
         frec_start = fpos + 4
-        fw, fh = font_sizes[r]
+        fw, fh, off_y = font_configs[r]
         for lang, l_off in [("TC", 0x228), ("SC", 0x330)]:
             fchunk = frec_start + l_off
             struct.pack_into("<ii", fdata, fchunk + 16, fw, fh)
+            struct.pack_into("<i", fdata, fchunk + 60, off_y)
         fpos += 4 + frlen
     with open(font_dst, "wb") as f:
         f.write(fdata)
     total_written_bytes += len(fdata)
     total_files_built = len(LOCALIZED_37_FILES) + len(tex_remaps) + len(extra_databases) + 1
-    print(f"  [OK] {'font.dat':28s}: Handheld scaled font profile compiled (32px Talk & Game, 26px SmallText) | {len(fdata)} B")
+    print(f"  [OK] {'font.dat':28s}: Handheld 1.2x Large Font profile compiled (46/38/29px, calibrated offsetY) | {len(fdata)} B")
 
     # Sync to Eden mod folder if present
     eden_db_dir = r"C:\Users\Admin\AppData\Roaming\eden\load\01001BA027DD8000\Village_SC_Translation\romfs\data\database"

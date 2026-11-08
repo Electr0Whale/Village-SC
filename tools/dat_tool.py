@@ -163,7 +163,7 @@ def parse_dat_bytes(data: bytes):
                 if rem in (0, 1, 2):
                     for k in range(rem, len(run), 7):
                         grp = run[k : k + 7]
-                        if grp[1][2] == 0 and grp[2][2] == 0 and grp[3][2] == 0 and grp[6][2] == 0:
+                        if grp[2][2] == 0 and grp[3][2] == 0 and grp[6][2] == 0:
                             pidxs = tuple(x[3] for x in grp)
                             offs = tuple(x[0] for x in grp)
                             multilang_slots.append((r, f_idx, rec_id, pidxs, offs))

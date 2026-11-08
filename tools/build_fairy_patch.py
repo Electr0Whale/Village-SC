@@ -144,18 +144,8 @@ def get_tga_names(data):
 
 
 def sw_to_pc(sw_idx):
-    if sw_idx < 106:
-        return sw_idx
-    elif sw_idx == 106:
-        return 109
-    elif sw_idx == 107:
-        return 108
-    elif sw_idx == 108:
-        return 110
-    elif sw_idx == 109:
-        return 111
-    else:
-        return sw_idx + 2
+    # In v1.3.0, Switch resident_lang_tc.fad has 413 entries matching PC 1:1
+    return sw_idx
 
 
 def build_fairy_patch(mode="all"):
@@ -172,8 +162,8 @@ def build_fairy_patch(mode="all"):
 
     print(f"Loaded: SW={len(sw_entries)} texs, PC TC={len(pc_tc_entries)} texs, PC SC={len(pc_sc_entries)} texs")
 
-    # Native 0x07 textures (Route A targets)
-    SAFE_TARGETS = {153, 154, 155, 156, 209}
+    # Native 0x07 textures (Route A targets in v1.3.0: 4 flyers + Localize_00)
+    SAFE_TARGETS = {155, 156, 157, 158, 211}
 
     print("[2/5] Preparing replacement textures...")
     replace_map = {}
@@ -246,7 +236,7 @@ def build_fairy_patch(mode="all"):
     print(f"Total textures to replace: {len(replace_map)}")
 
     print("[3/5] Reconstructing resident_lang_tc.fad...")
-    FIRST_DESC_POS = 0x33FB60
+    FIRST_DESC_POS = 0x340BC0
     table_base = 0xd00
     prefix = bytearray(sw_tc_fad[:FIRST_DESC_POS])
 
@@ -255,7 +245,7 @@ def build_fairy_patch(mode="all"):
     desc_pos = FIRST_DESC_POS
     new_steps = []
 
-    for i in range(411):
+    for i in range(413):
         orig_desc_raw = sw_tc_fad[desc_pos : desc_pos + 64]
         orig_desc_ints = struct.unpack_from("<16I", orig_desc_raw, 0)
         orig_step = orig_desc_ints[2]
@@ -313,7 +303,7 @@ def build_fairy_patch(mode="all"):
         desc_pos += orig_step
 
     # CRITICAL P0-4 FIX: Synchronize Master Texture Table field 6 (step of entry i+1)!
-    for i in range(410):
+    for i in range(412):
         struct.pack_into("<I", prefix, table_base + i * 32 + 24, new_steps[i + 1])
 
     new_fad_bytes = bytes(prefix) + b"".join(new_blocks)
@@ -324,11 +314,11 @@ def build_fairy_patch(mode="all"):
     print("[4/5] Verifying reconstructed resident_lang_tc.fad against Switch engine conventions...")
     test_desc_pos = FIRST_DESC_POS
     verified_reps = 0
-    for i in range(411):
+    for i in range(413):
         # Verify Master Table offset points directly to descriptor i
         table_ptr = struct.unpack_from("<I", new_fad_bytes, table_base + i * 32)[0]
         assert table_ptr == test_desc_pos, f"Master table ptr mismatch for #{i}: {hex(table_ptr)} != {hex(test_desc_pos)}"
-        if i < 410:
+        if i < 412:
             table_f6 = struct.unpack_from("<I", new_fad_bytes, table_base + i * 32 + 24)[0]
             assert table_f6 == new_steps[i + 1], f"Master table f6 mismatch for #{i}: {hex(table_f6)} != {hex(new_steps[i+1])}"
 
@@ -368,7 +358,7 @@ def build_fairy_patch(mode="all"):
 
         test_desc_pos += step
 
-    print(f"FAD verification 100% SUCCESS! All 411 descriptors valid, {verified_reps} replaced textures verified with LZ4_decompress_safe & deswizzle!")
+    print(f"FAD verification 100% SUCCESS! All 413 descriptors valid, {verified_reps} replaced textures verified with LZ4_decompress_safe & deswizzle!")
 
     print("[5/5] Repacking fairy_1_00.dat...")
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -395,12 +385,29 @@ def build_fairy_patch(mode="all"):
                 "ts": ts,
             })
 
-        TARGET_START_OFF = 0x3CC0AA00
+        tc_entry = None
+        v130_entry = None
+        for e in toc_entries:
+            end = spool.find(b"\x00", e["s_off"])
+            name = spool[e["s_off"]:end].decode("utf-8", errors="ignore")
+            if "resident_lang_tc.fad" in name:
+                tc_entry = e
+            elif "resident_v130.fad" in name:
+                v130_entry = e
+
+        assert tc_entry is not None, "Could not find resident_lang_tc.fad in TOC!"
+        TARGET_START_OFF = tc_entry["f_off"]
+
         f_in.seek(0)
         prefix_data = f_in.read(TARGET_START_OFF)
 
+        v130_data = b""
+        if v130_entry is not None:
+            f_in.seek(v130_entry["f_off"])
+            v130_data = f_in.read(v130_entry["f_size"])
+
     with open(OUTPUT_FAIRY, "wb") as f_out:
-        # 1. Write prefix data (files 0..7)
+        # 1. Write prefix data (files before resident_lang_tc.fad)
         f_out.write(prefix_data)
 
         # 2. Write new resident_lang_tc.fad at TARGET_START_OFF
@@ -414,24 +421,36 @@ def build_fairy_patch(mode="all"):
         if pad_to_512 > cur_pos:
             f_out.write(b"\x00" * (pad_to_512 - cur_pos))
 
-        # 4. Write TOC
+        # 4. Write resident_v130.fad if present
+        v130_start_off = None
+        if v130_entry is not None and v130_data:
+            v130_start_off = f_out.tell()
+            f_out.write(v130_data)
+            cur_pos = f_out.tell()
+            pad_to_512 = (cur_pos + 511) & ~511
+            if pad_to_512 > cur_pos:
+                f_out.write(b"\x00" * (pad_to_512 - cur_pos))
+
+        # 5. Write TOC
         new_toc_off = f_out.tell()
         new_toc_parts = []
         for e in toc_entries:
-            if e["idx"] == 3:  # resident_lang_tc.fad
+            if e["idx"] == tc_entry["idx"]:
                 new_entry = struct.pack("<QQQQQQ", e["name_hash"], e["s_off"], e["flags"], len(new_fad_bytes), tc_start_off, e["ts"])
+            elif v130_entry is not None and e["idx"] == v130_entry["idx"]:
+                new_entry = struct.pack("<QQQQQQ", e["name_hash"], e["s_off"], e["flags"], len(v130_data), v130_start_off, e["ts"])
             else:
                 new_entry = struct.pack("<QQQQQQ", e["name_hash"], e["s_off"], e["flags"], e["f_size"], e["f_off"], e["ts"])
             new_toc_parts.append(new_entry)
         f_out.write(b"".join(new_toc_parts))
 
-        # 5. Write String Pool
+        # 6. Write String Pool
         new_str_off = f_out.tell()
         f_out.write(spool)
 
         total_fairy_sz = f_out.tell()
 
-        # 6. Rewrite 0x40 header
+        # 7. Rewrite 0x40 header
         f_out.seek(0)
         new_hdr = bytearray(orig_hdr)
         struct.pack_into("<QQQ", new_hdr, 0x10, new_str_off, orig_str_size, new_toc_off)
@@ -442,6 +461,12 @@ def build_fairy_patch(mode="all"):
     print(f"  Path: {OUTPUT_FAIRY}")
     print(f"  Size: {total_fairy_sz} bytes ({total_fairy_sz / (1024*1024*1024):.3f} GB)")
     print(f"  Replaced textures: {len(replace_map)} (Mode: {mode.upper()})")
+
+    eden_fairy = r"C:\Users\Admin\AppData\Roaming\eden\load\01001BA027DD8000\Village_SC_Translation\romfs\data\fairy_1_00.dat"
+    if os.path.exists(os.path.dirname(eden_fairy)):
+        import shutil
+        shutil.copy2(OUTPUT_FAIRY, eden_fairy)
+        print(f"  Synced to Eden: {eden_fairy}")
     print("==========================================")
 
 

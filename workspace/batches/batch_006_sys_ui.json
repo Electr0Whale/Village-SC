@@ -10,6 +10,272 @@
   "records": [
     {
       "file": "string.dat",
+      "rec_idx": 265,
+      "rec_id": "STR_ID_INVENTORY_CANCEL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2125,
+          "ja": "やめる",
+          "tc": "算了",
+          "sc": "算了"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 266,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_PRICE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2133,
+          "ja": "購入価格",
+          "tc": "購買價格",
+          "sc": "购买价格"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 267,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_MATERIAL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2141,
+          "ja": "使用素材",
+          "tc": "使用材料",
+          "sc": "使用材料"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 268,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_HARVEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2149,
+          "ja": "総収穫数",
+          "tc": "總收穫數",
+          "sc": "总收获数"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 269,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2157,
+          "ja": "対応加工機",
+          "tc": "對應加工機",
+          "sc": "对应加工机"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 270,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_INPUT_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2165,
+          "ja": "投入加工機",
+          "tc": "投入加工機",
+          "sc": "投入加工机"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 271,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_FEATURE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2173,
+          "ja": "分類",
+          "tc": "分類",
+          "sc": "分类"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 272,
+      "rec_id": "STR_ID_ENCYCLOPEDIA_RANKUP_REMAIN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2181,
+          "ja": "ランクアップまであと",
+          "tc": "距離升級還有",
+          "sc": "距离升级还有"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 273,
+      "rec_id": "STR_ID_HUD_INVENTORY_DRAW_WATER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2189,
+          "ja": "汲む",
+          "tc": "汲水",
+          "sc": "汲水"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 274,
+      "rec_id": "STR_ID_HUD_INVENTORY_HAND_OVER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2197,
+          "ja": "渡す",
+          "tc": "交付",
+          "sc": "交付"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 275,
+      "rec_id": "STR_ID_HUD_INVENTORY_TRHOW",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2205,
+          "ja": "投げる",
+          "tc": "投出",
+          "sc": "投出"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 276,
+      "rec_id": "STR_ID_HUD_INVENTORY_DETAIL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2213,
+          "ja": "詳細",
+          "tc": "詳情",
+          "sc": "详情"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 277,
+      "rec_id": "STR_ID_HUD_INVENTORY_RETURN",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2221,
+          "ja": "返す",
+          "tc": "返回",
+          "sc": "返回"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 278,
+      "rec_id": "STR_ID_HUD_INVENTORY_HUNG_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2229,
+          "ja": "出る",
+          "tc": "離開",
+          "sc": "离开"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 279,
+      "rec_id": "STR_ID_HUD_INVENTORY_USE_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2237,
+          "ja": "使う",
+          "tc": "使用",
+          "sc": "使用"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 280,
+      "rec_id": "STR_ID_HUD_INVENTORY_SPRINKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2245,
+          "ja": "撒く",
+          "tc": "播撒",
+          "sc": "播撒"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 281,
+      "rec_id": "STR_ID_HUD_INVENTORY_DELIVER_SUBQUEST_ITEM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2253,
+          "ja": "納品",
+          "tc": "交付",
+          "sc": "交付"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 282,
+      "rec_id": "STR_ID_HUD_INVENTORY_PUT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2261,
+          "ja": "置く",
+          "tc": "放置",
+          "sc": "放置"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 283,
+      "rec_id": "STR_ID_HUD_INTANGEBLE_POPUP_CURSOR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 2269,
+          "ja": "受け取る",
+          "tc": "收下",
+          "sc": "收下"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
       "rec_idx": 284,
       "rec_id": "STR_ID_INTANGEBLE_POPUP_GET_ITEM_00",
       "lines": [
@@ -1523,11 +1789,25 @@
     {
       "file": "string.dat",
       "rec_idx": 396,
-      "rec_id": "STR_ID_CATALOG_TITLE",
+      "rec_id": "STR_ID_SAVE_FILE_LIST_DISP_NAME",
       "lines": [
         {
           "f_idx": 0,
           "pidx_tc": 3173,
+          "ja": "save<value 1>",
+          "tc": "save<value 1>",
+          "sc": "save<value 1>"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 397,
+      "rec_id": "STR_ID_CATALOG_TITLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3181,
           "ja": "家具カタログ",
           "tc": "家具目錄",
           "sc": "家具目录"
@@ -1536,12 +1816,12 @@
     },
     {
       "file": "string.dat",
-      "rec_idx": 397,
+      "rec_idx": 398,
       "rec_id": "STR_ID_CATALOG_ORDER_HEADER",
       "lines": [
         {
           "f_idx": 0,
-          "pidx_tc": 3181,
+          "pidx_tc": 3189,
           "ja": "本日注文した家具",
           "tc": "今天訂購的家具",
           "sc": "今天订购的家具"
@@ -1550,12 +1830,12 @@
     },
     {
       "file": "string.dat",
-      "rec_idx": 398,
+      "rec_idx": 399,
       "rec_id": "STR_ID_CATALOG_NUMBER",
       "lines": [
         {
           "f_idx": 0,
-          "pidx_tc": 3189,
+          "pidx_tc": 3197,
           "ja": "<value 1>個",
           "tc": "<value 1>個",
           "sc": "<value 1>个"
@@ -1564,12 +1844,12 @@
     },
     {
       "file": "string.dat",
-      "rec_idx": 399,
+      "rec_idx": 400,
       "rec_id": "STR_ID_MEMO_CATALOG",
       "lines": [
         {
           "f_idx": 0,
-          "pidx_tc": 3197,
+          "pidx_tc": 3205,
           "ja": "家具カタログ",
           "tc": "家具目錄",
           "sc": "家具目录"
@@ -1578,12 +1858,68 @@
     },
     {
       "file": "string.dat",
-      "rec_idx": 400,
+      "rec_idx": 401,
+      "rec_id": "STR_ID_BIRTHDAY_SELECT",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3213,
+          "ja": "誕生日を<strong><value 1>の<value 2>日（<value 3>曜日）</strong>にする？",
+          "tc": "要將生日訂為<strong><value 1>的<value 2>日（星期<value 3>）</strong>嗎？",
+          "sc": "要将生日定为<strong><value 1>的<value 2>日（星期<value 3>）</strong>吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 402,
+      "rec_id": "STR_ID_BIRTHDAY_SELECT_TMPSTR",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3221,
+          "ja": "<value 1>の<value 2>日",
+          "tc": "<value 1>的<value 2>日",
+          "sc": "<value 1>的<value 2>日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 403,
+      "rec_id": "STR_ID_BIRTHDAY_SELECT_NOTICE_01",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3229,
+          "ja": "この曜日はチナナが居ません",
+          "tc": "這一天琪娜娜不在",
+          "sc": "这天琪娜娜不在"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 404,
+      "rec_id": "STR_ID_BIRTHDAY_SELECT_NOTICE_02",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3237,
+          "ja": "この日で確定しますか？",
+          "tc": "確定要設定為這一天嗎？",
+          "sc": "确定要设定为这一天吗？"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 405,
       "rec_id": "STR_ID_SAVE_ERROR_MSG_001",
       "lines": [
         {
           "f_idx": 0,
-          "pidx_tc": 3205,
+          "pidx_tc": 3245,
           "ja": "バージョンが異なるセーブデータのため読み込めません",
           "tc": "由於此保存資料的遊戲版本不同，故無法進行讀取。",
           "sc": "由于此存档的游戏版本不同，故无法进行读取。"
@@ -1592,15 +1928,29 @@
     },
     {
       "file": "string.dat",
-      "rec_idx": 401,
+      "rec_idx": 406,
       "rec_id": "STR_ID_SCARECROW_COUNT_DAYS",
       "lines": [
         {
           "f_idx": 0,
-          "pidx_tc": 3213,
+          "pidx_tc": 3253,
           "ja": "あと<value 1>日",
           "tc": "還有<value 1>日",
           "sc": "还有<value 1>日"
+        }
+      ]
+    },
+    {
+      "file": "string.dat",
+      "rec_idx": 407,
+      "rec_id": "STR_ID_TOOL_NAME_SEEDER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 3261,
+          "ja": "種まき機",
+          "tc": "播種機",
+          "sc": "播种机"
         }
       ]
     },
@@ -2455,356 +2805,6 @@
           "ja": "周囲に物が多すぎる……",
           "tc": "周圍物品太多了……",
           "sc": "周围物品太多了……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 61,
-      "rec_id": "LOG_GIMMICK_PLACEMENT_INDOOR",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 493,
-          "ja": "これは屋内に置こう",
-          "tc": "這個就放在室內吧。",
-          "sc": "这个就放在室内吧。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 62,
-      "rec_id": "LOG_GIMMICK_PLACEMENT_OUTDOOR",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 501,
-          "ja": "これは外に置こう",
-          "tc": "這個就放在戶外吧。",
-          "sc": "这个就放在室外吧。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 63,
-      "rec_id": "LOG_GIMMICK_PLACEMENT_MYHOSUE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 509,
-          "ja": "これは自宅に置こう",
-          "tc": "這個就放在家裡吧。",
-          "sc": "这个就放在家里吧。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 64,
-      "rec_id": "LOG_NO_USE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 517,
-          "ja": "ここでは使えない",
-          "tc": "無法在此處使用。",
-          "sc": "无法在此处使用。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 65,
-      "rec_id": "LOG_CONSTRUCTION_IN_PROGRESS",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 525,
-          "ja": "他の建物を建設中だ……",
-          "tc": "正在建設其他建築……",
-          "sc": "正在建设其他建筑……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 66,
-      "rec_id": "LOG_FORBID_DIVIDE_STOCK",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 533,
-          "ja": "この道具は分けられない",
-          "tc": "這個道具不能分出去。",
-          "sc": "这个道具不能分出去。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 67,
-      "rec_id": "LOG_FORBID_ADD_ITEM",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 541,
-          "ja": "これ以上持てない……",
-          "tc": "無法持有更多了……",
-          "sc": "无法持有更多了……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 68,
-      "rec_id": "LOG_FORBID_REVERSE_ARCHITECTURE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 549,
-          "ja": "この建物は移築の際に反転できない",
-          "tc": "此建築在移建時無法翻轉配置。",
-          "sc": "此建筑在迁建时无法翻转配置。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 69,
-      "rec_id": "LOG_SHIPPING_PRICE_MAX",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 557,
-          "ja": "これ以上お金は支払われない",
-          "tc": "無法支付更多費用。",
-          "sc": "无法支付更多费用。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 70,
-      "rec_id": "LOG_NOT_DISCARD_CHEST",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 565,
-          "ja": "廃棄不可の物が入っていて回収できない",
-          "tc": "內有無法丟棄的物品，無法回收。",
-          "sc": "内有无法丢弃的物品，无法回收。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 71,
-      "rec_id": "LOG_NOT_DISCARD_TABLE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 573,
-          "ja": "上に廃棄不可の物があるから回収できない",
-          "tc": "上方有無法丟棄的物品，無法回收。",
-          "sc": "上方有无法丢弃的物品，无法回收。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 72,
-      "rec_id": "LOG_CRAFT_NOT_CRAFT_MORE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 581,
-          "ja": "すでに作ってある",
-          "tc": "已製作。",
-          "sc": "已制作。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 73,
-      "rec_id": "LOG_NOT_SOWING_FERTILIZER",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 589,
-          "ja": "ここには肥料を撒けない",
-          "tc": "無法於此播撒肥料。",
-          "sc": "无法于此播撒肥料。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 74,
-      "rec_id": "LOG_NOT_EQUIP_ACCESSORY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 597,
-          "ja": "この後ろ髪ではつけられない……",
-          "tc": "無法裝在這個後髮髮型上……",
-          "sc": "无法装在这个后发发型上……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 75,
-      "rec_id": "LOG_DETACH_ACCESSORY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 605,
-          "ja": "つけられないアクセサリを外した",
-          "tc": "已卸除無法穿戴的飾品。",
-          "sc": "已卸下无法佩戴的饰品。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 76,
-      "rec_id": "LOG_GIMMICK_PLACEMENT_OBSTACLE_UNIT",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 613,
-          "ja": "ここにいると置けない……",
-          "tc": "在這裡無法放置……",
-          "sc": "站在这里无法放置……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 77,
-      "rec_id": "LOG_HAVE_MEMO",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 621,
-          "ja": "これはすでにメモしてある",
-          "tc": "已經加入筆記過。",
-          "sc": "已经加入过笔记。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 78,
-      "rec_id": "LOG_SHIPPING_SLOT_FULL",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 629,
-          "ja": "これ以上は出荷できない……",
-          "tc": "無法再繼續出貨……",
-          "sc": "无法再继续出货……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 79,
-      "rec_id": "LOG_ITEM_LOST_CURSED_RED_CANDLE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 637,
-          "ja": "赤い蝋燭が燃え尽きた……",
-          "tc": "紅色蠟燭燃盡了……",
-          "sc": "红色蜡烛燃尽了……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 80,
-      "rec_id": "LOG_ITEM_LOST_CURSED_BLUE_CANDLE",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 645,
-          "ja": "青い蝋燭が燃え尽きた……",
-          "tc": "藍色蠟燭燃盡了……",
-          "sc": "蓝色蜡烛燃尽了……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 81,
-      "rec_id": "LOG_ITEM_LOST_TRAP",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 653,
-          "ja": "罠が壊れた……",
-          "tc": "陷阱壞掉了……",
-          "sc": "陷阱坏掉了……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 82,
-      "rec_id": "LOG_HORROR_01_TEXT_01",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 661,
-          "ja": "…………ﾃ",
-          "tc": "…………我。",
-          "sc": "…………我。"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 83,
-      "rec_id": "LOG_HORROR_01_TEXT_02",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 669,
-          "ja": "霑ｽ繧上ｌ 縺ｦ縺?∪縺 謔ｪ縺 蜉ｩ縺代!!∝勧縺代!!",
-          "tc": "@#%!! @#%!! **($&@^@#%!!",
-          "sc": "@#%!! @#%!! **($&@^@#%!!"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 84,
-      "rec_id": "LOG_HORROR_01_TEXT_03",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 677,
-          "ja": "ﾀｽ…………ﾃ",
-          "tc": "救…………我……",
-          "sc": "救…………我……"
-        }
-      ]
-    },
-    {
-      "file": "logText.dat",
-      "rec_idx": 85,
-      "rec_id": "LOG_HORROR_01_TEXT_04",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 685,
-          "ja": "ｺﾜ……ｼﾃ……",
-          "tc": "破……壞掉……",
-          "sc": "破……坏掉……"
         }
       ]
     }

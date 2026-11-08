@@ -1,0 +1,2112 @@
+{
+  "batch_id": "batch_010_world_meta",
+  "group": "world_meta",
+  "files": [
+    "skillTree.dat",
+    "trophy.dat"
+  ],
+  "record_count": 100,
+  "line_count": 200,
+  "records": [
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 15,
+      "rec_id": "SKILL_NODE_CRAFT_COMPOSTER_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 246,
+          "ja": "コンポスター／改",
+          "tc": "堆肥桶／改",
+          "sc": "堆肥桶／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 253,
+          "ja": "「コンポスター／改」の作り方を覚える",
+          "tc": "解鎖「堆肥桶／改」的製作方式",
+          "sc": "解锁“堆肥桶·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 16,
+      "rec_id": "SKILL_NODE_CRAFT_LOOM",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 262,
+          "ja": "織り機",
+          "tc": "織布機",
+          "sc": "织布机"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 269,
+          "ja": "「織り機」の作り方を覚える",
+          "tc": "解鎖「織布機」的製作方式",
+          "sc": "解锁“织布机”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 17,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_WHITE_STONE_TILE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 278,
+          "ja": "白石タイルの庭床",
+          "tc": "戶外白石磚地板",
+          "sc": "户外白石砖地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 285,
+          "ja": "「白石タイルの庭床」の作り方を覚える",
+          "tc": "解鎖「戶外白石磚地板」的製作方式",
+          "sc": "解锁“户外白石砖地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 18,
+      "rec_id": "SKILL_NODE_CRAFT_ROPE_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 294,
+          "ja": "縄の柵とゲート",
+          "tc": "繩子柵欄與柵欄門",
+          "sc": "绳子栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 301,
+          "ja": "「縄の柵」「縄のゲート」の作り方を覚える",
+          "tc": "解鎖「繩子柵欄」、「繩子柵欄門」的製作方式",
+          "sc": "解锁“绳子栅栏”、“绳子栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 19,
+      "rec_id": "SKILL_NODE_STAMINA_REDUCTION_SICKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 310,
+          "ja": "カマの技術",
+          "tc": "鐮刀技術",
+          "sc": "镰刀技术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 317,
+          "ja": "カマを振った時のスタミナ消費量が減少",
+          "tc": "減少揮動鐮刀時的體力消耗量",
+          "sc": "减少挥动镰刀时的体力消耗量"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 20,
+      "rec_id": "SKILL_NODE_TREE_GROWTH_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 326,
+          "ja": "樹木の育成術",
+          "tc": "樹木培育術",
+          "sc": "树木培育术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 333,
+          "ja": "樹木の成長速度が５％上昇する",
+          "tc": "樹木成長速度提昇5%",
+          "sc": "树木成长速度提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 21,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_BLACK_STONE_TILE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 342,
+          "ja": "黒石タイルの庭床",
+          "tc": "戶外黑石磚地板",
+          "sc": "户外黑石砖地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 349,
+          "ja": "「黒石タイルの庭床」の作り方を覚える",
+          "tc": "解鎖「戶外黑石磚地板」的製作方式",
+          "sc": "解锁“户外黑石砖地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 22,
+      "rec_id": "SKILL_NODE_CRAFT_PLANK_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 358,
+          "ja": "板材の柵とゲート",
+          "tc": "木板柵欄與柵欄門",
+          "sc": "木板栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 365,
+          "ja": "「板材の柵」「板材のゲート」の作り方を覚える",
+          "tc": "解鎖「木板柵欄」、「木板柵欄門」的製作方式",
+          "sc": "解锁“木板栅栏”、“木板栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 23,
+      "rec_id": "SKILL_NODE_MINE_APPEARANCE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 374,
+          "ja": "鉱脈の発見術",
+          "tc": "礦脈探查術",
+          "sc": "矿脉探查术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 381,
+          "ja": "石切場で鉱脈が見つかる確率が3％上昇する",
+          "tc": "在採石場發現礦脈的機率提昇3%",
+          "sc": "在采石场发现矿脉的概率提升3%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 24,
+      "rec_id": "SKILL_NODE_CRAFT_SERICULTURE_BOX",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 390,
+          "ja": "養蚕箱",
+          "tc": "蠶箱",
+          "sc": "蚕箱"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 397,
+          "ja": "「養蚕箱」の作り方を覚える",
+          "tc": "解鎖「蠶箱」的製作方式",
+          "sc": "解锁“蚕箱”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 25,
+      "rec_id": "SKILL_NODE_CRAFT_SMOKING_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 406,
+          "ja": "燻製機",
+          "tc": "煙燻機",
+          "sc": "烟熏机"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 413,
+          "ja": "「燻製機」の作り方を覚える",
+          "tc": "解鎖「煙燻機」的製作方式",
+          "sc": "解锁“熏制机”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 26,
+      "rec_id": "SKILL_NODE_CRAFT_BAMBOO_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 422,
+          "ja": "竹の柵とゲート",
+          "tc": "竹子柵欄與柵欄門",
+          "sc": "竹子栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 429,
+          "ja": "「竹の柵」「竹のゲート」の作り方を覚える",
+          "tc": "解鎖「竹子柵欄」、「竹子柵欄門」的製作方式",
+          "sc": "解锁“竹子栅栏”、“竹子栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 27,
+      "rec_id": "SKILL_NODE_CRAFT_WHITE_PLANK_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 438,
+          "ja": "白い板材の柵とゲート",
+          "tc": "白色木板柵欄與柵欄門",
+          "sc": "白色木板栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 445,
+          "ja": "「白い板材の柵」「白い板材のゲート」の作り方を覚える",
+          "tc": "解鎖「白色木板柵欄」、「白色木板柵欄門」的製作方式",
+          "sc": "解锁“白色木板栅栏”、“白色木板栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 28,
+      "rec_id": "SKILL_NODE_CRAFT_COLLECTION_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 454,
+          "ja": "野草の採取術",
+          "tc": "野草採取術",
+          "sc": "野草采取术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 461,
+          "ja": "採取物が２５％の確率で２個採取できる",
+          "tc": "有25%的機率可採集到2個採集物",
+          "sc": "有25%的概率可采集到2个采集物"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 29,
+      "rec_id": "SKILL_NODE_CRAFT_MESH_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 470,
+          "ja": "網の柵とゲート",
+          "tc": "網子柵欄與柵欄門",
+          "sc": "网子栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 477,
+          "ja": "「網の柵」「網のゲート」の作り方を覚える",
+          "tc": "解鎖「網子柵欄」、「網子柵欄門」的製作方式",
+          "sc": "解锁“网状栅栏”、“网状栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 30,
+      "rec_id": "SKILL_NODE_RARE_NIGHT_ITEM_RATE_UP",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 486,
+          "ja": "鏡と剣の発見術",
+          "tc": "鏡與劍探查術",
+          "sc": "镜与剑探查术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 493,
+          "ja": "深夜に「鏡」と「剣」が手に入れやすくなる",
+          "tc": "在深夜時將更容易獲得「鏡」與「劍」",
+          "sc": "在深夜时将更容易获得“镜”与“剑”"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 31,
+      "rec_id": "SKILL_NODE_CRAFT_MAYONNAISE_PROCESSING_MACHINE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 502,
+          "ja": "マヨネーズ加工機／改",
+          "tc": "美乃滋加工機／改",
+          "sc": "美乃滋加工机／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 509,
+          "ja": "「マヨネーズ加工機/改」の作り方を覚える",
+          "tc": "解鎖「美乃滋加工機／改」的製作方式",
+          "sc": "解锁“蛋黄酱加工机·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 32,
+      "rec_id": "SKILL_NODE_LIVESTOCK_LOVERATE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 518,
+          "ja": "動物仲良し術",
+          "tc": "動物友好術",
+          "sc": "动物友好术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 525,
+          "ja": "動物のなつき度が上がりやすくなる",
+          "tc": "動物親密度更容易上昇",
+          "sc": "动物亲密度更容易上升"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 33,
+      "rec_id": "SKILL_NODE_CRAFT_SPRINKLER_SMALL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 534,
+          "ja": "小さいスプリンクラー",
+          "tc": "小型灑水器",
+          "sc": "小型洒水器"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 541,
+          "ja": "「小さいスプリンクラー」の作り方を覚える",
+          "tc": "解鎖「小型灑水器」的製作方式",
+          "sc": "解锁“小型洒水器”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 34,
+      "rec_id": "SKILL_NODE_CRAFT_IRON_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 550,
+          "ja": "鉄の柵とゲート",
+          "tc": "鐵製柵欄與柵欄門",
+          "sc": "铁制栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 557,
+          "ja": "「鉄の柵」「鉄のゲート」の作り方を覚える",
+          "tc": "解鎖「鐵製柵欄」、「鐵製柵欄門」的製作方式",
+          "sc": "解锁“铁制栅栏”、“铁制栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 35,
+      "rec_id": "SKILL_NODE_CRAFT_FLOUR_MILL_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 566,
+          "ja": "粉挽き／改",
+          "tc": "研磨機／改",
+          "sc": "研磨机／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 573,
+          "ja": "「粉挽き/改」の作り方を覚える",
+          "tc": "解鎖「研磨機／改」的製作方式",
+          "sc": "解锁“研磨机·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 36,
+      "rec_id": "SKILL_NODE_TREE_GROWTH_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 582,
+          "ja": "樹木の育成術+",
+          "tc": "樹木培育術＋",
+          "sc": "树木培育术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 589,
+          "ja": "樹木の成長速度が１０％上昇する",
+          "tc": "樹木成長速度提昇10%",
+          "sc": "树木成长速度提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 37,
+      "rec_id": "SKILL_NODE_CRAFT_MILK_PROCESSING_MACHINE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 598,
+          "ja": "ミルク加工機／改",
+          "tc": "牛奶加工機／改",
+          "sc": "牛奶加工机／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 605,
+          "ja": "「ミルク加工機／改」の作り方を覚える",
+          "tc": "解鎖「牛奶加工機／改」的製作方式",
+          "sc": "解锁“牛奶加工机·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 38,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_FLOWER",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 614,
+          "ja": "花の庭床",
+          "tc": "戶外花朵地板",
+          "sc": "户外花朵地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 621,
+          "ja": "「花の庭床」の作り方を覚える",
+          "tc": "解鎖「戶外花朵地板」的製作方式",
+          "sc": "解锁“户外花朵地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 39,
+      "rec_id": "SKILL_NODE_CRAFT_SPRINKLING_BAIT_HIGH_GRADE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 630,
+          "ja": "良質な撒き餌",
+          "tc": "優質魚餌",
+          "sc": "优质鱼饵"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 637,
+          "ja": "「良質な撒き餌」の作り方を覚える",
+          "tc": "解鎖「優質魚餌」的製作方式",
+          "sc": "解锁“优质鱼饵”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 40,
+      "rec_id": "SKILL_NODE_CRAFT_CHARCOAL_KILN_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 646,
+          "ja": "炭焼き窯／改",
+          "tc": "木炭窯／改",
+          "sc": "木炭窑／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 653,
+          "ja": "「炭焼き窯／改」の作り方を覚える",
+          "tc": "解鎖「木炭窯／改」的製作方式",
+          "sc": "解锁“木炭窑·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 41,
+      "rec_id": "SKILL_NODE_CROPS_PROCESSED_PRODUCTS_PRICE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 662,
+          "ja": "作物加工品の出荷術",
+          "tc": "作物加工品出貨術",
+          "sc": "作物加工品出货术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 669,
+          "ja": "作物加工品の売値が５％上昇する",
+          "tc": "作物加工品的售價提昇5%",
+          "sc": "农作物加工品的售价提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 42,
+      "rec_id": "SKILL_NODE_CRAFT_BREWING_BARREL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 678,
+          "ja": "醸造樽",
+          "tc": "釀造桶",
+          "sc": "酿造桶"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 685,
+          "ja": "「醸造樽」の作り方を覚える",
+          "tc": "解鎖「釀造桶」的製作方式",
+          "sc": "解锁“酿造桶”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 43,
+      "rec_id": "SKILL_NODE_CRAFT_FLOOR_FALLEN_LEAVES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 694,
+          "ja": "落ち葉の庭床",
+          "tc": "戶外落葉地板",
+          "sc": "户外落叶地板"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 701,
+          "ja": "「落ち葉の庭床」の作り方を覚える",
+          "tc": "解鎖「戶外落葉地板」的製作方式",
+          "sc": "解锁“户外落叶地板”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 44,
+      "rec_id": "SKILL_NODE_CRAFT_BLAST_FURNACE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 710,
+          "ja": "溶鉱炉／改",
+          "tc": "熔爐／改",
+          "sc": "熔炉／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 717,
+          "ja": "「溶鉱炉/改」の作り方を覚える",
+          "tc": "解鎖「熔爐／改」的製作方式",
+          "sc": "解锁“熔炉·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 45,
+      "rec_id": "SKILL_NODE_CRAFT_DRYING_MACHINE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 726,
+          "ja": "乾燥機",
+          "tc": "乾燥機",
+          "sc": "干燥机"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 733,
+          "ja": "「乾燥機」の作り方を覚える",
+          "tc": "解鎖「乾燥機」的製作方式",
+          "sc": "解锁“干燥机”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 46,
+      "rec_id": "SKILL_NODE_CRAFT_SMOKING_MACHINE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 742,
+          "ja": "燻製機／改",
+          "tc": "煙燻機／改",
+          "sc": "烟熏机／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 749,
+          "ja": "「燻製機／改」の作り方を覚える",
+          "tc": "解鎖「煙燻機／改」的製作方式",
+          "sc": "解锁“熏制机·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 47,
+      "rec_id": "SKILL_NODE_LIVESTOCK_PRODUCTS_PRICE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 758,
+          "ja": "畜産物の出荷術",
+          "tc": "畜產品出貨術",
+          "sc": "畜产品出货术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 765,
+          "ja": "畜産物の売値が５％上昇する",
+          "tc": "畜產品的售價提昇5%",
+          "sc": "畜产品的售价提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 48,
+      "rec_id": "SKILL_NODE_CRAFT_AGUNG_BARREL",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 774,
+          "ja": "熟成樽",
+          "tc": "熟成桶",
+          "sc": "熟成桶"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 781,
+          "ja": "「熟成樽」の作り方を覚える",
+          "tc": "解鎖「熟成桶」的製作方式",
+          "sc": "解锁“熟成桶”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 49,
+      "rec_id": "SKILL_NODE_CRAFT_GARDEN_SERIES",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 790,
+          "ja": "ガーデンの柵とゲート",
+          "tc": "花園柵欄與柵欄門",
+          "sc": "花园栅栏与栅栏门"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 797,
+          "ja": "「鉄のガーデン柵」「鉄のガーデンゲート」を覚える",
+          "tc": "解鎖「鐵製花園柵欄」、「鐵製花園柵欄門」的製作方式",
+          "sc": "解锁“铁制花园栅栏”、“铁制花园栅栏门”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 50,
+      "rec_id": "SKILL_NODE_FISH_PRICE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 806,
+          "ja": "魚の出荷術",
+          "tc": "魚類出貨術",
+          "sc": "鱼类出货术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 813,
+          "ja": "魚の売価が５％上昇する",
+          "tc": "魚類的售價提昇5%",
+          "sc": "鱼类的售价提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 51,
+      "rec_id": "SKILL_NODE_CRAFT_DRYING_MACHINE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 822,
+          "ja": "乾燥機／改",
+          "tc": "乾燥機／改",
+          "sc": "干燥机／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 829,
+          "ja": "「乾燥機／改」の作り方を覚える",
+          "tc": "解鎖「乾燥機／改」的製作方式",
+          "sc": "解锁“干燥机·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 52,
+      "rec_id": "SKILL_NODE_CRAFT_LOOM_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 838,
+          "ja": "織り機／改",
+          "tc": "織布機／改",
+          "sc": "织布机／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 845,
+          "ja": "「織り機／改」の作り方を覚える",
+          "tc": "解鎖「織布機／改」的製作方式",
+          "sc": "解锁“织布机·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 53,
+      "rec_id": "SKILL_NODE_LIVESTOCK_PROCESSED_PRODUCTS_PRICE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 854,
+          "ja": "畜産加工品の出荷術",
+          "tc": "畜產品加工品出貨術",
+          "sc": "畜产品加工品出货术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 861,
+          "ja": "畜産加工品の売値が５％上昇する",
+          "tc": "畜產品加工品的售價提昇5%",
+          "sc": "畜产加工品的售价提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 54,
+      "rec_id": "SKILL_NODE_VILLAGER_EXCHANGE_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 870,
+          "ja": "仲良し術",
+          "tc": "友好術",
+          "sc": "友好术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 877,
+          "ja": "住人との好感度が上がりやすくなる",
+          "tc": "居民好感度更容易上昇",
+          "sc": "居民好感度更容易上升"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 55,
+      "rec_id": "SKILL_NODE_MINE_DROP_PLUS_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 886,
+          "ja": "採掘の技術",
+          "tc": "採掘技術",
+          "sc": "采掘技术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 893,
+          "ja": "石を採掘した際、石が１個多く採れる",
+          "tc": "採掘石頭時，可額外獲得1個石頭",
+          "sc": "采矿时，可额外获得1个石头"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 56,
+      "rec_id": "SKILL_NODE_CROPS_PRICE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 902,
+          "ja": "作物の出荷術",
+          "tc": "作物出貨術",
+          "sc": "作物出货术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 909,
+          "ja": "作物の売値が５％上昇する",
+          "tc": "作物的售價提昇5%",
+          "sc": "作物的售价提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 57,
+      "rec_id": "SKILL_NODE_CRAFT_OIL_EXTRACTION_MACHINE_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 918,
+          "ja": "搾油機／改",
+          "tc": "榨油機／改",
+          "sc": "榨油机／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 925,
+          "ja": "「搾油機／改」の作り方を覚える",
+          "tc": "解鎖「榨油機／改」的製作方式",
+          "sc": "解锁“榨油机·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 58,
+      "rec_id": "SKILL_NODE_CRAFT_BREWING_BARREL_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 934,
+          "ja": "醸造樽／改",
+          "tc": "釀造桶／改",
+          "sc": "酿造桶／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 941,
+          "ja": "「醸造樽／改」の作り方を覚える",
+          "tc": "解鎖「釀造桶／改」的製作方式",
+          "sc": "解锁“酿造桶·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 59,
+      "rec_id": "SKILL_NODE_WOOD_DROP_PLUS_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 950,
+          "ja": "樹木の伐採術",
+          "tc": "樹木砍伐術",
+          "sc": "树木砍伐术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 957,
+          "ja": "樹木の伐採時、木材が１個多く採取できる",
+          "tc": "砍伐樹木時，可額外獲得1個木材",
+          "sc": "伐木时，可额外获得1个木材"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 60,
+      "rec_id": "SKILL_NODE_HUNTING_PRICE_UP_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 966,
+          "ja": "獲物の出荷術",
+          "tc": "獵物出貨術",
+          "sc": "猎物出货术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 973,
+          "ja": "狩りの報酬物の売価が５％上昇する",
+          "tc": "狩獵報酬物的售價提昇5%",
+          "sc": "狩猎报酬物的售价提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 61,
+      "rec_id": "SKILL_NODE_FISH_PRICE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 982,
+          "ja": "魚の出荷術+",
+          "tc": "魚類出貨術＋",
+          "sc": "鱼类出货术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 989,
+          "ja": "魚の売価が１０％上昇する",
+          "tc": "魚類的售價提昇10%",
+          "sc": "鱼类的售价提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 62,
+      "rec_id": "SKILL_NODE_CROPS_PROCESSED_PRODUCTS_PRICE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 998,
+          "ja": "作物加工品の出荷術+",
+          "tc": "作物加工品出貨術＋",
+          "sc": "作物加工品出货术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1005,
+          "ja": "作物加工品の売値が１０％上昇する",
+          "tc": "作物加工品的售價提昇10%",
+          "sc": "农作物加工品的售价提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 63,
+      "rec_id": "SKILL_NODE_LIVESTOCK_LOVERATE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1014,
+          "ja": "動物仲良し術+",
+          "tc": "動物友好術＋",
+          "sc": "动物友好术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1021,
+          "ja": "動物のなつき度がもっと上がりやすくなる",
+          "tc": "動物親密度更加容易上昇",
+          "sc": "动物亲密度更加容易上升"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 64,
+      "rec_id": "SKILL_NODE_CONNECT_CHEST",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1030,
+          "ja": "収納箱の連結術",
+          "tc": "收納箱連結術",
+          "sc": "收纳箱连结术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1037,
+          "ja": "複数の収納箱の間で、中身を移動できるようになる",
+          "tc": "可在多個收納箱之間移動內容物",
+          "sc": "可在多个收纳箱之间移动物品"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 65,
+      "rec_id": "SKILL_NODE_JEWELRY_DROP_PLUS_1",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1046,
+          "ja": "宝石の出荷術",
+          "tc": "寶石出貨術",
+          "sc": "宝石出货术"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1053,
+          "ja": "宝石の売値が５％上昇する",
+          "tc": "寶石的售價提昇5%",
+          "sc": "宝石的售价提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 66,
+      "rec_id": "SKILL_NODE_CROPS_PRICE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1062,
+          "ja": "作物の出荷術+",
+          "tc": "作物出貨術＋",
+          "sc": "作物出货术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1069,
+          "ja": "作物の売値が１０％上昇する",
+          "tc": "作物的售價提昇10%",
+          "sc": "作物的售价提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 67,
+      "rec_id": "SKILL_NODE_LIVESTOCK_PRODUCTS_PRICE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1078,
+          "ja": "畜産物の出荷術+",
+          "tc": "畜產品出貨術＋",
+          "sc": "畜产品出货术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1085,
+          "ja": "畜産物の売値が１０％上昇する",
+          "tc": "畜產品的售價提昇10%",
+          "sc": "畜产品的售价提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 68,
+      "rec_id": "SKILL_NODE_CRAFT_SPRINKLER_MIDDLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1094,
+          "ja": "普通のスプリンクラー",
+          "tc": "普通灑水器",
+          "sc": "普通洒水器"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1101,
+          "ja": "「普通のスプリンクラー」の作り方を覚える",
+          "tc": "解鎖「普通灑水器」的製作方式",
+          "sc": "解锁“普通洒水器”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 69,
+      "rec_id": "SKILL_NODE_CRAFT_SPRINKLING_BAIT_WHITE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1110,
+          "ja": "白い撒き餌",
+          "tc": "白色魚餌",
+          "sc": "白色鱼饵"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1117,
+          "ja": "「白い撒き餌」の作り方を覚える",
+          "tc": "解鎖「白色魚餌」的製作方式",
+          "sc": "解锁“白色鱼饵”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 70,
+      "rec_id": "SKILL_NODE_WOOD_DROP_PLUS_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1126,
+          "ja": "樹木の伐採術+",
+          "tc": "樹木砍伐術＋",
+          "sc": "树木砍伐术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1133,
+          "ja": "樹木の伐採時、木材が２個多く採取できる",
+          "tc": "砍伐樹木時，可額外獲得2個木材",
+          "sc": "伐木时，可额外获得2个木材"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 71,
+      "rec_id": "SKILL_NODE_VILLAGER_EXCHANGE_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1142,
+          "ja": "仲良し術+",
+          "tc": "友好術＋",
+          "sc": "友好术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1149,
+          "ja": "住人との好感度がもっと上がりやすくなる",
+          "tc": "居民好感度更加容易上昇",
+          "sc": "居民好感度更加容易上升"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 72,
+      "rec_id": "SKILL_NODE_MINE_APPEARANCE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1158,
+          "ja": "鉱脈の発見術+",
+          "tc": "礦脈探查術＋",
+          "sc": "矿脉探查术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1165,
+          "ja": "石切場で鉱脈が見つかる確率が５％上昇する",
+          "tc": "在採石場發現礦脈的機率提昇5%",
+          "sc": "在采石场发现矿脉的概率提升5%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 73,
+      "rec_id": "SKILL_NODE_CRAFT_AGUNG_BARREL_LV2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1174,
+          "ja": "熟成樽／改",
+          "tc": "熟成桶／改",
+          "sc": "熟成桶／改"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1181,
+          "ja": "「熟成樽／改」の作り方を覚える",
+          "tc": "解鎖「熟成桶／改」的製作方式",
+          "sc": "解锁“熟成桶·改”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 74,
+      "rec_id": "SKILL_NODE_HUNTING_PRICE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1190,
+          "ja": "獲物の出荷術+",
+          "tc": "獵物出貨術＋",
+          "sc": "猎物出货术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1197,
+          "ja": "狩りの報酬物の売価が１０％上昇する",
+          "tc": "狩獵報酬物的售價提昇10%",
+          "sc": "狩猎报酬物的售价提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 75,
+      "rec_id": "SKILL_NODE_JEWELRY_DROP_PLUS_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1206,
+          "ja": "宝石の出荷術+",
+          "tc": "寶石出貨術＋",
+          "sc": "宝石出货术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1213,
+          "ja": "宝石の売値が１０％上昇する",
+          "tc": "寶石的售價提昇10%",
+          "sc": "宝石的售价提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 76,
+      "rec_id": "SKILL_NODE_LIVESTOCK_PROCESSED_PRODUCTS_PRICE_UP_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1222,
+          "ja": "畜産加工品の出荷術+",
+          "tc": "畜產品加工品出貨術＋",
+          "sc": "畜产品加工品出货术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1229,
+          "ja": "畜産加工品の売値が１０％上昇する",
+          "tc": "畜產品加工品的售價提昇10%",
+          "sc": "畜产加工品的售价提升10%"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 77,
+      "rec_id": "SKILL_NODE_CRAFT_SPRINKLER_LARGE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1238,
+          "ja": "強化スプリンクラー",
+          "tc": "強化灑水器",
+          "sc": "强化洒水器"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1245,
+          "ja": "「強化スプリンクラー」の作り方を覚える",
+          "tc": "解鎖「強化灑水器」的製作方式",
+          "sc": "解锁“强化洒水器”的制作方式"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 78,
+      "rec_id": "SKILL_NODE_MINE_DROP_PLUS_2",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1254,
+          "ja": "採掘の技術+",
+          "tc": "採掘技術＋",
+          "sc": "采掘技术＋"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1261,
+          "ja": "石を採掘した際、石が2個多く採れる",
+          "tc": "採掘石頭時，可額外獲得2個石頭",
+          "sc": "采矿时，可额外获得2个石头"
+        }
+      ]
+    },
+    {
+      "file": "skillTree.dat",
+      "rec_idx": 79,
+      "rec_id": "SKILL_NODE_HARVEST_SICKLE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 1270,
+          "ja": "カマの強化",
+          "tc": "強化鐮刀",
+          "sc": "强化镰刀"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 1277,
+          "ja": "カマで作物を収穫できるようになる",
+          "tc": "將可使用鐮刀收穫作物。",
+          "sc": "将可使用镰刀收获作物。"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 0,
+      "rec_id": "TROPHY_ID_COMPLETE",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 5,
+          "ja": "庭師",
+          "tc": "園藝師",
+          "sc": "园艺师"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 12,
+          "ja": "全てのトロフィーを獲得した",
+          "tc": "獲得了所有獎盃",
+          "sc": "获得了所有奖杯"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 1,
+      "rec_id": "TROPHY_ID_001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 20,
+          "ja": "零の記憶",
+          "tc": "零之記憶",
+          "sc": "零之记忆"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 27,
+          "ja": "ほの暮しモードで記憶を見た",
+          "tc": "在靜謐田園模式中看了記憶",
+          "sc": "在静谧田园模式中查看了记忆"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 2,
+      "rec_id": "TROPHY_ID_002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 35,
+          "ja": "掟の壱",
+          "tc": "規矩之壹",
+          "sc": "规矩之壹"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 42,
+          "ja": "ほの暮しモードで1つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第一條規矩",
+          "sc": "在静谧田园模式中揭露了第一条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 3,
+      "rec_id": "TROPHY_ID_003",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 50,
+          "ja": "掟の弐",
+          "tc": "規矩之貳",
+          "sc": "规矩之贰"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 57,
+          "ja": "ほの暮しモードで2つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第二條規矩",
+          "sc": "在静谧田园模式中揭露了第二条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 4,
+      "rec_id": "TROPHY_ID_004",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 65,
+          "ja": "掟の参",
+          "tc": "規矩之參",
+          "sc": "规矩之参"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 72,
+          "ja": "ほの暮しモードで3つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第三條規矩",
+          "sc": "在静谧田园模式中揭露了第三条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 5,
+      "rec_id": "TROPHY_ID_005",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 80,
+          "ja": "掟の肆",
+          "tc": "規矩之肆",
+          "sc": "规矩之肆"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 87,
+          "ja": "ほの暮しモードで4つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第四條規矩",
+          "sc": "在静谧田园模式中揭露了第四条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 6,
+      "rec_id": "TROPHY_ID_006",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 95,
+          "ja": "掟の伍",
+          "tc": "規矩之伍",
+          "sc": "规矩之伍"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 102,
+          "ja": "ほの暮しモードで5つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第五條規矩",
+          "sc": "在静谧田园模式中揭露了第五条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 7,
+      "rec_id": "TROPHY_ID_007",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 110,
+          "ja": "掟の陸",
+          "tc": "規矩之陸",
+          "sc": "规矩之陆"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 117,
+          "ja": "ほの暮しモードで6つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第六條規矩",
+          "sc": "在静谧田园模式中揭露了第六条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 8,
+      "rec_id": "TROPHY_ID_008",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 125,
+          "ja": "掟の漆",
+          "tc": "規矩之柒",
+          "sc": "规矩之柒"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 132,
+          "ja": "ほの暮しモードで7つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第七條規矩",
+          "sc": "在静谧田园模式中揭露了第七条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 9,
+      "rec_id": "TROPHY_ID_009",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 140,
+          "ja": "掟の捌",
+          "tc": "規矩之捌",
+          "sc": "规矩之捌"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 147,
+          "ja": "ほの暮しモードで8つ目の掟を暴いた",
+          "tc": "在靜謐田園模式中揭露了第八條規矩",
+          "sc": "在静谧田园模式中揭露了第八条规矩"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 10,
+      "rec_id": "TROPHY_ID_010",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 155,
+          "ja": "ほの暮し庭",
+          "tc": "靜謐田園",
+          "sc": "静谧田园"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 162,
+          "ja": "ほの暮しモードで庭を守った",
+          "tc": "在靜謐田園模式中守護了庭院",
+          "sc": "在静谧田园模式中守护了庭院"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 11,
+      "rec_id": "TROPHY_ID_012",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 170,
+          "ja": "致富",
+          "tc": "致富",
+          "sc": "致富"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 177,
+          "ja": "ほの暮しモードで温泉を掘り当てた",
+          "tc": "在靜謐田園模式中挖到了溫泉",
+          "sc": "在静谧田园模式中挖到了温泉"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 12,
+      "rec_id": "TROPHY_ID_013",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 185,
+          "ja": "蒐集",
+          "tc": "蒐集",
+          "sc": "搜集"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 192,
+          "ja": "ほの暮しモードで紛失図書を全て集めた",
+          "tc": "在靜謐田園模式中蒐集到所有遺失書籍",
+          "sc": "在静谧田园模式中收集到所有遗失书籍"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 13,
+      "rec_id": "TROPHY_ID_014",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 200,
+          "ja": "蓄音",
+          "tc": "留聲",
+          "sc": "留声"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 207,
+          "ja": "ほの暮しモードでさえずる機械を直した",
+          "tc": "在靜謐田園模式中修好了嘎吱作響的機器",
+          "sc": "在静谧田园模式中修好了嘎吱作响的机器"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 14,
+      "rec_id": "TROPHY_ID_015",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 215,
+          "ja": "報恩",
+          "tc": "報恩",
+          "sc": "报恩"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 222,
+          "ja": "ほの暮しモードでドブネズミを手に入れた",
+          "tc": "在靜謐田園模式中獲得了老鼠",
+          "sc": "在静谧田园模式中获得了褐家鼠"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 15,
+      "rec_id": "TROPHY_ID_016",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 230,
+          "ja": "雨乞",
+          "tc": "祈雨",
+          "sc": "祈雨"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 237,
+          "ja": "ほの暮しモードで雨の呼笛を覚えた",
+          "tc": "在靜謐田園模式中學會了喚雨呼笛",
+          "sc": "在静谧田园模式中学会社唤雨呼笛"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 16,
+      "rec_id": "TROPHY_ID_017",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 245,
+          "ja": "御利益",
+          "tc": "神明保佑",
+          "sc": "神明保佑"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 252,
+          "ja": "ほの暮しモードで社の奉納を全て完了した",
+          "tc": "在靜謐田園模式中交付了所有神社需要的物品",
+          "sc": "在静谧田园模式中交付了所有神社需要的物品"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 17,
+      "rec_id": "TROPHY_ID_018",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 260,
+          "ja": "繁栄",
+          "tc": "繁榮",
+          "sc": "繁荣"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 267,
+          "ja": "ほの暮しモードで村長邸の納品を全て完了した",
+          "tc": "在靜謐田園模式中交付了所有村長宅邸需要的物品",
+          "sc": "在静谧田园模式中交付了所有村长宅邸需要的物品"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 18,
+      "rec_id": "TROPHY_ID_019",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 275,
+          "ja": "樵",
+          "tc": "樵夫",
+          "sc": "樵夫"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 282,
+          "ja": "ほの暮しモードで木を1000本切った",
+          "tc": "在靜謐田園模式中砍了1000棵樹",
+          "sc": "在静谧田园模式中砍了1000棵树"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 19,
+      "rec_id": "TROPHY_ID_020",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 290,
+          "ja": "石工",
+          "tc": "石工",
+          "sc": "石工"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 297,
+          "ja": "ほの暮しモードで岩を1000個壊した",
+          "tc": "在靜謐田園模式中敲碎了1000顆岩石",
+          "sc": "在静谧田园模式中敲碎了1000块岩石"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 20,
+      "rec_id": "TROPHY_ID_021",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 305,
+          "ja": "摘芽",
+          "tc": "摘芽",
+          "sc": "摘芽"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 312,
+          "ja": "ほの暮しモードで草を10000本刈った",
+          "tc": "在靜謐田園模式中割掉了10000株草",
+          "sc": "在静谧田园模式中割掉了10000株草"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 21,
+      "rec_id": "TROPHY_ID_022",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 320,
+          "ja": "深耕",
+          "tc": "深耕",
+          "sc": "深耕"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 327,
+          "ja": "ほの暮しモードで地面を1000マス耕した",
+          "tc": "在靜謐田園模式中翻整了1000格土地",
+          "sc": "在静谧田园模式中翻整了1000格土地"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 22,
+      "rec_id": "TROPHY_ID_023",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 335,
+          "ja": "田園",
+          "tc": "田園",
+          "sc": "田园"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 342,
+          "ja": "ほの暮しモードで水田を1000マス耕した",
+          "tc": "在靜謐田園模式中翻整了1000格水田",
+          "sc": "在静谧田园模式中翻整了1000格水田"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 23,
+      "rec_id": "TROPHY_ID_024",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 350,
+          "ja": "釣師",
+          "tc": "漁夫",
+          "sc": "渔夫"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 357,
+          "ja": "ほの暮しモードで魚を300匹釣った",
+          "tc": "在靜謐田園模式中釣到了300條魚",
+          "sc": "在静谧田园模式中钓到了300条鱼"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 24,
+      "rec_id": "TROPHY_ID_025",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 365,
+          "ja": "狩人",
+          "tc": "獵人",
+          "sc": "猎人"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 372,
+          "ja": "ほの暮しモードで弓を使って動物を100匹狩った",
+          "tc": "在靜謐田園模式中使用弓狩獵了100隻動物",
+          "sc": "在静谧田园模式中使用弓狩猎了100只动物"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 25,
+      "rec_id": "TROPHY_ID_026",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 380,
+          "ja": "猟師",
+          "tc": "獵師",
+          "sc": "猎师"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 387,
+          "ja": "ほの暮しモードで罠を使って動物を100匹獲った",
+          "tc": "在靜謐田園模式中使用陷阱捕獲了100隻動物",
+          "sc": "在静谧田园模式中使用陷阱捕获了100只动物"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 26,
+      "rec_id": "TROPHY_ID_027",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 395,
+          "ja": "山菜採り",
+          "tc": "採山菜",
+          "sc": "采山菜"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 402,
+          "ja": "ほの暮しモードで山菜を500個採取した",
+          "tc": "在靜謐田園模式中採集了500個山菜",
+          "sc": "在静谧田园模式中采集了500个山菜"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 27,
+      "rec_id": "TROPHY_ID_028",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 410,
+          "ja": "百姓",
+          "tc": "農夫",
+          "sc": "农夫"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 417,
+          "ja": "ほの暮しモードで作物を10000個収穫した",
+          "tc": "在靜謐田園模式中收穫了10000個作物",
+          "sc": "在静谧田园模式中收获了10000个作物"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 28,
+      "rec_id": "TROPHY_ID_029",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 425,
+          "ja": "牧畜家",
+          "tc": "畜牧家",
+          "sc": "畜牧家"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 432,
+          "ja": "ほの暮しモードで畜産物を1000個採取した",
+          "tc": "在靜謐田園模式中採集了1000個畜產品",
+          "sc": "在静谧田园模式中采集了1000个畜产品"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 29,
+      "rec_id": "TROPHY_ID_030",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 440,
+          "ja": "愛護",
+          "tc": "愛護",
+          "sc": "爱护"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 447,
+          "ja": "ほの暮しモードで動物と500回触れ合った",
+          "tc": "在靜謐田園模式中與動物互動了500次",
+          "sc": "在静谧田园模式中与动物互动了500次"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 30,
+      "rec_id": "TROPHY_ID_031",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 455,
+          "ja": "造作",
+          "tc": "製造",
+          "sc": "制造"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 462,
+          "ja": "ほの暮しモードで作業台を使って500回工作した",
+          "tc": "在靜謐田園模式中於工作台進行了500次勞作",
+          "sc": "在静谧田园模式中于工作台进行了500次手工作业"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 31,
+      "rec_id": "TROPHY_ID_032",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 470,
+          "ja": "探鳥",
+          "tc": "賞鳥",
+          "sc": "赏鸟"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 477,
+          "ja": "ほの暮しモードで野鳥の落とし物を100個拾った",
+          "tc": "在靜謐田園模式中拾取了100個野鳥的遺失物",
+          "sc": "在静谧田园模式中拾取了100个野鸟的遗落物"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 32,
+      "rec_id": "TROPHY_ID_033",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 485,
+          "ja": "星の欠片",
+          "tc": "星星碎片",
+          "sc": "星星碎片"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 492,
+          "ja": "ほの暮しモードで全ての道具を隕鉄で作った",
+          "tc": "在靜謐田園模式中使用隕鐵製造出了所有道具",
+          "sc": "在静谧田园模式中使用陨铁制造出了所有道具"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 33,
+      "rec_id": "TROPHY_ID_034",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 500,
+          "ja": "炊事",
+          "tc": "料理",
+          "sc": "料理"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 507,
+          "ja": "ほの暮しモードで料理を100回作った",
+          "tc": "在靜謐田園模式中製作了100次料理",
+          "sc": "在静谧田园模式中制作了100次料理"
+        }
+      ]
+    },
+    {
+      "file": "trophy.dat",
+      "rec_idx": 34,
+      "rec_id": "TROPHY_ID_035",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 515,
+          "ja": "醸す",
+          "tc": "釀造",
+          "sc": "酿造"
+        },
+        {
+          "f_idx": 1,
+          "pidx_tc": 522,
+          "ja": "ほの暮しモードで加工機を使って100回加工した",
+          "tc": "在靜謐田園模式中使用加工機進行了100次加工",
+          "sc": "在静谧田园模式中使用加工机进行了100次加工"
+        }
+      ]
+    }
+  ]
+}

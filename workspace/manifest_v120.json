@@ -1,0 +1,2927 @@
+{
+  "title_id": "01001BA027DD8000",
+  "version": "1.2.0 (v393216)",
+  "total_files": 37,
+  "total_records": 14224,
+  "total_lines": 55931,
+  "batches": [
+    {
+      "batch_id": "batch_001_sys_ui",
+      "filename": "batch_001_sys_ui.json",
+      "group": "sys_ui",
+      "files": [
+        "action.dat",
+        "cmd.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_002_sys_ui",
+      "filename": "batch_002_sys_ui.json",
+      "group": "sys_ui",
+      "files": [
+        "cmd.dat",
+        "framework_cmd.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_003_sys_ui",
+      "filename": "batch_003_sys_ui.json",
+      "group": "sys_ui",
+      "files": [
+        "framework_cmd.dat",
+        "framework_string.dat",
+        "framework_vkey.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_004_sys_ui",
+      "filename": "batch_004_sys_ui.json",
+      "group": "sys_ui",
+      "files": [
+        "framework_vkey.dat",
+        "framework_vkeyCategory.dat",
+        "gameEffect.dat",
+        "gameSetting.dat",
+        "string.dat",
+        "vkey.dat"
+      ],
+      "record_count": 172,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_005_sys_ui",
+      "filename": "batch_005_sys_ui.json",
+      "group": "sys_ui",
+      "files": [
+        "string.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_006_sys_ui",
+      "filename": "batch_006_sys_ui.json",
+      "group": "sys_ui",
+      "files": [
+        "logText.dat",
+        "string.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_007_sys_ui",
+      "filename": "batch_007_sys_ui.json",
+      "group": "sys_ui",
+      "files": [
+        "logText.dat",
+        "updateText.dat"
+      ],
+      "record_count": 12,
+      "line_count": 30
+    },
+    {
+      "batch_id": "batch_008_world_meta",
+      "filename": "batch_008_world_meta.json",
+      "group": "world_meta",
+      "files": [
+        "character.dat",
+        "construction.dat",
+        "facility.dat",
+        "facilityRelease.dat",
+        "talkNameplate.dat"
+      ],
+      "record_count": 102,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_009_world_meta",
+      "filename": "batch_009_world_meta.json",
+      "group": "world_meta",
+      "files": [
+        "bundle.dat",
+        "bundleGroup.dat",
+        "construction.dat",
+        "skillTree.dat"
+      ],
+      "record_count": 128,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_010_world_meta",
+      "filename": "batch_010_world_meta.json",
+      "group": "world_meta",
+      "files": [
+        "skillTree.dat",
+        "trophy.dat"
+      ],
+      "record_count": 100,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_011_world_meta",
+      "filename": "batch_011_world_meta.json",
+      "group": "world_meta",
+      "files": [
+        "bgm.dat",
+        "trophy.dat",
+        "whistle.dat"
+      ],
+      "record_count": 66,
+      "line_count": 83
+    },
+    {
+      "batch_id": "batch_012_flora_fauna",
+      "filename": "batch_012_flora_fauna.json",
+      "group": "flora_fauna",
+      "files": [
+        "crops.dat",
+        "livestock.dat"
+      ],
+      "record_count": 179,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_013_flora_fauna",
+      "filename": "batch_013_flora_fauna.json",
+      "group": "flora_fauna",
+      "files": [
+        "creature.dat",
+        "livestock.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_014_flora_fauna",
+      "filename": "batch_014_flora_fauna.json",
+      "group": "flora_fauna",
+      "files": [
+        "creature.dat",
+        "intangeble.dat",
+        "itemType.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_015_flora_fauna",
+      "filename": "batch_015_flora_fauna.json",
+      "group": "flora_fauna",
+      "files": [
+        "intangeble.dat"
+      ],
+      "record_count": 200,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_016_flora_fauna",
+      "filename": "batch_016_flora_fauna.json",
+      "group": "flora_fauna",
+      "files": [
+        "intangeble.dat"
+      ],
+      "record_count": 33,
+      "line_count": 33
+    },
+    {
+      "batch_id": "batch_017_quest_tips",
+      "filename": "batch_017_quest_tips.json",
+      "group": "quest_tips",
+      "files": [
+        "quest.dat"
+      ],
+      "record_count": 36,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_018_quest_tips",
+      "filename": "batch_018_quest_tips.json",
+      "group": "quest_tips",
+      "files": [
+        "quest.dat",
+        "tips.dat"
+      ],
+      "record_count": 61,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_019_quest_tips",
+      "filename": "batch_019_quest_tips.json",
+      "group": "quest_tips",
+      "files": [
+        "tips.dat"
+      ],
+      "record_count": 56,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_020_quest_tips",
+      "filename": "batch_020_quest_tips.json",
+      "group": "quest_tips",
+      "files": [
+        "tips.dat"
+      ],
+      "record_count": 4,
+      "line_count": 14
+    },
+    {
+      "batch_id": "batch_021_lore_letters",
+      "filename": "batch_021_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "letter.dat"
+      ],
+      "record_count": 24,
+      "line_count": 193
+    },
+    {
+      "batch_id": "batch_022_lore_letters",
+      "filename": "batch_022_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "letter.dat"
+      ],
+      "record_count": 25,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_023_lore_letters",
+      "filename": "batch_023_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "letter.dat"
+      ],
+      "record_count": 25,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_024_lore_letters",
+      "filename": "batch_024_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "letter.dat"
+      ],
+      "record_count": 25,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_025_lore_letters",
+      "filename": "batch_025_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "letter.dat"
+      ],
+      "record_count": 25,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_026_lore_letters",
+      "filename": "batch_026_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "letter.dat"
+      ],
+      "record_count": 25,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_027_lore_letters",
+      "filename": "batch_027_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "letter.dat",
+        "lostBook.dat"
+      ],
+      "record_count": 22,
+      "line_count": 190
+    },
+    {
+      "batch_id": "batch_028_lore_letters",
+      "filename": "batch_028_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "lostBook.dat"
+      ],
+      "record_count": 19,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_029_lore_letters",
+      "filename": "batch_029_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "lostBook.dat"
+      ],
+      "record_count": 18,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_030_lore_letters",
+      "filename": "batch_030_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "lostBook.dat",
+        "reminiscence.dat"
+      ],
+      "record_count": 10,
+      "line_count": 163
+    },
+    {
+      "batch_id": "batch_031_lore_letters",
+      "filename": "batch_031_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "reminiscence.dat"
+      ],
+      "record_count": 3,
+      "line_count": 180
+    },
+    {
+      "batch_id": "batch_032_lore_letters",
+      "filename": "batch_032_lore_letters.json",
+      "group": "lore_letters",
+      "files": [
+        "reminiscence.dat"
+      ],
+      "record_count": 1,
+      "line_count": 63
+    },
+    {
+      "batch_id": "batch_033_credits",
+      "filename": "batch_033_credits.json",
+      "group": "credits",
+      "files": [
+        "credit.dat"
+      ],
+      "record_count": 2,
+      "line_count": 148
+    },
+    {
+      "batch_id": "batch_034_credits",
+      "filename": "batch_034_credits.json",
+      "group": "credits",
+      "files": [
+        "framework_credit.dat"
+      ],
+      "record_count": 1,
+      "line_count": 181
+    },
+    {
+      "batch_id": "batch_035_item",
+      "filename": "batch_035_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_036_item",
+      "filename": "batch_036_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_037_item",
+      "filename": "batch_037_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_038_item",
+      "filename": "batch_038_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_039_item",
+      "filename": "batch_039_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_040_item",
+      "filename": "batch_040_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_041_item",
+      "filename": "batch_041_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 49,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_042_item",
+      "filename": "batch_042_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_043_item",
+      "filename": "batch_043_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_044_item",
+      "filename": "batch_044_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_045_item",
+      "filename": "batch_045_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_046_item",
+      "filename": "batch_046_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_047_item",
+      "filename": "batch_047_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_048_item",
+      "filename": "batch_048_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_049_item",
+      "filename": "batch_049_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_050_item",
+      "filename": "batch_050_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_051_item",
+      "filename": "batch_051_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_052_item",
+      "filename": "batch_052_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_053_item",
+      "filename": "batch_053_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_054_item",
+      "filename": "batch_054_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_055_item",
+      "filename": "batch_055_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_056_item",
+      "filename": "batch_056_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_057_item",
+      "filename": "batch_057_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_058_item",
+      "filename": "batch_058_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_059_item",
+      "filename": "batch_059_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_060_item",
+      "filename": "batch_060_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_061_item",
+      "filename": "batch_061_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_062_item",
+      "filename": "batch_062_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_063_item",
+      "filename": "batch_063_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_064_item",
+      "filename": "batch_064_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_065_item",
+      "filename": "batch_065_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_066_item",
+      "filename": "batch_066_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_067_item",
+      "filename": "batch_067_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_068_item",
+      "filename": "batch_068_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_069_item",
+      "filename": "batch_069_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_070_item",
+      "filename": "batch_070_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_071_item",
+      "filename": "batch_071_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_072_item",
+      "filename": "batch_072_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_073_item",
+      "filename": "batch_073_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_074_item",
+      "filename": "batch_074_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_075_item",
+      "filename": "batch_075_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_076_item",
+      "filename": "batch_076_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_077_item",
+      "filename": "batch_077_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_078_item",
+      "filename": "batch_078_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_079_item",
+      "filename": "batch_079_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_080_item",
+      "filename": "batch_080_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_081_item",
+      "filename": "batch_081_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_082_item",
+      "filename": "batch_082_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_083_item",
+      "filename": "batch_083_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_084_item",
+      "filename": "batch_084_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_085_item",
+      "filename": "batch_085_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_086_item",
+      "filename": "batch_086_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_087_item",
+      "filename": "batch_087_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_088_item",
+      "filename": "batch_088_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_089_item",
+      "filename": "batch_089_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_090_item",
+      "filename": "batch_090_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_091_item",
+      "filename": "batch_091_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_092_item",
+      "filename": "batch_092_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_093_item",
+      "filename": "batch_093_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 53,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_094_item",
+      "filename": "batch_094_item.json",
+      "group": "item",
+      "files": [
+        "item.dat"
+      ],
+      "record_count": 23,
+      "line_count": 92
+    },
+    {
+      "batch_id": "batch_095_talk",
+      "filename": "batch_095_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 43,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_096_talk",
+      "filename": "batch_096_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 57,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_097_talk",
+      "filename": "batch_097_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 70,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_098_talk",
+      "filename": "batch_098_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 67,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_099_talk",
+      "filename": "batch_099_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 37,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_100_talk",
+      "filename": "batch_100_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 59,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_101_talk",
+      "filename": "batch_101_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 78,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_102_talk",
+      "filename": "batch_102_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 67,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_103_talk",
+      "filename": "batch_103_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 30,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_104_talk",
+      "filename": "batch_104_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 61,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_105_talk",
+      "filename": "batch_105_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 72,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_106_talk",
+      "filename": "batch_106_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 71,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_107_talk",
+      "filename": "batch_107_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 29,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_108_talk",
+      "filename": "batch_108_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 54,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_109_talk",
+      "filename": "batch_109_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 66,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_110_talk",
+      "filename": "batch_110_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 61,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_111_talk",
+      "filename": "batch_111_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 39,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_112_talk",
+      "filename": "batch_112_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 43,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_113_talk",
+      "filename": "batch_113_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 68,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_114_talk",
+      "filename": "batch_114_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 65,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_115_talk",
+      "filename": "batch_115_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 47,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_116_talk",
+      "filename": "batch_116_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 37,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_117_talk",
+      "filename": "batch_117_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 83,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_118_talk",
+      "filename": "batch_118_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 74,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_119_talk",
+      "filename": "batch_119_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 39,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_120_talk",
+      "filename": "batch_120_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_121_talk",
+      "filename": "batch_121_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 75,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_122_talk",
+      "filename": "batch_122_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 65,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_123_talk",
+      "filename": "batch_123_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 37,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_124_talk",
+      "filename": "batch_124_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 29,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_125_talk",
+      "filename": "batch_125_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 69,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_126_talk",
+      "filename": "batch_126_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 65,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_127_talk",
+      "filename": "batch_127_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 60,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_128_talk",
+      "filename": "batch_128_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 29,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_129_talk",
+      "filename": "batch_129_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 61,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_130_talk",
+      "filename": "batch_130_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 60,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_131_talk",
+      "filename": "batch_131_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 65,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_132_talk",
+      "filename": "batch_132_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 38,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_133_talk",
+      "filename": "batch_133_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 53,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_134_talk",
+      "filename": "batch_134_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 67,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_135_talk",
+      "filename": "batch_135_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 66,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_136_talk",
+      "filename": "batch_136_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 54,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_137_talk",
+      "filename": "batch_137_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 25,
+      "line_count": 193
+    },
+    {
+      "batch_id": "batch_138_talk",
+      "filename": "batch_138_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 53,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_139_talk",
+      "filename": "batch_139_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 64,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_140_talk",
+      "filename": "batch_140_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 61,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_141_talk",
+      "filename": "batch_141_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 50,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_142_talk",
+      "filename": "batch_142_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 29,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_143_talk",
+      "filename": "batch_143_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 65,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_144_talk",
+      "filename": "batch_144_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 71,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_145_talk",
+      "filename": "batch_145_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 61,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_146_talk",
+      "filename": "batch_146_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 29,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_147_talk",
+      "filename": "batch_147_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 57,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_148_talk",
+      "filename": "batch_148_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 67,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_149_talk",
+      "filename": "batch_149_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 66,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_150_talk",
+      "filename": "batch_150_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 26,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_151_talk",
+      "filename": "batch_151_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 47,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_152_talk",
+      "filename": "batch_152_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 66,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_153_talk",
+      "filename": "batch_153_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 64,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_154_talk",
+      "filename": "batch_154_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 13,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_155_talk",
+      "filename": "batch_155_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 185
+    },
+    {
+      "batch_id": "batch_156_talk",
+      "filename": "batch_156_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 180
+    },
+    {
+      "batch_id": "batch_157_talk",
+      "filename": "batch_157_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_158_talk",
+      "filename": "batch_158_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_159_talk",
+      "filename": "batch_159_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 8,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_160_talk",
+      "filename": "batch_160_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 178
+    },
+    {
+      "batch_id": "batch_161_talk",
+      "filename": "batch_161_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 172
+    },
+    {
+      "batch_id": "batch_162_talk",
+      "filename": "batch_162_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 183
+    },
+    {
+      "batch_id": "batch_163_talk",
+      "filename": "batch_163_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 7,
+      "line_count": 176
+    },
+    {
+      "batch_id": "batch_164_talk",
+      "filename": "batch_164_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 28,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_165_talk",
+      "filename": "batch_165_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 45,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_166_talk",
+      "filename": "batch_166_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 28,
+      "line_count": 184
+    },
+    {
+      "batch_id": "batch_167_talk",
+      "filename": "batch_167_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 26,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_168_talk",
+      "filename": "batch_168_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 57,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_169_talk",
+      "filename": "batch_169_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 55,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_170_talk",
+      "filename": "batch_170_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 54,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_171_talk",
+      "filename": "batch_171_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 55,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_172_talk",
+      "filename": "batch_172_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 58,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_173_talk",
+      "filename": "batch_173_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 58,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_174_talk",
+      "filename": "batch_174_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 56,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_175_talk",
+      "filename": "batch_175_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 44,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_176_talk",
+      "filename": "batch_176_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 191
+    },
+    {
+      "batch_id": "batch_177_talk",
+      "filename": "batch_177_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 192
+    },
+    {
+      "batch_id": "batch_178_talk",
+      "filename": "batch_178_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 43,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_179_talk",
+      "filename": "batch_179_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 30,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_180_talk",
+      "filename": "batch_180_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 36,
+      "line_count": 191
+    },
+    {
+      "batch_id": "batch_181_talk",
+      "filename": "batch_181_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 51,
+      "line_count": 186
+    },
+    {
+      "batch_id": "batch_182_talk",
+      "filename": "batch_182_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 32,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_183_talk",
+      "filename": "batch_183_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 42,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_184_talk",
+      "filename": "batch_184_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 30,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_185_talk",
+      "filename": "batch_185_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 42,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_186_talk",
+      "filename": "batch_186_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 30,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_187_talk",
+      "filename": "batch_187_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 42,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_188_talk",
+      "filename": "batch_188_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 48,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_189_talk",
+      "filename": "batch_189_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 40,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_190_talk",
+      "filename": "batch_190_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_191_talk",
+      "filename": "batch_191_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 39,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_192_talk",
+      "filename": "batch_192_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 39,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_193_talk",
+      "filename": "batch_193_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 49,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_194_talk",
+      "filename": "batch_194_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 46,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_195_talk",
+      "filename": "batch_195_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 63,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_196_talk",
+      "filename": "batch_196_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 47,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_197_talk",
+      "filename": "batch_197_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 27,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_198_talk",
+      "filename": "batch_198_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 36,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_199_talk",
+      "filename": "batch_199_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 23,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_200_talk",
+      "filename": "batch_200_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 38,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_201_talk",
+      "filename": "batch_201_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 47,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_202_talk",
+      "filename": "batch_202_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_203_talk",
+      "filename": "batch_203_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 36,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_204_talk",
+      "filename": "batch_204_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 45,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_205_talk",
+      "filename": "batch_205_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 40,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_206_talk",
+      "filename": "batch_206_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 34,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_207_talk",
+      "filename": "batch_207_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 42,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_208_talk",
+      "filename": "batch_208_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 39,
+      "line_count": 186
+    },
+    {
+      "batch_id": "batch_209_talk",
+      "filename": "batch_209_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 39,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_210_talk",
+      "filename": "batch_210_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 42,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_211_talk",
+      "filename": "batch_211_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 36,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_212_talk",
+      "filename": "batch_212_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 32,
+      "line_count": 189
+    },
+    {
+      "batch_id": "batch_213_talk",
+      "filename": "batch_213_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 31,
+      "line_count": 192
+    },
+    {
+      "batch_id": "batch_214_talk",
+      "filename": "batch_214_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 31,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_215_talk",
+      "filename": "batch_215_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 19,
+      "line_count": 179
+    },
+    {
+      "batch_id": "batch_216_talk",
+      "filename": "batch_216_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 24,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_217_talk",
+      "filename": "batch_217_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 43,
+      "line_count": 190
+    },
+    {
+      "batch_id": "batch_218_talk",
+      "filename": "batch_218_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 23,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_219_talk",
+      "filename": "batch_219_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 53,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_220_talk",
+      "filename": "batch_220_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_221_talk",
+      "filename": "batch_221_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_222_talk",
+      "filename": "batch_222_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 33,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_223_talk",
+      "filename": "batch_223_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 53,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_224_talk",
+      "filename": "batch_224_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 51,
+      "line_count": 190
+    },
+    {
+      "batch_id": "batch_225_talk",
+      "filename": "batch_225_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_226_talk",
+      "filename": "batch_226_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 41,
+      "line_count": 192
+    },
+    {
+      "batch_id": "batch_227_talk",
+      "filename": "batch_227_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 24,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_228_talk",
+      "filename": "batch_228_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 22,
+      "line_count": 191
+    },
+    {
+      "batch_id": "batch_229_talk",
+      "filename": "batch_229_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 44,
+      "line_count": 179
+    },
+    {
+      "batch_id": "batch_230_talk",
+      "filename": "batch_230_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 57,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_231_talk",
+      "filename": "batch_231_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 57,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_232_talk",
+      "filename": "batch_232_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 48,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_233_talk",
+      "filename": "batch_233_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 54,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_234_talk",
+      "filename": "batch_234_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 47,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_235_talk",
+      "filename": "batch_235_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 46,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_236_talk",
+      "filename": "batch_236_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_237_talk",
+      "filename": "batch_237_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_238_talk",
+      "filename": "batch_238_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 46,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_239_talk",
+      "filename": "batch_239_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 51,
+      "line_count": 190
+    },
+    {
+      "batch_id": "batch_240_talk",
+      "filename": "batch_240_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 69,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_241_talk",
+      "filename": "batch_241_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 55,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_242_talk",
+      "filename": "batch_242_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 52,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_243_talk",
+      "filename": "batch_243_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_244_talk",
+      "filename": "batch_244_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 37,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_245_talk",
+      "filename": "batch_245_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 41,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_246_talk",
+      "filename": "batch_246_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 43,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_247_talk",
+      "filename": "batch_247_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 41,
+      "line_count": 192
+    },
+    {
+      "batch_id": "batch_248_talk",
+      "filename": "batch_248_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 38,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_249_talk",
+      "filename": "batch_249_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 40,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_250_talk",
+      "filename": "batch_250_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_251_talk",
+      "filename": "batch_251_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 37,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_252_talk",
+      "filename": "batch_252_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 29,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_253_talk",
+      "filename": "batch_253_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 26,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_254_talk",
+      "filename": "batch_254_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 42,
+      "line_count": 187
+    },
+    {
+      "batch_id": "batch_255_talk",
+      "filename": "batch_255_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 43,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_256_talk",
+      "filename": "batch_256_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 36,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_257_talk",
+      "filename": "batch_257_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_258_talk",
+      "filename": "batch_258_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 39,
+      "line_count": 182
+    },
+    {
+      "batch_id": "batch_259_talk",
+      "filename": "batch_259_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 24,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_260_talk",
+      "filename": "batch_260_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 24,
+      "line_count": 191
+    },
+    {
+      "batch_id": "batch_261_talk",
+      "filename": "batch_261_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 25,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_262_talk",
+      "filename": "batch_262_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 31,
+      "line_count": 194
+    },
+    {
+      "batch_id": "batch_263_talk",
+      "filename": "batch_263_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 28,
+      "line_count": 195
+    },
+    {
+      "batch_id": "batch_264_talk",
+      "filename": "batch_264_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 53,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_265_talk",
+      "filename": "batch_265_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 49,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_266_talk",
+      "filename": "batch_266_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 165
+    },
+    {
+      "batch_id": "batch_267_talk",
+      "filename": "batch_267_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 22,
+      "line_count": 183
+    },
+    {
+      "batch_id": "batch_268_talk",
+      "filename": "batch_268_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 23,
+      "line_count": 189
+    },
+    {
+      "batch_id": "batch_269_talk",
+      "filename": "batch_269_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 23,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_270_talk",
+      "filename": "batch_270_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 34,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_271_talk",
+      "filename": "batch_271_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 47,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_272_talk",
+      "filename": "batch_272_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 35,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_273_talk",
+      "filename": "batch_273_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 33,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_274_talk",
+      "filename": "batch_274_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 29,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_275_talk",
+      "filename": "batch_275_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 28,
+      "line_count": 191
+    },
+    {
+      "batch_id": "batch_276_talk",
+      "filename": "batch_276_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 25,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_277_talk",
+      "filename": "batch_277_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 25,
+      "line_count": 189
+    },
+    {
+      "batch_id": "batch_278_talk",
+      "filename": "batch_278_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 37,
+      "line_count": 196
+    },
+    {
+      "batch_id": "batch_279_talk",
+      "filename": "batch_279_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 51,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_280_talk",
+      "filename": "batch_280_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 55,
+      "line_count": 197
+    },
+    {
+      "batch_id": "batch_281_talk",
+      "filename": "batch_281_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 41,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_282_talk",
+      "filename": "batch_282_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 47,
+      "line_count": 198
+    },
+    {
+      "batch_id": "batch_283_talk",
+      "filename": "batch_283_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_284_talk",
+      "filename": "batch_284_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 66,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_285_talk",
+      "filename": "batch_285_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 73,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_286_talk",
+      "filename": "batch_286_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 49,
+      "line_count": 199
+    },
+    {
+      "batch_id": "batch_287_talk",
+      "filename": "batch_287_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 50,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_288_talk",
+      "filename": "batch_288_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 53,
+      "line_count": 200
+    },
+    {
+      "batch_id": "batch_289_talk",
+      "filename": "batch_289_talk.json",
+      "group": "talk",
+      "files": [
+        "talk.dat"
+      ],
+      "record_count": 30,
+      "line_count": 113
+    }
+  ]
+}

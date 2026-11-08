@@ -14,6 +14,48 @@
   "records": [
     {
       "file": "framework_vkey.dat",
+      "rec_idx": 18,
+      "rec_id": "REC_0018",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 130,
+          "ja": "副ページ移動右",
+          "tc": "切換副頁面（右）",
+          "sc": "浏览页面"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 19,
+      "rec_id": "REC_0019",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 137,
+          "ja": "高速演出",
+          "tc": "加速",
+          "sc": "加速"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 20,
+      "rec_id": "REC_0020",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 144,
+          "ja": "前ページ",
+          "tc": "上一頁",
+          "sc": "上一页"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
       "rec_idx": 21,
       "rec_id": "REC_0021",
       "lines": [
@@ -35,7 +77,7 @@
           "f_idx": 0,
           "pidx_tc": 158,
           "ja": "ウィンドウ切り替え",
-          "tc": "更換視窗",
+          "tc": "切換視窗",
           "sc": "切换窗口"
         }
       ]
@@ -93,6 +135,20 @@
           "ja": "並び替え順",
           "tc": "排序方式",
           "sc": "排序方式"
+        }
+      ]
+    },
+    {
+      "file": "framework_vkey.dat",
+      "rec_idx": 27,
+      "rec_id": "REC_0027",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 193,
+          "ja": "歩行（押下中）",
+          "tc": "壓力感應減半",
+          "sc": "压力感应减半"
         }
       ]
     },
@@ -1120,6 +1176,216 @@
     },
     {
       "file": "vkey.dat",
+      "rec_idx": 0,
+      "rec_id": "REC_0000",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 4,
+          "ja": "メインアクション",
+          "tc": "主要動作",
+          "sc": "主要动作"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 1,
+      "rec_id": "REC_0001",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 11,
+          "ja": "アクション上",
+          "tc": "動作上",
+          "sc": "向上动作"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 2,
+      "rec_id": "REC_0002",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 18,
+          "ja": "アクション下",
+          "tc": "動作下",
+          "sc": "向下动作"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 3,
+      "rec_id": "REC_0003",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 25,
+          "ja": "アクション左",
+          "tc": "動作左",
+          "sc": "向左动作"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 4,
+      "rec_id": "REC_0004",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 32,
+          "ja": "アクション右",
+          "tc": "動作右",
+          "sc": "向右动作"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 5,
+      "rec_id": "REC_0005",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 39,
+          "ja": "アイテム使用",
+          "tc": "使用道具",
+          "sc": "使用道具"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 6,
+      "rec_id": "REC_0006",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 53,
+          "ja": "メニュー（地図）",
+          "tc": "選單（地圖）",
+          "sc": "菜单（地图）"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 7,
+      "rec_id": "REC_0007",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 46,
+          "ja": "メモ",
+          "tc": "筆記",
+          "sc": "笔记"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 8,
+      "rec_id": "REC_0008",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 60,
+          "ja": "メニュー（手持ち道具）",
+          "tc": "選單（隨身工具）",
+          "sc": "菜单（随身工具）"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 9,
+      "rec_id": "REC_0009",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 67,
+          "ja": "カメラズーム",
+          "tc": "縮放視角",
+          "sc": "缩放视角"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 10,
+      "rec_id": "REC_0010",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 74,
+          "ja": "詳細表示",
+          "tc": "顯示詳情",
+          "sc": "显示详情"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 11,
+      "rec_id": "REC_0011",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 81,
+          "ja": "ジャンプ",
+          "tc": "跳躍",
+          "sc": "跳跃"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 12,
+      "rec_id": "REC_0012",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 88,
+          "ja": "道具選択",
+          "tc": "選擇道具",
+          "sc": "选择道具"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 13,
+      "rec_id": "REC_0013",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 95,
+          "ja": "注視・平行移動",
+          "tc": "注視‧平行移動",
+          "sc": "注视·平移"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
+      "rec_idx": 14,
+      "rec_id": "REC_0014",
+      "lines": [
+        {
+          "f_idx": 0,
+          "pidx_tc": 102,
+          "ja": "注視・向き変更",
+          "tc": "注視‧轉向",
+          "sc": "注视·转向"
+        }
+      ]
+    },
+    {
+      "file": "vkey.dat",
       "rec_idx": 15,
       "rec_id": "REC_0015",
       "lines": [
@@ -1163,7 +1429,7 @@
           "pidx_tc": 54,
           "ja": "消耗品回復",
           "tc": "否",
-          "sc": "消耗品恢复"
+          "sc": "无"
         },
         {
           "f_idx": 1,
@@ -1184,7 +1450,7 @@
           "pidx_tc": 70,
           "ja": "スタミナ減少「カマ」",
           "tc": "否",
-          "sc": "体力减少“镰刀”"
+          "sc": "挥动镰刀时的体力消耗量减少"
         },
         {
           "f_idx": 1,
@@ -1205,7 +1471,7 @@
           "pidx_tc": 566,
           "ja": "スタミナ低下フィールド",
           "tc": "否",
-          "sc": "体力下降区域"
+          "sc": "体力消耗量增加，且每隔一段时间体力就会减少"
         },
         {
           "f_idx": 1,
@@ -2177,7 +2443,7 @@
           "f_idx": 0,
           "pidx_tc": 421,
           "ja": "<cmd CMD_OK>で再度読込を行います",
-          "tc": "按下再次<cmd CMD_OK>讀取",
+          "tc": "按下<cmd CMD_OK>再次進行讀取",
           "sc": "按下<cmd CMD_OK>再次读取"
         }
       ]
@@ -2347,272 +2613,6 @@
           "ja": "セーブデータをコンバートしますか？",
           "tc": "儲存資料嗎？",
           "sc": "存档数据吗？"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 65,
-      "rec_id": "STR_ID_PLAYER_DEFAULT_NAME",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 525,
-          "ja": "アメ",
-          "tc": "天",
-          "sc": "天"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 66,
-      "rec_id": "STR_ID_PLAYER_NO_NAME",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 533,
-          "ja": "名前はまだ無い",
-          "tc": "還沒有名字",
-          "sc": "还没有名字"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 67,
-      "rec_id": "STR_ID_ITEM_UNKNOWN_NAME",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 541,
-          "ja": "？？？",
-          "tc": "？？？",
-          "sc": "？？？"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 68,
-      "rec_id": "STR_ID_ITEM_UNKNOWN_HELP",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 549,
-          "ja": "？？？？？？",
-          "tc": "？？？？？？",
-          "sc": "？？？？？？"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 69,
-      "rec_id": "STR_ID_DATE_FORMAT",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 557,
-          "ja": "<value 1>年目 <value 2> <value 3>日",
-          "tc": "第<value 1>年 <value 2> <value 3>日",
-          "sc": "第<value 1>年 <value 2> <value 3>日"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 70,
-      "rec_id": "STR_ID_DATE_LATENIGHT",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 565,
-          "ja": "　深夜",
-          "tc": "　深夜",
-          "sc": "　深夜"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 71,
-      "rec_id": "STR_ID_SEASON_SPRING",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 573,
-          "ja": "春",
-          "tc": "春",
-          "sc": "春"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 72,
-      "rec_id": "STR_ID_SEASON_SUMMER",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 581,
-          "ja": "夏",
-          "tc": "夏",
-          "sc": "夏"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 73,
-      "rec_id": "STR_ID_SEASON_AUTUMN",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 589,
-          "ja": "秋",
-          "tc": "秋",
-          "sc": "秋"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 74,
-      "rec_id": "STR_ID_SEASON_WINTER",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 597,
-          "ja": "冬",
-          "tc": "冬",
-          "sc": "冬"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 75,
-      "rec_id": "STR_ID_WEEK_MONDAY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 605,
-          "ja": "月",
-          "tc": "一",
-          "sc": "一"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 76,
-      "rec_id": "STR_ID_WEEK_TUESDAY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 613,
-          "ja": "火",
-          "tc": "二",
-          "sc": "二"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 77,
-      "rec_id": "STR_ID_WEEK_WEDNESDAY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 621,
-          "ja": "水",
-          "tc": "三",
-          "sc": "三"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 78,
-      "rec_id": "STR_ID_WEEK_THURSDAY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 629,
-          "ja": "木",
-          "tc": "四",
-          "sc": "四"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 79,
-      "rec_id": "STR_ID_WEEK_FRIDAY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 637,
-          "ja": "金",
-          "tc": "五",
-          "sc": "五"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 80,
-      "rec_id": "STR_ID_WEEK_SATURDAY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 645,
-          "ja": "<c blue>土</c>",
-          "tc": "<c blue>六</c>",
-          "sc": "<c blue>六</c>"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 81,
-      "rec_id": "STR_ID_WEEK_SUNDAY",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 653,
-          "ja": "<c red>日</c>",
-          "tc": "<c red>日</c>",
-          "sc": "<c red>日</c>"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 82,
-      "rec_id": "STR_ID_ITEM_NUMBER",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 661,
-          "ja": "×<value 1>",
-          "tc": "×<value 1>",
-          "sc": "×<value 1>"
-        }
-      ]
-    },
-    {
-      "file": "string.dat",
-      "rec_idx": 83,
-      "rec_id": "STR_ID_ITEM_NUMBER_ADD",
-      "lines": [
-        {
-          "f_idx": 0,
-          "pidx_tc": 669,
-          "ja": "i<value 1>",
-          "tc": "i<value 1>",
-          "sc": "i<value 1>"
         }
       ]
     }
