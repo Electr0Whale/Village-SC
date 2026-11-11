@@ -1,4 +1,4 @@
-# 《静谧田园 (ほの暮しの庭)》Nintendo Switch 简体中文汉化补丁
+# 《静谧田园》 Switch 简体中文汉化补丁
 
 <p align="center">
   <img src="switch_icons/icon_SimplifiedChinese.png" alt="静谧田园 Switch 简体中文封面图标" width="180" height="180">
